@@ -1,0 +1,3 @@
+# Preserve original document bytes across platforms.
+*.pdf binary
+*.docx binary

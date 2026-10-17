@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0",
+  "assembled_on": "2026-10-17",
+  "inventory_entries": 18,
+  "file_count": 20,
+  "preservation": "Located source bytes copied unchanged. Filenames and version differences are documented per entry. No documents were generated, converted or rewritten for this archive.",
+  "documents": [
+    {
+      "id": "teacher",
+      "title": "Aura Teacher Training — 60 Days",
+      "requested_filename": "Aura_Teacher_Training_60_Days.pdf",
+      "version_note": "60-page progression dated 14 October 2026.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Aura_Teacher_Training_60_Days.pdf",
+          "filename": "Aura_Teacher_Training_60_Days.pdf",
+          "located_filename": "Aura_Teacher_Training_60_Days.pdf",
+          "sha256": "13bb521a9f754aedb2cb88c5af981efa778bd7ec844297d92d7256534ea2418c",
+          "bytes": 458131,
+          "format": "PDF",
+          "pages": 60,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/aura-genesis-geode-atlas",
+              "commit": "b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370",
+              "path": "documents/Aura_Teacher_Training_60_Days.pdf",
+              "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370/documents/Aura_Teacher_Training_60_Days.pdf"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-aura-teacher-training-sixty-days-2026-10-14.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-aura-teacher-training-sixty-days-2026-10-14.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis",
+      "title": "Aura Genesis Protocol — Game Design Document",
+      "requested_filename": "Aura_Genesis_Protocol_Game_Design_Document.pdf",
+      "version_note": "Edition 2, 13 October 2026, 40 pages. The listed unversioned PDF filename was not found. The located V2 PDF keeps its versioned filename; Edition 1 and the Edition 2 Word file are included below.",
+      "match_status": "versioned_counterpart",
+      "files": [
+        {
+          "path": "documents/originals/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+          "filename": "Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+          "located_filename": "Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+          "sha256": "9bdd89c91d002ed39f03abf23177f127f5147535133229087b0620e61d826a54",
+          "bytes": 755061,
+          "format": "PDF",
+          "pages": 40,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/aura-genesis-geode-atlas",
+              "commit": "b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370",
+              "path": "documents/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+              "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370/documents/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf"
+            }
+          ]
+        },
+        {
+          "path": "documents/versions/Aura_Genesis_Protocol_Game_Design_Document_V1.pdf",
+          "filename": "Aura_Genesis_Protocol_Game_Design_Document_V1.pdf",
+          "located_filename": "Aura_Genesis_Protocol_Game_Design_Document_V1.pdf",
+          "sha256": "b9a1a1371c78090bc269ef2d5e8c52fe387ca328fd111f3b4abb20142ceec9fe",
+          "bytes": 678015,
+          "format": "PDF",
+          "pages": 31,
+          "public_sources": []
+        },
+        {
+          "path": "documents/versions/Aura_Genesis_Protocol_Game_Design_Document.docx",
+          "filename": "Aura_Genesis_Protocol_Game_Design_Document.docx",
+          "located_filename": "Aura_Genesis_Protocol_Game_Design_Document.docx",
+          "sha256": "763bdddcb365d141e0b081eaf5253bc2a43712f5f32f6e8f7ebb84f925a4fe92",
+          "bytes": 94879,
+          "format": "DOCX",
+          "pages": null,
+          "public_sources": []
+        }
+      ]
+    },
+    {
+      "id": "blend",
+      "title": "Blend Aura to Unity",
+      "requested_filename": "Blend Aura to Unity.pdf",
+      "version_note": "59-page PDF recovered from a local download archive. Three archive copies have the same SHA-256; their archive-added suffix is omitted from the destination filename. The PDF title and contents identify the work.",
+      "match_status": "recovered_export",
+      "files": [
+        {
+          "path": "documents/originals/Blend Aura to Unity.pdf",
+          "filename": "Blend Aura to Unity.pdf",
+          "located_filename": "Blend Aura to Unity-aa5e525657ad0a1d.pdf",
+          "sha256": "8a7dd6bdb0ce918a2ca7bba5255c0608fdae6b5e5d4fdb81e1010fb586455b33",
+          "bytes": 1501986,
+          "format": "PDF",
+          "pages": 59,
+          "public_sources": []
+        }
+      ]
+    },
+    {
+      "id": "alignment",
+      "title": "Joyful Responsible Abundance — Human and Superintelligence Alignment",
+      "requested_filename": "Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf",
+      "version_note": "Revised edition, 11 October 2026, 29 pages.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf",
+          "filename": "Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf",
+          "located_filename": "Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf",
+          "sha256": "bf5ba0b11ad990c7829432f7949d5bd2989c8351db7566ea0d5969753e30a678",
+          "bytes": 410402,
+          "format": "PDF",
+          "pages": 29,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-jra-human-superintelligence-alignment-revised-2026-10-11.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "album4",
+      "title": "A Protopian Gambit — fourth-album lyrics",
+      "requested_filename": "4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf",
+      "version_note": "Exact listed filename, 50 pages, updated 4 July 2026. A different 36-page export found elsewhere was not substituted.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf",
+          "filename": "4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf",
+          "located_filename": "4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf",
+          "sha256": "593221c1229e6ec3ed0affe74439615d2d20021431ba9bfacb7bca02310f734d",
+          "bytes": 589575,
+          "format": "PDF",
+          "pages": 50,
+          "public_sources": []
+        }
+      ]
+    },
+    {
+      "id": "album5",
+      "title": "Straddie Fun — fifth-album lyrics",
+      "requested_filename": "Straddie Fun 5th Album.pdf",
+      "version_note": "24 pages, updated 17 July 2026.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Straddie Fun 5th Album.pdf",
+          "filename": "Straddie Fun 5th Album.pdf",
+          "located_filename": "Straddie Fun 5th Album.pdf",
+          "sha256": "4ee1ba4eb58928b32e70b3a6ce3c8f58c4d598f50ca774f49c80080f612345a9",
+          "bytes": 310617,
+          "format": "PDF",
+          "pages": 24,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/ic-infinity-straddie-fun-lyrics-updated-2026-07-17.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "localgovernment",
+      "title": "Local Government Funding Inquiry submission",
+      "requested_filename": "Local Government 2Funding Inquiry Submission.pdf",
+      "version_note": "11-page original. Bytes match the copy in the UNGA81 public document library.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Local Government 2Funding Inquiry Submission.pdf",
+          "filename": "Local Government 2Funding Inquiry Submission.pdf",
+          "located_filename": "Local Government 2Funding Inquiry Submission.pdf",
+          "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+          "bytes": 276605,
+          "format": "PDF",
+          "pages": 11,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/500-Queens-VC-2026",
+              "commit": "259c9a8a971e66926ef5f31d17d85dad0406ad04",
+              "path": "references/documents/local-government-2funding-inquiry-submission.pdf",
+              "url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/259c9a8a971e66926ef5f31d17d85dad0406ad04/references/documents/local-government-2funding-inquiry-submission.pdf"
+            },
+            {
+              "repository": "auraofintelligence/C-Hour-introduction",
+              "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+              "path": "references/originals/Local Government 2Funding Inquiry Submission.pdf",
+              "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/Local%20Government%202Funding%20Inquiry%20Submission.pdf"
+            },
+            {
+              "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+              "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+              "path": "documents/local-government-funding-submission.pdf",
+              "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/local-government-funding-submission.pdf"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "source-repositories/multi-site-Minjerribah-network/source-documents/local-government-funding-inquiry-submission.pdf",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/source-repositories/multi-site-Minjerribah-network/source-documents/local-government-funding-inquiry-submission.pdf"
+            },
+            {
+              "repository": "auraofintelligence/multi-site-Minjerribah-network",
+              "commit": "1cea256622f721a8f9c0c1f8719ce3054fdd2e2d",
+              "path": "source-documents/local-government-funding-inquiry-submission.pdf",
+              "url": "https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/1cea256622f721a8f9c0c1f8719ce3054fdd2e2d/source-documents/local-government-funding-inquiry-submission.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veitacini",
+      "title": "Ocean of Peace Alliance / Veitacini Treaty submission",
+      "requested_filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+      "version_note": "Paper dated 27 August 2026; Word revision 2, last edited 28 August 2026.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+          "filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+          "located_filename": "Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+          "sha256": "71532df9fdd542df9a77506608746f187f71c82ed01b35ffee3e7f25c500060a",
+          "bytes": 40964,
+          "format": "DOCX",
+          "pages": null,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/500-Queens-VC-2026",
+              "commit": "259c9a8a971e66926ef5f31d17d85dad0406ad04",
+              "path": "references/documents/ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx",
+              "url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/259c9a8a971e66926ef5f31d17d85dad0406ad04/references/documents/ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/Anglican-Diocese-82-Claytons-Amity",
+              "commit": "aa9474586d159733bdf697aed288dd3a27a895a7",
+              "path": "documents/21-ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx",
+              "url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/aa9474586d159733bdf697aed288dd3a27a895a7/documents/21-ocean-of-peace-alliance-veitacini-treaty-submission-luke-nathan-hayes-2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+              "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+              "path": "documents/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "reference-files/D08-ocean-of-peace/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/reference-files/D08-ocean-of-peace/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "public/downloads/source-42/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/public/downloads/source-42/Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-ocean-of-peace-veitacini-treaty-submission-2026-08-27.docx",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-ocean-of-peace-veitacini-treaty-submission-2026-08-27.docx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aukus",
+      "title": "AUKUS Public Inquiry submission",
+      "requested_filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx",
+      "version_note": "Paper dated 24 August 2026. The listed filename with the “2” suffix was not found; the located original without that suffix matches the existing public-library checksum.",
+      "match_status": "filename_variant",
+      "files": [
+        {
+          "path": "documents/originals/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+          "filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+          "located_filename": "AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+          "sha256": "1fcc88fe31b0192107683880a9c21c4ce7e83b63e91b576316e618e43363ffea",
+          "bytes": 43828,
+          "format": "DOCX",
+          "pages": null,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+              "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+              "path": "documents/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "source-repositories/multi-site-Minjerribah-network/source-documents/aukus-public-inquiry-submission.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/source-repositories/multi-site-Minjerribah-network/source-documents/aukus-public-inquiry-submission.docx"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-aukus-public-inquiry-distributed-civic-ai-2026-08-24.docx",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-aukus-public-inquiry-distributed-civic-ai-2026-08-24.docx"
+            },
+            {
+              "repository": "auraofintelligence/multi-site-Minjerribah-network",
+              "commit": "1cea256622f721a8f9c0c1f8719ce3054fdd2e2d",
+              "path": "source-documents/aukus-public-inquiry-submission.docx",
+              "url": "https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/1cea256622f721a8f9c0c1f8719ce3054fdd2e2d/source-documents/aukus-public-inquiry-submission.docx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fairgo",
+      "title": "A Fair Go for the AI Age — Postcode-Level Sovereign Compute",
+      "requested_filename": "A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+      "version_note": "Draft dated 18 August 2026; Word revision 4, last edited 27 August. This is the Postcode-Level paper named in the inventory, separate from the Federated Sovereign Compute brief and the shorter Senate submission.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+          "filename": "A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+          "located_filename": "A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+          "sha256": "ccc0b69b4044892cbd5a50eed16e1c47656db8db03b6630d62a96836967d2c8d",
+          "bytes": 44117,
+          "format": "DOCX",
+          "pages": null,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Anglican-Diocese-82-Claytons-Amity",
+              "commit": "aa9474586d159733bdf697aed288dd3a27a895a7",
+              "path": "documents/23-a-fair-go-for-the-ai-age-postcode-level-sovereign-compute-as-shared-national-infrastructure.docx",
+              "url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/aa9474586d159733bdf697aed288dd3a27a895a7/documents/23-a-fair-go-for-the-ai-age-postcode-level-sovereign-compute-as-shared-national-infrastructure.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "reference-files/D05-fair-go-ai-age/A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/reference-files/D05-fair-go-ai-age/A%20Fair%20Go%20for%20the%20AI%20Age_%20Postcode-Level%20Sovereign%20Compute%20as%20Shared%20National%20Infrastructure.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "public/downloads/source-38/A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/public/downloads/source-38/A%20Fair%20Go%20for%20the%20AI%20Age_%20Postcode-Level%20Sovereign%20Compute%20as%20Shared%20National%20Infrastructure.docx"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-fair-go-ai-age-postcode-sovereign-compute-2026-08-18.docx",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-fair-go-ai-age-postcode-sovereign-compute-2026-08-18.docx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vuvale",
+      "title": "Fiji–Australia Vuvale Union submission",
+      "requested_filename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+      "version_note": "Paper dated 29 August 2026; Word revision 3, last edited that day.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+          "filename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+          "located_filename": "Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+          "sha256": "f62ae877f90e437583d9ecc2db29f3b11f20253c05b6feda573d7e694c3e8af0",
+          "bytes": 52947,
+          "format": "DOCX",
+          "pages": null,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/500-Queens-VC-2026",
+              "commit": "259c9a8a971e66926ef5f31d17d85dad0406ad04",
+              "path": "references/documents/fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx",
+              "url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/259c9a8a971e66926ef5f31d17d85dad0406ad04/references/documents/fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/Anglican-Diocese-82-Claytons-Amity",
+              "commit": "aa9474586d159733bdf697aed288dd3a27a895a7",
+              "path": "documents/20-fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx",
+              "url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/aa9474586d159733bdf697aed288dd3a27a895a7/documents/20-fiji-australia-vuvale-union-submission-luke-nathan-hayes-2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+              "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+              "path": "documents/fiji-australia-vuvale-union-submission.docx",
+              "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/fiji-australia-vuvale-union-submission.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "source-repositories/multi-site-Minjerribah-network/source-documents/fiji-australia-vuvale-union-submission.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/source-repositories/multi-site-Minjerribah-network/source-documents/fiji-australia-vuvale-union-submission.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "reference-files/D07-vuvale-union/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/reference-files/D07-vuvale-union/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/knights-templar-Timothy-Hogan",
+              "commit": "03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7",
+              "path": "public/downloads/source-41/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx",
+              "url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/public/downloads/source-41/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-fiji-australia-vuvale-union-submission-2026-08-29.docx",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-fiji-australia-vuvale-union-submission-2026-08-29.docx"
+            },
+            {
+              "repository": "auraofintelligence/multi-site-Minjerribah-network",
+              "commit": "1cea256622f721a8f9c0c1f8719ce3054fdd2e2d",
+              "path": "source-documents/fiji-australia-vuvale-union-submission.docx",
+              "url": "https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/1cea256622f721a8f9c0c1f8719ce3054fdd2e2d/source-documents/fiji-australia-vuvale-union-submission.docx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claytons",
+      "title": "82 Claytons Road Anglican Partnership Proposal",
+      "requested_filename": "82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+      "version_note": "A gift for generations, 22 September 2026, 11 pages.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+          "filename": "82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+          "located_filename": "82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+          "sha256": "e984ef8f737cb24ee8604d0c16b956baeaa13a69d6820835b16ab1467dab181d",
+          "bytes": 135711,
+          "format": "PDF",
+          "pages": 11,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Anglican-Diocese-82-Claytons-Amity",
+              "commit": "aa9474586d159733bdf697aed288dd3a27a895a7",
+              "path": "documents/82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+              "url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/aa9474586d159733bdf697aed288dd3a27a895a7/documents/82-Claytons-Road-Anglican-Partnership-Proposal.pdf"
+            },
+            {
+              "repository": "auraofintelligence/C-Hour-introduction",
+              "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+              "path": "references/originals/82-Claytons-Road-Anglican-Partnership-Proposal.pdf",
+              "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/82-Claytons-Road-Anglican-Partnership-Proposal.pdf"
+            },
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-gift-for-generations-82-claytons-road-2026-09-22.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-gift-for-generations-82-claytons-road-2026-09-22.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chour",
+      "title": "Community Hours and Joyful Responsible Abundance plan",
+      "requested_filename": "C-Hour-Joyful-Responsible-Abundance-Plan.pdf",
+      "version_note": "Planning edition 5, 23 September 2026, 43 pages. Recovered from the renamed PDF in the Redlands reference library; its register records an original download filename with a “(7)” suffix.",
+      "match_status": "documented_renamed_copy",
+      "files": [
+        {
+          "path": "documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf",
+          "filename": "C-Hour-Joyful-Responsible-Abundance-Plan.pdf",
+          "located_filename": "hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf",
+          "sha256": "56eb762e28b1a4c759312694035ebc9bb8f87b3ce045b4d120d76b8c934542db",
+          "bytes": 455417,
+          "format": "PDF",
+          "pages": 43,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-community-hours-jra-plan-edition-5-2026-09-23.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "title": "Oceania Health and AI Surge Plan",
+      "requested_filename": "Oceania Health and AI Surge Plan.pdf",
+      "version_note": "15-page strategic cost summary and architectural blueprint, with a 2028–2032 design horizon.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Oceania Health and AI Surge Plan.pdf",
+          "filename": "Oceania Health and AI Surge Plan.pdf",
+          "located_filename": "Oceania Health and AI Surge Plan.pdf",
+          "sha256": "3f6c3b0704a36a9c75dd5b028b78c9c2f2f97ae1ffe882312d0180e574dff43e",
+          "bytes": 315454,
+          "format": "PDF",
+          "pages": 15,
+          "public_sources": []
+        }
+      ]
+    },
+    {
+      "id": "redlands",
+      "title": "When Redlands Discovers Luke Hayes",
+      "requested_filename": "When_Redlands_Discovers_Luke_Hayes_v4.0.pdf",
+      "version_note": "Version 4.0, 16 October 2026, 25 pages. The locally named PDF is preserved; another web export has the same extracted text but different file bytes.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf",
+          "filename": "When_Redlands_Discovers_Luke_Hayes_v4.0.pdf",
+          "located_filename": "When_Redlands_Discovers_Luke_Hayes_v4.0.pdf",
+          "sha256": "0dae7fd76259a1e1b59163a2713965378f31aaac0165bae5f26d3864e3f8c7e2",
+          "bytes": 381385,
+          "format": "PDF",
+          "pages": 25,
+          "public_sources": []
+        }
+      ]
+    },
+    {
+      "id": "queens",
+      "title": "Queens Venture Capital Planning Document",
+      "requested_filename": "queens-venture-capital-planning-document.pdf",
+      "version_note": "Planning document dated 23 September 2026, 16 pages.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/queens-venture-capital-planning-document.pdf",
+          "filename": "queens-venture-capital-planning-document.pdf",
+          "located_filename": "queens-venture-capital-planning-document.pdf",
+          "sha256": "cbd502197f1b30791141ddfcdb538806b8e26da5271292cc23f6f1ba0e69bb00",
+          "bytes": 403297,
+          "format": "PDF",
+          "pages": 16,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/500-Queens-VC-2026",
+              "commit": "259c9a8a971e66926ef5f31d17d85dad0406ad04",
+              "path": "references/documents/queens-venture-capital-planning-document.pdf",
+              "url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/259c9a8a971e66926ef5f31d17d85dad0406ad04/references/documents/queens-venture-capital-planning-document.pdf"
+            },
+            {
+              "repository": "auraofintelligence/C-Hour-introduction",
+              "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+              "path": "references/originals/Queens Venture Capital Planning Document.pdf",
+              "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/Queens%20Venture%20Capital%20Planning%20Document.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sovereign",
+      "title": "Sovereign Space Builder — Part 2 Full System Specification",
+      "requested_filename": "Sovereign Space Builder part 2 Full System Specification.pdf",
+      "version_note": "33-page specification. A renamed Redlands public copy and a local archive export have identical bytes; the PDF metadata identifies the listed title.",
+      "match_status": "recovered_export",
+      "files": [
+        {
+          "path": "documents/originals/Sovereign Space Builder part 2 Full System Specification.pdf",
+          "filename": "Sovereign Space Builder part 2 Full System Specification.pdf",
+          "located_filename": "hayes-sovereign-space-builder-part-2-specification-undated.pdf",
+          "sha256": "9cd835754187b5e8bcac2ec6c1d437b645df8442f4135ef656f207673431aea7",
+          "bytes": 655325,
+          "format": "PDF",
+          "pages": 33,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+              "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+              "path": "references/files/hayes-sovereign-space-builder-part-2-specification-undated.pdf",
+              "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-sovereign-space-builder-part-2-specification-undated.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sensorium",
+      "title": "Web3 Sensorium for Science Debate",
+      "requested_filename": "Web3 Sensorium for Science Debate.pdf",
+      "version_note": "37-page strategic plan. Matching copies were found in the public repositories and the regularly used PDF collection.",
+      "match_status": "exact_filename",
+      "files": [
+        {
+          "path": "documents/originals/Web3 Sensorium for Science Debate.pdf",
+          "filename": "Web3 Sensorium for Science Debate.pdf",
+          "located_filename": "Web3 Sensorium for Science Debate.pdf",
+          "sha256": "f3808a7e57262f416d792639080e68b6010fcb1c53573cac9d8ea9d829a30122",
+          "bytes": 604459,
+          "format": "PDF",
+          "pages": 37,
+          "public_sources": [
+            {
+              "repository": "auraofintelligence/500-Queens-VC-2026",
+              "commit": "259c9a8a971e66926ef5f31d17d85dad0406ad04",
+              "path": "references/documents/web3-sensorium-for-science-debate.pdf",
+              "url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/259c9a8a971e66926ef5f31d17d85dad0406ad04/references/documents/web3-sensorium-for-science-debate.pdf"
+            },
+            {
+              "repository": "auraofintelligence/C-Hour-introduction",
+              "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+              "path": "references/originals/Web3 Sensorium for Science Debate.pdf",
+              "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/Web3%20Sensorium%20for%20Science%20Debate.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
