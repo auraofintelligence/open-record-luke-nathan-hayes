@@ -1,147 +1,103 @@
-# An Open Record of Public Materials and Systems Under Construction
+# Luke Nathan Hayes — an open record
 
-**Luke Nathan Hayes**  
-(also known in public materials as Luke Catalyst Nathan Hayes and i C. Infinity)  
-Minjerribah / North Stradbroke Island, Queensland, Australia  
+**A starting point for journalists, researchers, documentary makers and curious readers.**
 
-Prepared as a starting point for long-form public inquiry or opinion piece.  
-Readers are expected to examine the linked pages and form their own conclusions.
+Luke Nathan Hayes lives on **Minjerribah / North Stradbroke Island, Queensland, Australia**. His public work brings together personal history, music and storytelling, AI-assisted tools, community designs, and proposals about how people might own more of their information, infrastructure and time.
 
-Document date: 17 October 2026 (status corrected; reference inventory added; links inlined)
+His [published self-portrait](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/) describes a varied working life including automotive work, festival work, driving and web design, alongside travel, live music and the ocean. Those experiences give a human starting point for the larger collection of ideas.
 
----
+He also appears as **Luke Catalyst Nathan Hayes** in public commentary and **i C. Infinity** in music. **Aura of Intelligence** and **Strange but True** are recurring names across the work.
 
-## 1. Purpose and Method
+The collection is large and still developing. This repository explains where to begin, how the parts connect, and which questions the available material can help answer. It is published from Luke's side of the story. Readers are invited to examine the originals, ask questions and reach their own conclusions.
 
-This document is a plain-speaking descriptive map, written in Australian English, of publicly available materials produced by Luke Nathan Hayes. It is intended as a starting point for an investigative journalist, long-form writer, or any reader who wants a single place to begin. No claims are advanced beyond what appears on the public pages or in the author’s own statements. Where a possible future development is discussed, it is labelled as a rational supposition grounded in the direction of the existing materials.
+**Updated: 17 October 2026 · [Contact Luke](#contact-luke) · [Full project directory](https://auraofintelligence.github.io/project-atlas/)**
 
-Primary materials are hosted at [auraofintelligence.github.io](https://auraofintelligence.github.io/) under a public-use licence with commercial rights reserved by the author. Anyone may read, cite, or discuss them. Commercial extraction or packaging requires separate agreement.
+## Start with the person
 
-**Status note (author correction, October 2026):** The local Minjerribah / Redlands pages describe designed systems that are poised and awaiting conditions. They are not currently operating. Strange but True is registered; the author holds cards and receives income support, but has never operated a market stall. The only completed local project to date is a documentary and outdoor cinema evening produced for MMEIC marking 50 years of Deadly (NAIDOC 50th). Local community implementation has been deferred while the macro systems were built, because the author knows from experience (including as secretary of the Point Lookout Fishing Club) that when a committee does not pull its weight the work falls on one person, leading to burnout and withdrawal. The macro systems are intended to support clubs and businesses so that starting something does not recreate that load, and so the author can move beyond income support into a pattern of intermittent work, retirement, and travel with more resources and joyful responsible abundant opportunities.
+For a first visit, these three stops provide a useful route:
 
-## 2. Geographic and Personal Anchor
+1. **[The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)** — the self-portrait: personal history, curiosity, music, relationships, practical work and wider questions. Use the [text sitemap](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top) if you prefer a list to the interactive index.
+2. **[Luke's World of Work Experience](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history)** — work, education and volunteering, with source notes and unresolved details. The readable history accompanies an illustrated interactive map; its geography is fictional.
+3. **[Project Atlas](https://auraofintelligence.github.io/project-atlas/)** — browse the wider collection by project and subject. It distinguishes original build dates from later updates. Use it to follow a particular interest without opening every repository.
 
-Luke Nathan Hayes lives on Minjerribah (North Stradbroke Island) in the Redlands local government area of Queensland. Public materials treat this location as the concrete local instance against which a wider set of ideas is designed. Ferry terminals (Dunwich/Gumpi and Cleveland/Toondah), beaches, clubs, wildlife, and Quandamooka Country are recurring reference points in the designs.
+For a shorter professional introduction and ways to connect, see **[Meet Luke](https://auraofintelligence.github.io/meet-luke/)**.
 
-The author appears under three names: Luke Nathan Hayes in formal submissions, Luke Catalyst Nathan Hayes on X, and i C. Infinity for musical work.
+## What connects the work
 
-Personal and timeline pages: [Man and Mind](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top), [World of Work Experience](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history), [When Redlands Discovers Luke Hayes](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/), [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), and [What Draws Him](https://auraofintelligence.github.io/australiansire/desire.html).
+Across the materials, a recurring question is: **how can people gain more practical capability while keeping authority over their own lives?**
 
-## 3. Core Architecture Described in the Materials
+At the personal scale, that becomes memory, reflection, learning, creative expression and tools people can control. At the community scale, it becomes shared equipment, voluntary contribution, clubs, local information and resilience. At the larger scale, it becomes proposals about civic computing, ownership, livelihoods and co-operation between places.
 
-The public materials describe interlocking ideas rather than a single finished product.
+Minjerribah is the local anchor. Music, humour and speculative stories provide other ways into the same concerns. The collection also includes unconventional personal, relational and scientific interests; these are part of the public record and have their own [reading route below](#choose-a-thread).
 
-**Aura of Intelligence** is presented as a personal mapping and computing environment intended to function as a body-and-mind digital twin. Technical descriptions refer to nested horn-torus geometry, memory palaces, pinning sequences, and pathways from Blender into Unity/VR. A Genesis Protocol is described as a multi-session sequence often linked to hyperbaric oxygen sessions.
+Luke's stated practical motivation includes avoiding the burden of starting community projects that depend on one person doing everything. In the earlier record, he connects this to his experience as secretary of the Point Lookout Fishing Club. He describes building the wider supporting systems first so that later local activity can support a more sustainable pattern of work, travel and intermittent retirement.
 
-**C-Hour (Community Hour)** is a receipt for one verified hour of voluntary contribution. Consistent rules across materials: one hour equals one hour; earned through real human activity; non-speculative; kept separate from wages; each community chooses eligible activities, verification, and what access it unlocks.
+## Choose a thread
 
-**Joyful Responsible Abundance** is the directional frame used across submissions and plans, paired with the “Protopian Gambit”: a first move that improves something real, produces evidence, and leaves more choices open.
+| If you want to understand… | Begin here | What you will find |
+| --- | --- | --- |
+| The person and his history | [The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/) · [Work history](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history) | Autobiography, experience, interests and source notes. |
+| The music and creative worlds | [i C. Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html) · [Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/) | Music, lyrics, story worlds and humour; creative material has its own context. |
+| Personal intelligence and digital companions | [Aura of Intelligence](https://auraofintelligence.github.io/) · [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/) | The personal intelligence framework, learning material and an application in progress. |
+| Community contribution and local designs | [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/) · [Community Club Builder](https://auraofintelligence.github.io/community-club-builder-sandy-sports/) | Proposed contribution records, club support and community systems. See the implementation status below. |
+| Policy proposals and original papers | [A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) · [Reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) | A personal contribution, connected arguments and downloadable source documents. The UNGA81 title does not imply UN endorsement. |
+| Livelihoods, enterprise and ownership | [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) · [500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/) | Proposals about business succession, leadership, ownership and time. |
+| Civic and international horizons | [P4A](https://p4a.xyz) · [GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/) | Political and civic designs, voluntary co-operation and wider future scenarios. |
+| Personal, legal and relational ideas | [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/) · [Australian Law 2012 — Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html) · [Grey Area Commons](https://auraofintelligence.github.io/grey-area-commons/) | Personal narrative, legal reflection and relational exploration. Read each in its stated context. |
+| The breadth of the collection | [Project Atlas](https://auraofintelligence.github.io/project-atlas/) · [Root sitemap](https://auraofintelligence.github.io/sitemap.html) · [Extended open record](docs/extended-record.md) | The directory, site index and longer account, including local proposals, technical specifications and the earlier document inventory. |
 
-**[GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html)** (Global Association for Joyful Responsible Abundance on Earth) is described as a voluntary association imaged as a flower garland—many distinct flowers connected by a shared thread, each keeping its own form.
+These are entry points, not a ranking of importance. A public page demonstrates that material has been published; the activity it describes may still be a proposal or prototype.
 
-**Braided Economy** keeps three records distinct: ordinary money, a contribution record (C-Hour), and a results record (savings, skills, resilience). The strands inform one another without being treated as the same thing.
+## What exists, and what is still proposed
 
-## 4. Local Minjerribah / Redlands Surfaces (Designed, Not Operating)
+**The implementation correction in the earlier record remains central: the local Minjerribah / Redlands systems are designed and awaiting conditions; they are not currently operating community services or active pilots.**
 
-The materials treat the island and Redlands as the designed local pattern. These pages exist as designs and proposals. They are not currently active pilots or operating services.
+Some linked pages retain older descriptions of offers or intended activity, including market-based help. Read those alongside this dated correction and confirm current availability directly with Luke.
 
-[Strange but True community ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) (design surface).
+| Part of the record | Status and basis |
+| --- | --- |
+| Public websites, writing, music material and repositories | Published artefacts available to examine. Each has its own scope and development status. |
+| MMEIC documentary and outdoor cinema evening marking NAIDOC 50th / 50 years of Deadly | Luke identifies this as the only completed local project in the scope of the earlier record. That is his account; this repository does not supply a separate event evidence pack. |
+| Local clubs, ledgers, compute nodes, media networks, ferry-terminal designs and related systems | Designs and proposals. Publication of a website does not establish local operation, participation or delivery. |
+| Strange but True | Luke states it is registered and that he has never operated a market stall. Registration and trading activity are separate questions. |
+| 82 Claytons Road, Amity proposal | The earlier record says a land-gift proposal for dementia support, aged care and related pathways was under Diocese consideration. This is an author-reported position, not confirmation of approval or a current response from the Diocese. |
+| Submissions and larger policy proposals | Author documents, with some routes to official records. Submission, publication, adoption, funding and endorsement are distinct stages. See the [source register](docs/reporting-guide.md#source-register). |
 
-Other designed or proposed local pages: [Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/), [Multi-site Minjerribah Network](https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html), [Minjerribah Screen Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/), [Dunwich/Gumpi Ferry Terminal Open Data Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/), [Community Club Builder – Sandy Sports](https://auraofintelligence.github.io/community-club-builder-sandy-sports/), [Quandamooka Country Events Engine](https://auraofintelligence.github.io/quandamooka-country-events-engine/), [Straddie Digital Twin Builders](https://auraofintelligence.github.io/straddie-digital-twin-builders/), and [Ready SET Co. Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/). The proposal for 82 Claytons Road, Amity (Lot 23 on SL3665) to be gifted for dementia support, aged care, and related pathways is noted as sitting with the Anglican Church Diocese under consideration. Place-specific music under i C. Infinity includes the Straddie Fun collection (updates dated July 2026).
+The [extended record](docs/extended-record.md) retains the fuller explanation of Luke's circumstances and why local implementation was deferred. For present-day reporting, ask what has changed since this dated account.
 
-The only completed local delivery to date is the MMEIC documentary and outdoor cinema evening for NAIDOC 50th / 50 years of Deadly. The author has stated that local community implementation was deliberately deferred while the macro systems were developed, precisely so that starting local work later does not recreate the single-person load experienced as secretary of the Point Lookout Fishing Club. The designs remain poised for conditions in which the supporting systems reduce that load.
+## A few terms in ordinary language
 
-The fractal claim in the materials is that once a local pattern is legible, the same interfaces can be instantiated elsewhere without a new central model, provided each place retains adaptation and refusal rights. That claim is a design statement, not a report of current local operation.
+| Term | Meaning within Luke's materials |
+| --- | --- |
+| **Aura of Intelligence** | A proposed personal computing and reflection environment for organising memory, learning and choices, often described through a body-and-mind digital twin. |
+| **C-Hour / Community Hour** | A record of one verified hour of voluntary contribution. The design keeps it separate from wages and money; communities would decide eligible activities, verification and access. |
+| **Braided Economy** | Three separate records: money, voluntary contribution, and outcomes such as skills or resilience. They inform one another without becoming interchangeable. |
+| **Joyful Responsible Abundance** | The stated direction: more useful possibilities, with responsibility for their effects on people and places. |
+| **Protopian Gambit** | A proposed first move that improves something, produces evidence and leaves further choices open. |
+| **GAJRA Earth** | Global Association for Joyful Responsible Abundance on Earth: a proposed voluntary association connecting distinct places while retaining local choice. |
 
-## 5. Submissions to Australian Inquiries and Treaty Processes (2026)
+These definitions explain the author's usage. They do not establish that a proposed system works or that others have adopted it. The [extended record](docs/extended-record.md) covers the geometry, technical architecture and longer design horizon.
 
-Several documents were lodged with Australian parliamentary committees and treaty inquiries in 2026. They are public records and private-citizen proposals; none claim government endorsement.
+## Follow the sources
 
-- House inquiry into Local Government Funding and Fiscal Sustainability (Submission 2): Incomplete Ledger diagnosis, Braided Economy / C-Hour, sovereign digital twins, Community Sovereign Wealth Fund concept, Minjerribah pilot reference, possible Regenerative Asset carve-out.
-- Ocean of Peace Alliance / Veitacini Treaty submission: maps treaty language onto Protopian Gambit and Joyful Responsible Abundance.
-- AUKUS public inquiry submission: opportunity-cost framing of distributed civic AI.
-- Senate inquiry into AI and data centres (“A Fair Go for the AI Age”): postcode-level sovereign compute, federated architecture, Digital Twin of Country, Dunwich pilot, global 44,000-town thought experiment.
-- Fiji–Australia Vuvale Union submission (29 August 2026): indicative AUD 100 million Civic Empowerment on-ramp of five to ten community-scale AI racks plus surrounding people, models, food tools, co-operative finance, and evaluation. Emphasises comparing different settings and building on Fiji’s existing co-operative movement.
+For reporting, start with the **[reporting guide and source register](docs/reporting-guide.md)**. It brings together original-paper links, questions to investigate, and gaps in the currently linked evidence.
 
-Across the submissions the author states that authority should stay close to affected people and places, and that self-sovereignty includes the practical ability to say yes, no, not yet, demand evidence, leave, and take one’s information. The Minjerribah references in these documents are design and pilot proposals, not reports of operating local systems.
+Useful first documents are the local government funding submission, the separate AUKUS and Senate AI papers, and the separate Veitacini Treaty and Vuvale Union papers. The [public reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) provides routes to these originals and records selected versions. A longer AI discussion draft and a shorter Senate submission should not be treated as the same document.
 
-## 6. Inventory of Uploaded Reference Documents
+The [earlier document inventory](docs/extended-record.md#6-inventory-of-uploaded-reference-documents) also names materials previously supplied in conversation. **An inventory entry is not a download link:** some originals still need a public location or a request to Luke.
 
-The following documents were provided in conversation as source materials. They form part of the public and private design record. Local references within them are design statements unless otherwise noted.
+When citing a changing page, record its title, URL and access date. For a repository file, use its dated history or a permanent link to the version you examined. Cross-links between Luke's own pages help navigation but do not provide independent corroboration.
 
-**Aura and personal systems**
-- Aura Teacher Training 60 Days: progression on life maps, selves, seven shells, memory palaces.
-- Aura Genesis Protocol Game Design Document: hyperbaric choose-your-own-adventure mechanics, matrix categories, reflection lenses, digital twin growth.
-- Blend Aura to Unity: technical guide with C# patterns for toroidal mesh generation, data mapping to geometry, VR interaction, pinning sequences, chakra mappings.
-- Joyful Responsible Abundance – Human and Superintelligence Alignment (revised 11 October 2026): master framing for Aura, Geode, Genesis, C-Hours, Web3 Sensorium, GAJRA Earth.
+## Contact Luke
 
-**Policy and civic submissions (2026)**
-- Local Government Funding and Fiscal Sustainability submission (Submission 2).
-- Ocean of Peace Alliance / Veitacini Treaty submission.
-- AUKUS Public Inquiry submission.
-- A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure.
-- Fiji–Australia Vuvale Union submission (29 August 2026).
+**Email: [auraofintelligence@gmail.com](mailto:auraofintelligence@gmail.com)** — published on [Meet Luke](https://auraofintelligence.github.io/meet-luke/).
 
-**Local and regional plans**
-- 82 Claytons Road Anglican Partnership Proposal (22 September 2026): land gift request for dementia/aged care and Aura Geode/Genesis pathways; under Diocese consideration.
-- C-Hour Joyful Responsible Abundance Plan (planning edition 5, 23 September 2026): Community Hours pilot design on Minjerribah, reciprocity, Web3 Sensorium; includes corrections appendix. Explicitly non-monetised.
-- Oceania Health and AI Surge Plan: $42.35 billion cost summary framing (HBOT chambers, saunas, disaster kiosks, Smart Civic Surge) positioned against food-waste and dementia costs; design horizon, not a funding request.
-- When Redlands Discovers Luke Hayes v4.0: narrative linking music, personal intelligence, local Redlands issues, Aura systems, C-Hour, and potential public responsibility.
-- 500 Queens Venture Capital planning document: women-led enterprise development, AI Queens mentorship, enterprise catalogue, funding minima.
+Other public routes: **[LinkedIn](https://www.linkedin.com/in/lukecatalyst/)** and the **[Aura contact page](https://auraofintelligence.github.io/contact.html)**.
 
-**Technical specifications**
-- Sovereign Space Builder Part 2 Full System Specification: gamified dual digital twin, offline-first, CRDTs, DIDs/VCs, L0–L3 fractal topology, permaculture loop, aeroponics, robotics points, Indigenous data sovereignty.
-- Web3 Sensorium for Science Debate: decentralised global sensorium for modelling established and fringe science (including micronova scenarios) via sovereign nodes and open debate.
+For an interview or source request, include your name, outlet or project, the thread you are following, the questions or documents you need, and any deadline. For a correction, identify the page and passage and provide the supporting source. Sensitive correspondence is better directed to Luke than posted in a public repository issue.
 
-**Cultural and narrative**
-- Straddie Fun 5th Album (i C. Infinity, updates July 2026): place-specific lyrics (Two Dogs on Island Country, Straddie Fishing, Be The Legend: Wildlife Rescue Minjerribah, Shifting Sands of Timeless Redlands, and others).
-- 4th i C. Infinity album – A Protopian Gambit (lyrics): tracks including Primordial Consent, Kintsugi Protocol, 60 Days Set in Stone.
+## About this record
 
-These documents are the source base for the public pages. They remain designs, plans, and autobiographical records. Local implementation status is as stated in the status note above.
+This is an evolving introduction and source map, not an independent biography. It preserves access to the wider record while making the first visit easier. Follow the [revision history](https://github.com/auraofintelligence/open-record-luke-nathan-hayes/commits/main/) to see changes.
 
-## 7. Technical and Design Specifications (summary)
-
-See the inventory above for Sovereign Space Builder Part 2 and the Web3 Sensorium plan. [Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html) and [root sitemap](https://auraofintelligence.github.io/sitemap.html) treat surfaces as modular components that can be assembled or re-skinned. These remain design and implementation plans.
-
-## 8. Cultural, Narrative, Legal and Relational Surfaces
-
-[i C. Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html), [Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/), [DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/index.html), [Australian Law 2012 – Luke’s Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html), [Global Group Marriages](https://auraofintelligence.github.io/global-group-marriages/), [Grey Area Commons](https://auraofintelligence.github.io/grey-area-commons/), [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), [What Draws Him](https://auraofintelligence.github.io/australiansire/desire.html), and [Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/).
-
-The author has stated these form an open personal record so media or others can see the less conventional elements without private request.
-
-## 9. Atlases, Product Engines and Connective Surfaces
-
-[Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/index.html), [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/index.html), [Australian Visa Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/), [Right Place Right Time](https://auraofintelligence.github.io/right-place-right-time/index.html), [Strange but True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html), [Strange but True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/), [P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/index.html), [P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html), [JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html), [root sitemap](https://auraofintelligence.github.io/sitemap.html), [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/index.html#top), [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/), [Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html), [Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/), [Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/), [Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/), and [GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html).
-
-[P4A](https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as a designed pattern piece, not as an operating local implementation.
-
-## 10. Licensing, Modularity and Agentic Use
-
-Materials are under a public-use licence with commercial rights reserved. Individual surfaces or clusters can be extracted, re-themed for a specific culture or jurisdiction, and turned into a company, app, co-operative, or community offering, subject to those rights.
-
-The modular separation is described as ready for agentic systems. Once external swarms or the author’s own mixture-of-experts setups on smaller models can reliably operate against the public pages, selected components can be switched on for personal use or in response to a request. Commercial use remains reserved.
-
-## 11. Public Outreach
-
-An X account under Luke Catalyst Nathan Hayes has posted public replies to figures including Speaker Milton Dick, Queensland Premier David Crisafulli, and Barbados Prime Minister Mia Amor Mottley. Replies typically link [GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html) or related pages and invite participation. The author has stated these are public traces rather than formal channels, intended so that staff reading them encounter a constructive version of the materials.
-
-## 12. Rational Suppositions If the Work Continues
-
-These are not predictions. They are observations about what becomes possible if the existing public materials continue to be developed and if the author chooses to activate local designs under conditions that do not recreate single-person load:
-
-- Designed local surfaces could, if activated with supporting systems in place, generate verifiable contribution and skill records usable later in grants or partnership conversations (including the Claytons Road proposal under Diocese consideration).
-- A community-scale compute node under local ownership could host language tools, food helpers, open data, and disaster-mode functions while retaining data authority with owners and custodians.
-- The described interfaces could be instantiated in another LGA, state, or Pacific country without a single central model, provided each place keeps adaptation and refusal rights.
-- Agentic systems could assemble selected modules into prototypes more quickly than conventional teams; commercial packaging would still require agreement.
-- Media or researchers can treat the public, dated, interlinked pages and the uploaded reference documents as primary sources.
-- The author’s stated aim is that the macro systems reduce the load of local starting, so that work, intermittent retirement, and travel become possible with more resources and with joyful responsible abundant opportunities rather than income support.
-
-Whether any of these occur depends on choices by the author, partners, funders, regulators, and people in each place. The materials do not compel adoption. The local designs remain poised, not operating.
-
-## 13. Closing Observation
-
-This is a map of public pages, the author’s statements, and the inventory of uploaded reference documents, corrected to reflect that local Minjerribah implementations are designed and awaiting conditions rather than currently active. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction and designs poised, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
-
----
-
-*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. Links above are inline.*
+The linked projects carry their own licences. Luke's published licensing position reserves commercial rights; consult the terms attached to the particular work for reproduction or adaptation enquiries. Public availability does not mean every linked work has the same licence.
