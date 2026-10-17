@@ -9,6 +9,7 @@
 | **Earlier uploaded-document inventory** | 20 unchanged files covering 18 entries: 18 primary documents, an earlier Genesis edition and the located Edition 2 Word source. | The catalogue below, [manifest](manifest.json) and [checksums](SHA256SUMS). |
 | **Further major-project supporting documents** | 18 unchanged originals: personal foundations from 2014–2023, Geode development, care research, employment, governance, public submissions and space research. | [Read the explanations](supplementary.md), [supplementary manifest](supplementary/manifest.json) and [checksums](supplementary/SHA256SUMS). |
 | **I Choose Infinity historical website** | Recovered pages, readable text, capture metadata and the June 2014 site-index spreadsheet. | [Historical archive](historical/ichooseinfinity/README.md) and [dated history guide](../docs/ichooseinfinity-history.md). |
+| **SDNx, Kolhapur — June 2019** | Two unchanged public screenshots: the contemporary SDNx event post and *Lokmat* clipping, with dates, source links and provenance. | [Event and source collection](historical/sdnx-kolhapur-2019/README.md). |
 
 The files were located in the author’s Documents, Downloads and local download archive, and in the local GitHub repository collection. Duplicate copies were compared by SHA-256. Files with different contents or editions were kept distinct. The source folders remain unchanged.
 

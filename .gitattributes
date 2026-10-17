@@ -2,6 +2,8 @@
 *.pdf binary
 *.docx binary
 *.xlsx binary
+*.jpg binary
+*.jpeg binary
 
 # Preserve recovered historical source bytes as downloaded.
 documents/historical/ichooseinfinity/** -text

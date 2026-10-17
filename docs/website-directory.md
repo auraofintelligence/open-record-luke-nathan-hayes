@@ -37,7 +37,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 - [Peaceful space and civic frontier programme](#peaceful-space-and-civic-frontier-programme)
 - [Point Lookout Fishing Club tools and records](#point-lookout-fishing-club-tools-and-records)
 - [Relationships, intimacy and fictional worlds](#relationships-intimacy-and-fictional-worlds)
-- [Ready SET and Minjerribah media network](#ready-set-and-minjerribah-media-network)
+- [Ready SET Co-op and Minjerribah media network](#ready-set-co-op-and-minjerribah-media-network)
 - [Regional wealth and resilience architecture](#regional-wealth-and-resilience-architecture)
 - [Space-weather and cosmic research tools](#space-weather-and-cosmic-research-tools)
 - [Strange But True and humour](#strange-but-true-and-humour)
@@ -240,7 +240,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Amity Cinema Circle](https://auraofintelligence.github.io/Amity-Cinema-Circle/)** — Browser-local public demo for outdoor cinema nights, friend circles, invitations, RSVPs, shared meals and organising at Amity. **Public demo.** [Source](https://github.com/auraofintelligence/Amity-Cinema-Circle/blob/main/README.md).
 
-- **[Ready Set Co Op Hyperlocal Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)** — Public proposal for a local-first mixed-media network connecting stories, skills, tools and possible work pathways on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media/blob/main/README.md).
+- **[Ready SET Co-op Hyperlocal Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)** — Public proposal for a local-first mixed-media network connecting stories, skills, tools and possible work pathways on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media/blob/main/README.md).
 
 - **[Straddie Content Assets Kit](https://auraofintelligence.github.io/straddie-content-assets-kit/)** — Browser tools for turning local media equipment notes into portable Markdown for content planning and agent handoffs. **Public tool / reference.** [Source](https://github.com/auraofintelligence/straddie-content-assets-kit/blob/main/README.md).
 
@@ -385,15 +385,15 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Global Group Marriages](https://auraofintelligence.github.io/global-group-marriages/)** — Speculative story and design artefact exploring group relationships, consent, governance, AI and planetary stewardship. **Concept / proposal.** [Source](https://github.com/auraofintelligence/global-group-marriages/blob/main/README.md).
 
-## Ready SET and Minjerribah media network
+## Ready SET Co-op and Minjerribah media network
 
 - **[DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/)** — A friendly public guide to reusable DaVinci Resolve skills, visual asset bundles and careful AI-assisted video production workflows. **Public tool / reference.** [Source](https://github.com/auraofintelligence/davinci-resolve-automations/blob/main/README.md).
 
 - **[Minjerribah Screen Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/)** — Staged public collaboration proposal linking stories, skills, screens and trusted local information on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/minjerribah-screen-media-network/blob/main/README.md).
 
-- **[Ready S.E.T. Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)** — A public exploration of one local cultural compute node in Dunwich, connecting community-held decisions, practical workloads, skills, infrastructure and chosen project links. **Public reading site.** [Source](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/README.md).
+- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)** — A public exploration of one local cultural compute node in Dunwich, connecting community-held decisions, practical workloads, skills, infrastructure and chosen project links. **Public reading site.** [Source](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/README.md).
 
-- **[Ready Set Co Op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)** — Public trust, co-working and asset-sharing pathway towards the proposed Ready S.E.T. Co-op on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)** — Public trust, co-working and asset-sharing pathway towards the proposed Ready SET Co-op on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
 
 ## Regional wealth and resilience architecture
 
@@ -421,11 +421,11 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Gods Eye View](https://www.spatialintelligence.ai/)** — Fork of the God's Eye View spatial-intelligence globe; the supplied upstream project site is maptheworld.ai. **Public tool / reference.** [Source](https://github.com/auraofintelligence/gods-eye-view/blob/main/README.md).
 
-- **[Micronova and Excursions](https://auraofintelligence.github.io/micronova-and-excursions/)** — Evidence ledger separating settled, contested and speculative claims about solar micronova hypotheses and geomagnetic excursions. **Concept / proposal.** [Source](https://github.com/auraofintelligence/micronova-and-excursions/blob/main/README.md).
+- **[Micronova and Excursions](https://auraofintelligence.github.io/micronova-and-excursions/)** — Investigation of solar-hazard hypotheses, geomagnetic excursions and preparations, with a five-layer claim structure, source ledger, objections, tests, three runnable calculations and a proposed earthquake-research starting point. **Research site / reproducible calculations.** [Repository](https://github.com/auraofintelligence/micronova-and-excursions) · [Source](https://github.com/auraofintelligence/micronova-and-excursions/blob/main/README.md).
 
-- **[Space Weather News](https://auraofintelligence.github.io/space-weather-news/)** — Early-access concept linking space-weather awareness with Earth modelling and resilience; not an operational forecast or warning service. **Concept / proposal.** [Source](https://github.com/auraofintelligence/space-weather-news/blob/main/README.md).
+- **[Space Weather News / Space Weather & Earth Resilience](https://auraofintelligence.github.io/space-weather-news/)** — Early concept linking space-weather awareness with Earth modelling, disaster readiness and recovery. The proposed [Space Weather News Hub](https://auraofintelligence.github.io/mineral-moonshots/briefs/space-weather-hub.html) develops the fuller Sun–Earth newsroom and data-feed design. **Concept / prototype.** [Repository](https://github.com/auraofintelligence/space-weather-news) · [Source](https://github.com/auraofintelligence/space-weather-news/blob/main/README.md).
 
-- **[Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/)** — Interactive mission-design studio for a solar-system satellite swarm using catalogued bodies, real orbits and configurable sensors. **Public reading site.** [Source](https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/README.md).
+- **[Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/)** — Interactive models for a solar-system satellite swarm: 384 catalogued bodies, orbits, configurable sensors, spacecraft budgets, communications and fleet renewal. Its [origins chapter](https://auraofintelligence.github.io/virtual-solar-swarm/origins.html) connects Luke's 2019 Kolhapur talk and SDNx work with the later models. **Mission-design models / historical record.** [Repository](https://github.com/auraofintelligence/virtual-solar-swarm) · [Source](https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/README.md).
 
 - **[Strange But True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/)** — Developing public collaboration site for mapping mysteries, source trails, travel, film and civic systems in the Strange But True family. **Public tool / reference.** [Source](https://github.com/auraofintelligence/strange-but-true-cosmic-nexus/blob/main/README.md).
 

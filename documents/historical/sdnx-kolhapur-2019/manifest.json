@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "assembled_on": "2026-10-17",
+  "title": "SDNx Innovation Lab opening, Kolhapur, 6 June 2019",
+  "event_date": "2019-06-06",
+  "post_date": "2019-06-07",
+  "newspaper_date": "2019-06-07",
+  "file_count": 2,
+  "preservation": "Previously public JPEG screenshots copied without changing any bytes. Source aliases F54/F19 are different published image versions and are not byte-identical to the preserved source files.",
+  "verification": "Destination SHA-256 values match the local public-source files. git hash-object for both source files matches git ls-tree at the recorded source commit. The corresponding alias Git blobs were also checked.",
+  "records": [
+    {
+      "id": "sdnx-kolhapur-speaking-post",
+      "filename": "sdnx-kolhapur-luke-speaking-2019.jpeg",
+      "path": "documents/historical/sdnx-kolhapur-2019/sdnx-kolhapur-luke-speaking-2019.jpeg",
+      "format": "JPEG",
+      "bytes": 291120,
+      "sha256": "2bf1163cdf8db8d7a4a743211a7b9a3a73bb8bfb748c69e542809a4cc41d4baa",
+      "description": "Screenshot of the SDNx Astronaut's Lab public post dated 7 June 2019, with photographs from 6 June 2019 and Luke speaking at the Kolhapur SDNx Innovation Lab inauguration.",
+      "public_source": {
+        "repository": "auraofintelligence/aura-direct-hardware",
+        "commit": "792dc79478cb9f02ef11b25218d5f8d379ba4892",
+        "path": "assets/sdnx-kolhapur-luke-speaking-2019.jpeg",
+        "git_blob_sha1": "77b19aaa169d886b246d1f3d08d7375438415da9",
+        "url": "https://github.com/auraofintelligence/aura-direct-hardware/blob/792dc79478cb9f02ef11b25218d5f8d379ba4892/assets/sdnx-kolhapur-luke-speaking-2019.jpeg",
+        "provenance_url": "https://github.com/auraofintelligence/aura-direct-hardware/blob/792dc79478cb9f02ef11b25218d5f8d379ba4892/sources.html#L194",
+        "provenance_note": "Source site records that Luke supplied the three event screenshots on 9 August 2026."
+      },
+      "source_aliases": [
+        {
+          "source_id": "F54",
+          "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+          "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+          "path": "assets/archive/intake-20260906/f54.jpeg",
+          "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f54.jpeg",
+          "register_url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/sources/register.json#L1140",
+          "bytes": 213030,
+          "sha256": "4c5f9d615746bda554e083777a7fc4693887ace24238ae1ee6e8d0f424a2b025",
+          "git_blob_sha1": "078089cd874440c34502509a00661a2853e98343",
+          "byte_identical_to_preserved_file": false,
+          "note": "Related event-post image version in the personal archive; the copied file is the unaltered Aura Direct Hardware version."
+        }
+      ],
+      "source_and_destination_sha256_match": true,
+      "source_file_matches_recorded_git_blob": true
+    },
+    {
+      "id": "sdnx-kolhapur-lokmat-clipping",
+      "filename": "sdnx-kolhapur-news-2019.jpeg",
+      "path": "documents/historical/sdnx-kolhapur-2019/sdnx-kolhapur-news-2019.jpeg",
+      "format": "JPEG",
+      "bytes": 202787,
+      "sha256": "c7cef4ae5e9e3bcc8e971f37d6dc9dacf36182319e9030e73972d6895fbd4138",
+      "description": "Screenshot containing the Marathi Lokmat newspaper clipping, Hello Kolhapur, page 3, 7 June 2019, with stage and rocket-launch photographs.",
+      "public_source": {
+        "repository": "auraofintelligence/aura-direct-hardware",
+        "commit": "792dc79478cb9f02ef11b25218d5f8d379ba4892",
+        "path": "assets/sdnx-kolhapur-news-2019.jpeg",
+        "git_blob_sha1": "a714640c88fbf0fca2ea25c8ee47799fbdf8c502",
+        "url": "https://github.com/auraofintelligence/aura-direct-hardware/blob/792dc79478cb9f02ef11b25218d5f8d379ba4892/assets/sdnx-kolhapur-news-2019.jpeg",
+        "provenance_url": "https://github.com/auraofintelligence/aura-direct-hardware/blob/792dc79478cb9f02ef11b25218d5f8d379ba4892/sources.html#L194"
+      },
+      "source_aliases": [
+        {
+          "source_id": "F19",
+          "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+          "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+          "path": "assets/archive/intake-20260906/f19.jpeg",
+          "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f19.jpeg",
+          "register_url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/sources/register.json#L228",
+          "bytes": 149883,
+          "sha256": "b62954cd73ade0ca2abcc1ad11f1c5b4dd4de0eae6389923214e96a5426a7be8",
+          "git_blob_sha1": "77fa1e80b7c7c3783f2481df3ce8741bceb8ac31",
+          "byte_identical_to_preserved_file": false,
+          "note": "Related newspaper clipping version in the personal archive; the copied file is the unaltered Aura Direct Hardware version."
+        }
+      ],
+      "source_and_destination_sha256_match": true,
+      "source_file_matches_recorded_git_blob": true
+    }
+  ],
+  "context_sources": [
+    {
+      "id": "later-talk-account",
+      "repository": "auraofintelligence/virtual-solar-swarm",
+      "commit": "2218529a43293c7004ae2be58225369280eff877",
+      "path": "origins.html",
+      "url": "https://github.com/auraofintelligence/virtual-solar-swarm/blob/2218529a43293c7004ae2be58225369280eff877/origins.html#L21",
+      "description": "Later published account of the 6 June 2019 event and the design question concerning sensor packages for roughly 200 solar-system objects."
+    },
+    {
+      "id": "ministerial-portfolios",
+      "publisher": "Republic World",
+      "agency": "Press Trust of India (PTI)",
+      "published_on": "2019-06-15",
+      "url": "https://www.republicworld.com/india/politics/devendra-fadnavis-uddhav-thackeray-meet-to-talk-state-cabinet-expansion",
+      "description": "Report describes revenue minister Chandrakant Patil as also handling the agriculture portfolio. The article is linked, not copied."
+    },
+    {
+      "id": "author-connection-20261017",
+      "source_type": "direct-author-account",
+      "supplied_on": "2026-10-17",
+      "author": "Luke Nathan Hayes",
+      "description": "Luke links early observation/technology work with Future Space Weather News, the solar-system satellite swarm and attraction to Space Development Nexus in India, leading to his Kolhapur 2019 stage appearance with Maharashtra's agriculture/revenue minister for a Space Tinkering Lab opening and student rocket competition.",
+      "historical_label_note": "The contemporary saved post calls the event the SDNx Innovation Lab inauguration. The causal connection, Space Tinkering Lab and student rocket competition wording are Luke's 17 October 2026 account."
+    }
+  ],
+  "rights": "Original photographs, social post and newspaper clipping retain their source rights and attributions."
+}
+

@@ -10,7 +10,7 @@ The files are copied from Luke's existing public repositories and his Luke Catal
 
 - **The earlier person and purpose:** the 2014 Constitutional Matrix, 2022 Motivation & Toolbox, July 2023 Aura presentation and What Would You Choose collection.
 - **Personal intelligence, bodies and care:** Genesis Geode Development edition 3, the dementia clinical-research draft, the cooperative HBOT framework and Geode to Macro architecture.
-- **Employment, democracy and shared capability:** the Ready S.E.T. strategy, Senate compute submission, Redlands assessment and the two legislative/governance specifications.
+- **Employment, democracy and shared capability:** the Ready SET Co-op strategy, Senate compute submission, Redlands assessment and the two legislative/governance specifications.
 - **International cooperation and the long horizon:** B.E.L.A.U., the UNGA81 contribution, Virtual Solar Swarm, Super-Computers of North Straddie and the historical Super Alignment summary.
 
 ## Read the originals
@@ -81,7 +81,7 @@ This adds a major care application to an archive otherwise weighted toward civic
 
 Titled 'Do Not Put All Our Eggs in One Basket: A federated sovereign AI and community compute proposal', this submission argues for infrastructure between personal devices and very large data centres. It proposes a continuum through neighbourhood systems, serious community compute, state and national capability, and longer-term specialised systems. Schools, care, councils, small businesses, artists, local research and disaster resilience appear as practical uses. Ballow Road in Dunwich is identified as one possible pilot location.
 
-The paper connects Luke's Strange but True practice and proposed Ready S.E.T. cooperative to national infrastructure policy and the earlier local-government submission. This shorter Senate paper is distinct from the AUKUS submission, the Postcode-Level Sovereign Compute paper and the longer discussion drafts with similar titles. The public library records Word revision 3, edited 27 August 2026. The document establishes the text of the submission; its inclusion does not establish the parliamentary status of its lodgement.
+The paper connects Luke's Strange but True practice and proposed Ready SET Co-op to national infrastructure policy and the earlier local-government submission. This shorter Senate paper is distinct from the AUKUS submission, the Postcode-Level Sovereign Compute paper and the longer discussion drafts with similar titles. The public library records Word revision 3, edited 27 August 2026. The document establishes the text of the submission; its inclusion does not establish the parliamentary status of its lodgement.
 
 **Source and creation context:** Attributed to Luke Nathan Hayes; preserved public Word original. Its production history does not establish a complete AI-assistance record. [Published source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/senate-ai-and-data-centres-submission.docx).
 
@@ -105,7 +105,7 @@ For understanding Luke personally, its account of working from within the same s
 
 **Source and creation context:** Personal contribution attributed to Luke Nathan Hayes; the public site preserves the supplied original. [Published source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf).
 
-### 10. Ready S.E.T. Co. — 2026 Strategy
+### 10. Ready SET Co-op — 2026 Strategy
 
 [Read or download the original](supplementary/Ready_SETCo_2026_Strategy.pdf) · PDF · 12 pages · **2026 strategy; publication date not stated**
 
@@ -121,7 +121,7 @@ The source's historical title expands S.E.T. as 'Straddie Employment and Trainin
 
 This 42-page assessment explores a possible Redlands mayoral candidacy and how the connected programme could enter local government. It addresses council powers, public money, campaign law, donations, personal interests, public accountability, care, youth, enterprise, AI infrastructure, relationships with other government levels and the Olympics. It proposes a finite period in office aimed at introducing the architecture and leaving lasting local capability.
 
-It also states relevant personal and project circumstances: Luke holds the IP personally and the proposed companies and cooperatives have not been established. The assessment is useful for understanding the civic application of Ready S.E.T., P4A, Aura Genesis and GAJRA Earth. Its statements about officeholders, vacancies, meetings and electoral circumstances are explicitly dated to its 14 October 2026 research position. The document records consideration of a candidacy; an election event or nomination requires its own contemporary evidence.
+It also states relevant personal and project circumstances: Luke holds the IP personally and the proposed companies and cooperatives have not been established. The assessment is useful for understanding the civic application of Ready SET Co-op, P4A, Aura Genesis and GAJRA Earth. Its statements about officeholders, vacancies, meetings and electoral circumstances are explicitly dated to its 14 October 2026 research position. The document records consideration of a candidacy; an election event or nomination requires its own contemporary evidence.
 
 **Source and creation context:** Assessment attributed to Luke Nathan Hayes; the public source register identifies it as a supplied document. [Published source](https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf).
 
