@@ -7,7 +7,7 @@ Minjerribah / North Stradbroke Island, Queensland, Australia
 Prepared as a starting point for long-form public inquiry or opinion piece.  
 Readers are expected to examine the linked pages and form their own conclusions.
 
-Document date: 17 October 2026
+Document date: 17 October 2026 (updated for status accuracy)
 
 ---
 
@@ -17,11 +17,11 @@ This document is a plain-speaking descriptive map, written in Australian English
 
 Primary materials are hosted at [auraofintelligence.github.io](https://auraofintelligence.github.io/) under a public-use licence with commercial rights reserved by the author. Anyone may read, cite, or discuss them. Commercial extraction or packaging requires separate agreement.
 
-The method is straightforward: each major cluster of pages is described, links are supplied, and observations are limited to what the pages state or clearly imply. No attempt is made to diminish the scope of the work or to recast it into a more conventional form.
+**Status note (author correction, October 2026):** The local Minjerribah / Redlands pages describe designed systems that are poised and awaiting conditions. They are not currently operating. Strange but True is registered; the author holds cards and receives income support, but has never operated a market stall. The only completed local project to date is a documentary and outdoor cinema evening produced for MMEIC marking 50 years of Deadly (NAIDOC 50th). Local community implementation has been deferred while the macro systems were built, because the author knows from experience (including as secretary of the Point Lookout Fishing Club) that when a committee does not pull its weight the work falls on one person, leading to burnout and withdrawal. The macro systems are intended to support clubs and businesses so that starting something does not recreate that load, and so the author can move beyond income support into a pattern of intermittent work, retirement, and travel with more resources and joyful responsible abundant opportunities.
 
 ## 2. Geographic and Personal Anchor
 
-Luke Nathan Hayes lives on Minjerribah (North Stradbroke Island) in the Redlands local government area of Queensland. Public materials treat this location as the concrete local instance in which a wider set of ideas is tested against real geography, transport constraints, care needs, and cultural authority. Ferry terminals (Dunwich/Gumpi and Cleveland/Toondah), beaches, clubs, wildlife, and Quandamooka Country are recurring reference points.
+Luke Nathan Hayes lives on Minjerribah (North Stradbroke Island) in the Redlands local government area of Queensland. Public materials treat this location as the concrete local instance against which a wider set of ideas is designed. Ferry terminals (Dunwich/Gumpi and Cleveland/Toondah), beaches, clubs, wildlife, and Quandamooka Country are recurring reference points in the designs.
 
 The author appears under three names: Luke Nathan Hayes in formal submissions, Luke Catalyst Nathan Hayes on X, and i C. Infinity for musical work.
 
@@ -44,14 +44,14 @@ The public materials describe interlocking ideas rather than a single finished p
 
 **Braided Economy** keeps three records distinct: ordinary money, a contribution record (C-Hour), and a results record (savings, skills, resilience). The strands inform one another without being treated as the same thing.
 
-## 4. Local Minjerribah / Redlands Surfaces
+## 4. Local Minjerribah / Redlands Surfaces (Designed, Not Operating)
 
-The materials treat the island and Redlands as the place where the pattern is made legible through ordinary activity.
+The materials treat the island and Redlands as the designed local pattern. These pages exist as designs and proposals. They are not currently active pilots or operating services.
 
-Currently operable surface:  
+Strange but True community ledger page (design surface):  
 https://auraofintelligence.github.io/strange-but-true/community-ledger.html
 
-Other local pages describe or propose:
+Other designed or proposed local pages:
 - Multi-site screen and media networks and a proposed Ballow Road Sand Screen Hub
 - Dunwich/Gumpi Ferry Terminal Open Data Lab
 - Community club and sports surfaces
@@ -61,7 +61,9 @@ Other local pages describe or propose:
 - Ready SET Co. cultural intelligence node as a test-pilot suggestion for community-scale compute (the “missing middle”)
 - Place-specific music under i C. Infinity, including the Straddie Fun collection (updates dated July 2026)
 
-These are presented as the lived test: activity can be recorded inside the actual geography before larger capital or institutional moves occur. The fractal claim is that once this local pattern is legible, the same interfaces can be instantiated elsewhere without a new central model, provided each place retains adaptation and refusal rights.
+The only completed local delivery to date is the MMEIC documentary and outdoor cinema evening for NAIDOC 50th / 50 years of Deadly. The author has stated that local community implementation was deliberately deferred while the macro systems were developed, precisely so that starting local work later does not recreate the single-person load experienced as secretary of the Point Lookout Fishing Club. The designs remain poised for conditions in which the supporting systems reduce that load.
+
+The fractal claim in the materials is that once a local pattern is legible, the same interfaces can be instantiated elsewhere without a new central model, provided each place retains adaptation and refusal rights. That claim is a design statement, not a report of current local operation.
 
 ## 5. Submissions to Australian Inquiries and Treaty Processes (2026)
 
@@ -73,7 +75,7 @@ Several documents were lodged with Australian parliamentary committees and treat
 - Senate inquiry into AI and data centres (“A Fair Go for the AI Age”): postcode-level sovereign compute, federated architecture, Digital Twin of Country, Dunwich pilot, global 44,000-town thought experiment.
 - Fiji–Australia Vuvale Union submission (29 August 2026): indicative AUD 100 million Civic Empowerment on-ramp of five to ten community-scale AI racks plus surrounding people, models, food tools, co-operative finance, and evaluation. Emphasises comparing different settings and building on Fiji’s existing co-operative movement.
 
-Across the submissions the author states that authority should stay close to affected people and places, and that self-sovereignty includes the practical ability to say yes, no, not yet, demand evidence, leave, and take one’s information.
+Across the submissions the author states that authority should stay close to affected people and places, and that self-sovereignty includes the practical ability to say yes, no, not yet, demand evidence, leave, and take one’s information. The Minjerribah references in these documents are design and pilot proposals, not reports of operating local systems.
 
 ## 6. Technical and Design Specifications
 
@@ -104,7 +106,7 @@ The author has stated these form an open personal record so media or others can 
 - JRA Product Engine Plan and root sitemap
 - Mutual Futures, Stradbroke Grants Lab, Straddie Clean Energy Superpower, Sandworm Subterranean Systems, Civilisation of Sand, Future of Life 2045
 
-P4A (https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as the pattern piece that completes local legibility before wider fractal instantiation.
+P4A (https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as a designed pattern piece, not as an operating local implementation.
 
 ## 9. Licensing, Modularity and Agentic Use
 
@@ -118,19 +120,20 @@ An X account under Luke Catalyst Nathan Hayes has posted public replies to figur
 
 ## 11. Rational Suppositions If the Work Continues
 
-These are not predictions. They are observations about what becomes possible if the existing public materials continue to be developed and used by anyone who chooses to do so:
+These are not predictions. They are observations about what becomes possible if the existing public materials continue to be developed and if the author chooses to activate local designs under conditions that do not recreate single-person load:
 
-- Local ledger, screen-network, or club activity on Minjerribah can generate small verifiable contribution and skill records usable later in grants or partnership conversations (including the Claytons Road proposal under Diocese consideration).
+- Designed local surfaces (ledger, screen network, clubs, digital twin) could, if activated with supporting systems in place, generate verifiable contribution and skill records usable later in grants or partnership conversations (including the Claytons Road proposal under Diocese consideration).
 - A community-scale compute node under local ownership could host language tools, food helpers, open data, and disaster-mode functions while retaining data authority with owners and custodians.
 - The described interfaces (portable permissions, contribution receipts, digital-twin schemas, co-operative patterns) could be instantiated in another LGA, state, or Pacific country without a single central model, provided each place keeps adaptation and refusal rights.
 - Agentic systems could assemble selected modules into prototypes more quickly than conventional teams; commercial packaging would still require agreement.
 - Media or researchers can treat the public, dated, interlinked pages as a primary source.
+- The author’s stated aim is that the macro systems reduce the load of local starting, so that work, intermittent retirement, and travel become possible with more resources and with joyful responsible abundant opportunities rather than income support.
 
-Whether any of these occur depends on choices by the author, partners, funders, regulators, and people in each place. The materials do not compel adoption.
+Whether any of these occur depends on choices by the author, partners, funders, regulators, and people in each place. The materials do not compel adoption. The local designs remain poised, not operating.
 
 ## 12. Closing Observation
 
-This is a map of public pages and the author’s statements about them. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
+This is a map of public pages and the author’s statements about them, corrected to reflect that local Minjerribah implementations are designed and awaiting conditions rather than currently active. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction and designs poised, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
 
 ## Principal Links
 
@@ -147,4 +150,4 @@ This is a map of public pages and the author’s statements about them. It does 
 
 ---
 
-*This repository holds the open record as a persistent, linkable document.*
+*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating.*
