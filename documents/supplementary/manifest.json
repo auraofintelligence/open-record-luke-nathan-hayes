@@ -1,0 +1,443 @@
+{
+  "schema_version": "1.0",
+  "assembled_on": "2026-10-17",
+  "file_count": 18,
+  "pdf_count": 15,
+  "docx_count": 3,
+  "preservation": "Previously published source files copied without changing their bytes. Descriptive destination filenames identify the works; original source filenames, dates and edition differences are recorded per entry.",
+  "verification": "Every destination SHA-256 matches its source. All 17 GitHub sources also match the Git blob in the recorded permanent source commit. The Toolbox preserves the downloaded public website PDF. Format validation reads the documents without converting or rewriting them.",
+  "documents": [
+    {
+      "id": "constitutional-matrix",
+      "title": "The Constitutional Matrix of Participation",
+      "path": "documents/supplementary/The_Constitutional_Matrix_of_Participation_2014.pdf",
+      "filename": "The_Constitutional_Matrix_of_Participation_2014.pdf",
+      "original_filename": "03 The Constitutional Matrix of Participation(3).pdf",
+      "date_and_edition": "15 July 2014; includes material dated December 2013",
+      "creation_context": "Luke Nathan Hayes's original historical document, identified as such by the public source register.",
+      "format": "PDF",
+      "pages": 3,
+      "bytes": 126800,
+      "sha256": "422988511a83dbd301aa1374189f72ab8552087a7a3c01c7dcc877704268b932",
+      "public_source": {
+        "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+        "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+        "path": "references/files/hayes-constitutional-matrix-of-participation-2014-07-15.pdf",
+        "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-constitutional-matrix-of-participation-2014-07-15.pdf"
+      },
+      "source_context": [
+        "This short foundational statement sets out equality, self-directed development, a shared knowledge commons and a global conversation about how people might live together. Its proposed personal process begins with values, virtues, experiences, interests, goals and family history, then develops a customised interface called a High Definition Digital Aura. Geometry, consciousness, virtual reality, shared governance and the space horizon already appear together.",
+        "Read it to trace the continuity between Luke's earlier spiritual and civic language and the later Aura, personal intelligence, GAJRA Earth and participation projects. The statement is dated at Amity on 15 July 2014 and contains earlier material dated December 2013. The copy in The Mind Behind the Man has the same checksum; this collection preserves one copy. Its language records Luke's thinking at that time."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "toolbox-2022",
+      "title": "Luke's 2022 Motivation & Toolbox",
+      "path": "documents/supplementary/Lukes_2022_Motivation_and_Toolbox.pdf",
+      "filename": "Lukes_2022_Motivation_and_Toolbox.pdf",
+      "original_filename": "Lukes-2022-Toolbox.pdf",
+      "date_and_edition": "2022; public website URL in the June 2022 uploads directory",
+      "creation_context": "Luke Hayes's public slide collection, downloaded from his Luke Catalyst website.",
+      "format": "PDF",
+      "pages": 12,
+      "bytes": 1127694,
+      "sha256": "6da04fd44f50777aa71355875946ceb90ee53a5b2652bb611114570d74093f74",
+      "public_source": {
+        "website": "Luke Catalyst",
+        "url": "https://lukecatalyst.com/wp-content/uploads/2022/06/Lukes-2022-Toolbox.pdf",
+        "downloaded_on": "2026-10-17",
+        "original_pdf_title_metadata": "Luke’s 2021 Toolbox"
+      },
+      "source_context": [
+        "The opening slides are unusually direct about the person behind the work. Luke lists hopes of being trusted, loved and happy within responsible non-monogamy; becoming healthy, wealthy and free to travel for work and fun; and being appreciated for inspiring Joyful Responsible Abundance. He also records fears about great filters, the consequences of unknown unknowns and success getting out of control. These are his stated motivations in 2022.",
+        "The toolbox connects those motivations to concrete ambitions: an avatar, an Aura, a mind palace, a blockchain-integrated app, a cinematic universe, companies, dedicated servers, music and an art gallery. Freedom to love, travel and create sits beside immediate knowledge, intelligence support and a personalised workshop. It helps explain why software, relationships, livelihood, art and civilisation appear in the same body of work. The visible title says 2022; the PDF's internal title says 'Luke's 2021 Toolbox'. Its metadata records creation on 4 May and modification on 24 May 2022. Both titles are retained in the provenance record."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "aura-v7-2023",
+      "title": "Aura of Intelligence — Version 7, July 2023",
+      "path": "documents/supplementary/Aura_of_Intelligence_Version_7_July_2023.pdf",
+      "filename": "Aura_of_Intelligence_Version_7_July_2023.pdf",
+      "original_filename": "Version7 Aura of Intelligence 2023 July (1).pdf",
+      "date_and_edition": "July 2023 title; preserved PDF export dated January 2024 in its metadata",
+      "creation_context": "Historical architecture slide collection supplied by Luke; the source register does not establish a complete production or assistance history.",
+      "format": "PDF",
+      "pages": 28,
+      "bytes": 5258366,
+      "sha256": "65945eb96e4857b53506ee661d44e24b66b2522d889eb7f8429628f1d7bca052",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f14.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f14.pdf"
+      },
+      "source_context": [
+        "This presentation describes an Aura graphical interface for using blockchain, big data, artificial intelligence and the Internet of Things. It develops the personal matrix, interface geometry and the idea of a tool that helps a person build an evolving Aura, working with a human in everyday life and avatars in virtual environments. The collection links personal choices and self-development to GAJRA and shared futures.",
+        "The document provides a substantial bridge between the 2014 Constitutional Matrix and the later software and Genesis specifications. Its title identifies Version 7 and July 2023; the preserved export's metadata is dated January 2024. Those are different kinds of dates. The public source register describes it as a historical architecture record and leaves full authorship confirmation open, so the archive makes no additional claim about how each slide was produced."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "choose-2023",
+      "title": "What Would You Choose 2023",
+      "path": "documents/supplementary/What_Would_You_Choose_2023.pdf",
+      "filename": "What_Would_You_Choose_2023.pdf",
+      "original_filename": "What Would You Choose 2023 (1).pdf",
+      "date_and_edition": "2023 collection title; preserved PDF export dated March 2025 in its metadata",
+      "creation_context": "Historical slide collection supplied by Luke Nathan Hayes.",
+      "format": "PDF",
+      "pages": 19,
+      "bytes": 1711199,
+      "sha256": "f0143d040f3c82b49efe5a7c103009bba7769836bf6cee5cd3e2614c1a6f8fdb",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f49.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f49.pdf"
+      },
+      "source_context": [
+        "Beginning with 'What Life Would You Choose If', this collection puts desired lives ahead of an individual product. Its scenarios connect Joyful Responsible Abundance, a sharing economy, waste, healthy environments, autonomous travel, food production, personal intelligence and trustworthy governance. Sudden Life Gaming and the question of how people choose and develop a future form part of that wider exploration.",
+        "Read it beside the Toolbox and 2023 Aura presentation to understand the life-design questions behind the later project catalogue. The filename identifies a 2023 collection; the PDF export metadata is dated 15 March 2025. The scenarios preserve the assumptions and imaginative range of that collection. They supply historical context for later proposals and should be read alongside the more recent source documents when following how definitions changed."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "geode-edition-3",
+      "title": "Aura Genesis Geode Development — expanded edition 3",
+      "path": "documents/supplementary/Aura_Genesis_Geode_Development_Edition_3.pdf",
+      "filename": "Aura_Genesis_Geode_Development_Edition_3.pdf",
+      "original_filename": "Aura_Genesis_Geode_Development_Edition_3.pdf",
+      "date_and_edition": "14 October 2026; expanded edition 3",
+      "creation_context": "Design direction credited to Luke Nathan Hayes / Aura of Intelligence; the source identifies itself as a development game design document.",
+      "format": "PDF",
+      "pages": 40,
+      "bytes": 691604,
+      "sha256": "add4102f8f7bccef97fbd0b63b06e99aaa89d04f6a807398b8b5f985ff0f5496",
+      "public_source": {
+        "repository": "auraofintelligence/aura-genesis-geode-atlas",
+        "commit": "b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370",
+        "path": "documents/Aura_Genesis_Geode_Development_Edition_3.pdf",
+        "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/b7e660e7f7c07c0dc1b15bfecde8b0e18f98c370/documents/Aura_Genesis_Geode_Development_Edition_3.pdf"
+      },
+      "source_context": [
+        "This edition joins the participant experience to the physical Geode development programme. It specifies sixty two-hour Genesis sessions, a surrounding immersion and a teacher-development programme with separate clocks and records. It follows personal categories, recorded memories, imagined alternatives, observed actions, permissions, corrections and the subsequent socialising of the Aura. Material identity, mineral craft, geopolymer construction, crystalline development and a future shell with embedded compute are developed as connected pathways.",
+        "The document gives readers a much fuller account of how Luke intends personal reflection, body and mind modelling, learning, research and physical installations to meet. It includes responsibilities for participant support, operation, research, data, materials and teaching. This is the 40-page Geode Development edition 3 dated 14 October 2026. The separately archived 40-page Genesis Protocol edition 2 is a different document; retain both when following the development sequence. The specifications describe the proposed programme and research direction."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "dementia-clinical",
+      "title": "Clinical Research Path for Aura of Dementia",
+      "path": "documents/supplementary/Clinical_Research_Path_for_Aura_of_Dementia_First_Draft.pdf",
+      "filename": "Clinical_Research_Path_for_Aura_of_Dementia_First_Draft.pdf",
+      "original_filename": "Clinical Research Path for Aura of Dementia (1).pdf",
+      "date_and_edition": "First draft; publication date not stated",
+      "creation_context": "The title page explicitly identifies content by Luke Hayes and LLM GenAI Google Gemini.",
+      "format": "PDF",
+      "pages": 28,
+      "bytes": 320686,
+      "sha256": "51fbb9223116fc1161a6c36d8acc386e0b1e932af280b0edb92ec2b9c30b18a1",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f47.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f47.pdf"
+      },
+      "source_context": [
+        "The internal title is 'A Clinical Research and Implementation Plan: Aura of Intelligence Dementia Care System: A Proof of Concept in Queensland'. It translates persona mapping, behavioural records and social context into a proposed clinical framework, including dementia outcome measures, behavioural and psychological symptoms, quality of life and non-pharmacological interventions. It then develops a staged route through feasibility, usability, a single-site pilot and a possible multi-site trial.",
+        "This adds a major care application to an archive otherwise weighted toward civic and future-facing programmes. The draft discusses therapeutic-goods classification, research ethics, clinical and digital governance, privacy, team roles, funding and assistive-technology pathways. It is explicitly a first draft developed with Google Gemini. Clinical studies, approvals and efficacy remain matters for the proposed research process. The Anglican Amity repository's document 19 has identical bytes, so one preserved copy serves both source routes."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "senate-ai-data-centres",
+      "title": "Senate AI and Data Centres submission",
+      "path": "documents/supplementary/Senate_AI_and_Data_Centres_Submission_Luke_Nathan_Hayes_2026.docx",
+      "filename": "Senate_AI_and_Data_Centres_Submission_Luke_Nathan_Hayes_2026.docx",
+      "original_filename": "Senate_AI_and_Data_Centres_Submission_Luke_Nathan_Hayes_2026.docx",
+      "date_and_edition": "24 August 2026; Word revision 3, edited 27 August 2026",
+      "creation_context": "Attributed to Luke Nathan Hayes; preserved public Word original. Its production history does not establish a complete AI-assistance record.",
+      "format": "DOCX",
+      "pages": null,
+      "bytes": 39348,
+      "sha256": "1ab01da1abd6cf456c8cf345e09425d3c8cf59e892897ce750e75f815766ed65",
+      "public_source": {
+        "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+        "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+        "path": "documents/senate-ai-and-data-centres-submission.docx",
+        "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/senate-ai-and-data-centres-submission.docx"
+      },
+      "source_context": [
+        "Titled 'Do Not Put All Our Eggs in One Basket: A federated sovereign AI and community compute proposal', this submission argues for infrastructure between personal devices and very large data centres. It proposes a continuum through neighbourhood systems, serious community compute, state and national capability, and longer-term specialised systems. Schools, care, councils, small businesses, artists, local research and disaster resilience appear as practical uses. Ballow Road in Dunwich is identified as one possible pilot location.",
+        "The paper connects Luke's Strange but True practice and proposed Ready S.E.T. cooperative to national infrastructure policy and the earlier local-government submission. This shorter Senate paper is distinct from the AUKUS submission, the Postcode-Level Sovereign Compute paper and the longer discussion drafts with similar titles. The public library records Word revision 3, edited 27 August 2026. The document establishes the text of the submission; its inclusion does not establish the parliamentary status of its lodgement."
+      ],
+      "validation": "DOCX ZIP integrity and required WordprocessingML XML parsed successfully"
+    },
+    {
+      "id": "belau",
+      "title": "The B.E.L.A.U. Protopian Gambit",
+      "path": "documents/supplementary/BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+      "filename": "BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+      "original_filename": "BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+      "date_and_edition": "21 August 2026; Word revision 3, edited 27 August 2026",
+      "creation_context": "Luke Nathan Hayes's personal Pacific-facing discussion paper; the text describes continuing AI-agent work under his direction.",
+      "format": "DOCX",
+      "pages": null,
+      "bytes": 119498,
+      "sha256": "efec152fbe572db281a3fe30ccb7a8b585324b5e3beaa1363072a6fd0ed7c3f9",
+      "public_source": {
+        "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+        "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+        "path": "documents/BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx",
+        "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx"
+      },
+      "source_context": [
+        "Subtitled 'Building Economies of Life, Action and Unity from the Blue Pacific to Civilisation Beyond Earth', this paper connects immediate practical needs to the larger horizon. It brings food waste, care, disaster-resilient edge systems, local compute, public learning, Indigenous and local data sovereignty, civic twins and youth futures into one Pacific-facing argument. A Protopian Gambit is developed as useful action designed to accumulate skills, infrastructure, knowledge, relationships and future options.",
+        "The discussion helps readers understand the route between a local Minjerribah project and Luke's Oceania, GAJRA and beyond-Earth work. It states that the perspective is his own and explains the mixture of static sites, early models, specifications, creative worlds, research and simulations being developed with AI agents. This Word revision includes author edits absent from an earlier Markdown copy. Read it alongside the distinct Fiji-Australia Vuvale and Ocean of Peace / Veitacini papers in the original archive."
+      ],
+      "validation": "DOCX ZIP integrity and required WordprocessingML XML parsed successfully"
+    },
+    {
+      "id": "unga81",
+      "title": "A fair go in the age of intelligence — personal contribution to UNGA81",
+      "path": "documents/supplementary/UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+      "filename": "UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+      "original_filename": "UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+      "date_and_edition": "September 2026; preserved public PDF generated in September 2026",
+      "creation_context": "Personal contribution attributed to Luke Nathan Hayes; the public site preserves the supplied original.",
+      "format": "PDF",
+      "pages": 8,
+      "bytes": 112210,
+      "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+      "public_source": {
+        "repository": "auraofintelligence/UNGA81-Luke-Hayes",
+        "commit": "12afc71ba7375a2096ab4c307934198568e58bed",
+        "path": "documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+        "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/12afc71ba7375a2096ab4c307934198568e58bed/documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf"
+      },
+      "source_context": [
+        "This eight-page invitation gives a concise account of GAJRA Earth and the relationship between human self-alignment and artificial-intelligence alignment. It asks people and communities to examine joy, responsibility and abundance in their own languages and circumstances. The gajra garland supplies the image: distinct flowers connected while retaining their differences. The paper brings livelihoods, insecurity, care, chosen family lives, productive capability and trustworthy institutions into that discussion.",
+        "For understanding Luke personally, its account of working from within the same social and economic difficulties matters alongside the systems he proposes. It links his sole-trader practice, cognitive architecture and public projects to the wish for lives people can help author. This preserved edition has 112,210 bytes and matches the current original in the UNGA81 repository and the Redlands source collection. The Anglican repository holds a different 109,043-byte edition. This archive keeps the supplied public version without silently substituting that earlier copy."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "ready-set",
+      "title": "Ready S.E.T. Co. — 2026 Strategy",
+      "path": "documents/supplementary/Ready_SETCo_2026_Strategy.pdf",
+      "filename": "Ready_SETCo_2026_Strategy.pdf",
+      "original_filename": "SETCo 2026 Pitch Plan Revision(20261014-135935).pdf",
+      "date_and_edition": "2026 strategy; publication date not stated",
+      "creation_context": "Historical planning source supplied by Luke. The public register does not establish a complete AI-assistance record.",
+      "format": "PDF",
+      "pages": 12,
+      "bytes": 293853,
+      "sha256": "1be16446dc69d8dc6c8caee9dc9e1fd924826a65d5a3750560011960e73e0411",
+      "public_source": {
+        "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+        "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+        "path": "references/files/hayes-ready-set-co-2026-strategy-undated.pdf",
+        "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-ready-set-co-2026-strategy-undated.pdf"
+      },
+      "source_context": [
+        "The strategy develops the proposed employment and training organisation as shared local capability. It covers cooperative structure, governance, service agreements, human resources, workplace safety, training and recruitment, an Indigenous developer pathway, legal and compliance tools, digital identity and the relationships among ten proposed entities. It helps explain the practical organisation Luke envisages behind the websites and individual community projects.",
+        "The source's historical title expands S.E.T. as 'Straddie Employment and Training Company'. Luke's later naming is Ready Sustainable Employment and Training Cooperative. Use the current name when describing his present proposal and retain the historical title when identifying this document. Its older C-Hour and economic wording should be read with Appendix B of the 23 September 2026 Community Hours planning edition 5. The cooperative and its operating arrangements are proposed; the strategy supplies the organisational design."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "redlands-mayoral",
+      "title": "Redlands Mayoral By Election Assessment",
+      "path": "documents/supplementary/Redlands_Mayoral_By_Election_Assessment_2026-10-14.pdf",
+      "filename": "Redlands_Mayoral_By_Election_Assessment_2026-10-14.pdf",
+      "original_filename": "Redlands_Mayoral_By_Election_Assessment_2026-10-14.pdf",
+      "date_and_edition": "14 October 2026; research position stated in the document",
+      "creation_context": "Assessment attributed to Luke Nathan Hayes; the public source register identifies it as a supplied document.",
+      "format": "PDF",
+      "pages": 42,
+      "bytes": 857248,
+      "sha256": "b72f9af7cdf57e37330aba49d30d3b7af991374f389c4adc79222b81b7d5755d",
+      "public_source": {
+        "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+        "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+        "path": "references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf",
+        "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-redlands-mayoral-by-election-assessment-2026-10-14.pdf"
+      },
+      "source_context": [
+        "This 42-page assessment explores a possible Redlands mayoral candidacy and how the connected programme could enter local government. It addresses council powers, public money, campaign law, donations, personal interests, public accountability, care, youth, enterprise, AI infrastructure, relationships with other government levels and the Olympics. It proposes a finite period in office aimed at introducing the architecture and leaving lasting local capability.",
+        "It also states relevant personal and project circumstances: Luke holds the IP personally and the proposed companies and cooperatives have not been established. The assessment is useful for understanding the civic application of Ready S.E.T., P4A, Aura Genesis and GAJRA Earth. Its statements about officeholders, vacancies, meetings and electoral circumstances are explicitly dated to its 14 October 2026 research position. The document records consideration of a candidacy; an election event or nomination requires its own contemporary evidence."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "solar-swarm",
+      "title": "Solar Swarm Satellite Research Report",
+      "path": "documents/supplementary/Solar_Swarm_Satellite_Research_Report.pdf",
+      "filename": "Solar_Swarm_Satellite_Research_Report.pdf",
+      "original_filename": "Solar Swarm Satellite Research Report.pdf",
+      "date_and_edition": "Undated report; public register identifies a supplied September 2026 source",
+      "creation_context": "Luke-directed AI-assisted research report, as described by the public source register.",
+      "format": "PDF",
+      "pages": 28,
+      "bytes": 601988,
+      "sha256": "71f8b4deee96042e98b235c8a27e377f7cd18b4a5ac2fb37dd108636be301908",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f09.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f09.pdf"
+      },
+      "source_context": [
+        "The internal title is 'The Virtual Solar Swarm: An Architectural Blueprint for a Decentralized, Full-Spectrum Solar System Observatory'. It explores distributed sensors, solar-system observation, onboard processing, navigation, mesh networks, laser communications, manufacturing scale, digital twins and a wider global sensorium. Identity, provenance, offline coordination and the human interface link the space design to Luke's more local systems work.",
+        "This is the original research/design report behind a substantial frontier project. Some branches are explicitly built on mandated assumptions, including a quantum-entanglement control plane. Preserve those assumptions as part of the research record and use the current Virtual Solar Swarm website for the project's developing feasibility distinctions. The report's value here is the detailed connection between sensing, cooperative infrastructure, simulation and Luke's long-term civilisation horizon. Its technical branches remain research propositions."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "c-hour-legislation",
+      "title": "Australian C-Hour Legislative Strategy",
+      "path": "documents/supplementary/Australian_C_Hour_Legislative_Strategy.pdf",
+      "filename": "Australian_C_Hour_Legislative_Strategy.pdf",
+      "original_filename": "Australian C-Hour Legislative Strategy.pdf",
+      "date_and_edition": "Historical policy strategy; publication date not stated",
+      "creation_context": "Supplied historical policy research source; a complete AI-assistance history is not recorded in the public index.",
+      "format": "PDF",
+      "pages": 30,
+      "bytes": 596494,
+      "sha256": "f5bdd4ff959d920b25c4c7897fae00d0d2dfb01d8071da7fc35499e377559e18",
+      "public_source": {
+        "repository": "auraofintelligence/C-Hour-introduction",
+        "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+        "path": "references/originals/Australian C-Hour Legislative Strategy.pdf",
+        "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/Australian%20C-Hour%20Legislative%20Strategy.pdf"
+      },
+      "source_context": [
+        "Internally titled 'The Reciprocity Mandate: A Strategic Framework for Integrating Regenerative Assets into Australian Law', this report follows the proposed C-Hour and Braided Economy into legislation, classification, parliamentary advocacy and coalition building. It discusses regulatory frameworks, a proposed regenerative-asset treatment, stakeholder engagement and the route from an inquiry to possible legislation. It shows the policy work surrounding the simpler public introduction to Community Hours.",
+        "This is an older strategy document. The C-Hour source library identifies it as a title-matched PDF and records that equivalence to a separately named timestamped edition was not established. Read it with Appendix B of Community Hours planning edition 5, dated 23 September 2026: the current C-Hour recognises one verified hour of voluntary human contribution and has no monetary equivalent or conversion. Historical financial, token and legislative terminology remains visible in the unchanged source."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "hbot-cooperative",
+      "title": "Project Aura Geode HBOT — cooperative health and longevity framework",
+      "path": "documents/supplementary/Health_Tech_Cooperative_Business_Plan_Aura_Geode_HBOT.pdf",
+      "filename": "Health_Tech_Cooperative_Business_Plan_Aura_Geode_HBOT.pdf",
+      "original_filename": "Health-Tech Cooperative Business Plan(20261014-112341).pdf",
+      "date_and_edition": "Undated historical planning source",
+      "creation_context": "Historical planning source supplied by Luke; the public source register does not establish a full production or AI-assistance history.",
+      "format": "PDF",
+      "pages": 29,
+      "bytes": 630789,
+      "sha256": "191d3e8cb601b089aeed9e4cb400a8433246e75cb4910db3b8d994a3564f074b",
+      "public_source": {
+        "repository": "auraofintelligence/Redlands_discovers_Luke_Hayes",
+        "commit": "cd700c5bdcd94eee5afd74bef538ae68c6f705e7",
+        "path": "references/files/hayes-project-aura-geode-hbot-cooperative-framework-undated.pdf",
+        "url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/cd700c5bdcd94eee5afd74bef538ae68c6f705e7/references/files/hayes-project-aura-geode-hbot-cooperative-framework-undated.pdf"
+      },
+      "source_context": [
+        "The report develops a cooperative rollout of a decentralised health and longevity ecosystem. It brings together community ownership, member participation, finance, hyperbaric installations, Aura Genesis, personal twins, data sovereignty, research provenance and coordination across sites. Its subtitle joins hyperbaric wellness, digital twins and regenerative economics, making the business and ownership architecture much more visible than a general project description can.",
+        "Read it to understand how Luke intends physical places and shared services to be organised and sustained. The source is indexed under the filename Health-Tech Cooperative Business Plan and the fuller internal Aura Geode HBOT title. It preserves historical financial and health-related claims and terminology. The later Genesis Geode Development edition 3 and teacher documents give the more recent development direction; actual devices, clinical evidence and operating approvals require their own records."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "geode-to-macro",
+      "title": "AURA GEODE to MACRO — system architecture and global protocol",
+      "path": "documents/supplementary/AURA_GEODE_to_MACRO_System_Architecture.pdf",
+      "filename": "AURA_GEODE_to_MACRO_System_Architecture.pdf",
+      "original_filename": "AURA GEODE to MACRO.pdf",
+      "date_and_edition": "Contains a version 4.0 system document dated 27 July 2025",
+      "creation_context": "Luke-directed AI-assisted design record, as described by the public source register.",
+      "format": "PDF",
+      "pages": 45,
+      "bytes": 4287439,
+      "sha256": "243dc7fa3576675ca6c36ba345c8ff12e6b51d631b74a5dbb9597cd880b96297",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f07.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f07.pdf"
+      },
+      "source_context": [
+        "This larger design record connects a physical capsule to AuraOS, personal data, an interactive twin, a sixty-session Genesis journey, networked destinations and the continuing relationship between a person and their Aura. It develops material-composition identities, privacy, data permissions, deployment habitats, possible relational archetypes and clinical or commercial development pathways. Its concern with a human-twin relationship gives additional depth to the narrower hardware specifications.",
+        "The record contains a system architecture marked version 4.0 and dated 27 July 2025. It preserves an earlier set of design assertions and ambitions, including strong language about devices and capabilities. The later October 2026 Genesis documents develop the programme further. Use this record to follow the evolution of the architecture, while consulting the dated current sources for the present specification and actual implementation status."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "super-computers",
+      "title": "Super-Computers of North Straddie",
+      "path": "documents/supplementary/Super_Computers_of_North_Straddie.pdf",
+      "filename": "Super_Computers_of_North_Straddie.pdf",
+      "original_filename": "Super-Computers of North Straddie.pdf",
+      "date_and_edition": "Preserved PDF export dated 24 October 2024 in its metadata",
+      "creation_context": "The opening identifies one prompting session by Luke Nathan Hayes with OpenAI o1-preview; prompts and responses are preserved.",
+      "format": "PDF",
+      "pages": 47,
+      "bytes": 475693,
+      "sha256": "92ef2505b4bd15e71384a33ec993303fc45b44515de90200c86dda063fe38188",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f12.pdf",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f12.pdf"
+      },
+      "source_context": [
+        "Luke begins by asking for a first-principles exploration of chip design, maze theory and the evolution of computing, using Minjerribah as the setting. His preference is for small batches and rapid development toward the limits of compute, using local mineral sands where useful. The conversation proceeds through geometry, algorithms, reconfigurable hardware, materials, AI processors and speculative future architectures, including the Keystone of Consciousness direction.",
+        "This is a revealing working record of how a local place, its materials and Luke's personal-intelligence ideas became a hardware research direction. The opening explicitly credits a prompting session with OpenAI o1-preview, and the PDF metadata is dated 24 October 2024. The preserved exchange contains both Luke's questions and model-generated explanations. Read it alongside Aura Direct Hardware for the later public project and its developing technical distinctions."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    },
+    {
+      "id": "super-alignment",
+      "title": "Super Alignment of Artificial Super Intelligence",
+      "path": "documents/supplementary/Super_Alignment_of_Artificial_Super_Intelligence.docx",
+      "filename": "Super_Alignment_of_Artificial_Super_Intelligence.docx",
+      "original_filename": "Super Alignment of Artificial Super Intelligence.docx",
+      "date_and_edition": "Historical project summary; publication date not stated",
+      "creation_context": "Luke-directed AI-assisted project summary, as described by the public source register.",
+      "format": "DOCX",
+      "pages": null,
+      "bytes": 2195018,
+      "sha256": "f7396039ad33a6333d36637b7b386c50f17c9eaabcc163fb1ce63b7078459f3f",
+      "public_source": {
+        "repository": "auraofintelligence/luke-nathan-hayes-man-and-mind",
+        "commit": "f040f5c259cd77f6377db2b7aaca840e36cae7c5",
+        "path": "assets/archive/intake-20260906/f10.docx",
+        "url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f10.docx"
+      },
+      "source_context": [
+        "This summary gathers Aura, GAJRA Earth, music and major gatherings, Gamify Democracy, cooperative living, women-led enterprise and larger family structures into one alignment story. It is useful for seeing connections that disappear when each repository is presented in isolation. Personal intelligence, human relationships, shared values and the long-term future are treated as parts of the same undertaking.",
+        "The source is a historical AI-assisted summary and sometimes describes proposed entities in the language of existing ventures. It also contains older event dates, including July 2025. Those dates and descriptions remain in the original bytes. The current Queens planning document, September 2026 GAJRA invitation and later personal-intelligence papers provide more recent definitions and project status. Use this document to understand the earlier whole-system vision and the relationships among its parts."
+      ],
+      "validation": "DOCX ZIP integrity and required WordprocessingML XML parsed successfully"
+    },
+    {
+      "id": "spec-governance",
+      "title": "Spec-Driven AI Governance Architecture Australia",
+      "path": "documents/supplementary/Spec_Driven_AI_Governance_Architecture_Australia.pdf",
+      "filename": "Spec_Driven_AI_Governance_Architecture_Australia.pdf",
+      "original_filename": "Spec-Driven_AI_Governance_Architecture_Australia.pdf",
+      "date_and_edition": "Historical architecture specification; publication date not stated",
+      "creation_context": "Supplied architectural research document; the public source index does not establish its complete AI-assistance history.",
+      "format": "PDF",
+      "pages": 20,
+      "bytes": 421329,
+      "sha256": "94f5c0ca2bdd6623b972173b2561ed3b5c41fc6b9d2eb48f3e2812fd475f1266",
+      "public_source": {
+        "repository": "auraofintelligence/C-Hour-introduction",
+        "commit": "722725e442a3c62311bdd3ba43dd4616f35fbd0c",
+        "path": "references/originals/Spec-Driven_AI_Governance_Architecture_Australia.pdf",
+        "url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/722725e442a3c62311bdd3ba43dd4616f35fbd0c/references/originals/Spec-Driven_AI_Governance_Architecture_Australia.pdf"
+      },
+      "source_context": [
+        "Subtitled 'Architectural Specification for Gamified Democratic Infrastructure in Australia', this document connects specification-driven development, repository organisation and AI agents to civic infrastructure. It explores distributed data, identity, credentials, different government levels, multi-agent simulation, legal retrieval, local adaptation, public decision records and overcompliance. The practical setting includes Redlands and Amity, with a wider route through Queensland, Australia and the Olympic horizon.",
+        "It gives the civic and legal projects a technical architecture and shows how Luke wants questions, rules, evidence and proposed changes to become inspectable systems. Older C-Hour language appears in the economic sections; Appendix B of the September 2026 Community Hours plan supplies the current interpretation. The specification records a design and research programme. The related legal-memory and Australian-law websites provide entry points to the publicly available work and source material."
+      ],
+      "validation": "PDF header and complete page tree parsed successfully"
+    }
+  ]
+}

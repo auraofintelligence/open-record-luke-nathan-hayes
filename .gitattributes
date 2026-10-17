@@ -1,3 +1,7 @@
 # Preserve original document bytes across platforms.
 *.pdf binary
 *.docx binary
+*.xlsx binary
+
+# Preserve recovered historical source bytes as downloaded.
+documents/historical/ichooseinfinity/** -text

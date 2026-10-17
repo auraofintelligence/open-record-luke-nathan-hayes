@@ -1,0 +1,3696 @@
+{
+  "snapshot_date": "2026-10-17",
+  "network_selected": 153,
+  "initial_network_manifest_successes": 42,
+  "network_record_counts": {
+    "mirrored": 38,
+    "not_recovered_in_network_snapshot": 109,
+    "download_available_for_validation": 1,
+    "retrieved_not_mirrored": 5
+  },
+  "local_cache_record_counts": {
+    "not_mirrored": 169,
+    "mirrored": 100
+  },
+  "network_records": [
+    {
+      "timestamp": "20131216085916",
+      "original": "http://ichooseinfinity.com:80/",
+      "archive_url": "https://web.archive.org/web/20131216085916id_/http://ichooseinfinity.com:80/",
+      "replay_url": "https://web.archive.org/web/20131216085916/http://ichooseinfinity.com:80/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 34581,
+      "sha256": "1cf4f0f9dd39809fe16633678af0843a84e0352417e8282deccf5faf8b9a7d73",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140106113431",
+      "original": "http://ichooseinfinity.com:80/community/about-us/",
+      "archive_url": "https://web.archive.org/web/20140106113431id_/http://ichooseinfinity.com:80/community/about-us/",
+      "replay_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com:80/community/about-us/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140108084407",
+      "original": "http://ichooseinfinity.com:80/internations-meetup/",
+      "archive_url": "https://web.archive.org/web/20140108084407id_/http://ichooseinfinity.com:80/internations-meetup/",
+      "replay_url": "https://web.archive.org/web/20140108084407/http://ichooseinfinity.com:80/internations-meetup/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140108091107",
+      "original": "http://ichooseinfinity.com:80/instant-volution/",
+      "archive_url": "https://web.archive.org/web/20140108091107id_/http://ichooseinfinity.com:80/instant-volution/",
+      "replay_url": "https://web.archive.org/web/20140108091107/http://ichooseinfinity.com:80/instant-volution/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140108091203",
+      "original": "http://ichooseinfinity.com:80/transport-solutions/",
+      "archive_url": "https://web.archive.org/web/20140108091203id_/http://ichooseinfinity.com:80/transport-solutions/",
+      "replay_url": "https://web.archive.org/web/20140108091203/http://ichooseinfinity.com:80/transport-solutions/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140118202504",
+      "original": "http://ichooseinfinity.com:80/",
+      "archive_url": "https://web.archive.org/web/20140118202504id_/http://ichooseinfinity.com:80/",
+      "replay_url": "https://web.archive.org/web/20140118202504/http://ichooseinfinity.com:80/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 37551,
+      "sha256": "a675668a295ca29db358f57020a5193a551c454c8e3f0467b81f2e0622cb828d",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140205065443",
+      "original": "http://ichooseinfinity.com:80/fiverr-wishlist/",
+      "archive_url": "https://web.archive.org/web/20140205065443id_/http://ichooseinfinity.com:80/fiverr-wishlist/",
+      "replay_url": "https://web.archive.org/web/20140205065443/http://ichooseinfinity.com:80/fiverr-wishlist/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140222194910",
+      "original": "http://ichooseinfinity.com:80/",
+      "archive_url": "https://web.archive.org/web/20140222194910id_/http://ichooseinfinity.com:80/",
+      "replay_url": "https://web.archive.org/web/20140222194910/http://ichooseinfinity.com:80/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39514,
+      "sha256": "98e9843b5f06494125862eb41b137819e4ce81003b6a30f9666471cc4a09d9b2",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140510144934",
+      "original": "http://ichooseinfinity.com:80/solar-maximum-dr/",
+      "archive_url": "https://web.archive.org/web/20140510144934id_/http://ichooseinfinity.com:80/solar-maximum-dr/",
+      "replay_url": "https://web.archive.org/web/20140510144934/http://ichooseinfinity.com:80/solar-maximum-dr/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511013013",
+      "original": "http://ichooseinfinity.com:80/example-dynamic-questionnaire/",
+      "archive_url": "https://web.archive.org/web/20140511013013id_/http://ichooseinfinity.com:80/example-dynamic-questionnaire/",
+      "replay_url": "https://web.archive.org/web/20140511013013/http://ichooseinfinity.com:80/example-dynamic-questionnaire/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511013031",
+      "original": "http://ichooseinfinity.com:80/membership-levels/",
+      "archive_url": "https://web.archive.org/web/20140511013031id_/http://ichooseinfinity.com:80/membership-levels/",
+      "replay_url": "https://web.archive.org/web/20140511013031/http://ichooseinfinity.com:80/membership-levels/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511013035",
+      "original": "http://ichooseinfinity.com:80/prize-crowdfunding-information/",
+      "archive_url": "https://web.archive.org/web/20140511013035id_/http://ichooseinfinity.com:80/prize-crowdfunding-information/",
+      "replay_url": "https://web.archive.org/web/20140511013035/http://ichooseinfinity.com:80/prize-crowdfunding-information/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39641,
+      "sha256": "73b78a7bf94599877f4363af8a51e354c2dfe4981c659a6425305e12fb48b77e",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511055649",
+      "original": "http://ichooseinfinity.com:80/acceptable-greetings/",
+      "archive_url": "https://web.archive.org/web/20140511055649id_/http://ichooseinfinity.com:80/acceptable-greetings/",
+      "replay_url": "https://web.archive.org/web/20140511055649/http://ichooseinfinity.com:80/acceptable-greetings/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 33857,
+      "sha256": "6992353625d032c66ab16443fd09856f77b5aafc1ae1085e3a5a4463e22eb5be",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511055653",
+      "original": "http://ichooseinfinity.com:80/bodyboarding-locations/",
+      "archive_url": "https://web.archive.org/web/20140511055653id_/http://ichooseinfinity.com:80/bodyboarding-locations/",
+      "replay_url": "https://web.archive.org/web/20140511055653/http://ichooseinfinity.com:80/bodyboarding-locations/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055703",
+      "original": "http://ichooseinfinity.com:80/carnival-progress-updates/",
+      "archive_url": "https://web.archive.org/web/20140511055703id_/http://ichooseinfinity.com:80/carnival-progress-updates/",
+      "replay_url": "https://web.archive.org/web/20140511055703/http://ichooseinfinity.com:80/carnival-progress-updates/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055704",
+      "original": "http://ichooseinfinity.com:80/comprehending-infinity/",
+      "archive_url": "https://web.archive.org/web/20140511055704id_/http://ichooseinfinity.com:80/comprehending-infinity/",
+      "replay_url": "https://web.archive.org/web/20140511055704/http://ichooseinfinity.com:80/comprehending-infinity/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055709",
+      "original": "http://ichooseinfinity.com:80/daily-observations-by-luke/",
+      "archive_url": "https://web.archive.org/web/20140511055709id_/http://ichooseinfinity.com:80/daily-observations-by-luke/",
+      "replay_url": "https://web.archive.org/web/20140511055709/http://ichooseinfinity.com:80/daily-observations-by-luke/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055714",
+      "original": "http://ichooseinfinity.com:80/downloads/promotional-tools/",
+      "archive_url": "https://web.archive.org/web/20140511055714id_/http://ichooseinfinity.com:80/downloads/promotional-tools/",
+      "replay_url": "https://web.archive.org/web/20140511055714/http://ichooseinfinity.com:80/downloads/promotional-tools/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055719",
+      "original": "http://ichooseinfinity.com:80/encoding-music/",
+      "archive_url": "https://web.archive.org/web/20140511055719id_/http://ichooseinfinity.com:80/encoding-music/",
+      "replay_url": "https://web.archive.org/web/20140511055719/http://ichooseinfinity.com:80/encoding-music/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055724",
+      "original": "http://ichooseinfinity.com:80/fractal-display-script/",
+      "archive_url": "https://web.archive.org/web/20140511055724id_/http://ichooseinfinity.com:80/fractal-display-script/",
+      "replay_url": "https://web.archive.org/web/20140511055724/http://ichooseinfinity.com:80/fractal-display-script/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055729",
+      "original": "http://ichooseinfinity.com:80/glasses-and-smartphones/",
+      "archive_url": "https://web.archive.org/web/20140511055729id_/http://ichooseinfinity.com:80/glasses-and-smartphones/",
+      "replay_url": "https://web.archive.org/web/20140511055729/http://ichooseinfinity.com:80/glasses-and-smartphones/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055736",
+      "original": "http://ichooseinfinity.com:80/high-trust/",
+      "archive_url": "https://web.archive.org/web/20140511055736id_/http://ichooseinfinity.com:80/high-trust/",
+      "replay_url": "https://web.archive.org/web/20140511055736/http://ichooseinfinity.com:80/high-trust/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055746",
+      "original": "http://ichooseinfinity.com:80/infinitylist02/",
+      "archive_url": "https://web.archive.org/web/20140511055746id_/http://ichooseinfinity.com:80/infinitylist02/",
+      "replay_url": "https://web.archive.org/web/20140511055746/http://ichooseinfinity.com:80/infinitylist02/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055751",
+      "original": "http://ichooseinfinity.com:80/infinitylist11/",
+      "archive_url": "https://web.archive.org/web/20140511055751id_/http://ichooseinfinity.com:80/infinitylist11/",
+      "replay_url": "https://web.archive.org/web/20140511055751/http://ichooseinfinity.com:80/infinitylist11/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055757",
+      "original": "http://ichooseinfinity.com:80/key-roles/",
+      "archive_url": "https://web.archive.org/web/20140511055757id_/http://ichooseinfinity.com:80/key-roles/",
+      "replay_url": "https://web.archive.org/web/20140511055757/http://ichooseinfinity.com:80/key-roles/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055806",
+      "original": "http://ichooseinfinity.com:80/mobile-sms-mms-campaigner/",
+      "archive_url": "https://web.archive.org/web/20140511055806id_/http://ichooseinfinity.com:80/mobile-sms-mms-campaigner/",
+      "replay_url": "https://web.archive.org/web/20140511055806/http://ichooseinfinity.com:80/mobile-sms-mms-campaigner/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055807",
+      "original": "http://ichooseinfinity.com:80/potential-collaborators/",
+      "archive_url": "https://web.archive.org/web/20140511055807id_/http://ichooseinfinity.com:80/potential-collaborators/",
+      "replay_url": "https://web.archive.org/web/20140511055807/http://ichooseinfinity.com:80/potential-collaborators/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39003,
+      "sha256": "a42b8467a34d9fa0b9982f1a4510c5e298be3630977847258e82a6932a870f09",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511055812",
+      "original": "http://ichooseinfinity.com:80/quantum-recording/",
+      "archive_url": "https://web.archive.org/web/20140511055812id_/http://ichooseinfinity.com:80/quantum-recording/",
+      "replay_url": "https://web.archive.org/web/20140511055812/http://ichooseinfinity.com:80/quantum-recording/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055817",
+      "original": "http://ichooseinfinity.com:80/site-back-up-files/",
+      "archive_url": "https://web.archive.org/web/20140511055817id_/http://ichooseinfinity.com:80/site-back-up-files/",
+      "replay_url": "https://web.archive.org/web/20140511055817/http://ichooseinfinity.com:80/site-back-up-files/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055822",
+      "original": "http://ichooseinfinity.com:80/software-and-freeware/",
+      "archive_url": "https://web.archive.org/web/20140511055822id_/http://ichooseinfinity.com:80/software-and-freeware/",
+      "replay_url": "https://web.archive.org/web/20140511055822/http://ichooseinfinity.com:80/software-and-freeware/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055828",
+      "original": "http://ichooseinfinity.com:80/spring-hill-brisbane/",
+      "archive_url": "https://web.archive.org/web/20140511055828id_/http://ichooseinfinity.com:80/spring-hill-brisbane/",
+      "replay_url": "https://web.archive.org/web/20140511055828/http://ichooseinfinity.com:80/spring-hill-brisbane/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055859",
+      "original": "http://ichooseinfinity.com:80/subscribe/",
+      "archive_url": "https://web.archive.org/web/20140511055859id_/http://ichooseinfinity.com:80/subscribe/",
+      "replay_url": "https://web.archive.org/web/20140511055859/http://ichooseinfinity.com:80/subscribe/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055910",
+      "original": "http://ichooseinfinity.com:80/thank-you/",
+      "archive_url": "https://web.archive.org/web/20140511055910id_/http://ichooseinfinity.com:80/thank-you/",
+      "replay_url": "https://web.archive.org/web/20140511055910/http://ichooseinfinity.com:80/thank-you/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511055932",
+      "original": "http://ichooseinfinity.com:80/training-schedule/",
+      "archive_url": "https://web.archive.org/web/20140511055932id_/http://ichooseinfinity.com:80/training-schedule/",
+      "replay_url": "https://web.archive.org/web/20140511055932/http://ichooseinfinity.com:80/training-schedule/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060414",
+      "original": "http://ichooseinfinity.com:80/australian-law/",
+      "archive_url": "https://web.archive.org/web/20140511060414id_/http://ichooseinfinity.com:80/australian-law/",
+      "replay_url": "https://web.archive.org/web/20140511060414/http://ichooseinfinity.com:80/australian-law/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 36690,
+      "sha256": "2b9254b2a95d6b606e1cb91f1943eceef26248d0744232513283a7601d50883b",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060419",
+      "original": "http://ichooseinfinity.com:80/body-mind-spirit/",
+      "archive_url": "https://web.archive.org/web/20140511060419id_/http://ichooseinfinity.com:80/body-mind-spirit/",
+      "replay_url": "https://web.archive.org/web/20140511060419/http://ichooseinfinity.com:80/body-mind-spirit/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 33119,
+      "sha256": "5e4d136392f0d2595af18c8c85ec2e113069629f5ba3118daf2ad150d1bb39e8",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060424",
+      "original": "http://ichooseinfinity.com:80/downloads/image-gallery/",
+      "archive_url": "https://web.archive.org/web/20140511060424id_/http://ichooseinfinity.com:80/downloads/image-gallery/",
+      "replay_url": "https://web.archive.org/web/20140511060424/http://ichooseinfinity.com:80/downloads/image-gallery/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060430",
+      "original": "http://ichooseinfinity.com:80/dr-top50/",
+      "archive_url": "https://web.archive.org/web/20140511060430id_/http://ichooseinfinity.com:80/dr-top50/",
+      "replay_url": "https://web.archive.org/web/20140511060430/http://ichooseinfinity.com:80/dr-top50/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060435",
+      "original": "http://ichooseinfinity.com:80/globally-connected-restaurant/",
+      "archive_url": "https://web.archive.org/web/20140511060435id_/http://ichooseinfinity.com:80/globally-connected-restaurant/",
+      "replay_url": "https://web.archive.org/web/20140511060435/http://ichooseinfinity.com:80/globally-connected-restaurant/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060440",
+      "original": "http://ichooseinfinity.com:80/growing-communities/",
+      "archive_url": "https://web.archive.org/web/20140511060440id_/http://ichooseinfinity.com:80/growing-communities/",
+      "replay_url": "https://web.archive.org/web/20140511060440/http://ichooseinfinity.com:80/growing-communities/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060445",
+      "original": "http://ichooseinfinity.com:80/infinity-awards/",
+      "archive_url": "https://web.archive.org/web/20140511060445id_/http://ichooseinfinity.com:80/infinity-awards/",
+      "replay_url": "https://web.archive.org/web/20140511060445/http://ichooseinfinity.com:80/infinity-awards/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060450",
+      "original": "http://ichooseinfinity.com:80/infinitylist01/",
+      "archive_url": "https://web.archive.org/web/20140511060450id_/http://ichooseinfinity.com:80/infinitylist01/",
+      "replay_url": "https://web.archive.org/web/20140511060450/http://ichooseinfinity.com:80/infinitylist01/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060455",
+      "original": "http://ichooseinfinity.com:80/life-onsurance-club/",
+      "archive_url": "https://web.archive.org/web/20140511060455id_/http://ichooseinfinity.com:80/life-onsurance-club/",
+      "replay_url": "https://web.archive.org/web/20140511060455/http://ichooseinfinity.com:80/life-onsurance-club/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060500",
+      "original": "http://ichooseinfinity.com:80/list-building-101/",
+      "archive_url": "https://web.archive.org/web/20140511060500id_/http://ichooseinfinity.com:80/list-building-101/",
+      "replay_url": "https://web.archive.org/web/20140511060500/http://ichooseinfinity.com:80/list-building-101/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060505",
+      "original": "http://ichooseinfinity.com:80/open-letter-to-everyone/",
+      "archive_url": "https://web.archive.org/web/20140511060505id_/http://ichooseinfinity.com:80/open-letter-to-everyone/",
+      "replay_url": "https://web.archive.org/web/20140511060505/http://ichooseinfinity.com:80/open-letter-to-everyone/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39444,
+      "sha256": "77b90d3c481ad7f9e4ec58a72606c3cb68d19ddbd97f89e45c053e514bbf7367",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060511",
+      "original": "http://ichooseinfinity.com:80/press-releases/",
+      "archive_url": "https://web.archive.org/web/20140511060511id_/http://ichooseinfinity.com:80/press-releases/",
+      "replay_url": "https://web.archive.org/web/20140511060511/http://ichooseinfinity.com:80/press-releases/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 35419,
+      "sha256": "99325010a1607f77cc5f55dc126e0e0db752d690bda09dffe42deaf20dc9d159",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060515",
+      "original": "http://ichooseinfinity.com:80/prize1/",
+      "archive_url": "https://web.archive.org/web/20140511060515id_/http://ichooseinfinity.com:80/prize1/",
+      "replay_url": "https://web.archive.org/web/20140511060515/http://ichooseinfinity.com:80/prize1/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 35747,
+      "sha256": "54cc33ded0f50bdaa45e892b1f17842fadefc098d6720e17b845c32aaa270c04",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060520",
+      "original": "http://ichooseinfinity.com:80/prize6/",
+      "archive_url": "https://web.archive.org/web/20140511060520id_/http://ichooseinfinity.com:80/prize6/",
+      "replay_url": "https://web.archive.org/web/20140511060520/http://ichooseinfinity.com:80/prize6/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060526",
+      "original": "http://ichooseinfinity.com:80/questions/",
+      "archive_url": "https://web.archive.org/web/20140511060526id_/http://ichooseinfinity.com:80/questions/",
+      "replay_url": "https://web.archive.org/web/20140511060526/http://ichooseinfinity.com:80/questions/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060531",
+      "original": "http://ichooseinfinity.com:80/time-share-roster/",
+      "archive_url": "https://web.archive.org/web/20140511060531id_/http://ichooseinfinity.com:80/time-share-roster/",
+      "replay_url": "https://web.archive.org/web/20140511060531/http://ichooseinfinity.com:80/time-share-roster/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060536",
+      "original": "http://ichooseinfinity.com:80/verse-box-pattern/",
+      "archive_url": "https://web.archive.org/web/20140511060536id_/http://ichooseinfinity.com:80/verse-box-pattern/",
+      "replay_url": "https://web.archive.org/web/20140511060536/http://ichooseinfinity.com:80/verse-box-pattern/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060541",
+      "original": "http://ichooseinfinity.com:80/video-downloads/",
+      "archive_url": "https://web.archive.org/web/20140511060541id_/http://ichooseinfinity.com:80/video-downloads/",
+      "replay_url": "https://web.archive.org/web/20140511060541/http://ichooseinfinity.com:80/video-downloads/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060546",
+      "original": "http://ichooseinfinity.com:80/video-playlists/",
+      "archive_url": "https://web.archive.org/web/20140511060546id_/http://ichooseinfinity.com:80/video-playlists/",
+      "replay_url": "https://web.archive.org/web/20140511060546/http://ichooseinfinity.com:80/video-playlists/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060702",
+      "original": "http://ichooseinfinity.com:80/barcoding/",
+      "archive_url": "https://web.archive.org/web/20140511060702id_/http://ichooseinfinity.com:80/barcoding/",
+      "replay_url": "https://web.archive.org/web/20140511060702/http://ichooseinfinity.com:80/barcoding/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 36730,
+      "sha256": "102ebc55db4e142238ff33b8ebde54577cae1ab1cd5ef837d4c563f85e07a2b2",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060707",
+      "original": "http://ichooseinfinity.com:80/carnival-of-infinity/",
+      "archive_url": "https://web.archive.org/web/20140511060707id_/http://ichooseinfinity.com:80/carnival-of-infinity/",
+      "replay_url": "https://web.archive.org/web/20140511060707/http://ichooseinfinity.com:80/carnival-of-infinity/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060713",
+      "original": "http://ichooseinfinity.com:80/celebrities/",
+      "archive_url": "https://web.archive.org/web/20140511060713id_/http://ichooseinfinity.com:80/celebrities/",
+      "replay_url": "https://web.archive.org/web/20140511060713/http://ichooseinfinity.com:80/celebrities/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060718",
+      "original": "http://ichooseinfinity.com:80/codeing-consciousness/",
+      "archive_url": "https://web.archive.org/web/20140511060718id_/http://ichooseinfinity.com:80/codeing-consciousness/",
+      "replay_url": "https://web.archive.org/web/20140511060718/http://ichooseinfinity.com:80/codeing-consciousness/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060727",
+      "original": "http://ichooseinfinity.com:80/community/p-a-f-projects/disaster-resilience-event/",
+      "archive_url": "https://web.archive.org/web/20140511060727id_/http://ichooseinfinity.com:80/community/p-a-f-projects/disaster-resilience-event/",
+      "replay_url": "https://web.archive.org/web/20140511060727/http://ichooseinfinity.com:80/community/p-a-f-projects/disaster-resilience-event/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060732",
+      "original": "http://ichooseinfinity.com:80/digital-recording-editing-artist/",
+      "archive_url": "https://web.archive.org/web/20140511060732id_/http://ichooseinfinity.com:80/digital-recording-editing-artist/",
+      "replay_url": "https://web.archive.org/web/20140511060732/http://ichooseinfinity.com:80/digital-recording-editing-artist/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060738",
+      "original": "http://ichooseinfinity.com:80/dinner-date-with-infinity/",
+      "archive_url": "https://web.archive.org/web/20140511060738id_/http://ichooseinfinity.com:80/dinner-date-with-infinity/",
+      "replay_url": "https://web.archive.org/web/20140511060738/http://ichooseinfinity.com:80/dinner-date-with-infinity/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060743",
+      "original": "http://ichooseinfinity.com:80/drugs/",
+      "archive_url": "https://web.archive.org/web/20140511060743id_/http://ichooseinfinity.com:80/drugs/",
+      "replay_url": "https://web.archive.org/web/20140511060743/http://ichooseinfinity.com:80/drugs/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060748",
+      "original": "http://ichooseinfinity.com:80/infinity-lists/",
+      "archive_url": "https://web.archive.org/web/20140511060748id_/http://ichooseinfinity.com:80/infinity-lists/",
+      "replay_url": "https://web.archive.org/web/20140511060748/http://ichooseinfinity.com:80/infinity-lists/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060752",
+      "original": "http://ichooseinfinity.com:80/infinity-mentors/",
+      "archive_url": "https://web.archive.org/web/20140511060752id_/http://ichooseinfinity.com:80/infinity-mentors/",
+      "replay_url": "https://web.archive.org/web/20140511060752/http://ichooseinfinity.com:80/infinity-mentors/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060758",
+      "original": "http://ichooseinfinity.com:80/infinitylist08/",
+      "archive_url": "https://web.archive.org/web/20140511060758id_/http://ichooseinfinity.com:80/infinitylist08/",
+      "replay_url": "https://web.archive.org/web/20140511060758/http://ichooseinfinity.com:80/infinitylist08/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060803",
+      "original": "http://ichooseinfinity.com:80/lukes-daily/",
+      "archive_url": "https://web.archive.org/web/20140511060803id_/http://ichooseinfinity.com:80/lukes-daily/",
+      "replay_url": "https://web.archive.org/web/20140511060803/http://ichooseinfinity.com:80/lukes-daily/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060808",
+      "original": "http://ichooseinfinity.com:80/open-letter-index/",
+      "archive_url": "https://web.archive.org/web/20140511060808id_/http://ichooseinfinity.com:80/open-letter-index/",
+      "replay_url": "https://web.archive.org/web/20140511060808/http://ichooseinfinity.com:80/open-letter-index/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 37268,
+      "sha256": "5126b609d3b1c04b0c495f8f6634f6c62a155277bb2f9c65148d638e37b83a84",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060813",
+      "original": "http://ichooseinfinity.com:80/patterns-of-observation/",
+      "archive_url": "https://web.archive.org/web/20140511060813id_/http://ichooseinfinity.com:80/patterns-of-observation/",
+      "replay_url": "https://web.archive.org/web/20140511060813/http://ichooseinfinity.com:80/patterns-of-observation/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 49204,
+      "sha256": "0c4ca2f76727865b02c568a2d1fc3bb87ad5242b99bc5e7997993f3962f1a098",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060818",
+      "original": "http://ichooseinfinity.com:80/patterns-of-technology/",
+      "archive_url": "https://web.archive.org/web/20140511060818id_/http://ichooseinfinity.com:80/patterns-of-technology/",
+      "replay_url": "https://web.archive.org/web/20140511060818/http://ichooseinfinity.com:80/patterns-of-technology/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39439,
+      "sha256": "3d6a5d37aef2ab527e84b8baefcd7b94d3024b3afa1bdcd80c3c6da49f596b2f",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060823",
+      "original": "http://ichooseinfinity.com:80/plan-01/",
+      "archive_url": "https://web.archive.org/web/20140511060823id_/http://ichooseinfinity.com:80/plan-01/",
+      "replay_url": "https://web.archive.org/web/20140511060823/http://ichooseinfinity.com:80/plan-01/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 35378,
+      "sha256": "e7f4aefd69c53930a37679718b12e5b77dc537ec5459bd77d2124e7cb4acb9c0",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060831",
+      "original": "http://ichooseinfinity.com:80/plan-03/",
+      "archive_url": "https://web.archive.org/web/20140511060831id_/http://ichooseinfinity.com:80/plan-03/",
+      "replay_url": "https://web.archive.org/web/20140511060831/http://ichooseinfinity.com:80/plan-03/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 37448,
+      "sha256": "feb012377fb1c54fd2499951571ab5c6169e88186584e2915a39a77ad0cea369",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060837",
+      "original": "http://ichooseinfinity.com:80/prize2/",
+      "archive_url": "https://web.archive.org/web/20140511060837id_/http://ichooseinfinity.com:80/prize2/",
+      "replay_url": "https://web.archive.org/web/20140511060837/http://ichooseinfinity.com:80/prize2/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 36072,
+      "sha256": "cf38e385e9c754f60b86b3fc00b24dbcd673999a883a1abb5901e556a2d1b55f",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060842",
+      "original": "http://ichooseinfinity.com:80/prize3/",
+      "archive_url": "https://web.archive.org/web/20140511060842id_/http://ichooseinfinity.com:80/prize3/",
+      "replay_url": "https://web.archive.org/web/20140511060842/http://ichooseinfinity.com:80/prize3/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 40420,
+      "sha256": "fb69b699bbf951f076bcc7f28e70501b27385d1ac39b7f03339b8e6a1602b7be",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060847",
+      "original": "http://ichooseinfinity.com:80/prize4/",
+      "archive_url": "https://web.archive.org/web/20140511060847id_/http://ichooseinfinity.com:80/prize4/",
+      "replay_url": "https://web.archive.org/web/20140511060847/http://ichooseinfinity.com:80/prize4/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060852",
+      "original": "http://ichooseinfinity.com:80/prize5/",
+      "archive_url": "https://web.archive.org/web/20140511060852id_/http://ichooseinfinity.com:80/prize5/",
+      "replay_url": "https://web.archive.org/web/20140511060852/http://ichooseinfinity.com:80/prize5/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 35086,
+      "sha256": "94e185b0aa5c5716ae5726d2eceb3534cc5adeff35f7f24d8c6f7570be7d8224",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511060857",
+      "original": "http://ichooseinfinity.com:80/scientific-self-analysis/",
+      "archive_url": "https://web.archive.org/web/20140511060857id_/http://ichooseinfinity.com:80/scientific-self-analysis/",
+      "replay_url": "https://web.archive.org/web/20140511060857/http://ichooseinfinity.com:80/scientific-self-analysis/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060902",
+      "original": "http://ichooseinfinity.com:80/shuck-internations-meetups/",
+      "archive_url": "https://web.archive.org/web/20140511060902id_/http://ichooseinfinity.com:80/shuck-internations-meetups/",
+      "replay_url": "https://web.archive.org/web/20140511060902/http://ichooseinfinity.com:80/shuck-internations-meetups/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060907",
+      "original": "http://ichooseinfinity.com:80/tables-of-consciousness/",
+      "archive_url": "https://web.archive.org/web/20140511060907id_/http://ichooseinfinity.com:80/tables-of-consciousness/",
+      "replay_url": "https://web.archive.org/web/20140511060907/http://ichooseinfinity.com:80/tables-of-consciousness/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060912",
+      "original": "http://ichooseinfinity.com:80/urgent-notice/",
+      "archive_url": "https://web.archive.org/web/20140511060912id_/http://ichooseinfinity.com:80/urgent-notice/",
+      "replay_url": "https://web.archive.org/web/20140511060912/http://ichooseinfinity.com:80/urgent-notice/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060918",
+      "original": "http://ichooseinfinity.com:80/visualization/",
+      "archive_url": "https://web.archive.org/web/20140511060918id_/http://ichooseinfinity.com:80/visualization/",
+      "replay_url": "https://web.archive.org/web/20140511060918/http://ichooseinfinity.com:80/visualization/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060923",
+      "original": "http://ichooseinfinity.com:80/collaborative-spaces/",
+      "archive_url": "https://web.archive.org/web/20140511060923id_/http://ichooseinfinity.com:80/collaborative-spaces/",
+      "replay_url": "https://web.archive.org/web/20140511060923/http://ichooseinfinity.com:80/collaborative-spaces/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060928",
+      "original": "http://ichooseinfinity.com:80/homelessness/",
+      "archive_url": "https://web.archive.org/web/20140511060928id_/http://ichooseinfinity.com:80/homelessness/",
+      "replay_url": "https://web.archive.org/web/20140511060928/http://ichooseinfinity.com:80/homelessness/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060933",
+      "original": "http://ichooseinfinity.com:80/income-streams/",
+      "archive_url": "https://web.archive.org/web/20140511060933id_/http://ichooseinfinity.com:80/income-streams/",
+      "replay_url": "https://web.archive.org/web/20140511060933/http://ichooseinfinity.com:80/income-streams/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060938",
+      "original": "http://ichooseinfinity.com:80/infinity-world-series-challenges/",
+      "archive_url": "https://web.archive.org/web/20140511060938id_/http://ichooseinfinity.com:80/infinity-world-series-challenges/",
+      "replay_url": "https://web.archive.org/web/20140511060938/http://ichooseinfinity.com:80/infinity-world-series-challenges/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060943",
+      "original": "http://ichooseinfinity.com:80/infinitylist03/",
+      "archive_url": "https://web.archive.org/web/20140511060943id_/http://ichooseinfinity.com:80/infinitylist03/",
+      "replay_url": "https://web.archive.org/web/20140511060943/http://ichooseinfinity.com:80/infinitylist03/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060948",
+      "original": "http://ichooseinfinity.com:80/infinitylist04/",
+      "archive_url": "https://web.archive.org/web/20140511060948id_/http://ichooseinfinity.com:80/infinitylist04/",
+      "replay_url": "https://web.archive.org/web/20140511060948/http://ichooseinfinity.com:80/infinitylist04/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060953",
+      "original": "http://ichooseinfinity.com:80/infinitylist09/",
+      "archive_url": "https://web.archive.org/web/20140511060953id_/http://ichooseinfinity.com:80/infinitylist09/",
+      "replay_url": "https://web.archive.org/web/20140511060953/http://ichooseinfinity.com:80/infinitylist09/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511060959",
+      "original": "http://ichooseinfinity.com:80/international-travel/",
+      "archive_url": "https://web.archive.org/web/20140511060959id_/http://ichooseinfinity.com:80/international-travel/",
+      "replay_url": "https://web.archive.org/web/20140511060959/http://ichooseinfinity.com:80/international-travel/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061003",
+      "original": "http://ichooseinfinity.com:80/jamespeetmbrc/",
+      "archive_url": "https://web.archive.org/web/20140511061003id_/http://ichooseinfinity.com:80/jamespeetmbrc/",
+      "replay_url": "https://web.archive.org/web/20140511061003/http://ichooseinfinity.com:80/jamespeetmbrc/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061008",
+      "original": "http://ichooseinfinity.com:80/key-probono-roles/",
+      "archive_url": "https://web.archive.org/web/20140511061008id_/http://ichooseinfinity.com:80/key-probono-roles/",
+      "replay_url": "https://web.archive.org/web/20140511061008/http://ichooseinfinity.com:80/key-probono-roles/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061013",
+      "original": "http://ichooseinfinity.com:80/membership-crowdfunding-campaigner/",
+      "archive_url": "https://web.archive.org/web/20140511061013id_/http://ichooseinfinity.com:80/membership-crowdfunding-campaigner/",
+      "replay_url": "https://web.archive.org/web/20140511061013/http://ichooseinfinity.com:80/membership-crowdfunding-campaigner/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061023",
+      "original": "http://ichooseinfinity.com:80/my-hopes-and-fears/",
+      "archive_url": "https://web.archive.org/web/20140511061023id_/http://ichooseinfinity.com:80/my-hopes-and-fears/",
+      "replay_url": "https://web.archive.org/web/20140511061023/http://ichooseinfinity.com:80/my-hopes-and-fears/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 34237,
+      "sha256": "d0efb9f8ec0a7319dce2d164a8a70b7f1a24a2a52ac073d587dc7d14dadf9966",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511061028",
+      "original": "http://ichooseinfinity.com:80/my-music-log/",
+      "archive_url": "https://web.archive.org/web/20140511061028id_/http://ichooseinfinity.com:80/my-music-log/",
+      "replay_url": "https://web.archive.org/web/20140511061028/http://ichooseinfinity.com:80/my-music-log/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061033",
+      "original": "http://ichooseinfinity.com:80/national-tour/",
+      "archive_url": "https://web.archive.org/web/20140511061033id_/http://ichooseinfinity.com:80/national-tour/",
+      "replay_url": "https://web.archive.org/web/20140511061033/http://ichooseinfinity.com:80/national-tour/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 38893,
+      "sha256": "59a9c9e43075c7bcd29c5d95a5095d6f077764f9cec655b3cd420bfe6ad151b1",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511061043",
+      "original": "http://ichooseinfinity.com:80/rethinking-solar-maximum/",
+      "archive_url": "https://web.archive.org/web/20140511061043id_/http://ichooseinfinity.com:80/rethinking-solar-maximum/",
+      "replay_url": "https://web.archive.org/web/20140511061043/http://ichooseinfinity.com:80/rethinking-solar-maximum/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 37995,
+      "sha256": "cd97a8c6122f412558664b774cfc120cdd6054be095cf74608887c5f12d92d2e",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140511061048",
+      "original": "http://ichooseinfinity.com:80/university-of-infinity/",
+      "archive_url": "https://web.archive.org/web/20140511061048id_/http://ichooseinfinity.com:80/university-of-infinity/",
+      "replay_url": "https://web.archive.org/web/20140511061048/http://ichooseinfinity.com:80/university-of-infinity/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140511061053",
+      "original": "http://ichooseinfinity.com:80/verse-box/",
+      "archive_url": "https://web.archive.org/web/20140511061053id_/http://ichooseinfinity.com:80/verse-box/",
+      "replay_url": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com:80/verse-box/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140608050659",
+      "original": "http://ichooseinfinity.com:80/nsi-community-events/",
+      "archive_url": "https://web.archive.org/web/20140608050659id_/http://ichooseinfinity.com:80/nsi-community-events/",
+      "replay_url": "https://web.archive.org/web/20140608050659/http://ichooseinfinity.com:80/nsi-community-events/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 39737,
+      "sha256": "5b62ba5f2e2452b3088d2aed536e6c912770402f76d07a3a0e8f90506cd6171e",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140609045414",
+      "original": "http://ichooseinfinity.com:80/commissions/",
+      "archive_url": "https://web.archive.org/web/20140609045414id_/http://ichooseinfinity.com:80/commissions/",
+      "replay_url": "https://web.archive.org/web/20140609045414/http://ichooseinfinity.com:80/commissions/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140610021950",
+      "original": "http://ichooseinfinity.com:80/community/p-a-f-projects/camera-glasses-deal/",
+      "archive_url": "https://web.archive.org/web/20140610021950id_/http://ichooseinfinity.com:80/community/p-a-f-projects/camera-glasses-deal/",
+      "replay_url": "https://web.archive.org/web/20140610021950/http://ichooseinfinity.com:80/community/p-a-f-projects/camera-glasses-deal/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140613043434",
+      "original": "http://ichooseinfinity.com:80/digital-marketing-campaigner/",
+      "archive_url": "https://web.archive.org/web/20140613043434id_/http://ichooseinfinity.com:80/digital-marketing-campaigner/",
+      "replay_url": "https://web.archive.org/web/20140613043434/http://ichooseinfinity.com:80/digital-marketing-campaigner/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 36646,
+      "sha256": "3bf2864ffc8abce4cd2beb2068bf6f5b5abee0bfa30b3004e86d40094326ea93",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140613065353",
+      "original": "http://ichooseinfinity.com:80/wp-content/uploads/2014/06/new-ichooseinfinity-index.xlsx",
+      "archive_url": "https://web.archive.org/web/20140613065353id_/http://ichooseinfinity.com:80/wp-content/uploads/2014/06/new-ichooseinfinity-index.xlsx",
+      "replay_url": "https://web.archive.org/web/20140613065353/http://ichooseinfinity.com:80/wp-content/uploads/2014/06/new-ichooseinfinity-index.xlsx",
+      "status": "download_available_for_validation",
+      "initial_recovery_manifest_success": false
+    },
+    {
+      "timestamp": "20140613072235",
+      "original": "http://ichooseinfinity.com:80/coding-consciousness/",
+      "archive_url": "https://web.archive.org/web/20140613072235id_/http://ichooseinfinity.com:80/coding-consciousness/",
+      "replay_url": "https://web.archive.org/web/20140613072235/http://ichooseinfinity.com:80/coding-consciousness/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140613184212",
+      "original": "http://ichooseinfinity.com:80/infinitylist10/",
+      "archive_url": "https://web.archive.org/web/20140613184212id_/http://ichooseinfinity.com:80/infinitylist10/",
+      "replay_url": "https://web.archive.org/web/20140613184212/http://ichooseinfinity.com:80/infinitylist10/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140616123814",
+      "original": "http://ichooseinfinity.com:80/support-ichooseinfinity/",
+      "archive_url": "https://web.archive.org/web/20140616123814id_/http://ichooseinfinity.com:80/support-ichooseinfinity/",
+      "replay_url": "https://web.archive.org/web/20140616123814/http://ichooseinfinity.com:80/support-ichooseinfinity/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 41447,
+      "sha256": "6c2534dfd80040f4d0c08409a87288622b1b73ec2e7bd8b1b75e2040f02ab9c2",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140705125339",
+      "original": "http://ichooseinfinity.com:80/why1500/",
+      "archive_url": "https://web.archive.org/web/20140705125339id_/http://ichooseinfinity.com:80/why1500/",
+      "replay_url": "https://web.archive.org/web/20140705125339/http://ichooseinfinity.com:80/why1500/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140705125521",
+      "original": "http://ichooseinfinity.com:80/community/p-a-f-projects/humanhive/",
+      "archive_url": "https://web.archive.org/web/20140705125521id_/http://ichooseinfinity.com:80/community/p-a-f-projects/humanhive/",
+      "replay_url": "https://web.archive.org/web/20140705125521/http://ichooseinfinity.com:80/community/p-a-f-projects/humanhive/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140705234228",
+      "original": "http://ichooseinfinity.com:80/event-services/the-infinity-choice/",
+      "archive_url": "https://web.archive.org/web/20140705234228id_/http://ichooseinfinity.com:80/event-services/the-infinity-choice/",
+      "replay_url": "https://web.archive.org/web/20140705234228/http://ichooseinfinity.com:80/event-services/the-infinity-choice/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140710104410",
+      "original": "http://ichooseinfinity.com:80/nsi-community-produce-garden/",
+      "archive_url": "https://web.archive.org/web/20140710104410id_/http://ichooseinfinity.com:80/nsi-community-produce-garden/",
+      "replay_url": "https://web.archive.org/web/20140710104410/http://ichooseinfinity.com:80/nsi-community-produce-garden/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 43146,
+      "sha256": "92375ef754c0f0c87cce8089f7a6b189a0c2da2de5bc2a76a8024d90561617be",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140718033621",
+      "original": "http://ichooseinfinity.com:80/mind-maps/",
+      "archive_url": "https://web.archive.org/web/20140718033621id_/http://ichooseinfinity.com:80/mind-maps/",
+      "replay_url": "https://web.archive.org/web/20140718033621/http://ichooseinfinity.com:80/mind-maps/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140718145316",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/",
+      "archive_url": "https://web.archive.org/web/20140718145316id_/http://ichooseinfinity.com:80/the-conversation-starter/",
+      "replay_url": "https://web.archive.org/web/20140718145316/http://ichooseinfinity.com:80/the-conversation-starter/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719045232",
+      "original": "http://ichooseinfinity.com:80/community/p-a-f-projects/",
+      "archive_url": "https://web.archive.org/web/20140719045232id_/http://ichooseinfinity.com:80/community/p-a-f-projects/",
+      "replay_url": "https://web.archive.org/web/20140719045232/http://ichooseinfinity.com:80/community/p-a-f-projects/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055107",
+      "original": "http://ichooseinfinity.com:80/blog-by-luke/",
+      "archive_url": "https://web.archive.org/web/20140719055107id_/http://ichooseinfinity.com:80/blog-by-luke/",
+      "replay_url": "https://web.archive.org/web/20140719055107/http://ichooseinfinity.com:80/blog-by-luke/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 56377,
+      "sha256": "b95b9a4d7d9de2149f45a608128f09585aa250be5b19f4a1e8c96b3572956e69",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140719055119",
+      "original": "http://ichooseinfinity.com:80/community/",
+      "archive_url": "https://web.archive.org/web/20140719055119id_/http://ichooseinfinity.com:80/community/",
+      "replay_url": "https://web.archive.org/web/20140719055119/http://ichooseinfinity.com:80/community/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055124",
+      "original": "http://ichooseinfinity.com:80/community/about-luke/",
+      "archive_url": "https://web.archive.org/web/20140719055124id_/http://ichooseinfinity.com:80/community/about-luke/",
+      "replay_url": "https://web.archive.org/web/20140719055124/http://ichooseinfinity.com:80/community/about-luke/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 44492,
+      "sha256": "744eb44137a8a54e9ce51ef6baf92332448ae64271f4dbe6275b3af8046b133b",
+      "initial_recovery_manifest_success": false
+    },
+    {
+      "timestamp": "20140719055129",
+      "original": "http://ichooseinfinity.com:80/community/get-involved/",
+      "archive_url": "https://web.archive.org/web/20140719055129id_/http://ichooseinfinity.com:80/community/get-involved/",
+      "replay_url": "https://web.archive.org/web/20140719055129/http://ichooseinfinity.com:80/community/get-involved/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055134",
+      "original": "http://ichooseinfinity.com:80/community/what-we-do/",
+      "archive_url": "https://web.archive.org/web/20140719055134id_/http://ichooseinfinity.com:80/community/what-we-do/",
+      "replay_url": "https://web.archive.org/web/20140719055134/http://ichooseinfinity.com:80/community/what-we-do/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055139",
+      "original": "http://ichooseinfinity.com:80/daily-observations/",
+      "archive_url": "https://web.archive.org/web/20140719055139id_/http://ichooseinfinity.com:80/daily-observations/",
+      "replay_url": "https://web.archive.org/web/20140719055139/http://ichooseinfinity.com:80/daily-observations/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055144",
+      "original": "http://ichooseinfinity.com:80/downloads/",
+      "archive_url": "https://web.archive.org/web/20140719055144id_/http://ichooseinfinity.com:80/downloads/",
+      "replay_url": "https://web.archive.org/web/20140719055144/http://ichooseinfinity.com:80/downloads/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055149",
+      "original": "http://ichooseinfinity.com:80/event-services/",
+      "archive_url": "https://web.archive.org/web/20140719055149id_/http://ichooseinfinity.com:80/event-services/",
+      "replay_url": "https://web.archive.org/web/20140719055149/http://ichooseinfinity.com:80/event-services/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055154",
+      "original": "http://ichooseinfinity.com:80/event-services/conscience-delivery/",
+      "archive_url": "https://web.archive.org/web/20140719055154id_/http://ichooseinfinity.com:80/event-services/conscience-delivery/",
+      "replay_url": "https://web.archive.org/web/20140719055154/http://ichooseinfinity.com:80/event-services/conscience-delivery/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055201",
+      "original": "http://ichooseinfinity.com:80/event-services/our-infinite-future/",
+      "archive_url": "https://web.archive.org/web/20140719055201id_/http://ichooseinfinity.com:80/event-services/our-infinite-future/",
+      "replay_url": "https://web.archive.org/web/20140719055201/http://ichooseinfinity.com:80/event-services/our-infinite-future/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055211",
+      "original": "http://ichooseinfinity.com:80/free-trade/",
+      "archive_url": "https://web.archive.org/web/20140719055211id_/http://ichooseinfinity.com:80/free-trade/",
+      "replay_url": "https://web.archive.org/web/20140719055211/http://ichooseinfinity.com:80/free-trade/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055216",
+      "original": "http://ichooseinfinity.com:80/hybrid-global-event-facilitator/",
+      "archive_url": "https://web.archive.org/web/20140719055216id_/http://ichooseinfinity.com:80/hybrid-global-event-facilitator/",
+      "replay_url": "https://web.archive.org/web/20140719055216/http://ichooseinfinity.com:80/hybrid-global-event-facilitator/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055221",
+      "original": "http://ichooseinfinity.com:80/ihatemyjob/",
+      "archive_url": "https://web.archive.org/web/20140719055221id_/http://ichooseinfinity.com:80/ihatemyjob/",
+      "replay_url": "https://web.archive.org/web/20140719055221/http://ichooseinfinity.com:80/ihatemyjob/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055227",
+      "original": "http://ichooseinfinity.com:80/patterns-of-consciousness/",
+      "archive_url": "https://web.archive.org/web/20140719055227id_/http://ichooseinfinity.com:80/patterns-of-consciousness/",
+      "replay_url": "https://web.archive.org/web/20140719055227/http://ichooseinfinity.com:80/patterns-of-consciousness/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 40306,
+      "sha256": "864ba1d6b60eefbc1d12e453cf90e229440d3d1ad87d82c0d9f8181843f35fbe",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20140719055231",
+      "original": "http://ichooseinfinity.com:80/social-media-feeds/",
+      "archive_url": "https://web.archive.org/web/20140719055231id_/http://ichooseinfinity.com:80/social-media-feeds/",
+      "replay_url": "https://web.archive.org/web/20140719055231/http://ichooseinfinity.com:80/social-media-feeds/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055236",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/",
+      "archive_url": "https://web.archive.org/web/20140719055236id_/http://ichooseinfinity.com:80/stories-of-reality/",
+      "replay_url": "https://web.archive.org/web/20140719055236/http://ichooseinfinity.com:80/stories-of-reality/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055242",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/conscious-digital-perspectives/",
+      "archive_url": "https://web.archive.org/web/20140719055242id_/http://ichooseinfinity.com:80/stories-of-reality/conscious-digital-perspectives/",
+      "replay_url": "https://web.archive.org/web/20140719055242/http://ichooseinfinity.com:80/stories-of-reality/conscious-digital-perspectives/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055247",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/omniconscious-perspective/",
+      "archive_url": "https://web.archive.org/web/20140719055247id_/http://ichooseinfinity.com:80/stories-of-reality/omniconscious-perspective/",
+      "replay_url": "https://web.archive.org/web/20140719055247/http://ichooseinfinity.com:80/stories-of-reality/omniconscious-perspective/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055252",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/selfconscious-perspectives/",
+      "archive_url": "https://web.archive.org/web/20140719055252id_/http://ichooseinfinity.com:80/stories-of-reality/selfconscious-perspectives/",
+      "replay_url": "https://web.archive.org/web/20140719055252/http://ichooseinfinity.com:80/stories-of-reality/selfconscious-perspectives/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055256",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/social-conscious-perspectives/",
+      "archive_url": "https://web.archive.org/web/20140719055256id_/http://ichooseinfinity.com:80/stories-of-reality/social-conscious-perspectives/",
+      "replay_url": "https://web.archive.org/web/20140719055256/http://ichooseinfinity.com:80/stories-of-reality/social-conscious-perspectives/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055301",
+      "original": "http://ichooseinfinity.com:80/stories-of-reality/subconscious-perspectives/",
+      "archive_url": "https://web.archive.org/web/20140719055301id_/http://ichooseinfinity.com:80/stories-of-reality/subconscious-perspectives/",
+      "replay_url": "https://web.archive.org/web/20140719055301/http://ichooseinfinity.com:80/stories-of-reality/subconscious-perspectives/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055306",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/awareness-of-the-infinite/",
+      "archive_url": "https://web.archive.org/web/20140719055306id_/http://ichooseinfinity.com:80/the-conversation-starter/awareness-of-the-infinite/",
+      "replay_url": "https://web.archive.org/web/20140719055306/http://ichooseinfinity.com:80/the-conversation-starter/awareness-of-the-infinite/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055312",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/common-law/",
+      "archive_url": "https://web.archive.org/web/20140719055312id_/http://ichooseinfinity.com:80/the-conversation-starter/common-law/",
+      "replay_url": "https://web.archive.org/web/20140719055312/http://ichooseinfinity.com:80/the-conversation-starter/common-law/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055316",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/participatory-society/",
+      "archive_url": "https://web.archive.org/web/20140719055316id_/http://ichooseinfinity.com:80/the-conversation-starter/participatory-society/",
+      "replay_url": "https://web.archive.org/web/20140719055316/http://ichooseinfinity.com:80/the-conversation-starter/participatory-society/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055321",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/statutory-law/",
+      "archive_url": "https://web.archive.org/web/20140719055321id_/http://ichooseinfinity.com:80/the-conversation-starter/statutory-law/",
+      "replay_url": "https://web.archive.org/web/20140719055321/http://ichooseinfinity.com:80/the-conversation-starter/statutory-law/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055326",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/universal-law/",
+      "archive_url": "https://web.archive.org/web/20140719055326id_/http://ichooseinfinity.com:80/the-conversation-starter/universal-law/",
+      "replay_url": "https://web.archive.org/web/20140719055326/http://ichooseinfinity.com:80/the-conversation-starter/universal-law/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055331",
+      "original": "http://ichooseinfinity.com:80/the-conversation-starter/whole-system-change/",
+      "archive_url": "https://web.archive.org/web/20140719055331id_/http://ichooseinfinity.com:80/the-conversation-starter/whole-system-change/",
+      "replay_url": "https://web.archive.org/web/20140719055331/http://ichooseinfinity.com:80/the-conversation-starter/whole-system-change/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20140719055437",
+      "original": "http://ichooseinfinity.com:80/win-win-win/",
+      "archive_url": "https://web.archive.org/web/20140719055437id_/http://ichooseinfinity.com:80/win-win-win/",
+      "replay_url": "https://web.archive.org/web/20140719055437/http://ichooseinfinity.com:80/win-win-win/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20141217165438",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20141217165438id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20141217165438/http://ichooseinfinity.com/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 4142,
+      "sha256": "d4f741e61d35131cd8b0aa4db403ecabbddf6ddf65451e89ca591a44dfed1a02",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20150311052201",
+      "original": "http://ichooseinfinity.com:80/",
+      "archive_url": "https://web.archive.org/web/20150311052201id_/http://ichooseinfinity.com:80/",
+      "replay_url": "https://web.archive.org/web/20150311052201/http://ichooseinfinity.com:80/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 6661,
+      "sha256": "6279f93c96dcb1b00e5f98834fa1f281af8ea99a42aab01596710f0f31912ed5",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20151122170720",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20151122170720id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20151122170720/http://ichooseinfinity.com/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 23527,
+      "sha256": "7f45dbd831a350f0f54d795795e2b79a2ea1e39f4254a21ffb27451964b40e68",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20151125212857",
+      "original": "http://ichooseinfinity.com:80/luke-hayes/",
+      "archive_url": "https://web.archive.org/web/20151125212857id_/http://ichooseinfinity.com:80/luke-hayes/",
+      "replay_url": "https://web.archive.org/web/20151125212857/http://ichooseinfinity.com:80/luke-hayes/",
+      "status": "not_recovered_in_network_snapshot"
+    },
+    {
+      "timestamp": "20151226162330",
+      "original": "http://ichooseinfinity.com:80/",
+      "archive_url": "https://web.archive.org/web/20151226162330id_/http://ichooseinfinity.com:80/",
+      "replay_url": "https://web.archive.org/web/20151226162330/http://ichooseinfinity.com:80/",
+      "status": "retrieved_not_mirrored",
+      "reason": "empty_or_error_response",
+      "bytes": 303,
+      "sha256": "f9063f4180223d559c3783cae2fb539ce7086840d09a0f72d59fbd02587801a6",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20160110054935",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20160110054935id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20160110054935/http://ichooseinfinity.com/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 14754,
+      "sha256": "e652b7be1d4726f136712f7e45b055ebaef12750c53fd36d436d16eef5eb7d8f",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20160311155239",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20160311155239id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20160311155239/http://ichooseinfinity.com/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 16249,
+      "sha256": "aef0d15d1c8609fca24c33a5e419b6775babb4499f71cab553e8c218a53be9d8",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20160401085028",
+      "original": "http://ichooseinfinity.com/amazon-bookstore/",
+      "archive_url": "https://web.archive.org/web/20160401085028id_/http://ichooseinfinity.com/amazon-bookstore/",
+      "replay_url": "https://web.archive.org/web/20160401085028/http://ichooseinfinity.com/amazon-bookstore/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 15482,
+      "sha256": "6fd91aacb893a286935f1f076f825baa25fafd20f615faf20142bd95c776e288",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20160401090100",
+      "original": "http://ichooseinfinity.com/about/",
+      "archive_url": "https://web.archive.org/web/20160401090100id_/http://ichooseinfinity.com/about/",
+      "replay_url": "https://web.archive.org/web/20160401090100/http://ichooseinfinity.com/about/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 19596,
+      "sha256": "b7846be2ca296bdb33a9234bd83e2660bd788d3d1c9886235c440e638dcd786a",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20161004155955",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20161004155955id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20161004155955/http://ichooseinfinity.com/",
+      "status": "mirrored",
+      "reason": null,
+      "bytes": 22345,
+      "sha256": "928270ff3f92eb8ceacaca77829ae2f8348a51bed9bf2100ae0c76929337e834",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20170222131537",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20170222131537id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20170222131537/http://ichooseinfinity.com/",
+      "status": "retrieved_not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "bytes": 5600,
+      "sha256": "ec1d709fbceee837580a7dc0c6d55da75362af357e639c51cec1d9aaf95a27c6",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20180315095735",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20180315095735id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20180315095735/http://ichooseinfinity.com/",
+      "status": "retrieved_not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "bytes": 65797,
+      "sha256": "744eb3f5e4d57d20f5cd8c0feb276aeec6ad9f2789f3fbead19e1f8b767dac60",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20180807100145",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20180807100145id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20180807100145/http://ichooseinfinity.com/",
+      "status": "retrieved_not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "bytes": 5767,
+      "sha256": "a48f64b38bd91fc1aec4c88e4720eb5090fe2c078207aaf6d464a64b51a21b87",
+      "initial_recovery_manifest_success": true
+    },
+    {
+      "timestamp": "20181227041342",
+      "original": "http://ichooseinfinity.com/",
+      "archive_url": "https://web.archive.org/web/20181227041342id_/http://ichooseinfinity.com/",
+      "replay_url": "https://web.archive.org/web/20181227041342/http://ichooseinfinity.com/",
+      "status": "retrieved_not_mirrored",
+      "reason": "empty_or_error_response",
+      "bytes": 389,
+      "sha256": "88a1b20cc0c8b6b4bf5b91f68ed278306208fb21cee8a934a68d1da541d7e51f",
+      "initial_recovery_manifest_success": true
+    }
+  ],
+  "local_cache_records": [
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140222194910/http://ichooseinfinity.com/",
+      "bytes": 49810,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "1f6873e4efcba38fe54b8971661c8f1d3b532903cedf1acb1625b99ebb4e4c0b"
+    },
+    {
+      "capture_timestamp": "20240707061842",
+      "original_url": "http://ichooseinfinity.com/wp-content/themes/twentythirteen/fonts/genericons.css?ver=2.09",
+      "cache_entry_public_url": "https://web.archive.org/web/20240707061842cs_/http://ichooseinfinity.com/wp-content/themes/twentythirteen/fonts/genericons.css?ver=2.09",
+      "bytes": 687,
+      "status": "not_mirrored",
+      "reason": "capture_outside_2013_2019_scope"
+    },
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/urgent-notice/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140222194910/http://ichooseinfinity.com/urgent-notice/feed/",
+      "bytes": 151112,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "84dba35cca277eab64d5a639e4680d5e76a68a8bb9d3e9b8f40888301e5b36af"
+    },
+    {
+      "capture_timestamp": "20150424085310",
+      "original_url": "http://ichooseinfinity.com/wp-content/themes/twentythirteen/style.css?ver=2013-07-18",
+      "cache_entry_public_url": "https://web.archive.org/web/20150424085310cs_/http://ichooseinfinity.com/wp-content/themes/twentythirteen/style.css?ver=2013-07-18",
+      "bytes": 55434,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140222194910/http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "bytes": 151169,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "affaa52cf817c4f86d26326852e06dc855d14833ebc2dfd7ecbc621114b495a3"
+    },
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140222194910im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "bytes": 150990,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140222194910im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091215",
+      "original_url": "http://ichooseinfinity.com/wp-login.php",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091215/http://ichooseinfinity.com/wp-login.php",
+      "bytes": 4223,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "18edc134e0f740899876b5f2f35be1e514c6e37be7e354032936669816bdffb5"
+    },
+    {
+      "capture_timestamp": "20240707061922",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/ici04-Joint-Venture-Partners-Advertise-Here..jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20240707061922im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/ici04-Joint-Venture-Partners-Advertise-Here..jpg",
+      "bytes": 114,
+      "status": "not_mirrored",
+      "reason": "capture_outside_2013_2019_scope"
+    },
+    {
+      "capture_timestamp": "20150424085310",
+      "original_url": "http://ichooseinfinity.com/wp-content/themes/twentythirteen/images/search-icon-2x.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20150424085310im_/http://ichooseinfinity.com/wp-content/themes/twentythirteen/images/search-icon-2x.png",
+      "bytes": 151015,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20150424085310",
+      "original_url": "http://ichooseinfinity.com/wp-content/themes/twentythirteen/images/dotted-line-2x.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20150424085310im_/http://ichooseinfinity.com/wp-content/themes/twentythirteen/images/dotted-line-2x.png",
+      "bytes": 151015,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108084342",
+      "original_url": "http://ichooseinfinity.com/dr-top50/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084342/http://ichooseinfinity.com/dr-top50/",
+      "bytes": 50276,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "f8dee0ea54949da569877a29502e7eee8a14ca278a8753a4029e970a02c88c0e"
+    },
+    {
+      "capture_timestamp": "20140108091107",
+      "original_url": "http://ichooseinfinity.com/instant-volution/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091107/http://ichooseinfinity.com/instant-volution/",
+      "bytes": 41928,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "0bc503fc9db52831c16a885d49d06a4bab7c6aab0d2781ae4b0c7e7fae927764"
+    },
+    {
+      "capture_timestamp": "20140106163142",
+      "original_url": "http://ichooseinfinity.com/win-win-win/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106163142/http://ichooseinfinity.com/win-win-win/",
+      "bytes": 38110,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "58c940a5c149a24c78b025e5c894458db9239c2acadff3b768711efc2c642e2e"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701/http://ichooseinfinity.com/the-conversation-starter/",
+      "bytes": 51922,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "a74cf79fc6ae5dfe3d25276a952bb0dd81166e16f962af0d37727d6ec1d7d56d"
+    },
+    {
+      "capture_timestamp": "20140106122930",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/awareness-of-the-infinite/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106122930/http://ichooseinfinity.com/the-conversation-starter/awareness-of-the-infinite/",
+      "bytes": 39710,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "05134eaba019ef03370dafa7e381853711a75c0a71fca6f98cfd2f9e380df30a"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/universal-law/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121/http://ichooseinfinity.com/the-conversation-starter/universal-law/",
+      "bytes": 41705,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "a7e0251ba199426a0be46ee0c11e5d0135cb046d34911cff2c05edb7dcf007c1"
+    },
+    {
+      "capture_timestamp": "20140106214954",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/common-law/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214954/http://ichooseinfinity.com/the-conversation-starter/common-law/",
+      "bytes": 42455,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "a8f0a18d4c84a1bb1ef3886620bfec6105152ca384155887457dcceb8b6b95d7"
+    },
+    {
+      "capture_timestamp": "20140106123605",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/statutory-law/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106123605/http://ichooseinfinity.com/the-conversation-starter/statutory-law/",
+      "bytes": 41171,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "2a5283fbc4c4b341ad9507b88adcbda0ad5e545208718d6de0fc46e695396340"
+    },
+    {
+      "capture_timestamp": "20140106115126",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/whole-system-change/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115126/http://ichooseinfinity.com/the-conversation-starter/whole-system-change/",
+      "bytes": 41283,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "6ffd30cb428f5a9e33fbc42be69f8248ffa1c3a4b1c26d5492c9c03d7933be9f"
+    },
+    {
+      "capture_timestamp": "20140106115116",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/participatory-society/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115116/http://ichooseinfinity.com/the-conversation-starter/participatory-society/",
+      "bytes": 41968,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "232dc8dffa93597e6f517a5f473b1a303ebbf01ea3856f84ab3d22c74deeca8d"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/stories-of-reality/",
+      "bytes": 41782,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "8035ebb720e1ab1ac12c77ea1e3be02a49479dc19ed7eebad41c6f2b195617b2"
+    },
+    {
+      "capture_timestamp": "20140106113516",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/selfconscious-perspectives/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113516/http://ichooseinfinity.com/stories-of-reality/selfconscious-perspectives/",
+      "bytes": 39968,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "19ca40e63543d0e02922ae6f5792de933d660b83ff1ace0e82c67177bc9297fd"
+    },
+    {
+      "capture_timestamp": "20140106214858",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/social-conscious-perspectives/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214858/http://ichooseinfinity.com/stories-of-reality/social-conscious-perspectives/",
+      "bytes": 39377,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "c6f98034b98a359bbd9a1ac0d387e4e66522920efe806763b49d09606df8b5c8"
+    },
+    {
+      "capture_timestamp": "20140106115110",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/subconscious-perspectives/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115110/http://ichooseinfinity.com/stories-of-reality/subconscious-perspectives/",
+      "bytes": 40285,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "b532ce8070c68579384acd0821d92c2e04ee1f161cc410eb9692b4eafe4069fb"
+    },
+    {
+      "capture_timestamp": "20140106214853",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/omniconscious-perspective/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214853/http://ichooseinfinity.com/stories-of-reality/omniconscious-perspective/",
+      "bytes": 41832,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "eacd6f50239a8edaf0281f8525bf0b5e87b24fb441d04cfcffbca38383851f99"
+    },
+    {
+      "capture_timestamp": "20140106115105",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/conscious-digital-perspectives/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115105/http://ichooseinfinity.com/stories-of-reality/conscious-digital-perspectives/",
+      "bytes": 37755,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "366dac554a45588c62723ddf206b00b9a9f47a78228788dc790932718efb5ef4"
+    },
+    {
+      "capture_timestamp": "20140106113726",
+      "original_url": "http://ichooseinfinity.com/community/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113726/http://ichooseinfinity.com/community/",
+      "bytes": 48364,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "8769241fc2f7647e009e2a5d9b663c4372d9c62696d6bb9c6794c1bbdb35a3e4"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/community/about-us/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com/community/about-us/",
+      "bytes": 40457,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "943c8b828b9ea2244f9f18e014c33a1248d3bd098e8a4287f34a05bcd8fa3f28"
+    },
+    {
+      "capture_timestamp": "20140106214837",
+      "original_url": "http://ichooseinfinity.com/community/what-we-do/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214837/http://ichooseinfinity.com/community/what-we-do/",
+      "bytes": 38200,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "a209e323d294df67025142abb169f35bdeabc4a1d2c16269004671afa75e648d"
+    },
+    {
+      "capture_timestamp": "20140106050320",
+      "original_url": "http://ichooseinfinity.com/community/p-a-f-projects/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106050320/http://ichooseinfinity.com/community/p-a-f-projects/",
+      "bytes": 48289,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "e796e1ff9675c10491535773f765403e93f0b6cc2b88aeaa85ed009806295039"
+    },
+    {
+      "capture_timestamp": "20140106113450",
+      "original_url": "http://ichooseinfinity.com/daily-observations/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113450/http://ichooseinfinity.com/daily-observations/",
+      "bytes": 44280,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "d370d20a332e3c05761999e17ef35a3b54030b80800a7e48f1fea16f805cf068"
+    },
+    {
+      "capture_timestamp": "20140106113438",
+      "original_url": "http://ichooseinfinity.com/community/get-involved/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113438/http://ichooseinfinity.com/community/get-involved/",
+      "bytes": 41779,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "532a6d17c90f2a69971df1afab66568f599b22e782d083eecbd924280a6b57cb"
+    },
+    {
+      "capture_timestamp": "20140106115040",
+      "original_url": "http://ichooseinfinity.com/event-services/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115040/http://ichooseinfinity.com/event-services/",
+      "bytes": 39940,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "e92264715fc6edacc9320c28bd0eaf9a7220bc5532a1c48250775b1d62e515aa"
+    },
+    {
+      "capture_timestamp": "20140106115045",
+      "original_url": "http://ichooseinfinity.com/event-services/conscience-delivery/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115045/http://ichooseinfinity.com/event-services/conscience-delivery/",
+      "bytes": 39017,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "e9ff1cb27a8797ca7f43155019403a64340ed86f523eeff0890d7e2f12e860d4"
+    },
+    {
+      "capture_timestamp": "20140106115050",
+      "original_url": "http://ichooseinfinity.com/event-services/the-infinity-choice/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115050/http://ichooseinfinity.com/event-services/the-infinity-choice/",
+      "bytes": 43637,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "dc21f8f136abbb41c1601786b613ef601a6a76643f3d5f6b55f70ac57a1d9d2d"
+    },
+    {
+      "capture_timestamp": "20140106214852",
+      "original_url": "http://ichooseinfinity.com/event-services/our-infinite-future/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214852/http://ichooseinfinity.com/event-services/our-infinite-future/",
+      "bytes": 42278,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "f420d2d6c81167cc3f6ca323ccbfd0083716655e2d153a2e4511dbdd4ffb2397"
+    },
+    {
+      "capture_timestamp": "20140106214842",
+      "original_url": "http://ichooseinfinity.com/downloads/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214842/http://ichooseinfinity.com/downloads/",
+      "bytes": 39015,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "ac5eda71c95c59332e3b4accd1ba3cb96060685afd488293c4d2db1882e8eda9"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/ihatemyjob/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/ihatemyjob/",
+      "bytes": 41065,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "4ec9cdfe8fc93661cf91413643dda625dd9544d8989adec72ca31e9525bd6805"
+    },
+    {
+      "capture_timestamp": "20140510144929",
+      "original_url": "http://ichooseinfinity.com/mind-maps/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140510144929/http://ichooseinfinity.com/mind-maps/",
+      "bytes": 52645,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "85e924aecde2fa1e607677d6e36d3272b9933b1993535f746b308fa7d1488c13"
+    },
+    {
+      "capture_timestamp": "20140106113502",
+      "original_url": "http://ichooseinfinity.com/social-media-feeds/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113502/http://ichooseinfinity.com/social-media-feeds/",
+      "bytes": 39767,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "6ed723b01b4f0ee01b22e52e69b17351de5a68c9c52e35c3ff4eb6483b60fb22"
+    },
+    {
+      "capture_timestamp": "20140106113521",
+      "original_url": "http://ichooseinfinity.com/support-ichooseinfinity/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113521/http://ichooseinfinity.com/support-ichooseinfinity/",
+      "bytes": 50570,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "3146cce0e43b0ac589c2720db7f7044ed233b67ac25fd948c4c97c75e0274387"
+    },
+    {
+      "capture_timestamp": "20140511060505",
+      "original_url": "http://ichooseinfinity.com/open-letter-to-everyone/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060505/http://ichooseinfinity.com/open-letter-to-everyone/",
+      "bytes": 50229,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "44d103faa0b39fee8739a6fc99183d2ed69cfab0f4de87bae5cbce8826b46df2"
+    },
+    {
+      "capture_timestamp": "20140108084412",
+      "original_url": "http://ichooseinfinity.com/national-tour/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084412/http://ichooseinfinity.com/national-tour/",
+      "bytes": 44036,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "78238a5328b5e8bb9f3822c2bb861f3725ffc12a77067fd3464d1f05572565a1"
+    },
+    {
+      "capture_timestamp": "20140108084537",
+      "original_url": "http://ichooseinfinity.com/prize-crowdfunding-information/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084537/http://ichooseinfinity.com/prize-crowdfunding-information/",
+      "bytes": 45206,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "1b901050ed24256a851e8efc03d78005c3e7b18b0440618ee76488b7259de39e"
+    },
+    {
+      "capture_timestamp": "20140719080521",
+      "original_url": "http://ichooseinfinity.com/plan-02/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140719080521/http://ichooseinfinity.com/plan-02/",
+      "bytes": 7190,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "d3ca9e7ffabf06890bd9d1031f4ad6fd3a33253b9607c724f9bf61e997d9bb95"
+    },
+    {
+      "capture_timestamp": "20140108091052",
+      "original_url": "http://ichooseinfinity.com/infinity-lists/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091052/http://ichooseinfinity.com/infinity-lists/",
+      "bytes": 41456,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "cc612090e6b945f4f87573cd32df39ef6b04dc2d6278b0e7e5327219039be673"
+    },
+    {
+      "capture_timestamp": "20140511055807",
+      "original_url": "http://ichooseinfinity.com/potential-collaborators/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055807/http://ichooseinfinity.com/potential-collaborators/",
+      "bytes": 49835,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "16c50060a16cea36a351a642f5a466013e02acbd234cad1109e1664d477ddd39"
+    },
+    {
+      "capture_timestamp": "20140125093821",
+      "original_url": "http://ichooseinfinity.com/australian-law/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140125093821/http://ichooseinfinity.com/australian-law/",
+      "bytes": 42990,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "bc1ee6ee863662c8103bcac0a225773dd93671db43d8dccf1c5794a4c157d61e"
+    },
+    {
+      "capture_timestamp": "20140108091010",
+      "original_url": "http://ichooseinfinity.com/barcoding/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091010/http://ichooseinfinity.com/barcoding/",
+      "bytes": 41918,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "bcabebe5e7e2beab23a6ece1d48aa754640fbe6a209525467423ba026632684e"
+    },
+    {
+      "capture_timestamp": "20140108091016",
+      "original_url": "http://ichooseinfinity.com/bodyboarding-locations/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091016/http://ichooseinfinity.com/bodyboarding-locations/",
+      "bytes": 51905,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "cd0958d30f3709e6a45df2d34d8e56fc09c83004249d5ec5624d6914a8074367"
+    },
+    {
+      "capture_timestamp": "20140108084331",
+      "original_url": "http://ichooseinfinity.com/celebrities/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084331/http://ichooseinfinity.com/celebrities/",
+      "bytes": 38974,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "b57456df74f342f07d430c48e810dc525804d9ad065c4e47b5574a311b7e7715"
+    },
+    {
+      "capture_timestamp": "20140511060923",
+      "original_url": "http://ichooseinfinity.com/collaborative-spaces/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060923/http://ichooseinfinity.com/collaborative-spaces/",
+      "bytes": 49064,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "8931bc8ef0b00440b7546f3d5873e9a08110c5248565e8818e6e1fede19add52"
+    },
+    {
+      "capture_timestamp": "20140108084451",
+      "original_url": "http://ichooseinfinity.com/commissions/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084451/http://ichooseinfinity.com/commissions/",
+      "bytes": 46944,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "cbd8ab04b2f4eeae1fed0bc655563a8ec1429ec309f1f744fd8067ce165c698b"
+    },
+    {
+      "capture_timestamp": "20140108091021",
+      "original_url": "http://ichooseinfinity.com/community/p-a-f-projects/camera-glasses-deal/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091021/http://ichooseinfinity.com/community/p-a-f-projects/camera-glasses-deal/",
+      "bytes": 42807,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "caed04afd4816713c27b9600e3f1398d1cc2460599dcd13e4f6b7865109e18f5"
+    },
+    {
+      "capture_timestamp": "20140108203526",
+      "original_url": "http://ichooseinfinity.com/community/p-a-f-projects/disaster-resilience-event/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203526/http://ichooseinfinity.com/community/p-a-f-projects/disaster-resilience-event/",
+      "bytes": 40256,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "9145d35be8c0e0ef40045454a13cdfdcabe815dbb980182aae069dae45eefa50"
+    },
+    {
+      "capture_timestamp": "20140108091026",
+      "original_url": "http://ichooseinfinity.com/community/p-a-f-projects/humanhive/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091026/http://ichooseinfinity.com/community/p-a-f-projects/humanhive/",
+      "bytes": 47602,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "f237f6d96a7d8ee03dd9503a9c9240e026f785e728541c49da060d8db7e8af21"
+    },
+    {
+      "capture_timestamp": "20140106113443",
+      "original_url": "http://ichooseinfinity.com/comprehending-infinity/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113443/http://ichooseinfinity.com/comprehending-infinity/",
+      "bytes": 39900,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "06c7e80b9b6a45742cab17c70761ed3c79f4c4585e7c09001a4700707314a593"
+    },
+    {
+      "capture_timestamp": "20140108084337",
+      "original_url": "http://ichooseinfinity.com/daily-observations-by-luke/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084337/http://ichooseinfinity.com/daily-observations-by-luke/",
+      "bytes": 39775,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "afe3625c673490a0d7a9f11519570ff2eada0fac758f75338b5f860573ad8da2"
+    },
+    {
+      "capture_timestamp": "20140108091032",
+      "original_url": "http://ichooseinfinity.com/digital-marketing-campaigner/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091032/http://ichooseinfinity.com/digital-marketing-campaigner/",
+      "bytes": 41419,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "4a809ceab9e50769414a33914088b2dd2c7b8c60e79c6528ce6ea87dcf81d403"
+    },
+    {
+      "capture_timestamp": "20140108084457",
+      "original_url": "http://ichooseinfinity.com/digital-recording-editing-artist/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084457/http://ichooseinfinity.com/digital-recording-editing-artist/",
+      "bytes": 41375,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "ffc47fe0ec98ea8651e03212a304eaee76b049f4629d9e584ea9bb5457842ce3"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/downloads/image-gallery/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427/http://ichooseinfinity.com/downloads/image-gallery/",
+      "bytes": 46583,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "aa600fbb0d319b0af5106f3e783776ed3b8004db4fddefe94d3163f0d46d7c31"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/downloads/promotional-tools/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/downloads/promotional-tools/",
+      "bytes": 42557,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "e234b4538416b302488d9f85b2be32657bf3ac2d453cb3f74af38fb89b29dd5f"
+    },
+    {
+      "capture_timestamp": "20140108084502",
+      "original_url": "http://ichooseinfinity.com/drugs/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084502/http://ichooseinfinity.com/drugs/",
+      "bytes": 39157,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "17373458b05ee135e2b2f2631af80fa56f4f20fed60efc55941258f1816fe04f"
+    },
+    {
+      "capture_timestamp": "20140511055719",
+      "original_url": "http://ichooseinfinity.com/encoding-music/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055719/http://ichooseinfinity.com/encoding-music/",
+      "bytes": 48483,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "3bd4f5f686079701cec73bdccab68bc6801232db27a2e8820625af5f1f6b5137"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/example-dynamic-questionnaire/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042/http://ichooseinfinity.com/example-dynamic-questionnaire/",
+      "bytes": 44399,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "95beb97f8e8294aeaeb416c88a18cda8adf1d6907a5d0b9c4e2254bfa27bc1d7"
+    },
+    {
+      "capture_timestamp": "20140205065443",
+      "original_url": "http://ichooseinfinity.com/fiverr-wishlist/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140205065443/http://ichooseinfinity.com/fiverr-wishlist/",
+      "bytes": 52937,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "15702136adf9bb94f0929f978ea86b665ce6ccd1a5a814a42e645e6f5ee04e92"
+    },
+    {
+      "capture_timestamp": "20140108091047",
+      "original_url": "http://ichooseinfinity.com/fractal-display-script/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091047/http://ichooseinfinity.com/fractal-display-script/",
+      "bytes": 39222,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "0e7addb5048b61486dc647ca475b78bcce02ec7131a063dbd7316309f74ba687"
+    },
+    {
+      "capture_timestamp": "20140108084512",
+      "original_url": "http://ichooseinfinity.com/glasses-and-smartphones/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084512/http://ichooseinfinity.com/glasses-and-smartphones/",
+      "bytes": 39209,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "bd39053f4d39f8bcb6ba95807d6ee16f09ff18f60c3d124c41a8def00a4a1e9e"
+    },
+    {
+      "capture_timestamp": "20140108203533",
+      "original_url": "http://ichooseinfinity.com/globally-connected-restaurant/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203533/http://ichooseinfinity.com/globally-connected-restaurant/",
+      "bytes": 40695,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "5a321a0793a3397a45240dfa1091573b90c77fefa79a7132e3132e03978b8870"
+    },
+    {
+      "capture_timestamp": "20140108084347",
+      "original_url": "http://ichooseinfinity.com/hybrid-global-event-facilitator/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084347/http://ichooseinfinity.com/hybrid-global-event-facilitator/",
+      "bytes": 40485,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "3bc09dedc4db44a4d391a6ad8e7c694fee00aa2d027d9823845299509d7b734d"
+    },
+    {
+      "capture_timestamp": "20140108084517",
+      "original_url": "http://ichooseinfinity.com/growing-communities/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084517/http://ichooseinfinity.com/growing-communities/",
+      "bytes": 39645,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "b0a3d9e4fff706ce7dd1169dfc9cd831619b413c6fcfaeb63b92ccb0978a6cd5"
+    },
+    {
+      "capture_timestamp": "20140511060933",
+      "original_url": "http://ichooseinfinity.com/income-streams/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060933/http://ichooseinfinity.com/income-streams/",
+      "bytes": 52012,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "b6685d70422b52085876b388bc0c881ddcfe8201a7e625d1b965b3626c7ecf8b"
+    },
+    {
+      "capture_timestamp": "20140108203432",
+      "original_url": "http://ichooseinfinity.com/infinity-awards/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203432/http://ichooseinfinity.com/infinity-awards/",
+      "bytes": 41315,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "ccaccc5954c947131d9d0e96047418140ea92775e84362549d28dea8e3470d91"
+    },
+    {
+      "capture_timestamp": "20140511060752",
+      "original_url": "http://ichooseinfinity.com/infinity-mentors/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060752/http://ichooseinfinity.com/infinity-mentors/",
+      "bytes": 45754,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "5396275bac094c4a52e7f0ca1e1f601efef1f388ec9b12c9ef90851d8e43574f"
+    },
+    {
+      "capture_timestamp": "20140108084522",
+      "original_url": "http://ichooseinfinity.com/infinity-world-series-challenges/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084522/http://ichooseinfinity.com/infinity-world-series-challenges/",
+      "bytes": 39759,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "1c844a20e4530db61f081b7bc3dab63979b053a2f3cfcd026d67e15bff2fcd6b"
+    },
+    {
+      "capture_timestamp": "20140108203537",
+      "original_url": "http://ichooseinfinity.com/infinitylist01/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203537/http://ichooseinfinity.com/infinitylist01/",
+      "bytes": 40284,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "67cb595207e6a0d2d88df135a054c719f66b0c4288545106ad812b7dcf212812"
+    },
+    {
+      "capture_timestamp": "20140108203542",
+      "original_url": "http://ichooseinfinity.com/infinitylist02/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203542/http://ichooseinfinity.com/infinitylist02/",
+      "bytes": 40206,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "60dfb080c17006f141e96fbaaa8eb4b2df88555ab8c5880a45553c8f7b93c816"
+    },
+    {
+      "capture_timestamp": "20140108091057",
+      "original_url": "http://ichooseinfinity.com/infinitylist04/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091057/http://ichooseinfinity.com/infinitylist04/",
+      "bytes": 37407,
+      "status": "not_mirrored",
+      "reason": "placeholder_or_minimal_navigation",
+      "sha256": "7b29a91c564276ed0741a8948c80d30499865b483ef35c3a94f55425e911bc32"
+    },
+    {
+      "capture_timestamp": "20140108084352",
+      "original_url": "http://ichooseinfinity.com/infinitylist03/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084352/http://ichooseinfinity.com/infinitylist03/",
+      "bytes": 39355,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "3e334d0099cc5e5fff42bc7014e460e50a59db7492fe52d9c5305acbe2b666b9"
+    },
+    {
+      "capture_timestamp": "20140108084357",
+      "original_url": "http://ichooseinfinity.com/infinitylist08/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084357/http://ichooseinfinity.com/infinitylist08/",
+      "bytes": 39807,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "d2c58fe3380f933e6331d0bd35862ef821e637bcc8888c4360c294b5b5275536"
+    },
+    {
+      "capture_timestamp": "20140108084402",
+      "original_url": "http://ichooseinfinity.com/infinitylist09/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084402/http://ichooseinfinity.com/infinitylist09/",
+      "bytes": 39301,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "9f11ec78a3bbb943df1f7474a11f136e293ca3b81a933f1f3f510421389c4277"
+    },
+    {
+      "capture_timestamp": "20140108091102",
+      "original_url": "http://ichooseinfinity.com/infinitylist10/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091102/http://ichooseinfinity.com/infinitylist10/",
+      "bytes": 39086,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "677be4cf9396fb49bc8511cf8efe1671e1ce94cfce861a8df41f6bfd04146b48"
+    },
+    {
+      "capture_timestamp": "20140108203437",
+      "original_url": "http://ichooseinfinity.com/infinitylist11/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203437/http://ichooseinfinity.com/infinitylist11/",
+      "bytes": 39234,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "fe7393a5525fe44beb3fa91f5c58a73df9bf281e3b930c775d63d439052d8cf6"
+    },
+    {
+      "capture_timestamp": "20140108203547",
+      "original_url": "http://ichooseinfinity.com/international-travel/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203547/http://ichooseinfinity.com/international-travel/",
+      "bytes": 42732,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "7cbf504109b326eb46226442470c64d3382b685ce8232a4718cf171751f54e77"
+    },
+    {
+      "capture_timestamp": "20140108084407",
+      "original_url": "http://ichooseinfinity.com/internations-meetup/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084407/http://ichooseinfinity.com/internations-meetup/",
+      "bytes": 39210,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "d07c78bd25627b5e5c6038c21ae95cf5f0553e63f2fe771e51c804de937da01d"
+    },
+    {
+      "capture_timestamp": "20140108084527",
+      "original_url": "http://ichooseinfinity.com/key-probono-roles/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084527/http://ichooseinfinity.com/key-probono-roles/",
+      "bytes": 44949,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "47627a2335395008833ff9fffa39c49de8965b3f6d63c771e3ab057d30ce1230"
+    },
+    {
+      "capture_timestamp": "20140125093826",
+      "original_url": "http://ichooseinfinity.com/jamespeetmbrc/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140125093826/http://ichooseinfinity.com/jamespeetmbrc/",
+      "bytes": 51311,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "9b01b097fc7a42949693dda802fc3e20ea8b3002404da28fd003b64ae7a3d9c1"
+    },
+    {
+      "capture_timestamp": "20140108091112",
+      "original_url": "http://ichooseinfinity.com/key-roles/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091112/http://ichooseinfinity.com/key-roles/",
+      "bytes": 48806,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "7cd469954481be8d21891c4e568d779c4d50b4b01371b5077f89800effb04059"
+    },
+    {
+      "capture_timestamp": "20140108091122",
+      "original_url": "http://ichooseinfinity.com/life-onsurance-club/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091122/http://ichooseinfinity.com/life-onsurance-club/",
+      "bytes": 39592,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "810d14756dd1755c20aca72cefde938909f4eff111a847e9f43d291cf89cfaa3"
+    },
+    {
+      "capture_timestamp": "20140511060500",
+      "original_url": "http://ichooseinfinity.com/list-building-101/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060500/http://ichooseinfinity.com/list-building-101/",
+      "bytes": 46542,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "5acaba20917657817578a57600759b079dd9990cb87a26475556ed6a6eb03c25"
+    },
+    {
+      "capture_timestamp": "20140108084532",
+      "original_url": "http://ichooseinfinity.com/lukes-daily/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084532/http://ichooseinfinity.com/lukes-daily/",
+      "bytes": 38152,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "0c5936560d138264581d80e89d7eb02aa377d8bb302b68a8cd50a6b7ada47ccc"
+    },
+    {
+      "capture_timestamp": "20140108091122",
+      "original_url": "http://ichooseinfinity.com/membership-crowdfunding-campaigner/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091122/http://ichooseinfinity.com/membership-crowdfunding-campaigner/",
+      "bytes": 38786,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "17704658aa21da8eba50a672bfb937575049b0712f5d12da69d7611be5732219"
+    },
+    {
+      "capture_timestamp": "20140108203442",
+      "original_url": "http://ichooseinfinity.com/membership-levels/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203442/http://ichooseinfinity.com/membership-levels/",
+      "bytes": 44202,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "8f5a8ee5bed2bd1df049cb0ee04b5d9e3ddba44854c4c32c51c8fd12eb8769b7"
+    },
+    {
+      "capture_timestamp": "20140511060813",
+      "original_url": "http://ichooseinfinity.com/patterns-of-observation/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060813/http://ichooseinfinity.com/patterns-of-observation/",
+      "bytes": 62505,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "6926b71ea3d1834ddbb544b94aa40764da690b629e50f4e37b4e50e8735031c9"
+    },
+    {
+      "capture_timestamp": "20140108091133",
+      "original_url": "http://ichooseinfinity.com/my-music-log/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091133/http://ichooseinfinity.com/my-music-log/",
+      "bytes": 37462,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "4873e25b908cc73c3183d96d66d95cdd0a1e2ae096684c55d0a7aae693c02349"
+    },
+    {
+      "capture_timestamp": "20140108091127",
+      "original_url": "http://ichooseinfinity.com/mobile-sms-mms-campaigner/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091127/http://ichooseinfinity.com/mobile-sms-mms-campaigner/",
+      "bytes": 39562,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "c9d75d8f753b66517eaca3040a6558bad2ae108db7300a35dad135b5260da998"
+    },
+    {
+      "capture_timestamp": "20140511060808",
+      "original_url": "http://ichooseinfinity.com/open-letter-index/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060808/http://ichooseinfinity.com/open-letter-index/",
+      "bytes": 47573,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "9c1ae68b6de1827a4afdb90a9bf92156dd0309d837d8a12c57ea793703cdf9e9"
+    },
+    {
+      "capture_timestamp": "20140511060823",
+      "original_url": "http://ichooseinfinity.com/plan-01/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060823/http://ichooseinfinity.com/plan-01/",
+      "bytes": 46020,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "d70483689e12888f735eae32bfacfa7c87dce842035395f637914f669fa24362"
+    },
+    {
+      "capture_timestamp": "20140511060831",
+      "original_url": "http://ichooseinfinity.com/plan-03/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060831/http://ichooseinfinity.com/plan-03/",
+      "bytes": 47958,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "f6078ffe63ef0f7f46cd97e3f1283a04ee187e9bbc916b6e45acac8efbabdf6a"
+    },
+    {
+      "capture_timestamp": "20140108084417",
+      "original_url": "http://ichooseinfinity.com/press-releases/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084417/http://ichooseinfinity.com/press-releases/",
+      "bytes": 40529,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "d25920b8cd46d869ea11246813059e1f1eb33335a0ef213318c7e64c4454f4b3"
+    },
+    {
+      "capture_timestamp": "20140108203447",
+      "original_url": "http://ichooseinfinity.com/prize1/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203447/http://ichooseinfinity.com/prize1/",
+      "bytes": 40952,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "fa1bd49603d4a405064b854a2e1b18abf3bd10d4c8797b3e426a9cfb9c492e50"
+    },
+    {
+      "capture_timestamp": "20140108091138",
+      "original_url": "http://ichooseinfinity.com/prize2/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091138/http://ichooseinfinity.com/prize2/",
+      "bytes": 41274,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "b9283004ce25db5285b1ebb9e1a4d2b2666210bcf43638436c982eef4ac4775e"
+    },
+    {
+      "capture_timestamp": "20140108091143",
+      "original_url": "http://ichooseinfinity.com/prize3/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091143/http://ichooseinfinity.com/prize3/",
+      "bytes": 45556,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "08c7b81eba80e976398e40867d4a0d8b09024a2434ede92ebee61cab18bc3276"
+    },
+    {
+      "capture_timestamp": "20140108084422",
+      "original_url": "http://ichooseinfinity.com/prize4/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084422/http://ichooseinfinity.com/prize4/",
+      "bytes": 40731,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "9324fbad764093293482f0c36b16f4b59fa5324684ca24f88449c7884f647ab7"
+    },
+    {
+      "capture_timestamp": "20140108091148",
+      "original_url": "http://ichooseinfinity.com/prize5/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091148/http://ichooseinfinity.com/prize5/",
+      "bytes": 40155,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "58a3e2d8ea32a6af9937f02483a2828297000fd0c01026578a46df69f0d46980"
+    },
+    {
+      "capture_timestamp": "20140108091153",
+      "original_url": "http://ichooseinfinity.com/prize6/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091153/http://ichooseinfinity.com/prize6/",
+      "bytes": 40187,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "c6b8f626bb06edfb8d5f3aca382e45bb0ad431754a2bd1e68cf94c660d5ce754"
+    },
+    {
+      "capture_timestamp": "20140511055812",
+      "original_url": "http://ichooseinfinity.com/quantum-recording/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055812/http://ichooseinfinity.com/quantum-recording/",
+      "bytes": 43315,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "8850da37305a25bcbd266f775f31cfd2ac863205124e7917894e2de039020306"
+    },
+    {
+      "capture_timestamp": "20140511060526",
+      "original_url": "http://ichooseinfinity.com/questions/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060526/http://ichooseinfinity.com/questions/",
+      "bytes": 49037,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "96244a7db8087b9b5bf0024eed1c012dee2373b9bf3cb1f23ea7fd95c7fd1813"
+    },
+    {
+      "capture_timestamp": "20140511061043",
+      "original_url": "http://ichooseinfinity.com/rethinking-solar-maximum/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511061043/http://ichooseinfinity.com/rethinking-solar-maximum/",
+      "bytes": 48912,
+      "status": "not_mirrored",
+      "reason": "duplicate_capture_alternate_payload",
+      "sha256": "07e8ba5348229501dc5d98df9649ff60d2935dccfd4c1b72f8eea5724312b79c"
+    },
+    {
+      "capture_timestamp": "20140511060857",
+      "original_url": "http://ichooseinfinity.com/scientific-self-analysis/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060857/http://ichooseinfinity.com/scientific-self-analysis/",
+      "bytes": 44948,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "2684d5ef646cb494c8a1e4744ef732eb8b3d98d867279d6d6c8c456b8b3748be"
+    },
+    {
+      "capture_timestamp": "20140108091158",
+      "original_url": "http://ichooseinfinity.com/software-and-freeware/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091158/http://ichooseinfinity.com/software-and-freeware/",
+      "bytes": 38508,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "02222535f0cee10ff30899ceb20615e6b808fa49a4e710f13aa35acc6402cbad"
+    },
+    {
+      "capture_timestamp": "20140108084427",
+      "original_url": "http://ichooseinfinity.com/shuck-internations-meetups/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084427/http://ichooseinfinity.com/shuck-internations-meetups/",
+      "bytes": 39516,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "a4a4ec09640feb0acf8d605699017b08216085f7af339eccc70033376f929b80"
+    },
+    {
+      "capture_timestamp": "20140108084433",
+      "original_url": "http://ichooseinfinity.com/solar-maximum-dr/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084433/http://ichooseinfinity.com/solar-maximum-dr/",
+      "bytes": 44286,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "c7246d2e708d444a2c66a1c1b2877aff770bf83c0ec484a30579411d36e9c012"
+    },
+    {
+      "capture_timestamp": "20140511055828",
+      "original_url": "http://ichooseinfinity.com/spring-hill-brisbane/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055828/http://ichooseinfinity.com/spring-hill-brisbane/",
+      "bytes": 46172,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "658f5c1e07f14ee91a40f33f8ed66db91a7c2f844fc73ee4904770269f042d2b"
+    },
+    {
+      "capture_timestamp": "20140511060531",
+      "original_url": "http://ichooseinfinity.com/time-share-roster/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060531/http://ichooseinfinity.com/time-share-roster/",
+      "bytes": 47416,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "3900e62254d1200d59b69da083c88efc7645f1fb6731573bb0167bcff72e9062"
+    },
+    {
+      "capture_timestamp": "20140511055932",
+      "original_url": "http://ichooseinfinity.com/training-schedule/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055932/http://ichooseinfinity.com/training-schedule/",
+      "bytes": 59369,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "4152e7c4f6273db239ab9b05376574759536b22a4f846341d6e603deccb290f2"
+    },
+    {
+      "capture_timestamp": "20140108091203",
+      "original_url": "http://ichooseinfinity.com/transport-solutions/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091203/http://ichooseinfinity.com/transport-solutions/",
+      "bytes": 43088,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "0afcac5acdac26751c9c7f7eebc037b7acbbcfa7019b142dac7f02af1cda10f7"
+    },
+    {
+      "capture_timestamp": "20140511061048",
+      "original_url": "http://ichooseinfinity.com/university-of-infinity/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511061048/http://ichooseinfinity.com/university-of-infinity/",
+      "bytes": 48565,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "91cbc21bc14562d5120ccff1137c0ce5af4d90f00a13ec8bbe339c8ab07ddf73"
+    },
+    {
+      "capture_timestamp": "20140511061053",
+      "original_url": "http://ichooseinfinity.com/verse-box/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "bytes": 46070,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "23798203bcb9985ba68c077c2fa5c84a16857adb9e9a1ed76035403f47410bce"
+    },
+    {
+      "capture_timestamp": "20140511060536",
+      "original_url": "http://ichooseinfinity.com/verse-box-pattern/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060536/http://ichooseinfinity.com/verse-box-pattern/",
+      "bytes": 48450,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "4d8672b51d932f290ec050978044a4c682a90fc4c3898384338a5ef2ba34753f"
+    },
+    {
+      "capture_timestamp": "20140108084438",
+      "original_url": "http://ichooseinfinity.com/video-downloads/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084438/http://ichooseinfinity.com/video-downloads/",
+      "bytes": 37982,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "5084bead0219f65da4848fd7f74c130f9fd2ff760866a165f0f8015ae74de308"
+    },
+    {
+      "capture_timestamp": "20140705125339",
+      "original_url": "http://ichooseinfinity.com/why1500/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140705125339/http://ichooseinfinity.com/why1500/",
+      "bytes": 46903,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "96c68773ca6df16c3750d4ae9637bcb707c4ebace1b08efbb4bd977068dac0e8"
+    },
+    {
+      "capture_timestamp": "20140511060546",
+      "original_url": "http://ichooseinfinity.com/video-playlists/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060546/http://ichooseinfinity.com/video-playlists/",
+      "bytes": 45311,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "dd503e4685512ea7035bf80248206a2e2d985fae98f27394db1eb9021902275f"
+    },
+    {
+      "capture_timestamp": "20140511060918",
+      "original_url": "http://ichooseinfinity.com/visualization/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060918/http://ichooseinfinity.com/visualization/",
+      "bytes": 48506,
+      "status": "mirrored",
+      "reason": null,
+      "sha256": "c79b8ea4511f402b01cebfca03e7b7d0ef647023c66a59d17f611e1cc9734d71"
+    },
+    {
+      "capture_timestamp": "20140108091215",
+      "original_url": "http://ichooseinfinity.com/wp-includes/css/buttons.min.css?ver=3.6.1",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091215cs_/http://ichooseinfinity.com/wp-includes/css/buttons.min.css?ver=3.6.1",
+      "bytes": 150950,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091215",
+      "original_url": "http://ichooseinfinity.com/wp-admin/css/colors-fresh.min.css?ver=3.6.1",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091215cs_/http://ichooseinfinity.com/wp-admin/css/colors-fresh.min.css?ver=3.6.1",
+      "bytes": 150946,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108084342",
+      "original_url": "http://ichooseinfinity.com/dr-top50/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084342/http://ichooseinfinity.com/dr-top50/feed/",
+      "bytes": 151097,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "7dbcc6de97cecb3bec9c5b0aecc2fea0655b8bcdce4c6872250e4a5c71e42049"
+    },
+    {
+      "capture_timestamp": "20140108084342",
+      "original_url": "http://ichooseinfinity.com/dr-top50/?replytocom=90",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084342/http://ichooseinfinity.com/dr-top50/?replytocom=90",
+      "bytes": 151096,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "1a6372a51f5a0cedca2192695a37a787eff2cb35a0f7fb75ee5e064fdce1a6e8"
+    },
+    {
+      "capture_timestamp": "20140108091107",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/11/Volution.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091107im_/http://ichooseinfinity.com/wp-content/uploads/2013/11/Volution.jpg",
+      "bytes": 150970,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091107",
+      "original_url": "http://ichooseinfinity.com/instant-volution/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091107/http://ichooseinfinity.com/instant-volution/feed/",
+      "bytes": 151124,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "d63e146a1cecb3f0158725ebe45b86aeba12cd97cbab83be80c40717a6b50ebe"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Avaaz-images.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Avaaz-images.jpg",
+      "bytes": 150975,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106163142",
+      "original_url": "http://ichooseinfinity.com/win-win-win/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106163142/http://ichooseinfinity.com/win-win-win/feed/",
+      "bytes": 151106,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "1d91e8bc46ad8b1791fc724cba0bc112d50e7f360fd64d4afd7898f287b91dcf"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121/http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement.jpg",
+      "bytes": 151161,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a66dc7da74c60a37209aa8b51c3246b23d59fbdeb5d5048f0b27705413a12713"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement.jpg",
+      "bytes": 150983,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale.jpg",
+      "bytes": 151164,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "0c72c3ae1f60bacd7e40e614e5d673470fe5f6de12a03c2ce6e43f111d8ef644"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale.jpg",
+      "bytes": 150986,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/05-The-Vortex.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/05-The-Vortex.jpg",
+      "bytes": 150975,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population.png",
+      "bytes": 151170,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "942c92b69e6e57837bb522b2a9fb3947e391835df6c10ad8d7b1ab8e18d7673c"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population.png",
+      "bytes": 150992,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701/http://ichooseinfinity.com/the-conversation-starter/feed/",
+      "bytes": 151145,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "17a78d09fec931846b19f439a56e598872306e2a96dc3032820c0796fdb37add"
+    },
+    {
+      "capture_timestamp": "20140106214954",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/brisbane-city-council-yourvote-candidate-profiles.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214954/http://ichooseinfinity.com/wp-content/uploads/2013/09/brisbane-city-council-yourvote-candidate-profiles.jpg",
+      "bytes": 151189,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ed8ea95b906b756ab5608477384b126f2dd62375d135d071bbb19e3c47bde347"
+    },
+    {
+      "capture_timestamp": "20140106214954",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/brisbane-city-council-yourvote-candidate-profiles.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214954im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/brisbane-city-council-yourvote-candidate-profiles.jpg",
+      "bytes": 151011,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/?replytocom=149",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701/http://ichooseinfinity.com/the-conversation-starter/?replytocom=149",
+      "bytes": 151145,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "240963284e5b518e1212ba2e981a409ec330e3d385358fff7e8da3c9580a0bc0"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/?replytocom=154",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701/http://ichooseinfinity.com/the-conversation-starter/?replytocom=154",
+      "bytes": 151145,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "f2072f0bbf79ff6c0566af40f6b2f46e76c6306dce9d85a76567e1bd3c2418eb"
+    },
+    {
+      "capture_timestamp": "20140221015701",
+      "original_url": "http://ichooseinfinity.com/ausredcliffe/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140221015701/http://ichooseinfinity.com/ausredcliffe/",
+      "bytes": 151094,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "bd1f5bc4e3e5d2e2ac9c04e2871c10e4c840667fda71d8149e37c2297c3ee15f"
+    },
+    {
+      "capture_timestamp": "20140106123605",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Common-Law-Vs-Statutory-Law.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106123605/http://ichooseinfinity.com/wp-content/uploads/2013/09/Common-Law-Vs-Statutory-Law.pdf",
+      "bytes": 151167,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "f2acd846a98e39a9928f4d74724f68f89b1bc794f229f2450fe3aae10df1ed4a"
+    },
+    {
+      "capture_timestamp": "20140106123605",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/A-New-Notice-to-Govt-Short.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106123605/http://ichooseinfinity.com/wp-content/uploads/2013/09/A-New-Notice-to-Govt-Short.pdf",
+      "bytes": 151166,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "5017e66258f08d8b5a0d00e18d07c333a7665eb2cee9c329a580291fcf0f483c"
+    },
+    {
+      "capture_timestamp": "20140106115126",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Einstein-Quote.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115126/http://ichooseinfinity.com/wp-content/uploads/2013/09/Einstein-Quote.jpg",
+      "bytes": 151154,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ac29f651226228fe65a6a1a0bcb8a6ec067868980001594891c81dc91b89291f"
+    },
+    {
+      "capture_timestamp": "20140106115126",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Einstein-Quote.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115126im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Einstein-Quote.jpg",
+      "bytes": 150976,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115126",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/How-to-Facilitate-an-Infinite-Future-in-7-Steps.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115126/http://ichooseinfinity.com/wp-content/uploads/2013/09/How-to-Facilitate-an-Infinite-Future-in-7-Steps.pdf",
+      "bytes": 151187,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "05b784cdfc14302081f182d39ae59ede810fda96d1298ca9f84e56f798d4e086"
+    },
+    {
+      "capture_timestamp": "20140106122930",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/awareness-of-the-infinite/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106122930/http://ichooseinfinity.com/the-conversation-starter/awareness-of-the-infinite/feed/",
+      "bytes": 151223,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "8d2800e63eb163aaf494655fb5685759134d1df3b9a9dc3e88aa137beb41bc67"
+    },
+    {
+      "capture_timestamp": "20140106115116",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Decentralized-Self-Governance.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115116/http://ichooseinfinity.com/wp-content/uploads/2013/09/Decentralized-Self-Governance.jpg",
+      "bytes": 151169,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "45f6b0a3e2dd988f9313b30d27357a41ace4c259c837e47a2d9b7bb1a91d8760"
+    },
+    {
+      "capture_timestamp": "20140106115116",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Decentralized-Self-Governance.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115116im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Decentralized-Self-Governance.jpg",
+      "bytes": 150991,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/08-of-11-Its-All-One-Dance.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/wp-content/uploads/2013/09/08-of-11-Its-All-One-Dance.jpg",
+      "bytes": 151166,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "38093371dcee06b916d345eb7786a13f5dd8bb71bbdcac614dbf2adbc738764c"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/00-of-11-Album-Title-Comprehending-Infinity.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/wp-content/uploads/2013/09/00-of-11-Album-Title-Comprehending-Infinity.jpg",
+      "bytes": 151183,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "79dd71ccde82ebea1ff0491683bb8eabc070b51573c56b02472716885d79b337"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/00-of-11-Album-Title-Comprehending-Infinity.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/00-of-11-Album-Title-Comprehending-Infinity.jpg",
+      "bytes": 151005,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/03-of-11-Deeper-Meaning.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/wp-content/uploads/2013/09/03-of-11-Deeper-Meaning.jpg",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a90f50fa4a386ee12d43361605768b556298c9ef274009c7deacc5f729a319fc"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/03-of-11-Deeper-Meaning.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/03-of-11-Deeper-Meaning.jpg",
+      "bytes": 150985,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/05-of-11-Question-Time.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/wp-content/uploads/2013/09/05-of-11-Question-Time.jpg",
+      "bytes": 151162,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "49fba97a1bdc6a2da42aa5e09db192aed657a67f950f68fc24e0ab604a54c025"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/05-of-11-Question-Time.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/05-of-11-Question-Time.jpg",
+      "bytes": 150984,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/08-of-11-Its-All-One-Dance.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/08-of-11-Its-All-One-Dance.jpg",
+      "bytes": 150988,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115121",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/universal-law/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115121/http://ichooseinfinity.com/the-conversation-starter/universal-law/feed/",
+      "bytes": 151187,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2d85b62a3431b2a0e8a5f88f96635db7ddf9490dd12145268f31ce6a46cbe9a8"
+    },
+    {
+      "capture_timestamp": "20140106214954",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/common-law/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214954/http://ichooseinfinity.com/the-conversation-starter/common-law/feed/",
+      "bytes": 151178,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a0209739d1b941763d41f7522b90d9094298545ce7ba43709c6548a1460305c7"
+    },
+    {
+      "capture_timestamp": "20140106123605",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/statutory-law/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106123605/http://ichooseinfinity.com/the-conversation-starter/statutory-law/feed/",
+      "bytes": 151187,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "9bdd6068ae2843103b4e7ac53c7ace90872cf0eaae4e0f8fb31b6bfe0acb1618"
+    },
+    {
+      "capture_timestamp": "20140106113726",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Luke-Profile-with-beard.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113726/http://ichooseinfinity.com/wp-content/uploads/2013/10/Luke-Profile-with-beard.jpg",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2886fce6646cc116e6daed64e5a5b0dae089bc0884b1d3b163a77e08b6adaf6d"
+    },
+    {
+      "capture_timestamp": "20140106113726",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Luke-Profile-with-beard.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113726im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Luke-Profile-with-beard.jpg",
+      "bytes": 150985,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113726",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/A-New-Notice-to-Govt-Short.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113726/http://ichooseinfinity.com/wp-content/uploads/2013/09/A-New-Notice-to-Govt-Short.pdf",
+      "bytes": 151166,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "bd4e6daa7f738e6653333b5c33c58da87d74fdee8faea8004620906a1c0853e4"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Code-of-Conduct.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Code-of-Conduct.jpg",
+      "bytes": 151160,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2bc0899fc799f23cf84e57d401462b7791d9753b72f82c42b4499e274964b1f1"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Code-of-Conduct.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Code-of-Conduct.jpg",
+      "bytes": 150982,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a8623892ceb472158cb81d480e76800c3cd6075e08909054228d28318dd5ec2a"
+    },
+    {
+      "capture_timestamp": "20140106115126",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/whole-system-change/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115126/http://ichooseinfinity.com/the-conversation-starter/whole-system-change/feed/",
+      "bytes": 151205,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a0dd23e34f543976478e3ce372981c0d4d1a90f4b278cd2e2ac44998d9eddaf9"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "bytes": 150985,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/wp-includes/images/smilies/icon_smile.gif",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431im_/http://ichooseinfinity.com/wp-includes/images/smilies/icon_smile.gif",
+      "bytes": 150972,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115116",
+      "original_url": "http://ichooseinfinity.com/the-conversation-starter/participatory-society/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115116/http://ichooseinfinity.com/the-conversation-starter/participatory-society/feed/",
+      "bytes": 151211,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "7d2ba24f134797c5765c0d356fc5d4f5d2ff4fc9b66b8fb609bbcbe413a31217"
+    },
+    {
+      "capture_timestamp": "20140106050320",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Disaster-Resilience-Briz31_TV_Program_Runsheet.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106050320/http://ichooseinfinity.com/wp-content/uploads/2013/09/Disaster-Resilience-Briz31_TV_Program_Runsheet.pdf",
+      "bytes": 151186,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "288c4d59a2dd38523ecdac208529b4c5593be72d889574544c3504f4f5fe6832"
+    },
+    {
+      "capture_timestamp": "20140106113507",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113507/http://ichooseinfinity.com/stories-of-reality/feed/",
+      "bytes": 151127,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "3324f3d0fb17e9e12cba935a987421e262a3c33d58588c30cb3a80d3c44329dd"
+    },
+    {
+      "capture_timestamp": "20140106115045",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Conscience-Delivery.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115045/http://ichooseinfinity.com/wp-content/uploads/2013/09/Conscience-Delivery.jpg",
+      "bytes": 151159,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "d00ccb53e69ec75b9fba76fcbb4ff758158b8356c5c81249619569f531cba9a7"
+    },
+    {
+      "capture_timestamp": "20140106115045",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Conscience-Delivery.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115045im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Conscience-Delivery.jpg",
+      "bytes": 150981,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115050",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115050/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "bytes": 151157,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "9b25e1c6b2bbaca8763aafd1bb27447dfb8e7a1fc569d20c446ea8beb66cae6d"
+    },
+    {
+      "capture_timestamp": "20140106115050",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115050im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "bytes": 150980,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113516",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/selfconscious-perspectives/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113516/http://ichooseinfinity.com/stories-of-reality/selfconscious-perspectives/feed/",
+      "bytes": 151208,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "05a7567fe6d01391e7a43c9ad2676b5ddfa6841cbce2fea9b243ce929ee0b6da"
+    },
+    {
+      "capture_timestamp": "20140106115110",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/subconscious-perspectives/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115110/http://ichooseinfinity.com/stories-of-reality/subconscious-perspectives/feed/",
+      "bytes": 151205,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "8132b2650438bd0edb2692cebde9d16488db70fe0fb55ea92c9064724858170a"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/Your-Life-Slogan.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/wp-content/uploads/2013/12/Your-Life-Slogan.jpg",
+      "bytes": 151156,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "22d354628c6f34732f929837bd01ec497c761e358a6a40736dbaa0d7485994c7"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/Your-Life-Slogan.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100im_/http://ichooseinfinity.com/wp-content/uploads/2013/12/Your-Life-Slogan.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/you-are-loved.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/wp-content/uploads/2013/12/you-are-loved.jpg",
+      "bytes": 151153,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "783251728fa769fcacf274f8e455833e10b26fc7c85de390f64fcb3e5f230dc0"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/you-are-loved.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100im_/http://ichooseinfinity.com/wp-content/uploads/2013/12/you-are-loved.jpg",
+      "bytes": 150975,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "bytes": 151157,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "60af6e77247cdf1d578046a3d8aac1457c239f3d04ed62432de8b1e12d24a3ca"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/OIF-Twitter-image.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "0fdbba3b22693569cf8eb522708f25e4eb8f5b1c08f9959fd749001620b642c7"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100im_/http://ichooseinfinity.com/wp-content/uploads/2013/09/Positive-Action-Circuit.jpg",
+      "bytes": 150985,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140719081043",
+      "original_url": "http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fmind-maps%2F",
+      "cache_entry_public_url": "https://web.archive.org/web/20140719081043/http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fmind-maps%2F",
+      "bytes": 4282,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "6094c804865cc8f89aafc7014ae7694fa3ae66b00da9500a608523038dab163b"
+    },
+    {
+      "capture_timestamp": "20140511061114",
+      "original_url": "http://ichooseinfinity.com/wp-login.php",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511061114/http://ichooseinfinity.com/wp-login.php",
+      "bytes": 4229,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "c45cc1a79885cc8518cb6f380d465bcb4963aa7535ab0a64b06450a448eb6a65"
+    },
+    {
+      "capture_timestamp": "20140106214858",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/social-conscious-perspectives/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214858/http://ichooseinfinity.com/stories-of-reality/social-conscious-perspectives/feed/",
+      "bytes": 151217,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "9927fab34cf0d1e4bd3e7cba2270a1fcd006ff4627f80d27b549c1f3dfa417d9"
+    },
+    {
+      "capture_timestamp": "20140106113521",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113521/http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "bytes": 151152,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ef18c2af7edd4bc3be8e0a0eb696d4eb5d84371bbc3c947d0831f75a04a37440"
+    },
+    {
+      "capture_timestamp": "20140106113521",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113521/http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "bytes": 151157,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "21d81ae58022382148c165d9e648b998a9812fababf5db4a94275b5fe517f5b4"
+    },
+    {
+      "capture_timestamp": "20140106113521",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113521im_/http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106214853",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/omniconscious-perspective/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214853/http://ichooseinfinity.com/stories-of-reality/omniconscious-perspective/feed/",
+      "bytes": 151205,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "7c16f44ec9366d78fc8191ab7800e63c69c0d78d02dffbe4198d2ca4cf0d4842"
+    },
+    {
+      "capture_timestamp": "20140511060505",
+      "original_url": "http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fopen-letter-to-everyone%2F",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060505/http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fopen-letter-to-everyone%2F",
+      "bytes": 151141,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2ed6a1bdc3029450f2f454533116e05b2de33b0aa559ccd2685d87be7cc7f4cb"
+    },
+    {
+      "capture_timestamp": "20140106115105",
+      "original_url": "http://ichooseinfinity.com/stories-of-reality/conscious-digital-perspectives/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115105/http://ichooseinfinity.com/stories-of-reality/conscious-digital-perspectives/feed/",
+      "bytes": 151220,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "86aeb729a2f63b2c143b6cb6675f6b4fcae8b3d0e38f35d6be5c93604f93d111"
+    },
+    {
+      "capture_timestamp": "20140511055807",
+      "original_url": "http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fpotential-collaborators%2F",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055807/http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fpotential-collaborators%2F",
+      "bytes": 151141,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "557e9c103ac421b7c983078bb72b6c165b3c3e99baddbbb3c12ea5179193ddf5"
+    },
+    {
+      "capture_timestamp": "20140106113726",
+      "original_url": "http://ichooseinfinity.com/community/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113726/http://ichooseinfinity.com/community/feed/",
+      "bytes": 151100,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "47f2b8b908b8d11c5cd4ef7b0b1345cb92c4ec21d90976aa88f9c3ad6dbafb7e"
+    },
+    {
+      "capture_timestamp": "20140108091016",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091016/http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "bytes": 151152,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "d3f29992b9387e55b8f798a8842e8d1cb8125c62979c099cc14ab3446a0fa051"
+    },
+    {
+      "capture_timestamp": "20140108091016",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091016im_/http://ichooseinfinity.com/wp-content/uploads/2013/12/bodyboarding.jpg",
+      "bytes": 150974,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/community/about-us/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com/community/about-us/feed/",
+      "bytes": 151127,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "c23bf291040dcdeeb0107978fd5403c9898ec7c84d4c8610ea01474f8c261a3f"
+    },
+    {
+      "capture_timestamp": "20140108091016",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091016im_/http://ichooseinfinity.com/wp-content/uploads/2013/12/surfing-Teahupoo1.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113431",
+      "original_url": "http://ichooseinfinity.com/community/about-us/?replytocom=6",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113431/http://ichooseinfinity.com/community/about-us/?replytocom=6",
+      "bytes": 151125,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "0f571a84f79dad0e4ed16e05574c9aec0bcf531af02e2461c42d57e53798b895"
+    },
+    {
+      "capture_timestamp": "20140511060923",
+      "original_url": "http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fcollaborative-spaces%2F",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060923/http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Fcollaborative-spaces%2F",
+      "bytes": 151138,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "fb12c69a49661b4c6362a33f242fff207c6f2e90f00a0aca377c71dd29602367"
+    },
+    {
+      "capture_timestamp": "20140106214837",
+      "original_url": "http://ichooseinfinity.com/community/what-we-do/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214837/http://ichooseinfinity.com/community/what-we-do/feed/",
+      "bytes": 151133,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "d9b36b9abe26a10ef1c540bd40c8c64ba71921a8e0dba8b225b9506207871852"
+    },
+    {
+      "capture_timestamp": "20140106214837",
+      "original_url": "http://ichooseinfinity.com/community/daily-observations/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214837/http://ichooseinfinity.com/community/daily-observations/",
+      "bytes": 151142,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "c631b6d6fa75dba238f2165c9b245b8b2552916149a46cd75e1fa5d6bc9c87fb"
+    },
+    {
+      "capture_timestamp": "20140108091021",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-02-Teachers-Mate.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091021im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-02-Teachers-Mate.jpg",
+      "bytes": 150993,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091021",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-03-Fishos-Mate.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091021/http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-03-Fishos-Mate.jpg",
+      "bytes": 151169,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "279f38b2563e49ea0c9d2a7bef39fb6a6bb54a82d4ad095cb472996825af541d"
+    },
+    {
+      "capture_timestamp": "20140108091021",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-03-Fishos-Mate.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091021im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-03-Fishos-Mate.jpg",
+      "bytes": 150991,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091021",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-06-Themed-Parties-and-Networking.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091021im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Camera-Glasses-06-Themed-Parties-and-Networking.jpg",
+      "bytes": 151010,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113450",
+      "original_url": "http://ichooseinfinity.com/daily-observations/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113450/http://ichooseinfinity.com/daily-observations/feed/",
+      "bytes": 151127,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2ae2f6446e20d1c799cff6975b03347d68e3e4f6092b650bbc9a4165d9e6f1a5"
+    },
+    {
+      "capture_timestamp": "20140108203526",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Social27.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203526/http://ichooseinfinity.com/wp-content/uploads/2013/10/Social27.jpg",
+      "bytes": 151148,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ec331b0f764a00d0b7f2d1ffb44ee21368c0e7c405cad608d8bb30f0a32e80d4"
+    },
+    {
+      "capture_timestamp": "20140108203526",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Social27.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203526im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Social27.jpg",
+      "bytes": 150970,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106050320",
+      "original_url": "http://ichooseinfinity.com/community/p-a-f-projects/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106050320/http://ichooseinfinity.com/community/p-a-f-projects/feed/",
+      "bytes": 151145,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "df5f1b1acfba34817d9175b67881077edb52170be8a99147bd6df0201bf30756"
+    },
+    {
+      "capture_timestamp": "20140106050320",
+      "original_url": "http://ichooseinfinity.com/community/daily-observations/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106050320/http://ichooseinfinity.com/community/daily-observations/",
+      "bytes": 151142,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "cc30780a05e1e7eb7947e900b012d4e0498d0e4923d9ac22c72264a2f08130f7"
+    },
+    {
+      "capture_timestamp": "20140106113438",
+      "original_url": "http://ichooseinfinity.com/community/get-involved/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113438/http://ichooseinfinity.com/community/get-involved/feed/",
+      "bytes": 151139,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "39297e6b649072f731dca8d19ff6f22ff809961bb84701487905e71f7cdd4e85"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Very-Small-MultiScale-150x150.jpg",
+      "bytes": 150994,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115040",
+      "original_url": "http://ichooseinfinity.com/event-services/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115040/http://ichooseinfinity.com/event-services/feed/",
+      "bytes": 151115,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "aa5cf17b14c1f7e458aae337f186e6c7c3b151280671c69c90a82e06956f2182"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/03-Local-Environment-Cycles-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/03-Local-Environment-Cycles-150x150.jpg",
+      "bytes": 150997,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/04-Global-Cycles-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/04-Global-Cycles-150x150.jpg",
+      "bytes": 150986,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/05-The-Vortex-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/05-The-Vortex-150x150.jpg",
+      "bytes": 150983,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/07-Energy-from-Outside-our-Solar-System-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/07-Energy-from-Outside-our-Solar-System-150x150.jpg",
+      "bytes": 151009,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/08-Energy-of-Movement-150x150.jpg",
+      "bytes": 150992,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/02-What-is-Safety-150x150.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/02-What-is-Safety-150x150.png",
+      "bytes": 150987,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population-150x150.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/01-Increasing-human-population-150x150.png",
+      "bytes": 151000,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Water-and-Magnetism-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Water-and-Magnetism-150x150.jpg",
+      "bytes": 150989,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/04-GCI-Overview-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/04-GCI-Overview-150x150.jpg",
+      "bytes": 150985,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/06-Thoughts-and-Ionosphere-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/06-Thoughts-and-Ionosphere-150x150.jpg",
+      "bytes": 150996,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/07-SatelliteGCIProject1-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/07-SatelliteGCIProject1-150x150.jpg",
+      "bytes": 150993,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Conscience-Delivery-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Conscience-Delivery-150x150.jpg",
+      "bytes": 150989,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108203427",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Clean-Up-Your-Act-App-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108203427im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/Clean-Up-Your-Act-App-150x150.jpg",
+      "bytes": 150992,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115045",
+      "original_url": "http://ichooseinfinity.com/event-services/conscience-delivery/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115045/http://ichooseinfinity.com/event-services/conscience-delivery/feed/",
+      "bytes": 151175,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "e0896ae2245637333c616932344ee23b763258847134ca086e7d11f9052eead4"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/2013_1013_2115_40.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/2013_1013_2115_40.jpg",
+      "bytes": 151157,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "c14e1b497cd9d84d55bce080bc504bab587d6cecb53362734c161e75b020f18e"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/2013_1013_2115_40.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/2013_1013_2115_40.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Petition-Promo-QR-codes.doc",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/Petition-Promo-QR-codes.doc",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "3038114cfcad06d0a7ed43ee379c99786cceab21e50788b80ae9e85593f6731b"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/you-are-loved-promo-sheet-QR-Codes.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/you-are-loved-promo-sheet-QR-Codes.pdf",
+      "bytes": 151175,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "a8bac7b92e13b3363cd7f7305a6489533eb55169a9ced0109d48f8f40fda6f8c"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/local-universal-weather-promo-sheet-QR-Codes-NEW-URL.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/local-universal-weather-promo-sheet-QR-Codes-NEW-URL.pdf",
+      "bytes": 151192,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "8a4eff23af2afdb596481ba44020c0efdf469e5ec2d7692149578f42e6813e64"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/the-conversation-starter-QR-Sheet.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/the-conversation-starter-QR-Sheet.pdf",
+      "bytes": 151173,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "2174bc41d562ac2aabc13f30ff88f240a86d26aab7bf11fe52af0ba56eee755c"
+    },
+    {
+      "capture_timestamp": "20140106115050",
+      "original_url": "http://ichooseinfinity.com/event-services/the-infinity-choice/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115050/http://ichooseinfinity.com/event-services/the-infinity-choice/feed/",
+      "bytes": 151175,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "7e0956f007eb7e94963908aa7bee14e962b1020dd0fb806b29381d54308da626"
+    },
+    {
+      "capture_timestamp": "20140108091037",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/Stories-of-Reality-promo-sheet-QR-Codes-NEW-URL.pdf",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091037/http://ichooseinfinity.com/wp-content/uploads/2013/10/Stories-of-Reality-promo-sheet-QR-Codes-NEW-URL.pdf",
+      "bytes": 151187,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "dfe478e8138ce3fff959a85f8b2ef257eba3832e97bfe7eeb1f7c94e2e2ecd15"
+    },
+    {
+      "capture_timestamp": "20140511055719",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2014/01/Emotions-Plutchik-wheel.svg_.png",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055719im_/http://ichooseinfinity.com/wp-content/uploads/2014/01/Emotions-Plutchik-wheel.svg_.png",
+      "bytes": 150991,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106214852",
+      "original_url": "http://ichooseinfinity.com/event-services/our-infinite-future/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214852/http://ichooseinfinity.com/event-services/our-infinite-future/feed/",
+      "bytes": 151175,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "8ab74ecaf889f1dfbd15e0e3533face30c90c9a36c806227dbb3ca7709a84823"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0118-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0118-150x150.jpg",
+      "bytes": 150979,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0122-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0122-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0124-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0124-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106214842",
+      "original_url": "http://ichooseinfinity.com/downloads/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106214842/http://ichooseinfinity.com/downloads/feed/",
+      "bytes": 151101,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "c0cc572bf095f474c7c9d281c4a3bc2dae6332186e4b537dc4edeae02da791cc"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0126-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0126-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0128-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0128-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0129-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0129-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108091042",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0130-150x150.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091042im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/IMGP0130-150x150.jpg",
+      "bytes": 150978,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106115100",
+      "original_url": "http://ichooseinfinity.com/ihatemyjob/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106115100/http://ichooseinfinity.com/ihatemyjob/feed/",
+      "bytes": 151104,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "f1a5b54c853248b4e14eec8a6cfcf44625f2310b37732c6940861d26bcf34715"
+    },
+    {
+      "capture_timestamp": "20140108091047",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/11/Volution-Fractal-Display-Challenge.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091047im_/http://ichooseinfinity.com/wp-content/uploads/2013/11/Volution-Fractal-Display-Challenge.jpg",
+      "bytes": 150997,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140108084512",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/NEW-Buys-Camera-Glasses-CleanUp-App-Merediths-suggested-changes.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084512/http://ichooseinfinity.com/wp-content/uploads/2013/10/NEW-Buys-Camera-Glasses-CleanUp-App-Merediths-suggested-changes.jpg",
+      "bytes": 151204,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "527740b9f19df85a72d91ef8f8d9ec7592213ca4a5660305bd70adeacd2213df"
+    },
+    {
+      "capture_timestamp": "20140108084512",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/10/NEW-Buys-Camera-Glasses-CleanUp-App-Merediths-suggested-changes.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084512im_/http://ichooseinfinity.com/wp-content/uploads/2013/10/NEW-Buys-Camera-Glasses-CleanUp-App-Merediths-suggested-changes.jpg",
+      "bytes": 151025,
+      "status": "not_mirrored",
+      "reason": "asset_or_special_replay_modifier"
+    },
+    {
+      "capture_timestamp": "20140106113502",
+      "original_url": "http://ichooseinfinity.com/social-media-feeds/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113502/http://ichooseinfinity.com/social-media-feeds/feed/",
+      "bytes": 151127,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "98b01f2271ebb67140a7faf2c7981c9eba43e338e69bebb9e879b24d2c545dde"
+    },
+    {
+      "capture_timestamp": "20140106113521",
+      "original_url": "http://ichooseinfinity.com/support-ichooseinfinity/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140106113521/http://ichooseinfinity.com/support-ichooseinfinity/feed/",
+      "bytes": 151143,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ba83813cc694c9b9ee3e548efe0137a7fdda0cc4b86dd3660f48bb234d9cad97"
+    },
+    {
+      "capture_timestamp": "20140511060505",
+      "original_url": "http://ichooseinfinity.com/open-letter-to-everyone/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060505/http://ichooseinfinity.com/open-letter-to-everyone/feed/",
+      "bytes": 151143,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "50e6376eee00fbe4c8c479985d1022075d2647279e7750d6b0c7574b7b766bd1"
+    },
+    {
+      "capture_timestamp": "20140511060933",
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060933/http://ichooseinfinity.com/wp-content/uploads/2013/09/MyRecovery-World-Logo-by-Aya.jpg",
+      "bytes": 151169,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "56397c59e0cc4a32fca6f358d6799fe7bd8c94463b8eaadd480de5ebb5e30d9b"
+    },
+    {
+      "capture_timestamp": "20140108084412",
+      "original_url": "http://ichooseinfinity.com/national-tour/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084412/http://ichooseinfinity.com/national-tour/feed/",
+      "bytes": 151113,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "b9f2c660551e307c452c3314dd1de22e94301c40429d1a718700b994db659836"
+    },
+    {
+      "capture_timestamp": "20140511060752",
+      "original_url": "http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Finfinity-mentors%2F",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511060752/http://ichooseinfinity.com/wp-login.php?redirect_to=http%3A%2F%2Fichooseinfinity.com%2Finfinity-mentors%2F",
+      "bytes": 151134,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "4b5ed769328b2c4a37276d4655a9fc4fa7d10f04770fbeaa663bc90ed1d0acaa"
+    },
+    {
+      "capture_timestamp": "20140108084537",
+      "original_url": "http://ichooseinfinity.com/prize-crowdfunding-information/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084537/http://ichooseinfinity.com/prize-crowdfunding-information/feed/",
+      "bytes": 151164,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "c98ae42a681bb91b4668cffadf0c6686f523a5484da07ad698a68cfd0d06c90c"
+    },
+    {
+      "capture_timestamp": "20140108084537",
+      "original_url": "http://ichooseinfinity.com/prize-crowdfunding-information/?replytocom=78",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084537/http://ichooseinfinity.com/prize-crowdfunding-information/?replytocom=78",
+      "bytes": 151162,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "bf12c937fa60192176b1a7dc0f6b3ade381e7569372d094f0107a616a34f23d5"
+    },
+    {
+      "capture_timestamp": "20140108084537",
+      "original_url": "http://ichooseinfinity.com/prize-crowdfunding-information/?replytocom=76",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108084537/http://ichooseinfinity.com/prize-crowdfunding-information/?replytocom=76",
+      "bytes": 151163,
+      "status": "not_mirrored",
+      "reason": "uninformative_or_error_response",
+      "sha256": "f08021d47b7e34ddc4ada6a5fc4cc0b5fd41c66d480e48134c1337efd56780a7"
+    },
+    {
+      "capture_timestamp": "20140108091052",
+      "original_url": "http://ichooseinfinity.com/infinity-lists/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140108091052/http://ichooseinfinity.com/infinity-lists/feed/",
+      "bytes": 151116,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "9869305e290558b8ef948bd127785f59e043d5bfeed80500008c64e863331c48"
+    },
+    {
+      "capture_timestamp": "20140511055807",
+      "original_url": "http://ichooseinfinity.com/potential-collaborators/feed/",
+      "cache_entry_public_url": "https://web.archive.org/web/20140511055807/http://ichooseinfinity.com/potential-collaborators/feed/",
+      "bytes": 151142,
+      "status": "not_mirrored",
+      "reason": "asset_feed_login_or_machine_endpoint",
+      "sha256": "ca1f1c2d5fafaae48246ef9b9eb6f85714c1e921fa695242529a83e7efc94ad9"
+    }
+  ],
+  "alternate_payloads_not_mirrored": [
+    {
+      "capture_timestamp": "20140222194910",
+      "original_url": "http://ichooseinfinity.com/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140222194910/http://ichooseinfinity.com/",
+      "sha256": "1f6873e4efcba38fe54b8971661c8f1d3b532903cedf1acb1625b99ebb4e4c0b",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511060505",
+      "original_url": "http://ichooseinfinity.com/open-letter-to-everyone/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511060505/http://ichooseinfinity.com/open-letter-to-everyone/",
+      "sha256": "44d103faa0b39fee8739a6fc99183d2ed69cfab0f4de87bae5cbce8826b46df2",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511055807",
+      "original_url": "http://ichooseinfinity.com/potential-collaborators/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511055807/http://ichooseinfinity.com/potential-collaborators/",
+      "sha256": "16c50060a16cea36a351a642f5a466013e02acbd234cad1109e1664d477ddd39",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511060813",
+      "original_url": "http://ichooseinfinity.com/patterns-of-observation/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511060813/http://ichooseinfinity.com/patterns-of-observation/",
+      "sha256": "6926b71ea3d1834ddbb544b94aa40764da690b629e50f4e37b4e50e8735031c9",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511060808",
+      "original_url": "http://ichooseinfinity.com/open-letter-index/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511060808/http://ichooseinfinity.com/open-letter-index/",
+      "sha256": "9c1ae68b6de1827a4afdb90a9bf92156dd0309d837d8a12c57ea793703cdf9e9",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511060823",
+      "original_url": "http://ichooseinfinity.com/plan-01/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511060823/http://ichooseinfinity.com/plan-01/",
+      "sha256": "d70483689e12888f735eae32bfacfa7c87dce842035395f637914f669fa24362",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511060831",
+      "original_url": "http://ichooseinfinity.com/plan-03/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511060831/http://ichooseinfinity.com/plan-03/",
+      "sha256": "f6078ffe63ef0f7f46cd97e3f1283a04ee187e9bbc916b6e45acac8efbabdf6a",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    },
+    {
+      "capture_timestamp": "20140511061043",
+      "original_url": "http://ichooseinfinity.com/rethinking-solar-maximum/",
+      "route": "local_httrack_cache",
+      "public_source_url": "https://web.archive.org/web/20140511061043/http://ichooseinfinity.com/rethinking-solar-maximum/",
+      "sha256": "07e8ba5348229501dc5d98df9649ff60d2935dccfd4c1b72f8eea5724312b79c",
+      "relation": "same original path and capture timestamp as a preferred saved response"
+    }
+  ],
+  "not_recovered_downloads": [
+    {
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/11/ici-Press-Releases-for-January-Week-One-2014.pdf",
+      "status": "not recovered in this snapshot; the exact-URL CDX lookup returned an empty result; the broader uploads lookup timed out, so this does not establish absence from Wayback"
+    },
+    {
+      "original_url": "http://ichooseinfinity.com/wp-content/uploads/2013/12/ici-Press-Release-for-December-25.pdf",
+      "status": "not recovered in this snapshot; the exact-URL CDX request returned Internet Archive Temporarily Offline and the broader uploads lookup timed out; lookup unavailable"
+    }
+  ]
+}

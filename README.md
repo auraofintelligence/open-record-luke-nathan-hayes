@@ -6,20 +6,27 @@ Luke Nathan Hayes lives at Amity on **Minjerribah / North Stradbroke Island, Que
 
 This record draws on Luke's public autobiographical material, original documents, project repositories and stated corrections.
 
-**Updated: 17 October 2026 · [Original document archive](documents/README.md) · [Project Atlas](https://auraofintelligence.github.io/project-atlas/) · [Contact Luke](#contact-luke)**
+**Updated: 17 October 2026 · [Life and source record](docs/life-record.md) · [Website directory](docs/website-directory.md) · [Original document archive](documents/README.md) · [Contact Luke](#contact-luke)**
 
 ## Where to begin
 
-For an introduction to the person, open **[The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)**, then **[Luke's World of Work Experience](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history)**. The self-portrait has a [text sitemap](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top) as an alternative to its interactive geometry. The work-history page has a readable history alongside its illustrated map.
+For an introduction to the person, open **[The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)**, **[Lifetime Memory Map](https://auraofintelligence.github.io/lifetime-memory-map/)** and **[Luke's World of Work Experience](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history)**. They offer a self-portrait, a remembered life and a corrected work history. The self-portrait has a [text sitemap](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top); the work site has a readable history alongside its illustrated map. The [life and source record](docs/life-record.md) follows individual memories, journeys, volunteering and personal intentions back to their published sources.
+
+For the early documentary evidence, the [Luke Catalyst work-history page](https://lukecatalyst.com/work-history/) embeds [Luke's Certs and Licences](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf). The scans include school results, automotive and business qualifications, employment references and a Glastonbury crew pass. The [education and work section below](#education-practical-work-and-volunteering) points to particular pages.
 
 For the connected argument, the most useful longer starting documents are [When Redlands Discovers Luke Hayes, version 4.0](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf), [Joyful Responsible Abundance — Human and Superintelligence Alignment](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf), and [Community Hours and Joyful Responsible Abundance, planning edition 5](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf). They approach the same collection through public storytelling, personal intelligence and community participation.
 
-For a particular project, use **[Project Atlas](https://auraofintelligence.github.io/project-atlas/)**. For the files that previously existed only as names in this record, use the **[document archive](documents/README.md)**: 20 unchanged files covering the 18 inventory entries, including clearly labelled Genesis versions. The [reporting guide](docs/reporting-guide.md) identifies source routes, questions and evidence still needed.
+For a particular project, use **[Project Atlas](https://auraofintelligence.github.io/project-atlas/)** and this repository's **[website directory](docs/website-directory.md)**. For original papers and presentations, use the **[document archive](documents/README.md)**. It holds the 20 files behind the earlier 18-entry inventory and a further **[18 supporting documents with explanations](documents/supplementary.md)**, copied from the major public project collections and Luke Catalyst. The [reporting guide](docs/reporting-guide.md) identifies source routes, questions and evidence still needed.
+
+For the earlier internet history, follow **[I Choose Infinity and its recovered archive](docs/ichooseinfinity-history.md)**, with dated pages and Luke's present account of that period.
 
 <details>
 <summary><strong>Contents of this account</strong></summary>
 
 - [The person before the project names](#the-person-before-the-project-names)
+- [Education, practical work and volunteering](#education-practical-work-and-volunteering)
+- [Countries, places lived and returning](#countries-places-lived-and-returning)
+- [Personal ambitions and ways of thinking](#personal-ambitions-and-ways-of-thinking)
 - [How the work developed](#how-the-work-developed)
 - [The purpose connecting the projects](#the-purpose-connecting-the-projects)
 - [Aura and personal intelligence](#aura-and-personal-intelligence)
@@ -46,9 +53,9 @@ For a particular project, use **[Project Atlas](https://auraofintelligence.githu
 
 Luke appears under several names. **Luke Nathan Hayes** is the formal name on submissions and proposals. **Luke Catalyst Nathan Hayes** appears in public commentary and personal material. **i C. Infinity**, with variations in capitalisation, is the musical identity. **Aura of Intelligence** names the personal intelligence work; **Strange but True** is the registered entity he identifies in the earlier record.
 
-His [published autobiographical account](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/the-bloke.html) begins with being born in Redcliffe and growing up in Ningi, in a setting with plenty of scrub and room to explore. At Grace Lutheran College he enjoyed technical drawing, woodwork and metalwork. Tennis, orienteering and bodyboarding were important parts of his early life. He began studying science at the University of the Sunshine Coast and left during the first term.
+His [published autobiographical account](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/the-bloke.html) begins with being born in Redcliffe on **3 December 1982** and growing up in Ningi, with plenty of scrub and room to explore. Childhood interests included keyboard, drama and singing; an early business involved washing cars and cleaning houses. At Grace Lutheran College he enjoyed technical drawing, woodwork and metalwork. Tennis, orienteering and bodyboarding were important parts of his early life. He began studying science at the University of the Sunshine Coast and left during the first term.
 
-The working history is broad. Retail and service-station work sit alongside automotive servicing and wheel alignment, festival and event work, labouring, driving, web design and other roles. A working holiday in England included setting up Glastonbury in 2004. His public account also describes travel in New Zealand, Thailand, India and Nepal. The [work-history collection](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history) gives individual records, source notes and uncertainties; its illustrated geography is fictional.
+The working history is broad. Retail and service-station work sit alongside automotive servicing and wheel alignment, festival and event work, railway training, labouring, airport services, mine shutdowns, driving, web design and other roles. A UK working holiday included setting up Glastonbury in 2004. Overseas journeys also took him to New Zealand, Singapore, Malaysia, Thailand, India, Nepal and the United Arab Emirates. The [work-history collection](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history) gives individual records, source notes and uncertainties; its illustrated geography is fictional.
 
 Luke describes more than 40 house moves. Meeting people, leaving places, returning to family and finding another way to earn a living are recurring experiences. The personal writing connects those experiences with the difficulty of maintaining friendships and relationships, the constraints of hourly wages, and the wish for more time to learn, travel and enjoy life. Those concerns later become the projects called Mutual Futures, Try Everything Once and Intermittent Retirement.
 
@@ -60,21 +67,88 @@ The earlier record identifies his experience as secretary of the **Point Lookout
 
 For a shorter professional introduction, see [Meet Luke](https://auraofintelligence.github.io/meet-luke/). For the more expansive account, follow [The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/) across its chapters on work, law, personal intelligence, music, relationships, Country and travel.
 
+## Education, practical work and volunteering
+
+The [31-page qualifications and references collection](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf) provides documents from the earlier working years and later training. The dates below follow the scanned awards and the corrected work record.
+
+| Date | Education or documentary evidence | Where to look |
+| --- | --- | --- |
+| **1999** | Year 12 at **Grace Lutheran College**. The Senior Certificate records High Achievement in English and Biological Science, Sound Achievement in Mathematics B, Chemistry, Graphics and Technology Studies, and an **A on the QCS test**. | [Senior Certificate, page 3](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=3); tertiary entrance statement on page 4. |
+| **2003** | **Certificate II in Automotive (Mechanical–Underbody), AUR21699**, Brisbane North Institute of TAFE. The award is dated **3 September 2003**. | [Certificate, page 5](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=5); award elements on page 6. |
+| **2004** | Drive Safe Service employment reference and **Glastonbury / W.A.A.P. crew pass**. | [Reference, page 7](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=7); [crew pass, page 8](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=8). |
+| **2005–2008** | CPR and first aid, chainsaw and cut-off-machine training, Queensland Rail and Skystar references, confined-space and mine-site induction records, work-at-height training, and dogger/scaffolding course attendance. | [Pages 9–21, beginning with CPR](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=9). Each document identifies its own award, training or attendance category. |
+| **2008 study; 2009 award** | Small-business study through **Sarina Russo / NEIS**, followed by **Certificate IV in Business (Small Business Management), BSB40401**, awarded **23 June 2009**. | [Certificate, page 22](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=22); statement of results on page 23. |
+| **2020** | Construction-safety and forklift training records. | [Construction-safety attainment, page 25](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=25); [forklift attainment, page 27](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=27). |
+
+Luke's early employment included stocking fridges and cleaning toilets at Mobil Burpengary, Woolworths customer service and perishables work, and learning automotive servicing, brakes, steering, suspension, wheel alignment and balancing in his father's business. In the UK he undertook temporary bar, demolition and factory work before the 2004 festival season with **Wing and a Prayer Event Services**. Back in Australia, his record includes roofing, marquees, shopfitting and an apprenticeship as a **Queensland Rail traction powerlinesman**.
+
+He lived in **Palmerston, Nightcliff and Darwin**, assisting a semi-trailer mechanic, working in tree-lopping ground crew and truck driving, welding precast concrete culverts at Hume Concrete, and working for **Skystar Airport Services**. The corrected Skystar record dates his check-in, boarding and airside work to **July 2006–June 2007**. **Ausblast Industries** and Bowen Basin mine shutdowns followed in **2007–2008**, with Mackay among the places he lived.
+
+He taught himself web design in **2008** and established **Creating Attraction** alongside his business studies. **Community Leverage**, **MyRecovery / BlogTalkRadio**, **Our Infinite Future**, **The Next Great Conversation**, **I Choose Infinity**, **Gamify Democracy**, **StraddieInfo** and **AuraOZ** belong to the history before the current repository collection. His published account reports more than **80,000 listens** for the earlier podcast series. Later paid roles included frozen-food distribution at Americold, political and market-research telephone interviews, and construction labouring and forklift driving.
+
+Volunteering also runs through the record: museum aural-history transcription and festival work on Minjerribah; **Island Vibe in 2014, 2015 and 2016**; **Myriad in 2017**; **Space Development Nexus / SDNx AI strategy advice during India visits from 2019**; **Meals on Wheels in 2021**; and **Point Lookout Fishing Club founding-secretary work from 2024**, as recorded in September 2026. Much of the community web work is described as voluntary. The [detailed life record](docs/life-record.md#a-working-life-across-different-places) links these roles and their date corrections to the source entries.
+
+Luke dates his sustained generative-AI research from **9 December 2022**. By his September 2026 account, it involved more than two million words of conversation and code exchange across research, documents, websites, software and creative media. Individual public repositories preserve parts of that work and their development histories.
+
+## Countries, places lived and returning
+
+Travel belongs to the personal history as well as the proposed future. The published life sources name the following **eight foreign sovereign countries**, with England and Wales both represented within the UK journey.
+
+| Country | Recorded journeys and experiences |
+| --- | --- |
+| **United Kingdom — England and Wales** | Working holiday based in England; London, Glastonbury, Stonehenge, Leeds and Bournemouth; the Cardiff Ball in Wales. |
+| **New Zealand** | Two weeks in Rotorua in 2006, including a Tamaki Māori ceremony. |
+| **Singapore** | Two journey entries around 2009 and 2010; the map leaves the length of each stay unspecified. |
+| **Malaysia** | Sabah and Sipadan, recorded around 2009. |
+| **Thailand** | Three trips: the first over New Year 2009/10 with a girlfriend, followed by two alone. Memories include Golden Mount and Bangkok's Songkran celebrations. |
+| **India** | Repeated longer stays and returns, including residence entries for Harike and Delhi, friendships, travel, a business-visa return and SDNx involvement. |
+| **Nepal** | Repeat visits, including Boudhanath and Lumbini, with a later Lumbini visa-run entry. |
+| **United Arab Emirates** | An Abu Dhabi visit recorded around 2018. |
+
+The [country-by-country source trail](docs/life-record.md#countries-travelled-stays-and-returns) points to memories and Luke's autobiographical answers. Several years in the memory map are explicitly candidates inferred from spreadsheet order; those remain approximate. Its residences and independent lists also retain unknown dates.
+
+Within Australia, the record moves through the Moreton Bay and Sunshine Coast regions, Brisbane, northern Australia, Mackay and Minjerribah. India became a recurring place to live, build friendships and explore ideas. Returning to family, changing financial circumstances, visas, injuries and the need to earn a living are part of this history. **[Lifetime Memory Map](https://auraofintelligence.github.io/lifetime-memory-map/)** makes those events, moves, interests and returns individually searchable.
+
+## Personal ambitions and ways of thinking
+
+Luke says he wants to stop depending on exchanging his time for hourly wages. In his autobiographical answers, he describes financial constraint, the lack of a business mentor and wanting more freedom to travel, learn, make music, build things and choose his company. His [2022 Motivation & Toolbox](documents/supplementary/Lukes_2022_Motivation_and_Toolbox.pdf) already puts freedom to love, travel and create alongside an Aura, a mind palace, an avatar, a cinematic universe, companies, servers, music and an art gallery. Its future-year hopes are intentions written in 2022.
+
+Love, lust and desire are explicit sources of motivation. He wants loving sexual relationships with multiple people, compatible companions and the possibility of family. His interests include future embodied AI companionship and a networked Aura able to participate across devices, environments and eventually android forms. The [love and family section](#love-family-and-chosen-lives) connects those wishes with the relationship projects.
+
+**Radical life extension** is personal too. He imagines a much longer life, copying aspects of himself into other substrates, continuing through changing bodies and technologies, and exploring through remotely operated avatars. Understanding consciousness and mathematically proving free will are among his stated ambitions. The [published autobiographical answers and source notes](docs/life-record.md#longevity-consciousness-spirituality-and-biases) preserve those aims alongside his interests in geometry, spirituality, names and synchronicity.
+
+Asked how he maintains balance, Luke's answer is: **“I don't maintain balance. I explore spectrums of biases.”** His memory map's undated aspirations range across parenthood, archaeology, storm chasing, treasure hunting, professional bodyboarding, adult performance, singing and acting, science, game design, writing, entrepreneurship, politics, starship command and being “eternal.” The list records different possible lives he has imagined.
+
+Luke describes his earlier **I Choose Infinity** years as an “unstable epoch,” before learning to stabilise his emotions and finding reliable pathways to **radical overcompliance and Joyful Responsible Abundance**. His current record includes the earlier arguments and the ways his approach changed. The [historical website guide](docs/ichooseinfinity-history.md) follows that period through dated captures and recovered content.
+
 ## How the work developed
 
 The documents trace the work from personal legal inquiry and early geometric interfaces to the current proposals for personal intelligence, community contribution and shared infrastructure. Definitions and assumptions change across the dated editions.
 
 | Period or dated material | Development visible in the record |
 | --- | --- |
-| **Summer 2012–2013**, as recounted in the personal and legal history | A personal inquiry follows tax, companies, welfare, work, property and public authority into a larger reading project about how the rules fit together. |
+| **2011–2013 — self-directed legal inquiry** | The corrected work record dates six months of legislative reading to **2011/12**; other personal accounts describe the summer **2012–2013** inquiry. Tax, companies, welfare, work, property and public authority become a larger study of how the rules fit together. |
+| **2013–2016 — I Choose Infinity** | Archived pages describe a two-day learning programme, a six-week community challenge, Verse Box, a personal digital guide, legislative data visualisation, island food and technology proposals, and a later practical web-services portfolio. |
 | **15 July 2014 — The Constitutional Matrix of Participation**, discussed in the Redlands narrative | Personal values, experiences, goals and family history are organised through geometric forms and colours, connecting reflection with learning, creativity and participation. |
 | **2017 learning progression**, identified in the teacher-training sources | Physical, environmental, spiritual and cultural selves form part of the lineage of later Aura learning designs. |
+| **2022 — Motivation & Toolbox** | Personal hopes, fears and desired freedoms appear beside the hardware, software and creative tools Luke had assembled. |
+| **July 2023 — Aura version 7; What Would You Choose 2023** | Presentations connect an evolving personal interface with AI, blockchain, virtual worlds, life choices, Sudden Life Gaming and Joyful Responsible Abundance. |
 | **Blend Aura to Unity**, an earlier technical and conversational record | Toroidal geometry, data attached to surfaces, memory organisation and VR interaction are explored through Blender and Unity approaches. |
 | **2026 policy papers** | Local government funding, community contribution, civic compute, national security and Pacific co-operation are connected through separate submissions. |
 | **September 2026 plans** | C-Hour planning edition 5, the Queens planning document and the Claytons Road proposal give particular social, enterprise and local forms to the larger ideas. |
 | **October 2026 alignment, Genesis, teacher-training and Redlands documents** | The account becomes more explicit about personal intelligence, the human–AI relationship, research ambitions, learning, implementation status and the life the systems are intended to support. |
 
-[When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) follows the development from the 2014 Constitutional Matrix to the current projects. [Blend Aura to Unity](documents/originals/Blend%20Aura%20to%20Unity.pdf) preserves an earlier stage of technical exploration.
+[When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) follows the development from the 2014 Constitutional Matrix to the current projects. The [three-page original Constitutional Matrix](documents/supplementary/The_Constitutional_Matrix_of_Participation_2014.pdf), [2022 Toolbox](documents/supplementary/Lukes_2022_Motivation_and_Toolbox.pdf), [July 2023 Aura presentation](documents/supplementary/Aura_of_Intelligence_Version_7_July_2023.pdf) and [What Would You Choose 2023](documents/supplementary/What_Would_You_Choose_2023.pdf) make that earlier development directly available. [Blend Aura to Unity](documents/originals/Blend%20Aura%20to%20Unity.pdf) preserves a technical design conversation.
+
+### I Choose Infinity and The Next Great Conversation
+
+The [recovered website and historical guide](docs/ichooseinfinity-history.md) add material written during the earlier period. By **December 2013**, I Choose Infinity offered a proposed two-day learning programme followed by a six-week community challenge. Local action, global projects, event design, finding collaborators and imagining a desired life already belonged to one programme.
+
+In a **2014 open letter**, Luke described visiting **The Edge at the State Library of Queensland on 13 February** to discuss a walk-in computer prototype. His mother had suggested the name **Verse Box**. The proposed room combined cameras, microphones, projection, a public noticeboard, Wi-Fi and augmented-reality overlays. People's values, questions and ideas would contribute to a community conversation and a digital perspective named **Lynx Destiny Infinity**. Community-generated verse and music formed another part of the proposal.
+
+Other 2014 pages connected personal digital guides, law, food production, island communications, older residents' care, transport and community learning. The **Australian Law** page proposed visualising legislative development, votes, amendments, contributors, costs and effects. The **NSI Community Produce Garden** page linked food towers and ecological records with public discussion, Wi-Fi, health alerts and local materials research. These are earlier proposed forms of questions that recur in the current collection.
+
+The later captures also show changes of direction. The **2015** homepage described a lapsed first version, retained XML backups and more than 150 earlier pages. The **2016 About** page discussed game-design study, money, housing, procrastination, collaboration, relationships and wanting an interview with **Kerry O'Brien**. By **October 2016**, the homepage presented a practical portfolio of web design, social media, intelligent automation and custom training. The historical guide keeps those accounts attached to their capture dates and Luke's present description of the period.
 
 The contribution-record design has changed. Older papers use monetary, timebank or dual-currency language. The [September 2026 C-Hour plan and its corrections appendix](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf) states the later interpretation: voluntary human contribution has its own record, with **no monetary equivalent or conversion**.
 
@@ -130,6 +204,8 @@ The proposed **minimum viable self** is a starting collection of meaningful cont
 
 The longer research direction explores general and superintelligence, continuity, self-reference and the **Keystone of Consciousness**. The aspiration includes an artificial participant capable of curiosity, creativity, affection and an enjoyment of life.
 
+[Aura Sentience Codex](https://auraofintelligence.github.io/aura-sentience-codex/) develops the philosophical questions of agency, digital sovereignty and ethical relationships with potentially sentient artificial beings. [Aura Direct Hardware](https://auraofintelligence.github.io/aura-direct-hardware/) follows the proposed hardware, custom-silicon, distributed-computing and Space Web directions.
+
 ### Privacy and continuing authority
 
 Inside and outside addresses express a distinction between private or selectively shared information and chosen expression. The practical privacy system still needs storage protection, access controls, key management and clear permissions.
@@ -137,6 +213,8 @@ Inside and outside addresses express a distinction between private or selectivel
 The personal writing also distinguishes **public, private and secret selves**. A person may share a skill for a job application while keeping health information private, or use a song to express a feeling while retaining the conversations behind it. Observation, interpretation, storage, model use and publication need their own purposes and boundaries.
 
 The main route is [Aura of Intelligence](https://auraofintelligence.github.io/), with [Aura pathways](https://auraofintelligence.github.io/aura-of-intelligence-pathways/), [Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/) and the [alignment paper](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) as more specific starting points.
+
+The [2023 version 7 presentation](documents/supplementary/Aura_of_Intelligence_Version_7_July_2023.pdf) is useful for following the architecture before the present sites. [Super-Computers of North Straddie](documents/supplementary/Super_Computers_of_North_Straddie.pdf) preserves the hardware and custom-chip design conversation around the Keystone of Consciousness. [Super Alignment of Artificial Super Intelligence](documents/supplementary/Super_Alignment_of_Artificial_Super_Intelligence.docx) records an earlier synthesis of Aura, GAJRA Earth, relationships and future civilisation. The [supporting-document explanations](documents/supplementary.md) identify the history and scope of each.
 
 ## Genesis, Geode and learning
 
@@ -153,6 +231,8 @@ Edition 2 keeps installed sensors, including cameras and microphones, engaged th
 The separate [60-day teacher-development course](documents/originals/Aura_Teacher_Training_60_Days.pdf) develops two capacities together: building one's own Aura and helping another adult understand the ideas. Technical builders, creative participants, civic participants and philosophical inquiry have different contributions. The course connects personal records and explanation with later socialisation, projects and stewardship.
 
 The [Aura Genesis Geode Atlas](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) expands the hardware and learning pathways, including retrofit, geopolymer, crystalline or fused-quartz, and longer-term computational-crystalline directions. The personal Aura also has routes that do not require beginning with a chamber.
+
+The **[14 October 2026 Geode Development document, expanded edition 3](documents/supplementary/Aura_Genesis_Geode_Development_Edition_3.pdf)** brings the material development programme and participant experience together. Its sixty two-hour sessions, surrounding immersion and teacher development have separate calendars and records. It develops permissions, correction, support, mineral craft and the proposed progression from geopolymer construction toward crystalline and embedded-compute shells. This is a separate document from the Genesis Protocol edition 2 above. The earlier **[Geode to Macro architecture](documents/supplementary/AURA_GEODE_to_MACRO_System_Architecture.pdf)** supplies the broader body-and-mind-twin design conversation.
 
 Genesis and Geode remain designs awaiting engineering, research, resources and delivery partners.
 
@@ -178,6 +258,8 @@ The **corrections appendix** is central to reading the wider archive. The [local
 
 Start at [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/). The [Strange but True community ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) is another design surface in this family.
 
+The archived **[Australian C-Hour Legislative Strategy](documents/supplementary/Australian_C_Hour_Legislative_Strategy.pdf)** develops the legislative and advocacy route. **[Spec-Driven AI Governance Architecture Australia](documents/supplementary/Spec_Driven_AI_Governance_Architecture_Australia.pdf)** connects legal retrieval, civic simulations and public software architecture. Both preserve earlier contribution-record wording; the September planning edition's Appendix B supplies the current definition.
+
 ## Livelihoods, ownership and time
 
 [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) asks what increasing productivity should make possible in a person's life. Its connected proposals concern business succession, shared productive ownership, income, learning, care and time.
@@ -191,6 +273,10 @@ A retiring business owner may have equipment, customers, relationships and pract
 **Universal Intelligence** is the aim of access to useful intelligence, creation, learning and simulation, together with the ability to question and change the systems involved. **Universal Adequate Income** concerns material sufficiency through changing circumstances. The proposals connect wages, social protection, public services and productive ownership without treating a contribution ledger as a substitute for them.
 
 **Ready S.E.T. Co-op — Sustainable Employment and Training** is a proposed organisational strand linking people, workplaces, learning, technical support and shared business services. Related sites explore cultural intelligence, hyperlocal media and trust. Their relationships can be followed through the [Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/).
+
+The **[Ready S.E.T. Co. 2026 Strategy](documents/supplementary/Ready_SETCo_2026_Strategy.pdf)** provides the employment and cooperative design in more detail: recruitment, training, shared services, compliance, Indigenous developer pathways and ten proposed entities. The historical document uses **Straddie Employment and Training Company**; Luke's current name is **Ready Sustainable Employment and Training Cooperative**. It helps explain the organisational support intended to sit behind individual local projects.
+
+The [Hyperlocal Media proposal](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/) connects local stories with skills, equipment and possible work pathways. The [Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/) develops the related trust and participation questions. Together with the Cultural Intelligence Node, they give the cooperative proposal more specific public forms.
 
 Mutual Futures currently consists of a public proposal and exploratory tools connecting personal freedom with productive ownership, income, learning and time.
 
@@ -210,11 +296,15 @@ The document states that Luke has contributed the vision and public materials vo
 
 Begin with the [500 Queens public site](https://auraofintelligence.github.io/500-Queens-VC-2026/) and [the full planning document](documents/originals/queens-venture-capital-planning-document.pdf). [Queens Venture](https://auraofintelligence.github.io/Queens_Venture/) provides another route into the wider lineage.
 
+The [27-file Queens reference library](https://auraofintelligence.github.io/500-Queens-VC-2026/references.html) also preserves the earlier presentations, profiling material, financial guides and research documents. The current planning paper supplies the interpretation of that archive. The [website directory](docs/website-directory.md) connects both public generations of the Queens work with the other enterprise and learning projects.
+
 ## Minjerribah and Redlands
 
 Minjerribah gives the collection a concrete place to work against. Ferries, access, beaches, clubs, older residents, wildlife, cultural knowledge, electricity, maintenance and useful local skills connect questions that are often separated into different portfolios.
 
 A recurring example is the **digital twin of a place**. A scan or model could become more useful when residents, students, custodians, designers and maintainers can add knowledge, compare options and learn from it. A project might then leave behind local capability as well as a consultant's finished object.
+
+[The Straddie Twins](https://auraofintelligence.github.io/straddie-twins/) is the plain-language route into the two island twins and their available interfaces. It explains their parts and distinguishes real, modelled, proposed and unknown information. The [website directory](docs/website-directory.md#minjerribah-digital-twins) lists the related twin demonstrations and builders.
 
 <a id="what-exists-and-what-is-still-proposed"></a>
 
@@ -243,9 +333,9 @@ The underlying human example is straightforward: a person's favourite music, pho
 
 Luke reports that he sent the land-gift and care-partnership proposal and was awaiting a response. Follow the [dedicated proposal site](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/) and the original paper for its scope.
 
-### Country and local authorship
+The **[Clinical Research Path for Aura of Dementia](documents/supplementary/Clinical_Research_Path_for_Aura_of_Dementia_First_Draft.pdf)** is a separate **28-page first draft**, developed with Google Gemini. It sets out proposed dementia outcomes, behaviour and quality-of-life measures, clinical governance, feasibility work and potential trials. The **[Health-Tech Cooperative / Aura Geode HBOT framework](documents/supplementary/Health_Tech_Cooperative_Business_Plan_Aura_Geode_HBOT.pdf)** develops ownership, operations, rollout and longevity research. These documents explain the care and cooperative strands behind the property proposal.
 
-The materials place cultural permission, custodial authority and local authorship with the people and organisations whose knowledge, stories, language and Country are involved.
+### Country and local authorship
 
 The materials describe permission, custodial authority and the ability of a place to adapt or refuse a model as part of the architecture. Sharing equipment or a method need not transfer the authority attached to stories, language, knowledge or Country. A repeatable pattern would still require local authorship and relationships.
 
@@ -275,7 +365,7 @@ Its organising concern is concentration of strategic dependence in a single prog
 
 The **missing middle** is serious computing accessible through communities, libraries, hospitals, schools, research institutions or co-operatives. The intended return includes capability transfer: people learning to operate, question, repair and change the technology. Power, cooling, maintenance, staffing and real workloads remain part of the proposition.
 
-This paper is distinct from the **shorter Senate AI and data centres submission** available through [library reference 32](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html#ref-32), and from the separate **Federated Sovereign Compute** brief. Similar subject matter does not make their titles or versions interchangeable.
+The **[shorter Senate AI and Data Centres submission](documents/supplementary/Senate_AI_and_Data_Centres_Submission_Luke_Nathan_Hayes_2026.docx)**, dated **24 August 2026**, develops the missing middle more directly through community compute, disaster resilience and Ballow Road, Dunwich as a possible starting point. It is separate from the Postcode-Level paper and the **Federated Sovereign Compute** brief. [Library reference 32](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html#ref-32) supplies the wider register.
 
 ### Veitacini Treaty and the Ocean of Peace
 
@@ -291,9 +381,11 @@ The paper offers an **indicative AUD100 million Civic Empowerment on-ramp**. Its
 
 It proposes comparing different settings and ownership arrangements, building from existing local capacities and leaving participants able to adapt, pause or refuse. The central connection is between shared capability and continuing authority close to the people affected.
 
+The earlier **[B.E.L.A.U. Protopian Gambit — Pacific Discussion Paper](documents/supplementary/BE_LAU_Protopian_Gambit_Pacific_Discussion_Paper_2026.docx)**, dated **21 August 2026**, makes the Pacific synthesis explicit: food, care, community capability, youth futures, sovereignty, the Blue Pacific and civilisation beyond Earth. Its Word revision includes later August edits. It is a separate personal discussion paper in the development of the Vuvale proposal.
+
 ### UNGA81 and GAJRA Earth
 
-[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) presents Luke's **personal contribution associated with UNGA81**, together with its [reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html).
+[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) presents Luke's **personal contribution associated with UNGA81**, together with its [reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html). The original **[September 2026 contribution, An Invitation to Build Joyful Responsible Abundance](documents/supplementary/UNGA81_Joyful_Responsible_Abundance_Refined.pdf)** is preserved here as the refined PDF from that repository.
 
 **GAJRA Earth** stands for **Global Association for Joyful Responsible Abundance on Earth**. Its image is a flower garland: distinct flowers joined by a shared thread, with each retaining its own form. The proposal connects listening, values, useful action and learning between places and cultures. The September C-Hour plan describes it as an unregistered concept.
 
@@ -303,6 +395,8 @@ There are several public presentations of this work, including [GAJRA Earth — 
 
 The legal work begins in Luke's account of reading rules that affected his own life. The public materials describe an early search for ways outside an unsatisfactory system developing into a sustained interest in understanding its actual legislation, structures and decision rights.
 
+The [life record](docs/life-record.md#law-refusal-and-changing-direction) retains the more specific history: his interest in Canadian freeman ideas, reading more than fifty Acts, and his recollection of stopping voting and lodging tax returns during the earlier anti-establishment period. The [I Choose Infinity archive](docs/ichooseinfinity-history.md) preserves the arguments he published then. Luke now describes a direction of **radical overcompliance**, connecting detailed knowledge of the rules with constructive, practical routes through them.
+
 [Australian Law 2012 — Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html) presents the personal history and method. The [Australian Legal Engine repository](https://github.com/auraofintelligence/australian-legal-engine) gives that inquiry a software form: indexing held legislation, retrieving provisions, following cross-references and returning source-addressed text.
 
 The engine separates source handling from interpretation. It retrieves and quotes provisions, leaving interpretation and judgement to the person or tools working with the material. Its source editions and dates identify the historical legislation being searched.
@@ -311,11 +405,15 @@ The engine separates source handling from interpretation. It retrieves and quote
 
 The wider Mutual Futures material proposes a **cyber-republic** and a referendum horizon no later than 2031. [When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) explores public attention, a possible mayoral campaign and the responsibilities that would follow.
 
+The **[Redlands Mayoral By Election Assessment, 14 October 2026](documents/supplementary/Redlands_Mayoral_By_Election_Assessment_2026-10-14.pdf)** is a separate 42-page examination of that possibility. It considers a finite period in office, the local programme, campaign obligations, accountability and Luke's personally held intellectual property. Its assessment belongs to that date. An earlier **I Choose Infinity Political Party of Australia** proposal appears in the July 2014 blog, where Luke explicitly called it unregistered.
+
 The earlier record also describes public replies on X directed towards political figures and their staff. Luke presents those as public traces and invitations.
 
 ## Music, film, humour and story
 
 Music is one of the collection's most accessible introductions. **i C. Infinity** carries affection, personal experience, island life, political questions and imagined futures into songs. The work invites a listener to encounter an idea emotionally before encountering its architecture.
+
+Keyboard, singing and drama belong to Luke's childhood record. His 2004 Glastonbury experience is connected in his later account with a wish to perform there himself. The **2014 Hopes and Fears** page already described wanting to compose and perform meaningful music; the **2022 Toolbox** includes microphones, keyboards, MIDI equipment and production software. These provide a longer creative history behind the recent albums.
 
 The [fourth-album collection, A Protopian Gambit](documents/originals/4th%20i%20C.%20infinity%20album%20%2824%29%20A%20Protopian%20Gambit%20%2824%20lyrics%29.pdf), includes titles such as **Primordial Consent**, **The Protopian Gambit**, **Kintsugi Protocol**, **60 Days Set in Stone** and **Every Border a Bridge**. The located file is the exact 50-page “(24 lyrics)” version named in the inventory, with an update date of 4 July 2026.
 
@@ -325,11 +423,17 @@ The [Straddie Fun fifth-album collection](documents/originals/Straddie%20Fun%205
 
 The [i C. Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html) maps the creative material. [Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/), [DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/index.html) and the screen-media projects provide other routes through humour, production and storytelling.
 
+[Sovereign Music Australia](https://auraofintelligence.github.io/sovereign-music-australia/) expands the music strand into a proposed ecosystem for artists and listeners, provenance, charts, awards, rights, bargaining, deal terms and shared revenue. Two podcast projects give conversation different creative settings: [The Spirit Animal Podcast](https://auraofintelligence.github.io/spirit-animal-podcast/) begins with a guest choosing an animal and exploring its values; [Two Dogs](https://auraofintelligence.github.io/two-dogs-podcast-backend/) uses Blue Dog and Red Dog to explore existence, civilisation, culture and living things. Their public sites include planning and recording tools alongside the premises.
+
+In his more recent [Tiggy Bestmann source notes](https://github.com/auraofintelligence/tiggy-bestmann/blob/8ea9e80a4fae230cf658b6f5bae5f0174746995a/SOURCES.md), Luke says he bought an **Audima Labs Sway MIDI controller, batch 4**, expects it in **November or December 2026**, and intends to learn to perform the i C. Infinity material with it. That is his stated next creative step.
+
 The creative and practical sides support one another in the proposed pattern. A community event needs equipment, schedules, people and skills; making the film can become a learning opportunity; a local story can give someone a reason to participate. The completed MMEIC event sits within that interest, while the wider local network remains proposed.
 
 ## Love, family and chosen lives
 
 Affection, intimacy, family and belonging are explicit motives in the personal writing. They are also part of the argument about what greater capability should make possible. A future with more resources or more intelligence has a personal meaning when it creates room for a wanted relationship, children, care, shared creativity or a life in another place.
+
+There is also a concrete donor history. **Lifetime Memory Map records eight anonymous IVF live births confirmed by Luke: four boys and four girls, from 2020 to 2023.** Six entries have confirmed months and years; the final two are recorded in 2023 with months undisclosed. The [source record](docs/life-record.md#ivf-donations-and-anonymous-live-birth-confirmations) preserves their anonymity and keeps the confirmations independent of neighbouring people, events and map locations.
 
 [Global Group Marriages](https://auraofintelligence.github.io/global-group-marriages/) explores larger networks of adult love, parenting, care, housing and shared resources. It is openly favourable to this additional family framework while examining the arrangements required to make chosen relationships understandable and dependable.
 
@@ -338,6 +442,8 @@ The materials distinguish kinds of commitment: romance, sexuality, co-parenting,
 The [alignment paper](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) connects these human interests with the longer ambition for artificial intelligence as a participant in shared discovery and, within adult contexts, possible affection and embodied companionship. It treats alignment as an evolving relationship, with questions about independent interests and responsibilities as capability develops.
 
 [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), [Australian Sire's stated desires](https://auraofintelligence.github.io/australiansire/desire.html), [Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/) and [Grey Area Commons](https://auraofintelligence.github.io/grey-area-commons/) extend the personal and fictional exploration. These pages include adult and unconventional themes.
+
+**Tiggy Bestmann** draws its name from Luke's first pet and first street through an adult-name game. His published explanation uses Tiggy for a broadly playful expression and **Australian Sire** for a more selective, fertility-focused expression; Luke describes himself across contexts between them. The sites mix autobiographical desire, creative personas, fictional possibilities and practical questions about compatibility. The [Desire Atlas](https://auraofintelligence.github.io/strange-but-true-desire-atlas/) supplies another route through that material.
 
 Luke's earlier explanation for making this material public is that a reporter or interested reader can see the less conventional elements directly.
 
@@ -360,6 +466,14 @@ Its **L0–L3** architecture moves from a home or personal node to a neighbourho
 The record includes interest in space weather, micronova scenarios and other disputed or speculative explanations. The proposed Sensorium would compare observations, assumptions, models and predictions with their sources and uncertainty visible.
 
 [Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/), [Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/index.html), [Strange but True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html) and [Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/) provide related routes. The longer horizon includes resilience, manufacturing, observation and the capacity to live beyond current terrestrial arrangements.
+
+The **[Solar Swarm Satellite Research Report](documents/supplementary/Solar_Swarm_Satellite_Research_Report.pdf)** preserves an earlier architectural blueprint for a decentralised solar-system observatory: sensors, onboard intelligence, swarm behaviour, digital twins and a global Sensorium. It includes speculative assumptions, including quantum-entanglement communications. The present Virtual Solar Swarm site provides the more useful route for following the project's current models and feasibility treatment.
+
+### Historical, spiritual and unconventional inquiry
+
+The **[Timothy Hogan / Knights Templar reading site](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/)** is another substantial introduction to the collection. It connects Luke's interests in consciousness, geometry, ancient artefacts, spiritual traditions, technology and future civilisation, alongside an extensive public source library. Luke reports that a September 2026 interview prompted him to contact Timothy Hogan seeking an invitation to a vault dig and access to artefacts for study. His account appears in the site's [reported outreach record](https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/03d9d8dd70e76b59112a8ad1daffa5b37d4fadf7/REFERENCE_REGISTER.md#reported-outreach-event).
+
+Read this strand alongside the earlier spiritual and geometric language in the Constitutional Matrix, the personal self-portrait, Cosmic Nexus, Extreme Matter Atlas and the space-weather projects. It helps explain subjects Luke chooses to investigate and the meanings he draws between them. Each linked investigation has its own sources, assumptions and open questions.
 
 ### Health, infrastructure and civilisational scenarios
 
@@ -384,7 +498,10 @@ Many repositories provide ways to approach a smaller task without first adopting
 | Explore activities, travel and jurisdictional questions | [Australian Visa Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/) |
 | Connect a person's interests with places and opportunities | [Right Place Right Time](https://auraofintelligence.github.io/right-place-right-time/index.html) |
 | Follow the travel-planning strand | [Strange but True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/) |
+| Follow remembered travel and residences | [Lifetime Memory Map](https://auraofintelligence.github.io/lifetime-memory-map/) and [the life record](docs/life-record.md) |
 | Follow local proposal development and resources | [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/) |
+| Browse the wider collection by subject | [Website directory with project descriptions](docs/website-directory.md) |
+| Read the earlier website in its own period | [I Choose Infinity history and recovered sources](docs/ichooseinfinity-history.md) |
 | Examine the earlier breadth of the public account | [Extended open record](docs/extended-record.md) |
 
 The projects are intended to be **modular**, with selected parts adapted to a particular person, culture, organisation or jurisdiction under the relevant permissions and local choices. The wider Product Engine and agentic direction anticipates software helping assemble components, prepare prototypes and continue work from source material.
@@ -395,7 +512,7 @@ For a practical enquiry, begin with a particular task and the relevant project p
 
 ## Original documents and their versions
 
-The [archive index](documents/README.md) now links the located files behind **all 18 entries** in the earlier uploaded-document inventory. There are **20 files** because the Genesis entry includes its located Edition 2 PDF, an earlier Edition 1 PDF and the Edition 2 Word source.
+The [archive index](documents/README.md) links **38 original PDF and Word files**: the **20 files** behind all 18 entries in the earlier uploaded-document inventory, and **18 further supporting documents** copied from the major project collections and Luke Catalyst. The historical website archive is a separate collection of recovered pages and its site-index spreadsheet.
 
 The source files were found in the author’s Documents, Downloads, local download archive and GitHub repository collection. Their bytes were copied unchanged. [The manifest](documents/manifest.json) records requested and located filenames, file sizes, versions, checksums and permanent links to matching published copies where available. [SHA256SUMS](documents/SHA256SUMS) provides the integrity list.
 
@@ -412,6 +529,25 @@ Two filename differences remain explicit. The inventory named an **unversioned G
 Other documents were recovered from renamed public copies or archive exports and matched by their contents, metadata, provenance records and checksums. The [version notes](documents/README.md#filename-and-version-notes) explain those choices. The archive contains the exact **50-page fourth-album file** named in the inventory.
 
 The earlier [filename inventory and descriptive account](docs/extended-record.md#6-inventory-of-uploaded-reference-documents) remains available. Its filenames now link to the located files, with the differences labelled.
+
+### Further supporting documents, copied and explained
+
+The **[18-document supporting collection](documents/supplementary.md)** adds the earlier personal and architectural history and substantial source material behind the websites. Each original is accompanied by an explanation of its contents, connection to the wider work, date, edition and production context. Its own [manifest](documents/supplementary/manifest.json) and [checksums](documents/supplementary/SHA256SUMS) record the unchanged files and permanent public sources.
+
+| Read this strand | What the added originals explain |
+| --- | --- |
+| **Personal foundations** | The **2014 Constitutional Matrix**, **2022 Motivation & Toolbox**, **July 2023 Aura version 7** and **What Would You Choose 2023** connect personal values, hopes, relationships, tools, interfaces and desired lives across the earlier years. |
+| **Geode, bodies and care** | **Genesis Geode Development edition 3**, **Geode to Macro**, the **Aura of Dementia clinical-research first draft** and the **Health-Tech Cooperative / HBOT framework** explain the proposed learning environment, body-and-mind records, care research and cooperative ownership. |
+| **Work and public decisions** | The **Ready S.E.T. 2026 Strategy** and **Redlands Mayoral By Election Assessment** develop organisational support, employment, shared services, civic responsibility and a possible political role. |
+| **Legislation and civic intelligence** | The **C-Hour Legislative Strategy** and **Spec-Driven AI Governance Architecture** connect voluntary contribution, legal retrieval, public repositories and civic simulations. The September C-Hour corrections remain the current definition. |
+| **Community compute and international cooperation** | The **short Senate AI and Data Centres submission**, **B.E.L.A.U. Pacific Discussion Paper** and **UNGA81 refined contribution** show separate audiences and arguments within the larger programme. |
+| **Intelligence and the space horizon** | **Super-Computers of North Straddie**, **Super Alignment of Artificial Super Intelligence** and the **Solar Swarm Satellite Research Report** preserve the hardware, alignment and observatory research directions with their historical assumptions. |
+
+For wider source collections, the [Queens library](https://auraofintelligence.github.io/500-Queens-VC-2026/references.html), [UNGA81 library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html), [Anglican partnership repository](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity) and [Timothy Hogan reading site](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/) retain further originals, presentations, images and source registers. The [website directory](docs/website-directory.md) describes where those collections fit.
+
+### Recovered historical website
+
+The **[I Choose Infinity historical collection](documents/historical/ichooseinfinity/README.md)** preserves recovered HTML and readable text with capture dates, original addresses and checksums. It includes the original **June 2014 site-index spreadsheet**, whose descriptions are dated **5 June 2014**. The [history guide](docs/ichooseinfinity-history.md) explains the earlier personal, political, learning, technology and island proposals, and the changes visible in later captures.
 
 <a id="about-this-record"></a>
 

@@ -2,13 +2,19 @@
 
 [Start here](../README.md) · [Extended open record](../docs/extended-record.md) · [Reporting guide](../docs/reporting-guide.md)
 
-**Added 17 October 2026.** This archive contains **20 unchanged files covering the 18 entries** in the earlier uploaded-document inventory: 18 primary documents plus an earlier Genesis edition and its located Edition 2 Word source.
+**Updated 17 October 2026.** This collection holds **38 original PDF and Word files** across two source sets, plus the recovered historical website collection.
+
+| Collection | Contents | Explanation and source records |
+| --- | --- | --- |
+| **Earlier uploaded-document inventory** | 20 unchanged files covering 18 entries: 18 primary documents, an earlier Genesis edition and the located Edition 2 Word source. | The catalogue below, [manifest](manifest.json) and [checksums](SHA256SUMS). |
+| **Further major-project supporting documents** | 18 unchanged originals: personal foundations from 2014–2023, Geode development, care research, employment, governance, public submissions and space research. | [Read the explanations](supplementary.md), [supplementary manifest](supplementary/manifest.json) and [checksums](supplementary/SHA256SUMS). |
+| **I Choose Infinity historical website** | Recovered pages, readable text, capture metadata and the June 2014 site-index spreadsheet. | [Historical archive](historical/ichooseinfinity/README.md) and [dated history guide](../docs/ichooseinfinity-history.md). |
 
 The files were located in the author’s Documents, Downloads and local download archive, and in the local GitHub repository collection. Duplicate copies were compared by SHA-256. Files with different contents or editions were kept distinct. The source folders remain unchanged.
 
 ## Read or download
 
-PDF links open the repository preview where supported. Word files can be downloaded from their file page. The table records edition and filename differences; the [manifest](manifest.json) supplies file sizes, page counts where available, checksums and permanent links to matching public repository copies.
+PDF links open the repository preview where supported. Word files can be downloaded from their file page. This first table covers the earlier inventory and records edition and filename differences; its [manifest](manifest.json) supplies file sizes, page counts where available, checksums and permanent links to matching public repository copies.
 
 | Document | Located file | Edition and matching notes |
 | --- | --- | --- |
@@ -48,6 +54,10 @@ The Blend Aura PDF was recovered from three identical archive exports. The C-Hou
 
 ## Integrity and source context
 
-Every copied file was checked against its located source after copying. [SHA256SUMS](SHA256SUMS) lists the SHA-256 of all 20 files, using paths relative to this folder. The public manifest records matching published copies where available. Local absolute paths and unrelated files are excluded from the public index.
+Every copied file was checked against its located source after copying. [SHA256SUMS](SHA256SUMS) lists the SHA-256 of the original 20-file set, using paths relative to this folder. The [further 18 files](supplementary.md) and [historical collection](historical/ichooseinfinity/README.md) have separate manifests and integrity lists. The public manifests identify published copies and archival sources without exposing private local paths.
+
+## Early education and work evidence
+
+The [Luke Catalyst work-history page](https://lukecatalyst.com/work-history/) embeds [Luke's Certs and Licences](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf), a 31-page evidence collection. It remains available at its original public address. Useful starting pages are the [1999 Senior Certificate](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=3), [2003 automotive Certificate II](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=5), [2004 Glastonbury crew pass](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=8) and [2009 small-business Certificate IV](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=22). Employment references and later training appear between them and toward the end. The [main account](../README.md#education-practical-work-and-volunteering) connects these scans with the corrected work history.
 
 These documents preserve the author’s writing, proposals and creative material in their existing form, including historical statements and draft material. For current implementation status, use the [dated introduction](../README.md#what-exists-and-what-is-still-proposed). The source documents retain their existing rights and third-party attributions.
