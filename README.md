@@ -7,7 +7,7 @@ Minjerribah / North Stradbroke Island, Queensland, Australia
 Prepared as a starting point for long-form public inquiry or opinion piece.  
 Readers are expected to examine the linked pages and form their own conclusions.
 
-Document date: 17 October 2026 (status corrected; reference inventory added)
+Document date: 17 October 2026 (status corrected; reference inventory added; links inlined)
 
 ---
 
@@ -25,12 +25,7 @@ Luke Nathan Hayes lives on Minjerribah (North Stradbroke Island) in the Redlands
 
 The author appears under three names: Luke Nathan Hayes in formal submissions, Luke Catalyst Nathan Hayes on X, and i C. Infinity for musical work.
 
-Personal and timeline pages:
-- https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top
-- https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history
-- https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
-- https://auraofintelligence.github.io/australian-sire-story-forge/index.html
-- https://auraofintelligence.github.io/australiansire/desire.html
+Personal and timeline pages: [Man and Mind](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top), [World of Work Experience](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history), [When Redlands Discovers Luke Hayes](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/), [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), and [What Draws Him](https://auraofintelligence.github.io/australiansire/desire.html).
 
 ## 3. Core Architecture Described in the Materials
 
@@ -42,7 +37,7 @@ The public materials describe interlocking ideas rather than a single finished p
 
 **Joyful Responsible Abundance** is the directional frame used across submissions and plans, paired with the “Protopian Gambit”: a first move that improves something real, produces evidence, and leaves more choices open.
 
-**GAJRA Earth** (Global Association for Joyful Responsible Abundance on Earth) is described as a voluntary association imaged as a flower garland—many distinct flowers connected by a shared thread, each keeping its own form. https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
+**[GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html)** (Global Association for Joyful Responsible Abundance on Earth) is described as a voluntary association imaged as a flower garland—many distinct flowers connected by a shared thread, each keeping its own form.
 
 **Braided Economy** keeps three records distinct: ordinary money, a contribution record (C-Hour), and a results record (savings, skills, resilience). The strands inform one another without being treated as the same thing.
 
@@ -50,20 +45,9 @@ The public materials describe interlocking ideas rather than a single finished p
 
 The materials treat the island and Redlands as the designed local pattern. These pages exist as designs and proposals. They are not currently active pilots or operating services.
 
-Strange but True community ledger page (design surface):  
-https://auraofintelligence.github.io/strange-but-true/community-ledger.html
+[Strange but True community ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) (design surface).
 
-Other designed or proposed local pages:
-- https://auraofintelligence.github.io/ballow-road-sand-screen-hub/
-- https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html
-- https://auraofintelligence.github.io/minjerribah-screen-media-network/
-- https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/
-- https://auraofintelligence.github.io/community-club-builder-sandy-sports/
-- https://auraofintelligence.github.io/quandamooka-country-events-engine/
-- https://auraofintelligence.github.io/straddie-digital-twin-builders/
-- Proposal for 82 Claytons Road, Amity (Lot 23 on SL3665) to be gifted for dementia support, aged care, and related pathways (noted as sitting with the Anglican Church Diocese under consideration)
-- https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/
-- Place-specific music under i C. Infinity, including the Straddie Fun collection (updates dated July 2026)
+Other designed or proposed local pages: [Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/), [Multi-site Minjerribah Network](https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html), [Minjerribah Screen Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/), [Dunwich/Gumpi Ferry Terminal Open Data Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/), [Community Club Builder – Sandy Sports](https://auraofintelligence.github.io/community-club-builder-sandy-sports/), [Quandamooka Country Events Engine](https://auraofintelligence.github.io/quandamooka-country-events-engine/), [Straddie Digital Twin Builders](https://auraofintelligence.github.io/straddie-digital-twin-builders/), and [Ready SET Co. Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/). The proposal for 82 Claytons Road, Amity (Lot 23 on SL3665) to be gifted for dementia support, aged care, and related pathways is noted as sitting with the Anglican Church Diocese under consideration. Place-specific music under i C. Infinity includes the Straddie Fun collection (updates dated July 2026).
 
 The only completed local delivery to date is the MMEIC documentary and outdoor cinema evening for NAIDOC 50th / 50 years of Deadly. The author has stated that local community implementation was deliberately deferred while the macro systems were developed, precisely so that starting local work later does not recreate the single-person load experienced as secretary of the Point Lookout Fishing Club. The designs remain poised for conditions in which the supporting systems reduce that load.
 
@@ -117,43 +101,19 @@ These documents are the source base for the public pages. They remain designs, p
 
 ## 7. Technical and Design Specifications (summary)
 
-See the inventory above for Sovereign Space Builder Part 2 and the Web3 Sensorium plan. Product-engine and sitemap pages treat surfaces as modular components that can be assembled or re-skinned. These remain design and implementation plans.
+See the inventory above for Sovereign Space Builder Part 2 and the Web3 Sensorium plan. [Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html) and [root sitemap](https://auraofintelligence.github.io/sitemap.html) treat surfaces as modular components that can be assembled or re-skinned. These remain design and implementation plans.
 
 ## 8. Cultural, Narrative, Legal and Relational Surfaces
 
-- https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html
-- https://auraofintelligence.github.io/loose-goose-comedy-engine/
-- https://auraofintelligence.github.io/davinci-resolve-automations/index.html
-- https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html
-- https://auraofintelligence.github.io/global-group-marriages/
-- https://auraofintelligence.github.io/grey-area-commons/
-- https://auraofintelligence.github.io/australian-sire-story-forge/index.html
-- https://auraofintelligence.github.io/australiansire/desire.html
-- https://auraofintelligence.github.io/tiggy-bestmann/
+[i C. Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html), [Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/), [DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/index.html), [Australian Law 2012 – Luke’s Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html), [Global Group Marriages](https://auraofintelligence.github.io/global-group-marriages/), [Grey Area Commons](https://auraofintelligence.github.io/grey-area-commons/), [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), [What Draws Him](https://auraofintelligence.github.io/australiansire/desire.html), and [Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/).
 
 The author has stated these form an open personal record so media or others can see the less conventional elements without private request.
 
 ## 9. Atlases, Product Engines and Connective Surfaces
 
-- https://auraofintelligence.github.io/extreme-matter-atlas/index.html
-- https://auraofintelligence.github.io/global-founder-atlas/index.html
-- https://auraofintelligence.github.io/Australian-visa-activity-atlas/
-- https://auraofintelligence.github.io/right-place-right-time/index.html
-- https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html
-- https://auraofintelligence.github.io/strange-but-true-travel-oracle/
-- https://auraofintelligence.github.io/p4a-oceania-cinema/index.html
-- https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html
-- https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html
-- https://auraofintelligence.github.io/sitemap.html
-- https://auraofintelligence.github.io/mutual-futures/index.html#top
-- https://auraofintelligence.github.io/stradbroke-grants-lab/
-- https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html
-- https://auraofintelligence.github.io/sandworm-subterranean-systems/
-- https://auraofintelligence.github.io/civilisation-of-sand/
-- https://auraofintelligence.github.io/Future-of-Life-2045/
-- https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
+[Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/index.html), [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/index.html), [Australian Visa Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/), [Right Place Right Time](https://auraofintelligence.github.io/right-place-right-time/index.html), [Strange but True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html), [Strange but True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/), [P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/index.html), [P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html), [JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html), [root sitemap](https://auraofintelligence.github.io/sitemap.html), [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/index.html#top), [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/), [Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html), [Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/), [Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/), [Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/), and [GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html).
 
-P4A (https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as a designed pattern piece, not as an operating local implementation.
+[P4A](https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as a designed pattern piece, not as an operating local implementation.
 
 ## 10. Licensing, Modularity and Agentic Use
 
@@ -163,7 +123,7 @@ The modular separation is described as ready for agentic systems. Once external 
 
 ## 11. Public Outreach
 
-An X account under Luke Catalyst Nathan Hayes has posted public replies to figures including Speaker Milton Dick, Queensland Premier David Crisafulli, and Barbados Prime Minister Mia Amor Mottley. Replies typically link GAJRA Earth or related pages and invite participation. The author has stated these are public traces rather than formal channels, intended so that staff reading them encounter a constructive version of the materials.
+An X account under Luke Catalyst Nathan Hayes has posted public replies to figures including Speaker Milton Dick, Queensland Premier David Crisafulli, and Barbados Prime Minister Mia Amor Mottley. Replies typically link [GAJRA Earth](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html) or related pages and invite participation. The author has stated these are public traces rather than formal channels, intended so that staff reading them encounter a constructive version of the materials.
 
 ## 12. Rational Suppositions If the Work Continues
 
@@ -182,53 +142,6 @@ Whether any of these occur depends on choices by the author, partners, funders, 
 
 This is a map of public pages, the author’s statements, and the inventory of uploaded reference documents, corrected to reflect that local Minjerribah implementations are designed and awaiting conditions rather than currently active. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction and designs poised, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
 
-## Full Link Index
-
-**Core and personal**
-- https://auraofintelligence.github.io/
-- https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top
-- https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history
-- https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
-- https://p4a.xyz
-
-**Local designs (poised, not operating)**
-- https://auraofintelligence.github.io/strange-but-true/community-ledger.html
-- https://auraofintelligence.github.io/ballow-road-sand-screen-hub/
-- https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html
-- https://auraofintelligence.github.io/minjerribah-screen-media-network/
-- https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/
-- https://auraofintelligence.github.io/community-club-builder-sandy-sports/
-- https://auraofintelligence.github.io/quandamooka-country-events-engine/
-- https://auraofintelligence.github.io/straddie-digital-twin-builders/
-- https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/
-
-**Architecture and association**
-- https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
-- https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html
-- https://auraofintelligence.github.io/sitemap.html
-
-**Cultural, relational, atlases**
-- https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html
-- https://auraofintelligence.github.io/loose-goose-comedy-engine/
-- https://auraofintelligence.github.io/davinci-resolve-automations/index.html
-- https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html
-- https://auraofintelligence.github.io/global-group-marriages/
-- https://auraofintelligence.github.io/grey-area-commons/
-- https://auraofintelligence.github.io/extreme-matter-atlas/index.html
-- https://auraofintelligence.github.io/global-founder-atlas/index.html
-- https://auraofintelligence.github.io/Australian-visa-activity-atlas/
-- https://auraofintelligence.github.io/right-place-right-time/index.html
-- https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html
-- https://auraofintelligence.github.io/strange-but-true-travel-oracle/
-- https://auraofintelligence.github.io/p4a-oceania-cinema/index.html
-- https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html
-- https://auraofintelligence.github.io/mutual-futures/index.html#top
-- https://auraofintelligence.github.io/stradbroke-grants-lab/
-- https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html
-- https://auraofintelligence.github.io/sandworm-subterranean-systems/
-- https://auraofintelligence.github.io/civilisation-of-sand/
-- https://auraofintelligence.github.io/Future-of-Life-2045/
-
 ---
 
-*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. The inventory above lists the principal uploaded reference documents that underpin the public pages.*
+*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. Links above are inline.*
