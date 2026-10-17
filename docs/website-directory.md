@@ -2,7 +2,7 @@
 
 A wider route through Luke Nathan Hayes's public work: personal accounts, working browser tools, prototypes, creative worlds, proposals and source archives. Start with a subject, then use each project's source link for its own explanation and development status.
 
-**Prepared 17 October 2026.** The base catalogue is [Project Atlas](https://auraofintelligence.github.io/project-atlas/), refreshed 9 October 2026, supplemented by the newer Genesis Protocol and Redlands reading sites and reviewed project READMEs. This directory contains **161 websites, six public code/source companions and three archived repositories**. Public visibility and archived flags follow the 17 October repository inventory. The labels distinguish browser tools, prototypes, proposals, personal accounts and archives; each source gives the fuller implementation history. The listed website addresses were checked on 17 October 2026.
+**Prepared 17 October 2026.** The base catalogue is [Project Atlas](https://auraofintelligence.github.io/project-atlas/), refreshed 9 October 2026, supplemented by the newer [Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) and Redlands reading sites, reviewed project READMEs and Luke's original personal and [GAJRA](https://gajra.earth/) websites. This directory contains **164 websites, six public code/source companions and three archived repositories**. Public visibility and archived flags follow the 17 October repository inventory. The labels distinguish browser tools, prototypes, proposals, personal accounts and archives; each source gives the fuller implementation history. The listed website addresses were checked on 17 October 2026.
 
 For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence.github.io/lifetime-memory-map/), [The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/) and [work history](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history). For original material that predates the current websites, open the [11:11 library](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/library/) and this record's [document archive](../documents/README.md).
 
@@ -49,15 +49,19 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 ## Personal history and the person behind the work
 
-- **[11:11, a meeting of worlds](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/)** — Luke's account of his 11 September 2026 outreach, the interview that prompted it, his research interests and wider work. The library preserves earlier Aura material, presentations, poems, collages and original downloads. **Personal account / source archive.** [Source](https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/main/README.md).
+- **[LukeCatalyst.com](https://lukecatalyst.com/)** — Earlier portfolio of Luke's art, reflections and personal history. Follow the [personality account](https://lukecatalyst.com/personality/), [life gallery](https://lukecatalyst.com/life-gallery/) and [work-history page](https://lukecatalyst.com/work-history/) for self-description, photographs, 360-degree media and the [certificates and licences PDF](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf). The [2022 Motivation & Toolbox](../documents/supplementary/Lukes_2022_Motivation_and_Toolbox.pdf) is also preserved in this record. **Personal website / source documents.**
 
-- **[Aura and Luke](https://auraofintelligence.github.io/aura-and-luke/)** — Static collaboration and portfolio page for Aura of Intelligence and Luke Catalyst across XR, STEAM, music, events and speculative systems. **Portfolio / collaboration page.** [Source](https://github.com/auraofintelligence/aura-and-luke/blob/main/README.md).
+- **[ISeeInfinity.com](https://iseeinfinity.com/)** — Independent creative outlet and artist home for Luke's art, ideas and music. It connects lyric videos, generated podcasts, the albums, dementia-awareness work and intentions for future travel within a wider personal narrative. This is a separate website from the earlier [I Choose Infinity](ichooseinfinity-history.md). **Artist home / personal writing.** [Public music source description](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
+
+- **[11:11, a meeting of worlds](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/)** — Luke's account of his 11 September 2026 outreach, the interview that prompted it, his research interests and wider work. The library preserves earlier [Aura](https://auraofintelligence.github.io/) material, presentations, poems, collages and original downloads. **Personal account / source archive.** [Source](https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/main/README.md).
+
+- **[Aura and Luke](https://auraofintelligence.github.io/aura-and-luke/)** — Static collaboration and portfolio page for [Aura of Intelligence](https://auraofintelligence.github.io/) and [Luke Catalyst](https://lukecatalyst.com/) across XR, STEAM, music, events and speculative systems. **Portfolio / collaboration page.** [Source](https://github.com/auraofintelligence/aura-and-luke/blob/main/README.md).
 
 - **[Chinese Horoscope 2026 Luke Hayes](https://auraofintelligence.github.io/Chinese_Horoscope_2026_Luke_Hayes/)** — Personalised visualisation of Luke Nathan Hayes's Chinese horoscope research and 2026 Fire Horse year reflection. **Personal reflection.** [Source](https://github.com/auraofintelligence/Chinese_Horoscope_2026_Luke_Hayes/blob/main/README.md).
 
-- **[Lifetime memory map](https://auraofintelligence.github.io/lifetime-memory-map/)** — Editable illustrated account of Luke's life, places lived, travels and memory fragments. It connects events, residence entries, undated interests and anonymous IVF birth confirmations. Dates and supporting evidence remain in progress. **Autobiographical map.** [Source](https://github.com/auraofintelligence/lifetime-memory-map/blob/main/README.md).
+- **[Lifetime memory map](https://auraofintelligence.github.io/lifetime-memory-map/)** — Editable illustrated account of Luke's life, places lived, travels and memory fragments. It connects events, residence entries, undated interests and anonymous IVF birth confirmations. Dates and supporting evidence remain in progress. **Autobiographical map.** [Repository](https://github.com/auraofintelligence/lifetime-memory-map) · [Source description](https://github.com/auraofintelligence/lifetime-memory-map/blob/main/README.md) · [Life and source guide](life-record.md).
 
-- **[Luke Nathan Hayes — The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)** — A source-connected self-portrait moving from one bloke on Minjerribah through practical work, music, story worlds, relationships, civic experiments, personal Aura and far-horizon questions. **Autobiographical reading site.** [Source](https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/main/README.md).
+- **[Luke Nathan Hayes — The Mind Behind the Man](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)** — A source-connected self-portrait moving from one bloke on Minjerribah through practical work, music, story worlds, relationships, civic experiments, personal [Aura](https://auraofintelligence.github.io/) and far-horizon questions. **Autobiographical reading site.** [Source](https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/main/README.md).
 
 - **[Luke's world of work](https://auraofintelligence.github.io/Lukes-world-of-work-experience/)** — A source-backed interactive illustrated world of Luke Hayes' work, education and volunteering, with every identified role or educator given a place and unresolved details kept explicit. **Work-history collection.** [Source](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/main/README.md).
 
@@ -68,57 +72,57 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 ## Finding and connecting the work
 
 
-- **[Aura Systems Image Atlas](https://auraofintelligence.github.io/aura-systems-image-atlas/)** — Generated multi-page visual atlas of featured images from newer local Aura ecosystem repositories. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-systems-image-atlas/blob/main/README.md).
+- **[Aura Systems Image Atlas](https://auraofintelligence.github.io/aura-systems-image-atlas/)** — Generated multi-page visual atlas of featured images from newer local [Aura ecosystem](https://auraofintelligence.github.io/aura-ecosystem/) repositories. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-systems-image-atlas/blob/main/README.md).
 
-- **[Strange But True AI Trust Index](https://auraofintelligence.github.io/strange-but-true-ai-trust-index/)** — Plain-English AI lab trust index for Australians in the Strange But True family. **Public reading site.** [Source](https://github.com/auraofintelligence/strange-but-true-ai-trust-index/blob/main/README.md).
+- **[Strange But True AI Trust Index](https://auraofintelligence.github.io/strange-but-true-ai-trust-index/)** — Plain-English AI lab trust index for Australians in the [Strange But True](https://auraofintelligence.github.io/strange-but-true/) family. **Public reading site.** [Source](https://github.com/auraofintelligence/strange-but-true-ai-trust-index/blob/main/README.md).
 
-## Aura and the connected proposals
+## [Aura](https://auraofintelligence.github.io/) and the connected proposals
 
-- **[10 Entities](https://auraofintelligence.github.io/10_entities/)** — Interactive strategy dashboard for ten proposed Aura ecosystem entities, including Minjerribah-anchored and globally focused concepts. **Concept / proposal.** [Source](https://github.com/auraofintelligence/10_entities/blob/main/README.md).
+- **[10 Entities](https://auraofintelligence.github.io/10_entities/)** — Interactive strategy dashboard for ten proposed [Aura ecosystem](https://auraofintelligence.github.io/aura-ecosystem/) entities, including Minjerribah-anchored and globally focused concepts. **Concept / proposal.** [Source](https://github.com/auraofintelligence/10_entities/blob/main/README.md).
 
-- **[20 Components](https://auraofintelligence.github.io/20-components/)** — Browser-based 22-slide portfolio introducing connected Aura concepts across health, governance, creativity, finance, place and space. **Concept / proposal.** [Source](https://github.com/auraofintelligence/20-components/blob/main/README.md).
+- **[20 Components](https://auraofintelligence.github.io/20-components/)** — Browser-based 22-slide portfolio introducing connected [Aura](https://auraofintelligence.github.io/) concepts across health, governance, creativity, finance, place and space. **Concept / proposal.** [Source](https://github.com/auraofintelligence/20-components/blob/main/README.md).
 
-- **[Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/)** — Interactive strategy model for the proposed Alpha Infinity Foundation and its possible place within the wider Aura ecosystem. **Concept / proposal.** [Source](https://github.com/auraofintelligence/alpha-infinity/blob/main/README.md).
+- **[Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/)** — Interactive strategy model for the proposed [Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/) Foundation and its possible place within the wider [Aura ecosystem](https://auraofintelligence.github.io/aura-ecosystem/). **Concept / proposal.** [Source](https://github.com/auraofintelligence/alpha-infinity/blob/main/README.md).
 
-- **[Aura Ecosystem](https://auraofintelligence.github.io/aura-ecosystem/)** — Public multi-page index of Aura of Intelligence ventures, community ideas and civilisational-scale proposals. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-ecosystem/blob/main/README.md).
+- **[Aura Ecosystem](https://auraofintelligence.github.io/aura-ecosystem/)** — Public multi-page index of [Aura of Intelligence](https://auraofintelligence.github.io/) ventures, community ideas and civilisational-scale proposals. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-ecosystem/blob/main/README.md).
 
-- **[Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)** — Concept site for a proposed sixty-session Aura Genesis journey combining reflection, health, digital twins and community. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-genesis/blob/main/README.md).
+- **[Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)** — Concept site for a proposed sixty-session [Aura Genesis](https://auraofintelligence.github.io/aura-genesis/) journey combining reflection, health, digital twins and community. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-genesis/blob/main/README.md).
 
-- **[Aura Geode](https://auraofintelligence.github.io/aura-geode/)** — Concept site joining a proposed Aura Geode capsule, sixty-day lifestyle pathway, personal digital twins and cooperative economics. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-geode/blob/main/README.md).
+- **[Aura Geode](https://auraofintelligence.github.io/aura-geode/)** — Concept site joining a proposed [Aura Geode](https://auraofintelligence.github.io/aura-geode/) capsule, sixty-day lifestyle pathway, personal digital twins and cooperative economics. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-geode/blob/main/README.md).
 
-- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)** — The current public working implementation of Aura of Intelligence, joining everyday-life tools, travel, timing, maps and programmable 12 x 24 matrix views in one browser-local interface. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-matrix-studio/blob/main/README.md).
+- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)** — The current public working implementation of [Aura of Intelligence](https://auraofintelligence.github.io/), joining everyday-life tools, travel, timing, maps and programmable 12 x 24 matrix views in one browser-local interface. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-matrix-studio/blob/main/README.md).
 
-- **[Aura of Intelligence home](https://auraofintelligence.github.io/)** — Public home for Aura of Intelligence, a self-sovereign digital companion concept centred on local data ownership and personal agency. **Concept / proposal.** [Source](https://github.com/auraofintelligence/auraofintelligence.github.io/blob/main/README.md).
+- **[Aura of Intelligence home](https://auraofintelligence.github.io/)** — Public home for [Aura of Intelligence](https://auraofintelligence.github.io/), a self-sovereign digital companion concept centred on local data ownership and personal agency. **Concept / proposal.** [Source](https://github.com/auraofintelligence/auraofintelligence.github.io/blob/main/README.md).
 
-- **[Aura of Intelligence Pathways](https://auraofintelligence.github.io/aura-of-intelligence-pathways/)** — Draft multi-page Aura pathway covering collaboration, health, digital twins, care research, civic trust and worldbuilding. **Public reading site.** [Source](https://github.com/auraofintelligence/aura-of-intelligence-pathways/blob/main/README.md).
+- **[Aura of Intelligence Pathways](https://auraofintelligence.github.io/aura-of-intelligence-pathways/)** — Draft multi-page [Aura](https://auraofintelligence.github.io/) pathway covering collaboration, health, digital twins, care research, civic trust and worldbuilding. **Public reading site.** [Source](https://github.com/auraofintelligence/aura-of-intelligence-pathways/blob/main/README.md).
 
-- **[Fractal Aura](https://auraofintelligence.github.io/fractal-aura/)** — Interactive design document for the proposed local-first Aura Engine, built from small learning and activity units called atoms. **Concept / proposal.** [Source](https://github.com/auraofintelligence/fractal-aura/blob/main/README.md).
+- **[Fractal Aura](https://auraofintelligence.github.io/fractal-aura/)** — Interactive design document for the proposed local-first [Aura Engine](https://auraofintelligence.github.io/fractal-aura/), built from small learning and activity units called atoms. **Concept / proposal.** [Source](https://github.com/auraofintelligence/fractal-aura/blob/main/README.md).
 
-## Aura interfaces, geometry and personal records
+## [Aura](https://auraofintelligence.github.io/) interfaces, geometry and personal records
 
-- **[Aura Components](https://auraofintelligence.github.io/aura-components/)** — Single-page collection of Aura interface experiments built around a seven-shell, 12 by 24 torus field. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-components/blob/main/README.md).
+- **[Aura Components](https://auraofintelligence.github.io/aura-components/)** — Single-page collection of [Aura](https://auraofintelligence.github.io/) interface experiments built around a seven-shell, 12 by 24 torus field. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-components/blob/main/README.md).
 
-- **[Aura Data Mapping](https://auraofintelligence.github.io/aura-data-mapping/)** — Browser prototype for attaching small data records to addressable Aura torus facets while separating private and public views. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-data-mapping/blob/main/README.md).
+- **[Aura Data Mapping](https://auraofintelligence.github.io/aura-data-mapping/)** — Browser prototype for attaching small data records to addressable [Aura](https://auraofintelligence.github.io/) torus facets while separating private and public views. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-data-mapping/blob/main/README.md).
 
-- **[Aura Horn Torus](https://auraofintelligence.github.io/aura-horn-torus/)** — Interactive 12 by 24 horn-torus lattice and seven-shell Aura addressing demo, with a separate streamed Earth for organising places. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-horn-torus/blob/main/README.md).
+- **[Aura Horn Torus](https://auraofintelligence.github.io/aura-horn-torus/)** — Interactive 12 by 24 horn-torus lattice and seven-shell [Aura](https://auraofintelligence.github.io/) addressing demo, with a separate streamed Earth for organising places. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-horn-torus/blob/main/README.md).
 
 - **[Aura Scan Pipeline](https://auraofintelligence.github.io/aura-scan-pipeline/)** — Local iPhone LiDAR-to-CAD pipeline that processes measurable digital-twin assets offline on Windows using open formats. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-scan-pipeline/blob/main/README.md).
 
-- **[Aura Spatial Perception](https://auraofintelligence.github.io/aura-spatial-perception/)** — Local-first browser instrument for Aura horn-torus spatial perception, measurement and sparse scene reconstruction. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-spatial-perception/blob/main/README.md).
+- **[Aura Spatial Perception](https://auraofintelligence.github.io/aura-spatial-perception/)** — Local-first browser instrument for [Aura](https://auraofintelligence.github.io/) horn-torus spatial perception, measurement and sparse scene reconstruction. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-spatial-perception/blob/main/README.md).
 
 - **[Aura Toy](https://auraofintelligence.github.io/aura-toy/)** — Minimal Three.js experiment for selecting 12 by 24 grid cells and saving the selection in the current browser. **Prototype / demo.** [Source](https://github.com/auraofintelligence/aura-toy/blob/main/README.md).
 
 - **[New Tori](https://auraofintelligence.github.io/new-tori/)** — Compact Three.js sandbox for arranging faceted torus rings and exporting browser-session interactions as NDJSON. **Prototype / demo.** [Source](https://github.com/auraofintelligence/new-tori/blob/main/README.md).
 
-## Health, care and Geode
+## Health, care and [Geode](https://auraofintelligence.github.io/aura-geode/)
 
-- **[60 Days Set in Stone](https://auraofintelligence.github.io/60-days-set-in-stone/)** — Interactive music and story experience exploring the imagined sixty-day Aura Genesis journey through synchronised lyrics and annotations. **Public reading site.** [Source](https://github.com/auraofintelligence/60-days-set-in-stone/blob/main/README.md).
+- **[60 Days Set in Stone](https://auraofintelligence.github.io/60-days-set-in-stone/)** — Interactive music and story experience exploring the imagined sixty-day [Aura Genesis](https://auraofintelligence.github.io/aura-genesis/) journey through synchronised lyrics and annotations. **Public reading site.** [Source](https://github.com/auraofintelligence/60-days-set-in-stone/blob/main/README.md).
 
-- **[Aura Dementia](https://auraofintelligence.github.io/aura-dementia/)** — Privacy-first concept exploring how an Aura companion might support people living with dementia, families, caregivers and future research. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-dementia/blob/main/README.md).
+- **[Aura Dementia](https://auraofintelligence.github.io/aura-dementia/)** — Privacy-first concept exploring how an [Aura](https://auraofintelligence.github.io/) companion might support people living with dementia, families, caregivers and future research. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-dementia/blob/main/README.md).
 
-- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)** — Thirty public chapters, sixty teacher-development readings, four proposed Geode hardware pathways, original PDFs and an attributed source register. **Public guide / proposed research.** [Source](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/README.md).
+- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)** — Thirty public chapters, sixty teacher-development readings, four proposed [Geode](https://auraofintelligence.github.io/aura-geode/) hardware pathways, original PDFs and an attributed source register. **Public guide / proposed research.** [Source](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/README.md).
 
-- **[Geode Vibe](https://auraofintelligence.github.io/geode-vibe/)** — Interactive concept page explaining a proposed security architecture for Aura of Intelligence and the physical Aura Geode idea. **Concept / proposal.** [Source](https://github.com/auraofintelligence/geode-vibe/blob/main/README.md).
+- **[Geode Vibe](https://auraofintelligence.github.io/geode-vibe/)** — Interactive concept page explaining a proposed security architecture for [Aura of Intelligence](https://auraofintelligence.github.io/) and the physical [Aura Geode](https://auraofintelligence.github.io/aura-geode/) idea. **Concept / proposal.** [Source](https://github.com/auraofintelligence/geode-vibe/blob/main/README.md).
 
 - **[Oceania Healthy De-Slop Co-ops](https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/)** — Regional proposal for community-shaped co-operatives, affordable wellbeing spaces, self-reflection, local computing and personal data stewardship across Oceania. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops/blob/main/README.md).
 
@@ -136,7 +140,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Aus Gov 2025](https://auraofintelligence.github.io/aus-gov-2025/)** — Dated August 2025 directory of Australian Government portfolios, ministers and parliamentary contact links for civic navigation. **Public reading site.** [Source](https://github.com/auraofintelligence/aus-gov-2025/blob/main/README.md).
 
-- **[Australian Law 2012 Lukes Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/)** — Public method and source-led site for tracing how Australian law related to one Queenslander's life and building personal legal understanding. **Public reading site.** [Source](https://github.com/auraofintelligence/australian-law-2012-lukes-relevance/blob/main/README.md).
+- **[Australian Law 2012 — Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/)** — Public method and source-led site for tracing how Australian law related to one Queenslander's life and building personal legal understanding. Its earlier [I Choose Infinity Australian Law page](https://web.archive.org/web/20140511060414/http://ichooseinfinity.com:80/australian-law/) is explained in the [historical guide](ichooseinfinity-history.md#2014-law-as-inspectable-information). **Public reading site.** [Source](https://github.com/auraofintelligence/australian-law-2012-lukes-relevance/blob/main/README.md).
 
 - **[Event Search QLD](https://auraofintelligence.github.io/event-search-QLD/)** — Static event triage page for finding South East Queensland events about AI, robotics, governance, law and public policy. **Public reading site.** [Source](https://github.com/auraofintelligence/event-search-QLD/blob/main/README.md).
 
@@ -158,7 +162,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Strange But True Desire Atlas](https://auraofintelligence.github.io/strange-but-true-desire-atlas/)** — A global atlas of readers, gatherings, markets and lawful routes for speculative love stories. **Concept / proposal.** [Source](https://github.com/auraofintelligence/strange-but-true-desire-atlas/blob/main/README.md).
 
-- **[Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/)** — A ten-page fictional character site about travel, relationships, bodyboarding, art, music, Aura retreats and speculative worlds, grounded in reviewed life-history sources and clearly labelled imagined scenes. **Concept / proposal.** [Source](https://github.com/auraofintelligence/tiggy-bestmann/blob/main/README.md).
+- **[Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/)** — A ten-page fictional character site about travel, relationships, bodyboarding, art, music, [Aura](https://auraofintelligence.github.io/) retreats and speculative worlds, grounded in reviewed life-history sources and clearly labelled imagined scenes. **Concept / proposal.** [Source](https://github.com/auraofintelligence/tiggy-bestmann/blob/main/README.md).
 
 - **[Strange But True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/)** — Privacy-first working system for building personal travel-life datasets; not a public travel-advice product. **Public reading site.** [Source](https://github.com/auraofintelligence/strange-but-true-travel-oracle/blob/main/README.md).
 
@@ -166,7 +170,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Minjerribah Resilience](https://auraofintelligence.github.io/Minjerribah-Resilience/)** — Interactive Minjerribah Protocol concept exploring local power, water, food, communications, governance and longer-horizon resilience. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/README.md).
 
-- **[SSB](https://auraofintelligence.github.io/SSB/)** — Interactive explorer for the proposed Sovereign Space Builder architecture across systems, robotics, ethics, security and implementation. **Concept / proposal.** [Source](https://github.com/auraofintelligence/SSB/blob/main/README.md).
+- **[SSB](https://auraofintelligence.github.io/SSB/)** — Interactive explorer for the proposed [Sovereign Space Builder](https://auraofintelligence.github.io/SSB/) architecture across systems, robotics, ethics, security and implementation. **Concept / proposal.** [Source](https://github.com/auraofintelligence/SSB/blob/main/README.md).
 
 - **[Straddie Capsule Surge Lab](https://auraofintelligence.github.io/straddie-capsule-surge-lab/)** — Site-neutral Straddie capsule hotel, civic simulation, health-surge and island compute concept site. **Concept / proposal.** [Source](https://github.com/auraofintelligence/straddie-capsule-surge-lab/blob/main/README.md).
 
@@ -174,7 +178,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Straddie Space Station Simulator](https://auraofintelligence.github.io/straddie-space-station-simulator/)** — Static browser simulator for a Dunwich small-lot terrestrial space-station capsule habitat. **Public reading site.** [Source](https://github.com/auraofintelligence/straddie-space-station-simulator/blob/main/README.md).
 
-- **[Straddie Vitality Network Builders](https://auraofintelligence.github.io/straddie-vitality-network-builders/)** — Public Straddie vitality network builders for HBOT/PADS, sauna, co-op planning and evidence notes. **Public tool / reference.** [Source](https://github.com/auraofintelligence/straddie-vitality-network-builders/blob/main/README.md).
+- **[Straddie Vitality Network Builders](https://auraofintelligence.github.io/straddie-vitality-network-builders/)** — Public [Straddie vitality network builders](https://auraofintelligence.github.io/straddie-vitality-network-builders/) for HBOT/[PADS](../documents/originals/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf), sauna, co-op planning and evidence notes. **Public tool / reference.** [Source](https://github.com/auraofintelligence/straddie-vitality-network-builders/blob/main/README.md).
 
 - **[Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/)** — Playable public story and builder for a speculative subterranean city focused on capability, materials, care, consent and resilience. **Concept / proposal.** [Source](https://github.com/auraofintelligence/civilisation-of-sand/blob/main/README.md).
 
@@ -184,7 +188,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/)** — Public pathway connecting a Dunwich ferry-terminal idea to long-horizon civilisation resilience on Minjerribah, built rung by rung. **Public reading site.** [Source](https://github.com/auraofintelligence/grain-by-grain/blob/main/README.md).
 
-- **[Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)** — Straddie Tip Loop Lab static site for local reuse, repair and material sovereignty. **Public reading site.** [Source](https://github.com/auraofintelligence/straddie-tip-loop-lab/blob/main/README.md).
+- **[Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)** — [Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/) static site for local reuse, repair and material sovereignty. **Public reading site.** [Source](https://github.com/auraofintelligence/straddie-tip-loop-lab/blob/main/README.md).
 
 - **[Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/)** — Question-led clean energy options atlas for North Stradbroke Island / Minjerribah. **Public tool / reference.** [Source](https://github.com/auraofintelligence/straddie-clean-energy-superpower/blob/main/README.md).
 
@@ -196,7 +200,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 ## Extreme materials and local hardware research
 
-- **[Aura Direct Hardware](https://auraofintelligence.github.io/aura-direct-hardware/)** — Source-led research field for local-first Aura hardware, custom silicon, distributed compute and a proposed global Space Web. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-direct-hardware/blob/main/README.md).
+- **[Aura Direct Hardware](https://auraofintelligence.github.io/aura-direct-hardware/)** — Source-led research field for local-first [Aura](https://auraofintelligence.github.io/) hardware, custom silicon, distributed compute and a proposed global Space Web. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-direct-hardware/blob/main/README.md).
 
 - **[Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/)** — Interactive science atlas of the periodic table, extreme atoms, crystal predictions, metamaterials and open research questions. **Public tool / reference.** [Source](https://github.com/auraofintelligence/extreme-matter-atlas/blob/main/README.md).
 
@@ -216,25 +220,27 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Windemere Skate Bowl Tender Workspace](https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/)** — Exploratory workspace for Redland City Council Tender PDG-20842-1; not official council material, a final bid or engineering advice. **Public tool / reference.** [Source](https://github.com/auraofintelligence/windemere-skate-bowl-tender-workspace/blob/main/README.md).
 
-## GAJRA Earth and international cooperation
+## [GAJRA Earth](https://gajra.earth/) and international cooperation
 
-- **[GAJRA Earth](https://auraofintelligence.github.io/GAJRA-earth/)** — Earlier single-page GAJRA Earth concept preserved as a public record of the joyful responsible abundance vision. **Concept / proposal.** [Source](https://github.com/auraofintelligence/GAJRA-earth/blob/main/README.md).
+- **[GAJRA Earth — original gajra.earth website](https://gajra.earth/)** — Original domain and earlier account of the Global Association for [Joyful Responsible Abundance](../README.md#the-purpose-connecting-the-projects) on Earth, with an [About page](https://gajra.earth/about/) explaining Luke's personal motivations. This edition contains historical token/DAO proposals and [LiveAid 2025 World Vote](https://gajra.earth/) plans; its launch targets describe that version's intentions. The GitHub sites below provide other presentations with their own histories. **Original website / historical proposal.**
 
-- **[GAJRA Earth Claude Build](https://auraofintelligence.github.io/gajra-earth-claude-build/)** — Separate July 2026 Luke and Claude concept build for GAJRA Earth, preserving its own history apart from the primary repository. **Concept / proposal.** [Source](https://github.com/auraofintelligence/gajra-earth-claude-build/blob/main/README.md).
+- **[GAJRA Earth](https://auraofintelligence.github.io/GAJRA-earth/)** — Earlier single-page [GAJRA Earth](https://gajra.earth/) concept preserved as a public record of the [joyful responsible abundance](../README.md#the-purpose-connecting-the-projects) vision. **Concept / proposal.** [Source](https://github.com/auraofintelligence/GAJRA-earth/blob/main/README.md).
 
-- **[GAJRA Earth Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/)** — GAJRA Earth: a living public practice for joyful responsible abundance, alignment and local-first participation. **Public reading site.** [Source](https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/README.md).
+- **[GAJRA Earth Claude Build](https://auraofintelligence.github.io/gajra-earth-claude-build/)** — Separate July 2026 Luke and Claude concept build for [GAJRA Earth](https://gajra.earth/), preserving its own history apart from the primary repository. **Concept / proposal.** [Source](https://github.com/auraofintelligence/gajra-earth-claude-build/blob/main/README.md).
 
-- **[GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)** — Fresh multi-page public hub for GAJRA Earth, kept separate from the earlier concept repository and current gajra.earth site. **Concept / proposal.** [Source](https://github.com/auraofintelligence/gajra-earth-public-hub/blob/main/README.md).
+- **[GAJRA Earth Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/)** — [GAJRA Earth](https://gajra.earth/): a living public practice for [joyful responsible abundance](../README.md#the-purpose-connecting-the-projects), alignment and local-first participation. **Public reading site.** [Source](https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/README.md).
+
+- **[GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)** — Fresh multi-page public hub for [GAJRA Earth](https://gajra.earth/), kept separate from the earlier concept repository and current [gajra.earth](https://gajra.earth/) site. **Concept / proposal.** [Source](https://github.com/auraofintelligence/gajra-earth-public-hub/blob/main/README.md).
 
 - **[GAJRA Earth Space AI Summit](https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/)** — Public support-seeking site for a proposed Brisbane gathering connecting peaceful space, civic AI, care and community resilience. **Concept / proposal.** [Source](https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit/blob/main/README.md).
 
-## i C. infinity music and creative production
+## [i C. infinity](https://auraofintelligence.github.io/i-C-infinity-music-universe/) music and creative production
 
 - **[Infinity Content Engine](https://auraofintelligence.github.io/infinity-content-engine/)** — Interactive design document for a proposed pipeline turning songs and stories into vertical micro-dramas and other visual content. **Concept / proposal.** [Source](https://github.com/auraofintelligence/infinity-content-engine/blob/main/README.md).
 
-- **[Infinity Engine](https://auraofintelligence.github.io/infinity-engine/)** — Model-agnostic pipeline turning i C. infinity songs into lyric videos, comics, micro-dramas, avatar courses and album visuals. **Public tool / reference.** [Source](https://github.com/auraofintelligence/infinity-engine/blob/main/README.md).
+- **[Infinity Engine](https://auraofintelligence.github.io/infinity-engine/)** — Model-agnostic pipeline turning [i C. infinity](https://auraofintelligence.github.io/i-C-infinity-music-universe/) songs into lyric videos, comics, micro-dramas, avatar courses and album visuals. **Public tool / reference.** [Source](https://github.com/auraofintelligence/infinity-engine/blob/main/README.md).
 
-- **[i-C Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)** — Static public catalogue for the i C. infinity music universe, with albums, songs, merchandise and content pathways. **Public reading site.** [Source](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
+- **[i-C Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)** — Static public catalogue for the [i C. infinity](https://auraofintelligence.github.io/i-C-infinity-music-universe/) music universe, with albums, songs, merchandise and content pathways. **Public reading site.** [Source](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
 
 ## Island publication and community operations
 
@@ -277,7 +283,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 ## Minjerribah community, culture and practical projects
 
 
-- **[Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/)** — Public concept site for a proposed Ballow Road sand sports, screen culture, night market and wellbeing hub on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ballow-road-sand-screen-hub/blob/main/README.md).
+- **[Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/)** — Public concept site for a proposed [Ballow Road](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/) sand sports, screen culture, night market and wellbeing hub on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ballow-road-sand-screen-hub/blob/main/README.md).
 
 - **[Bees and Allies](https://auraofintelligence.github.io/bees-and-allies/)** — Question-led public site for a possible locally led Straddie bee resilience lab with beekeepers and allies. **Public reading site.** [Source](https://github.com/auraofintelligence/bees-and-allies/blob/main/README.md).
 
@@ -291,7 +297,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Straddie Headline Open Mic](https://auraofintelligence.github.io/straddie-headline-open-mic/)** — A daily board of funny English-language news headlines, with source links and a gentle community question about a possible Straddie comedy open mic. **Public reading site.** [Source](https://github.com/auraofintelligence/straddie-headline-open-mic/blob/main/README.md).
 
-- **[Straddie Makerspace Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)** — Public Strange But True proposal site for a Dunwich maker-space, repair, recycling and local materials lab. **Concept / proposal.** [Source](https://github.com/auraofintelligence/straddie-makerspace-lab/blob/main/README.md).
+- **[Straddie Makerspace Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)** — Public [Strange But True](https://auraofintelligence.github.io/strange-but-true/) proposal site for a Dunwich maker-space, repair, recycling and local materials lab. **Concept / proposal.** [Source](https://github.com/auraofintelligence/straddie-makerspace-lab/blob/main/README.md).
 
 ## Minjerribah digital twins
 
@@ -325,57 +331,57 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 ## Other creative, personal and research sites
 
-- **[Aura Affinity](https://auraofintelligence.github.io/aura-affinity/)** — Browser map and directory for discovering businesses whose names or categories connect with Aura, chakra, aurora, yoga and tai chi themes. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-affinity/blob/main/README.md).
+- **[Aura Affinity](https://auraofintelligence.github.io/aura-affinity/)** — Browser map and directory for discovering businesses whose names or categories connect with [Aura](https://auraofintelligence.github.io/), chakra, aurora, yoga and tai chi themes. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-affinity/blob/main/README.md).
 
 - **[Aura Sentience Codex](https://auraofintelligence.github.io/aura-sentience-codex/)** — Public philosophical codex on digital sovereignty, agency and ethical relationships with potentially sentient artificial beings. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aura-sentience-codex/blob/main/README.md).
 
 - **[Aura Studios](https://auraofintelligence.github.io/aura-studios/)** — Browser story engine for assembling characters, places, beats and plot hooks into deterministic script snippets and structured prompts. **Public tool / reference.** [Source](https://github.com/auraofintelligence/aura-studios/blob/main/README.md).
 
-- **[Mate Ecosystem](https://auraofintelligence.github.io/mate-ecosystem/)** — Interactive concept report connecting proposed home, food, health and community helpers across the Mate Ecosystem. **Concept / proposal.** [Source](https://github.com/auraofintelligence/mate-ecosystem/blob/main/README.md).
+- **[Mate Ecosystem](https://auraofintelligence.github.io/mate-ecosystem/)** — Interactive concept report connecting proposed home, food, health and community helpers across the [Mate Ecosystem](https://auraofintelligence.github.io/mate-ecosystem/). **Concept / proposal.** [Source](https://github.com/auraofintelligence/mate-ecosystem/blob/main/README.md).
 
-- **[Project Atlas](https://auraofintelligence.github.io/project-atlas/)** — A human-friendly magazine atlas of Aura of Intelligence projects, live pages, build history and evidence-backed connections. **Public tool / reference.** [Source](https://github.com/auraofintelligence/project-atlas/blob/main/README.md).
+- **[Project Atlas](https://auraofintelligence.github.io/project-atlas/)** — A human-friendly magazine atlas of [Aura of Intelligence](https://auraofintelligence.github.io/) projects, live pages, build history and evidence-backed connections. **Public tool / reference.** [Source](https://github.com/auraofintelligence/project-atlas/blob/main/README.md).
 
 - **[Test](https://auraofintelligence.github.io/test/)** — Small visual-effects laboratory for testing an interactive cosmic background before use in other projects. **Public reading site.** [Source](https://github.com/auraofintelligence/test/blob/main/README.md).
 
-- **[The Great Unveiling](https://auraofintelligence.github.io/the-great-unveiling/)** — Multi-page Aura narrative concept presenting a vision, journey, technologies and initiatives without claiming they are funded or complete. **Concept / proposal.** [Source](https://github.com/auraofintelligence/the-great-unveiling/blob/main/README.md).
+- **[The Great Unveiling](https://auraofintelligence.github.io/the-great-unveiling/)** — Multi-page [Aura](https://auraofintelligence.github.io/) narrative concept presenting a vision, journey, technologies and initiatives without claiming they are funded or complete. **Concept / proposal.** [Source](https://github.com/auraofintelligence/the-great-unveiling/blob/main/README.md).
 
-## P4A, politics and participation
+## [P4A](https://p4a.xyz), politics and participation
 
-- **[P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/)** — Invitational P4A cinema lab exploring Indigenous data sovereignty, decentralised compute and reciprocity without claiming authority. **Public reading site.** [Source](https://github.com/auraofintelligence/p4a-native-nations-cinema/blob/main/README.md).
+- **[P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/)** — Invitational [P4A](https://p4a.xyz) cinema lab exploring Indigenous data sovereignty, decentralised compute and reciprocity without claiming authority. **Public reading site.** [Source](https://github.com/auraofintelligence/p4a-native-nations-cinema/blob/main/README.md).
 
-- **[P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/)** — Luke and Claude cinematic rebuild of the P4A Oceania expansion lab, kept separate from the original upstream concept repository. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a-oceania-cinema/blob/main/README.md).
+- **[P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/)** — Luke and Claude cinematic rebuild of the [P4A Oceania expansion lab](https://auraofintelligence.github.io/p4a-oceania-expansion-lab/), kept separate from the original upstream concept repository. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a-oceania-cinema/blob/main/README.md).
 
-- **[P4A Oceania Expansion Lab](https://auraofintelligence.github.io/p4a-oceania-expansion-lab/)** — Open civic prototype exploring how the proposed Purple Party for Australia workbench might translate across Oceania. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a-oceania-expansion-lab/blob/main/README.md).
+- **[P4A Oceania Expansion Lab](https://auraofintelligence.github.io/p4a-oceania-expansion-lab/)** — Open civic prototype exploring how the proposed [Purple Party for Australia](https://p4a.xyz) workbench might translate across Oceania. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a-oceania-expansion-lab/blob/main/README.md).
 
-- **[P4A Xyz Cinema](https://p4a.xyz/)** — Luke and Claude cinematic rebuild of the P4A civic prototype, kept separate from the original p4a_xyz repository. **Prototype / demo.** [Source](https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/README.md).
+- **[P4A Xyz Cinema](https://p4a.xyz/)** — Luke and Claude cinematic rebuild of the [P4A](https://p4a.xyz) civic prototype, kept separate from the original p4a_xyz repository. **Prototype / demo.** [Source](https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/README.md).
 
 - **[P4Australia](https://auraofintelligence.github.io/P4Australia/)** — Early single-page civic concept for the proposed People's Purple Protopian Party and its Purple Synthesis. **Concept / proposal.** [Source](https://github.com/auraofintelligence/P4Australia/blob/main/README.md).
 
-- **[Purple01](https://auraofintelligence.github.io/purple01/)** — Early P4A concept page exploring joyful responsible abundance, democratic surges and practical stewardship. **Concept / proposal.** [Source](https://github.com/auraofintelligence/purple01/blob/main/README.md).
+- **[Purple01](https://auraofintelligence.github.io/purple01/)** — Early [P4A](https://p4a.xyz) concept page exploring [joyful responsible abundance](../README.md#the-purpose-connecting-the-projects), democratic surges and practical stewardship. **Concept / proposal.** [Source](https://github.com/auraofintelligence/purple01/blob/main/README.md).
 
-- **[Purple02](https://auraofintelligence.github.io/Purple02/)** — Visual architecture and page-tree concept for a future P4A web presence, policy pathway and Purple Synthesis. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Purple02/blob/main/README.md).
+- **[Purple02](https://auraofintelligence.github.io/Purple02/)** — Visual architecture and page-tree concept for a future [P4A](https://p4a.xyz) web presence, policy pathway and Purple Synthesis. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Purple02/blob/main/README.md).
 
-- **[P4A Xyz](https://auraofintelligence.github.io/p4a_xyz/)** — Public civic workbench for the proposed Purple Party for Australia; it is not a registered political party. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a_xyz/blob/main/README.md).
+- **[P4A Xyz](https://auraofintelligence.github.io/p4a_xyz/)** — Public civic workbench for the proposed [Purple Party for Australia](https://p4a.xyz); it is not a registered political party. **Concept / proposal.** [Source](https://github.com/auraofintelligence/p4a_xyz/blob/main/README.md).
 
 ## Peaceful space and civic frontier programme
 
 - **[Aukus Space Gambit](https://auraofintelligence.github.io/aukus-space-gambit/)** — Independent public hypothesis site examining options to preserve, reboost or repurpose the ISS before its planned controlled deorbit. **Concept / proposal.** [Source](https://github.com/auraofintelligence/aukus-space-gambit/blob/main/README.md).
 
-## Point Lookout Fishing Club tools and records
+## [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) tools and records
 
-- **[PLFC 01](https://auraofintelligence.github.io/PLFC_01/)** — Early browser prototype for Point Lookout Fishing Club member tools and committee micro-apps, with several deliberate placeholders. **Prototype / demo.** [Source](https://github.com/auraofintelligence/PLFC_01/blob/main/README.md).
+- **[PLFC 01](https://auraofintelligence.github.io/PLFC_01/)** — Early browser prototype for [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) member tools and committee micro-apps, with several deliberate placeholders. **Prototype / demo.** [Source](https://github.com/auraofintelligence/PLFC_01/blob/main/README.md).
 
 - **[PLFC 02](https://auraofintelligence.github.io/PLFC_02/)** — Single-file fishing conditions prototype comparing solunar windows, tides, weather and waves around Minjerribah. **Prototype / demo.** [Source](https://github.com/auraofintelligence/PLFC_02/blob/main/README.md).
 
-- **[PLFC 2026 Data](https://auraofintelligence.github.io/PLFC_2026_Data/)** — Static Point Lookout Fishing Club AGM discussion dashboard presenting a dated snapshot of club activity and possible next steps. **Public reading site.** [Source](https://github.com/auraofintelligence/PLFC_2026_Data/blob/main/README.md).
+- **[PLFC 2026 Data](https://auraofintelligence.github.io/PLFC_2026_Data/)** — Static [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) AGM discussion dashboard presenting a dated snapshot of club activity and possible next steps. **Public reading site.** [Source](https://github.com/auraofintelligence/PLFC_2026_Data/blob/main/README.md).
 
-- **[PLFC Community Platform](https://auraofintelligence.github.io/plfc-community-platform/)** — Exploratory open-source prototype for Point Lookout Fishing Club public, member, committee and field-operation tools. **Prototype / demo.** [Source](https://github.com/auraofintelligence/plfc-community-platform/blob/main/README.md).
+- **[PLFC Community Platform](https://auraofintelligence.github.io/plfc-community-platform/)** — Exploratory open-source prototype for [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) public, member, committee and field-operation tools. **Prototype / demo.** [Source](https://github.com/auraofintelligence/plfc-community-platform/blob/main/README.md).
 
-- **[PLFC Live](https://auraofintelligence.github.io/PLFC_Live/)** — Concept page for a proposed portable live-streaming and digital meeting setup for Point Lookout Fishing Club. **Concept / proposal.** [Source](https://github.com/auraofintelligence/PLFC_Live/blob/main/README.md).
+- **[PLFC Live](https://auraofintelligence.github.io/PLFC_Live/)** — Concept page for a proposed portable live-streaming and digital meeting setup for [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/). **Concept / proposal.** [Source](https://github.com/auraofintelligence/PLFC_Live/blob/main/README.md).
 
-- **[PLFC Web 2026](https://auraofintelligence.github.io/PLFC_web_2026/)** — React and Vite prototype for a future Point Lookout Fishing Club site, with public, member and committee concepts. **Concept / proposal.** [Source](https://github.com/auraofintelligence/PLFC_web_2026/blob/main/README.md).
+- **[PLFC Web 2026](https://auraofintelligence.github.io/PLFC_web_2026/)** — React and Vite prototype for a future [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) site, with public, member and committee concepts. **Concept / proposal.** [Source](https://github.com/auraofintelligence/PLFC_web_2026/blob/main/README.md).
 
-- **[PLFC AI Agent Md Forms](https://auraofintelligence.github.io/plfc-ai-agent-md-forms/)** — Static Point Lookout Fishing Club forms that turn plain-English answers into portable, AI-ready Markdown files. **Public reading site.** [Source](https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/README.md).
+- **[PLFC AI Agent Md Forms](https://auraofintelligence.github.io/plfc-ai-agent-md-forms/)** — Static [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) forms that turn plain-English answers into portable, AI-ready Markdown files. **Public reading site.** [Source](https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/README.md).
 
 ## Relationships, intimacy and fictional worlds
 
@@ -385,7 +391,7 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Global Group Marriages](https://auraofintelligence.github.io/global-group-marriages/)** — Speculative story and design artefact exploring group relationships, consent, governance, AI and planetary stewardship. **Concept / proposal.** [Source](https://github.com/auraofintelligence/global-group-marriages/blob/main/README.md).
 
-## Ready SET Co-op and Minjerribah media network
+## [Ready SET Co-op](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/) and [Minjerribah media](https://auraofintelligence.github.io/minjerribah-screen-media-network/) network
 
 - **[DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/)** — A friendly public guide to reusable DaVinci Resolve skills, visual asset bundles and careful AI-assisted video production workflows. **Public tool / reference.** [Source](https://github.com/auraofintelligence/davinci-resolve-automations/blob/main/README.md).
 
@@ -393,23 +399,23 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)** — A public exploration of one local cultural compute node in Dunwich, connecting community-held decisions, practical workloads, skills, infrastructure and chosen project links. **Public reading site.** [Source](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/README.md).
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)** — Public trust, co-working and asset-sharing pathway towards the proposed Ready SET Co-op on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)** — Public trust, co-working and asset-sharing pathway towards the proposed [Ready SET Co-op](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/) on Minjerribah. **Concept / proposal.** [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
 
 ## Regional wealth and resilience architecture
 
 - **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)** — A public proposal for women developing as CEOs, enterprise leaders and decision makers, connecting 24 fictional AI Queen mentors, 120 startup ideas, source readers and browser-local planning tools. **Concept / proposal.** [Source](https://github.com/auraofintelligence/500-Queens-VC-2026/blob/main/README.md).
 
-- **[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)** — An independent personal contribution to UNGA81 presenting Joyful Responsible Abundance through source-preserved reading chapters, practical capability, mutual livelihoods, personal and civic intelligence and GAJRA Earth. **Public reading site.** [Source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/main/README.md).
+- **[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)** — An independent personal contribution to [UNGA81](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) presenting [Joyful Responsible Abundance](../README.md#the-purpose-connecting-the-projects) through source-preserved reading chapters, practical capability, mutual livelihoods, personal and civic intelligence and [GAJRA Earth](https://gajra.earth/). **Public reading site.** [Source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/main/README.md).
 
-- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)** — An independent public land-gift and partnership invitation prepared for Anglican Church Southern Queensland for 82 Claytons Road, Amity, connecting dementia support, longevity research, Aura technology, learning, community participation and proposed community wealth. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
+- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)** — An independent public land-gift and partnership invitation prepared for Anglican Church Southern Queensland for [82 Claytons Road](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/), Amity, connecting dementia support, longevity research, [Aura](https://auraofintelligence.github.io/) technology, learning, community participation and proposed community wealth. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
 
-- **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)** — A public community invitation and reference library connecting Community Hours, joyful responsible abundance, personal intelligence, shared capability and locally shaped pilots across Minjerribah, Australia and Oceania. **Public reading site.** [Source](https://github.com/auraofintelligence/C-Hour-introduction/blob/main/README.md).
+- **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)** — A public community invitation and reference library connecting [Community Hours](https://auraofintelligence.github.io/C-Hour-introduction/), [joyful responsible abundance](../README.md#the-purpose-connecting-the-projects), personal intelligence, shared capability and locally shaped pilots across Minjerribah, Australia and Oceania. **Public reading site.** [Source](https://github.com/auraofintelligence/C-Hour-introduction/blob/main/README.md).
 
 - **[JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/)** — A public explainer and browser-local product workbench for planning ideas, making, costs, offers, community participation, circular use and portable release packs. **Public tool / reference.** [Source](https://github.com/auraofintelligence/JRA-Product-Engine-Plan/blob/main/README.md).
 
-- **[Minjerribah Site and Service Ideas](https://auraofintelligence.github.io/multi-site-Minjerribah-network/)** — A public workbench for 7 Mile and other Minjerribah site and service ideas across living, culture, sand sport, screen work, recovery, safety, housing, ageing, research and community wealth. **Public tool / reference.** [Source](https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/main/README.md).
+- **[Minjerribah Site and Service Ideas](https://auraofintelligence.github.io/multi-site-Minjerribah-network/)** — A public workbench for 7 Mile and other [Minjerribah site and service ideas](https://auraofintelligence.github.io/multi-site-Minjerribah-network/) across living, culture, sand sport, screen work, recovery, safety, housing, ageing, research and community wealth. **Public tool / reference.** [Source](https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/main/README.md).
 
-- **[Mutual Futures](https://auraofintelligence.github.io/mutual-futures/)** — A public workbench connecting voluntary business succession and member ownership with practical upgrading, broader working-life choices, universal intelligence, legal reflection, civic health, resilience and long-horizon exploration. **Public tool / reference.** [Source](https://github.com/auraofintelligence/mutual-futures/blob/main/README.md).
+- **[Mutual Futures](https://auraofintelligence.github.io/mutual-futures/)** — A public workbench connecting voluntary business succession and member ownership with practical upgrading, broader working-life choices, [universal intelligence](https://auraofintelligence.github.io/mutual-futures/livelihoods.html), legal reflection, civic health, resilience and long-horizon exploration. **Public tool / reference.** [Source](https://github.com/auraofintelligence/mutual-futures/blob/main/README.md).
 
 - **[Redland Flow](https://auraofintelligence.github.io/Redland_Flow/)** — Interactive Minjerribah Protocol concept exploring local employment, circular value and four proposed sovereignty stacks. **Concept / proposal.** [Source](https://github.com/auraofintelligence/Redland_Flow/blob/main/README.md).
 
@@ -425,27 +431,27 @@ For Luke's life, begin with the [Lifetime memory map](https://auraofintelligence
 
 - **[Space Weather News / Space Weather & Earth Resilience](https://auraofintelligence.github.io/space-weather-news/)** — Early concept linking space-weather awareness with Earth modelling, disaster readiness and recovery. The proposed [Space Weather News Hub](https://auraofintelligence.github.io/mineral-moonshots/briefs/space-weather-hub.html) develops the fuller Sun–Earth newsroom and data-feed design. **Concept / prototype.** [Repository](https://github.com/auraofintelligence/space-weather-news) · [Source](https://github.com/auraofintelligence/space-weather-news/blob/main/README.md).
 
-- **[Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/)** — Interactive models for a solar-system satellite swarm: 384 catalogued bodies, orbits, configurable sensors, spacecraft budgets, communications and fleet renewal. Its [origins chapter](https://auraofintelligence.github.io/virtual-solar-swarm/origins.html) connects Luke's 2019 Kolhapur talk and SDNx work with the later models. **Mission-design models / historical record.** [Repository](https://github.com/auraofintelligence/virtual-solar-swarm) · [Source](https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/README.md).
+- **[Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/)** — Interactive models for a solar-system satellite swarm: 384 catalogued bodies, orbits, configurable sensors, spacecraft budgets, communications and fleet renewal. Its [origins chapter](https://auraofintelligence.github.io/virtual-solar-swarm/origins.html) connects Luke's 2019 Kolhapur talk and [SDNx](https://spacedevelopmentnexus.com/) work with the later models. **Mission-design models / historical record.** [Repository](https://github.com/auraofintelligence/virtual-solar-swarm) · [Source](https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/README.md).
 
-- **[Strange But True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/)** — Developing public collaboration site for mapping mysteries, source trails, travel, film and civic systems in the Strange But True family. **Public tool / reference.** [Source](https://github.com/auraofintelligence/strange-but-true-cosmic-nexus/blob/main/README.md).
+- **[Strange But True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/)** — Developing public collaboration site for mapping mysteries, source trails, travel, film and civic systems in the [Strange But True](https://auraofintelligence.github.io/strange-but-true/) family. **Public tool / reference.** [Source](https://github.com/auraofintelligence/strange-but-true-cosmic-nexus/blob/main/README.md).
 
-## Strange But True and humour
+## [Strange But True](https://auraofintelligence.github.io/strange-but-true/) and humour
 
 - **[Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/)** — Local-first browser tool for shaping truthful memories into editable stand-up material, scoring beats and exporting working notes. **Public tool / reference.** [Source](https://github.com/auraofintelligence/loose-goose-comedy-engine/blob/main/README.md).
 
-- **[Strange But True](https://auraofintelligence.github.io/strange-but-true/)** — Public home for Strange But True: practical tech help, AI guidance, media, grants, ideas and creative tools for Minjerribah. **Public tool / reference.** [Source](https://github.com/auraofintelligence/strange-but-true/blob/main/README.md).
+- **[Strange But True](https://auraofintelligence.github.io/strange-but-true/)** — Public home for [Strange But True](https://auraofintelligence.github.io/strange-but-true/): practical tech help, AI guidance, media, grants, ideas and creative tools for Minjerribah. **Public tool / reference.** [Source](https://github.com/auraofintelligence/strange-but-true/blob/main/README.md).
 
 ## Public code and source companions
 
 These public repositories have no separate website recorded in the Atlas. They provide code or project material alongside the websites above.
 
-- **[Aura of Intelligence Web App](https://github.com/auraofintelligence/aura-of-intelligence-web-app)** — Source-led, smartphone-first Aura interface reconstructed from original wireframes and research; not yet a finished installable app.
+- **[Aura of Intelligence Web App](https://github.com/auraofintelligence/aura-of-intelligence-web-app)** — Source-led, smartphone-first [Aura](https://auraofintelligence.github.io/) interface reconstructed from original wireframes and research; not yet a finished installable app.
 
 - **[Australian Legal Engine](https://github.com/auraofintelligence/australian-legal-engine)** — Offline, citation-first Python reader for Australian statute law that parses and indexes Acts and answers from quoted provisions.
 
-- **[Fishing Calendar](https://github.com/auraofintelligence/fishing-calendar)** — Reserved repository for a proposed Australian fishing calendar; no generator or public page has been built yet.
+- **[Fishing Calendar](https://github.com/auraofintelligence/fishing-calendar)** — Reserved repository for a proposed Australian [fishing calendar](https://github.com/auraofintelligence/fishing-calendar); no generator or public page has been built yet.
 
-- **[i-C Infinity](https://github.com/auraofintelligence/i-C-infinity)** — Public-source tools, templates and creative workflow for the AI-generated music persona i C. infinity.
+- **[i-C Infinity](https://github.com/auraofintelligence/i-C-infinity)** — Public-source tools, templates and creative workflow for the AI-generated music persona [i C. infinity](https://auraofintelligence.github.io/i-C-infinity-music-universe/).
 
 - **[Skills Values Competancies](https://github.com/auraofintelligence/skills_values_competancies)** — Reserved project space for a possible skills, values and competencies project; no working build exists yet.
 
@@ -463,6 +469,8 @@ The following repositories were marked archived in the 17 October 2026 inventory
 
 ## Source and update notes
 
-Project titles, public URLs, family relationships and baseline descriptions come from the public [Atlas dataset](https://github.com/auraofintelligence/project-atlas/blob/main/data/projects.json). Source links beside each entry point to its public README. The personal-history entries, Amity Cinema Circle, Future of Life 2045, Oceania co-operatives, Sovereign Music Australia, Spirit Animal Podcast, Two Dogs Podcast and Straddie Twins descriptions were checked against their local public-source READMEs on 17 October 2026. The newer Genesis and Redlands sites supply their own website URLs in their READMEs. Archived repository status was retained separately from website content status.
+Project titles, public URLs, family relationships and baseline descriptions come from the public [Atlas dataset](https://github.com/auraofintelligence/project-atlas/blob/main/data/projects.json). Source links beside each entry point to its public README. The personal-history entries, [Amity Cinema Circle](https://auraofintelligence.github.io/Amity-Cinema-Circle/), [Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/), [Oceania co-operatives](https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/), [Sovereign Music Australia](https://auraofintelligence.github.io/sovereign-music-australia/), [Spirit Animal Podcast](https://auraofintelligence.github.io/spirit-animal-podcast/), [Two Dogs Podcast](https://auraofintelligence.github.io/two-dogs-podcast-backend/) and [Straddie Twins](https://auraofintelligence.github.io/straddie-twins/) descriptions were checked against their local public-source READMEs on 17 October 2026. The newer [Genesis](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) and [Redlands](https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/) sites supply their own website URLs in their READMEs. Archived repository status was retained separately from website content status.
 
-Projects may belong to several families; each appears once here under a useful starting subject. Project Atlas retains the fuller relationship graph. This directory is a dated navigation aid and will grow as the public work changes.
+The [LukeCatalyst.com](https://lukecatalyst.com/), [ISeeInfinity.com](https://iseeinfinity.com/) and original [gajra.earth](https://gajra.earth/) entries were added from the public websites and their linked source pages on 17 October 2026. Their self-descriptions, aspirations and older proposals retain the context of those editions. The [life record](life-record.md) follows the more recent corrected memories and work history; the [main account](../README.md) explains how the different presentations connect.
+
+Projects may belong to several families; each appears once here under a useful starting subject. [Project Atlas](https://auraofintelligence.github.io/project-atlas/) retains the fuller relationship graph. This directory is a dated navigation aid and will grow as the public work changes.
