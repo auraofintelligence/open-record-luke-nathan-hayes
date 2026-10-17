@@ -69,35 +69,57 @@ Across the submissions the author states that authority should stay close to aff
 
 The following documents were provided in conversation as source materials. They form part of the public and private design record. Local references within them are design statements unless otherwise noted.
 
+**Complete list of uploaded document filenames**
+
 **Aura and personal systems**
+- Aura_Teacher_Training_60_Days.pdf
+- Aura_Genesis_Protocol_Game_Design_Document.pdf
+- Blend Aura to Unity.pdf
+- Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf
+
+**Music and lyrics**
+- 4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf
+- Straddie Fun 5th Album.pdf
+
+**Policy and inquiry submissions (2026)**
+- Local Government 2Funding Inquiry Submission.pdf
+- Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx
+- AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx
+- A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx
+- Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx
+
+**Local and regional plans**
+- 82-Claytons-Road-Anglican-Partnership-Proposal.pdf
+- C-Hour-Joyful-Responsible-Abundance-Plan.pdf
+- Oceania Health and AI Surge Plan.pdf
+- When_Redlands_Discovers_Luke_Hayes_v4.0.pdf
+- queens-venture-capital-planning-document.pdf
+
+**Technical specifications**
+- Sovereign Space Builder part 2 Full System Specification.pdf
+- Web3 Sensorium for Science Debate.pdf
+
+**Brief descriptions (from conversation extracts)**
 - Aura Teacher Training 60 Days: progression on life maps, selves, seven shells, memory palaces.
 - Aura Genesis Protocol Game Design Document: hyperbaric choose-your-own-adventure mechanics, matrix categories, reflection lenses, digital twin growth.
 - Blend Aura to Unity: technical guide with C# patterns for toroidal mesh generation, data mapping to geometry, VR interaction, pinning sequences, chakra mappings.
 - Joyful Responsible Abundance – Human and Superintelligence Alignment (revised 11 October 2026): master framing for Aura, Geode, Genesis, C-Hours, Web3 Sensorium, GAJRA Earth.
-
-**Policy and civic submissions (2026)**
 - Local Government Funding and Fiscal Sustainability submission (Submission 2).
 - Ocean of Peace Alliance / Veitacini Treaty submission.
 - AUKUS Public Inquiry submission.
 - A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure.
 - Fiji–Australia Vuvale Union submission (29 August 2026).
-
-**Local and regional plans**
 - 82 Claytons Road Anglican Partnership Proposal (22 September 2026): land gift request for dementia/aged care and Aura Geode/Genesis pathways; under Diocese consideration.
 - C-Hour Joyful Responsible Abundance Plan (planning edition 5, 23 September 2026): Community Hours pilot design on Minjerribah, reciprocity, Web3 Sensorium; includes corrections appendix. Explicitly non-monetised.
 - Oceania Health and AI Surge Plan: $42.35 billion cost summary framing (HBOT chambers, saunas, disaster kiosks, Smart Civic Surge) positioned against food-waste and dementia costs; design horizon, not a funding request.
 - When Redlands Discovers Luke Hayes v4.0: narrative linking music, personal intelligence, local Redlands issues, Aura systems, C-Hour, and potential public responsibility.
 - 500 Queens Venture Capital planning document: women-led enterprise development, AI Queens mentorship, enterprise catalogue, funding minima.
-
-**Technical specifications**
 - Sovereign Space Builder Part 2 Full System Specification: gamified dual digital twin, offline-first, CRDTs, DIDs/VCs, L0–L3 fractal topology, permaculture loop, aeroponics, robotics points, Indigenous data sovereignty.
 - Web3 Sensorium for Science Debate: decentralised global sensorium for modelling established and fringe science (including micronova scenarios) via sovereign nodes and open debate.
+- Straddie Fun 5th Album (i C. Infinity, updates July 2026): place-specific lyrics.
+- 4th i C. Infinity album – A Protopian Gambit (lyrics).
 
-**Cultural and narrative**
-- Straddie Fun 5th Album (i C. Infinity, updates July 2026): place-specific lyrics (Two Dogs on Island Country, Straddie Fishing, Be The Legend: Wildlife Rescue Minjerribah, Shifting Sands of Timeless Redlands, and others).
-- 4th i C. Infinity album – A Protopian Gambit (lyrics): tracks including Primordial Consent, Kintsugi Protocol, 60 Days Set in Stone.
-
-These documents are the source base for the public pages. They remain designs, plans, and autobiographical records. Local implementation status is as stated in the status note above.
+These documents are the source base for the public pages. They remain designs, plans, and autobiographical records. Local implementation status is as stated in the status note above. The original binary files are not currently present in the workspace; the list above records the filenames as uploaded.
 
 ## 7. Technical and Design Specifications (summary)
 
@@ -144,4 +166,4 @@ This is a map of public pages, the author’s statements, and the inventory of u
 
 ---
 
-*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. Links above are inline.*
+*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. Links above are inline. The complete list of uploaded document filenames is recorded in section 6.*
