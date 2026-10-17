@@ -7,7 +7,7 @@ Minjerribah / North Stradbroke Island, Queensland, Australia
 Prepared as a starting point for long-form public inquiry or opinion piece.  
 Readers are expected to examine the linked pages and form their own conclusions.
 
-Document date: 17 October 2026 (updated for status accuracy)
+Document date: 17 October 2026 (status corrected; reference inventory added)
 
 ---
 
@@ -29,6 +29,8 @@ Personal and timeline pages:
 - https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top
 - https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history
 - https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
+- https://auraofintelligence.github.io/australian-sire-story-forge/index.html
+- https://auraofintelligence.github.io/australiansire/desire.html
 
 ## 3. Core Architecture Described in the Materials
 
@@ -52,13 +54,15 @@ Strange but True community ledger page (design surface):
 https://auraofintelligence.github.io/strange-but-true/community-ledger.html
 
 Other designed or proposed local pages:
-- Multi-site screen and media networks and a proposed Ballow Road Sand Screen Hub
-- Dunwich/Gumpi Ferry Terminal Open Data Lab
-- Community club and sports surfaces
-- Quandamooka Country events engine
-- Straddie digital-twin builders
+- https://auraofintelligence.github.io/ballow-road-sand-screen-hub/
+- https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html
+- https://auraofintelligence.github.io/minjerribah-screen-media-network/
+- https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/
+- https://auraofintelligence.github.io/community-club-builder-sandy-sports/
+- https://auraofintelligence.github.io/quandamooka-country-events-engine/
+- https://auraofintelligence.github.io/straddie-digital-twin-builders/
 - Proposal for 82 Claytons Road, Amity (Lot 23 on SL3665) to be gifted for dementia support, aged care, and related pathways (noted as sitting with the Anglican Church Diocese under consideration)
-- Ready SET Co. cultural intelligence node as a test-pilot suggestion for community-scale compute (the “missing middle”)
+- https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/
 - Place-specific music under i C. Infinity, including the Straddie Fun collection (updates dated July 2026)
 
 The only completed local delivery to date is the MMEIC documentary and outdoor cinema evening for NAIDOC 50th / 50 years of Deadly. The author has stated that local community implementation was deliberately deferred while the macro systems were developed, precisely so that starting local work later does not recreate the single-person load experienced as secretary of the Point Lookout Fishing Club. The designs remain poised for conditions in which the supporting systems reduce that load.
@@ -77,77 +81,154 @@ Several documents were lodged with Australian parliamentary committees and treat
 
 Across the submissions the author states that authority should stay close to affected people and places, and that self-sovereignty includes the practical ability to say yes, no, not yet, demand evidence, leave, and take one’s information. The Minjerribah references in these documents are design and pilot proposals, not reports of operating local systems.
 
-## 6. Technical and Design Specifications
+## 6. Inventory of Uploaded Reference Documents
 
-- Sovereign Space Builder Part 2: full specification for a gamified dual digital twin (human + environmental), offline-first, CRDT synchronisation, DID/VC identity, L0–L3 fractal topology, permaculture game loop, aeroponics/hydroponics modules, robotics points, Indigenous data-sovereignty controls, C-Hour incentives.
-- Web3 Sensorium strategic plan: decentralised persistent digital twin of Earth and local space for modelling established and fringe hypotheses (including solar micronova scenarios), using the same sovereignty stack, with emphasis on open source and open debate.
-- Product-engine and sitemap pages treat surfaces as modular components that can be assembled or re-skinned.
+The following documents were provided in conversation as source materials. They form part of the public and private design record. Local references within them are design statements unless otherwise noted.
 
-These remain design and implementation plans.
+**Aura and personal systems**
+- Aura Teacher Training 60 Days: progression on life maps, selves, seven shells, memory palaces.
+- Aura Genesis Protocol Game Design Document: hyperbaric choose-your-own-adventure mechanics, matrix categories, reflection lenses, digital twin growth.
+- Blend Aura to Unity: technical guide with C# patterns for toroidal mesh generation, data mapping to geometry, VR interaction, pinning sequences, chakra mappings.
+- Joyful Responsible Abundance – Human and Superintelligence Alignment (revised 11 October 2026): master framing for Aura, Geode, Genesis, C-Hours, Web3 Sensorium, GAJRA Earth.
 
-## 7. Cultural, Narrative, Legal and Relational Surfaces
+**Policy and civic submissions (2026)**
+- Local Government Funding and Fiscal Sustainability submission (Submission 2).
+- Ocean of Peace Alliance / Veitacini Treaty submission.
+- AUKUS Public Inquiry submission.
+- A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure.
+- Fiji–Australia Vuvale Union submission (29 August 2026).
 
-- i C. Infinity music universe and Straddie Fun lyrics (emotional/narrative layer)
-- Loose Goose comedy engine (cynicism bypass)
-- DaVinci Resolve automation notes (production layer)
-- Australian Law 2012 materials (practical legal rag for ethical over-compliance)
-- Global Group Marriages: voluntary adult thought experiment on freely chosen multi-person family links across cultures, referenced in the Vuvale submission alongside ordinary marriage, friendship, and diaspora
-- Australian Sire pages, including the desire page describing specific attractions under that framing
-- Grey Area Commons: static adult-only local-Markdown question path for reducing anxiety in intimate connection; nothing uploaded to a server
+**Local and regional plans**
+- 82 Claytons Road Anglican Partnership Proposal (22 September 2026): land gift request for dementia/aged care and Aura Geode/Genesis pathways; under Diocese consideration.
+- C-Hour Joyful Responsible Abundance Plan (planning edition 5, 23 September 2026): Community Hours pilot design on Minjerribah, reciprocity, Web3 Sensorium; includes corrections appendix. Explicitly non-monetised.
+- Oceania Health and AI Surge Plan: $42.35 billion cost summary framing (HBOT chambers, saunas, disaster kiosks, Smart Civic Surge) positioned against food-waste and dementia costs; design horizon, not a funding request.
+- When Redlands Discovers Luke Hayes v4.0: narrative linking music, personal intelligence, local Redlands issues, Aura systems, C-Hour, and potential public responsibility.
+- 500 Queens Venture Capital planning document: women-led enterprise development, AI Queens mentorship, enterprise catalogue, funding minima.
+
+**Technical specifications**
+- Sovereign Space Builder Part 2 Full System Specification: gamified dual digital twin, offline-first, CRDTs, DIDs/VCs, L0–L3 fractal topology, permaculture loop, aeroponics, robotics points, Indigenous data sovereignty.
+- Web3 Sensorium for Science Debate: decentralised global sensorium for modelling established and fringe science (including micronova scenarios) via sovereign nodes and open debate.
+
+**Cultural and narrative**
+- Straddie Fun 5th Album (i C. Infinity, updates July 2026): place-specific lyrics (Two Dogs on Island Country, Straddie Fishing, Be The Legend: Wildlife Rescue Minjerribah, Shifting Sands of Timeless Redlands, and others).
+- 4th i C. Infinity album – A Protopian Gambit (lyrics): tracks including Primordial Consent, Kintsugi Protocol, 60 Days Set in Stone.
+
+These documents are the source base for the public pages. They remain designs, plans, and autobiographical records. Local implementation status is as stated in the status note above.
+
+## 7. Technical and Design Specifications (summary)
+
+See the inventory above for Sovereign Space Builder Part 2 and the Web3 Sensorium plan. Product-engine and sitemap pages treat surfaces as modular components that can be assembled or re-skinned. These remain design and implementation plans.
+
+## 8. Cultural, Narrative, Legal and Relational Surfaces
+
+- https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html
+- https://auraofintelligence.github.io/loose-goose-comedy-engine/
+- https://auraofintelligence.github.io/davinci-resolve-automations/index.html
+- https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html
+- https://auraofintelligence.github.io/global-group-marriages/
+- https://auraofintelligence.github.io/grey-area-commons/
+- https://auraofintelligence.github.io/australian-sire-story-forge/index.html
+- https://auraofintelligence.github.io/australiansire/desire.html
+- https://auraofintelligence.github.io/tiggy-bestmann/
 
 The author has stated these form an open personal record so media or others can see the less conventional elements without private request.
 
-## 8. Atlases, Product Engines and Connective Surfaces
+## 9. Atlases, Product Engines and Connective Surfaces
 
-- Extreme Matter Atlas
-- Global Founder Atlas, Australian Visa Activity Atlas, Right Place Right Time
-- Strange but True Travel Oracle and Cosmic Nexus
-- P4A Oceania Cinema and P4A Native Nations Cinema
-- JRA Product Engine Plan and root sitemap
-- Mutual Futures, Stradbroke Grants Lab, Straddie Clean Energy Superpower, Sandworm Subterranean Systems, Civilisation of Sand, Future of Life 2045
+- https://auraofintelligence.github.io/extreme-matter-atlas/index.html
+- https://auraofintelligence.github.io/global-founder-atlas/index.html
+- https://auraofintelligence.github.io/Australian-visa-activity-atlas/
+- https://auraofintelligence.github.io/right-place-right-time/index.html
+- https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html
+- https://auraofintelligence.github.io/strange-but-true-travel-oracle/
+- https://auraofintelligence.github.io/p4a-oceania-cinema/index.html
+- https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html
+- https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html
+- https://auraofintelligence.github.io/sitemap.html
+- https://auraofintelligence.github.io/mutual-futures/index.html#top
+- https://auraofintelligence.github.io/stradbroke-grants-lab/
+- https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html
+- https://auraofintelligence.github.io/sandworm-subterranean-systems/
+- https://auraofintelligence.github.io/civilisation-of-sand/
+- https://auraofintelligence.github.io/Future-of-Life-2045/
+- https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
 
 P4A (https://p4a.xyz) is described as the political vehicle under construction. The Redlands component is presented as a designed pattern piece, not as an operating local implementation.
 
-## 9. Licensing, Modularity and Agentic Use
+## 10. Licensing, Modularity and Agentic Use
 
 Materials are under a public-use licence with commercial rights reserved. Individual surfaces or clusters can be extracted, re-themed for a specific culture or jurisdiction, and turned into a company, app, co-operative, or community offering, subject to those rights.
 
 The modular separation is described as ready for agentic systems. Once external swarms or the author’s own mixture-of-experts setups on smaller models can reliably operate against the public pages, selected components can be switched on for personal use or in response to a request. Commercial use remains reserved.
 
-## 10. Public Outreach
+## 11. Public Outreach
 
 An X account under Luke Catalyst Nathan Hayes has posted public replies to figures including Speaker Milton Dick, Queensland Premier David Crisafulli, and Barbados Prime Minister Mia Amor Mottley. Replies typically link GAJRA Earth or related pages and invite participation. The author has stated these are public traces rather than formal channels, intended so that staff reading them encounter a constructive version of the materials.
 
-## 11. Rational Suppositions If the Work Continues
+## 12. Rational Suppositions If the Work Continues
 
 These are not predictions. They are observations about what becomes possible if the existing public materials continue to be developed and if the author chooses to activate local designs under conditions that do not recreate single-person load:
 
-- Designed local surfaces (ledger, screen network, clubs, digital twin) could, if activated with supporting systems in place, generate verifiable contribution and skill records usable later in grants or partnership conversations (including the Claytons Road proposal under Diocese consideration).
+- Designed local surfaces could, if activated with supporting systems in place, generate verifiable contribution and skill records usable later in grants or partnership conversations (including the Claytons Road proposal under Diocese consideration).
 - A community-scale compute node under local ownership could host language tools, food helpers, open data, and disaster-mode functions while retaining data authority with owners and custodians.
-- The described interfaces (portable permissions, contribution receipts, digital-twin schemas, co-operative patterns) could be instantiated in another LGA, state, or Pacific country without a single central model, provided each place keeps adaptation and refusal rights.
+- The described interfaces could be instantiated in another LGA, state, or Pacific country without a single central model, provided each place keeps adaptation and refusal rights.
 - Agentic systems could assemble selected modules into prototypes more quickly than conventional teams; commercial packaging would still require agreement.
-- Media or researchers can treat the public, dated, interlinked pages as a primary source.
+- Media or researchers can treat the public, dated, interlinked pages and the uploaded reference documents as primary sources.
 - The author’s stated aim is that the macro systems reduce the load of local starting, so that work, intermittent retirement, and travel become possible with more resources and with joyful responsible abundant opportunities rather than income support.
 
 Whether any of these occur depends on choices by the author, partners, funders, regulators, and people in each place. The materials do not compel adoption. The local designs remain poised, not operating.
 
-## 12. Closing Observation
+## 13. Closing Observation
 
-This is a map of public pages and the author’s statements about them, corrected to reflect that local Minjerribah implementations are designed and awaiting conditions rather than currently active. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction and designs poised, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
+This is a map of public pages, the author’s statements, and the inventory of uploaded reference documents, corrected to reflect that local Minjerribah implementations are designed and awaiting conditions rather than currently active. It does not assess scientific, health, financial, or political claims. Those assessments remain open to any reader who examines the originals and surrounding evidence. The pages continue to be updated. The situation described is one of systems under construction and designs poised, anchored in one Australian island community, and written so that others can read, test, adapt, or ignore them.
 
-## Principal Links
+## Full Link Index
 
+**Core and personal**
 - https://auraofintelligence.github.io/
-- https://auraofintelligence.github.io/strange-but-true/community-ledger.html
-- https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
-- https://p4a.xyz
+- https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.html#top
+- https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history
 - https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/
+- https://p4a.xyz
+
+**Local designs (poised, not operating)**
+- https://auraofintelligence.github.io/strange-but-true/community-ledger.html
+- https://auraofintelligence.github.io/ballow-road-sand-screen-hub/
+- https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.html
+- https://auraofintelligence.github.io/minjerribah-screen-media-network/
+- https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/
+- https://auraofintelligence.github.io/community-club-builder-sandy-sports/
+- https://auraofintelligence.github.io/quandamooka-country-events-engine/
+- https://auraofintelligence.github.io/straddie-digital-twin-builders/
 - https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/
+
+**Architecture and association**
+- https://auraofintelligence.github.io/gajra-earth-claude-build/index.html
+- https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html
+- https://auraofintelligence.github.io/sitemap.html
+
+**Cultural, relational, atlases**
+- https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html
+- https://auraofintelligence.github.io/loose-goose-comedy-engine/
+- https://auraofintelligence.github.io/davinci-resolve-automations/index.html
+- https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html
+- https://auraofintelligence.github.io/global-group-marriages/
 - https://auraofintelligence.github.io/grey-area-commons/
 - https://auraofintelligence.github.io/extreme-matter-atlas/index.html
-- https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.html
+- https://auraofintelligence.github.io/global-founder-atlas/index.html
+- https://auraofintelligence.github.io/Australian-visa-activity-atlas/
+- https://auraofintelligence.github.io/right-place-right-time/index.html
+- https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html
+- https://auraofintelligence.github.io/strange-but-true-travel-oracle/
+- https://auraofintelligence.github.io/p4a-oceania-cinema/index.html
+- https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html
+- https://auraofintelligence.github.io/mutual-futures/index.html#top
+- https://auraofintelligence.github.io/stradbroke-grants-lab/
+- https://auraofintelligence.github.io/straddie-clean-energy-superpower/site-map.html
+- https://auraofintelligence.github.io/sandworm-subterranean-systems/
+- https://auraofintelligence.github.io/civilisation-of-sand/
 - https://auraofintelligence.github.io/Future-of-Life-2045/
 
 ---
 
-*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating.*
+*This repository holds the open record as a persistent, linkable document. Local surfaces are designed and poised, not operating. The inventory above lists the principal uploaded reference documents that underpin the public pages.*
