@@ -4,6 +4,8 @@
 
 This is the longer account previously published as this repository's README. It preserves the breadth of the original map and its reference-document inventory. The shorter [current introduction](../README.md) provides reading routes and contact details.
 
+This edition also incorporates the complete uploaded-filename inventory added to the earlier README on 17 October 2026.
+
 **Source and access note — 17 October 2026:** This is an author-published account, not independent reporting. Statements about delivery, registration, correspondence and personal circumstances are attributed to the author. The inventory in section 6 identifies documents described in the earlier record; it does not mean those files are attached to this repository or that every original is publicly accessible. Some original papers can now be reached through the [public reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html); the [reporting guide](reporting-guide.md#source-register) distinguishes those routes from documents still needing a public source. For reuse terms, consult the licence of each linked work.
 
 ---
@@ -78,6 +80,45 @@ Across the submissions the author states that authority should stay close to aff
 ## 6. Inventory of Uploaded Reference Documents
 
 The following documents were provided in conversation as source materials. They form part of the public and private design record. Local references within them are design statements unless otherwise noted.
+
+### Complete list of uploaded document filenames
+
+These filenames are retained as recorded in the author-supplied inventory. The binary originals are not attached to this repository. Some public counterparts use different filenames or revisions; the [source register](reporting-guide.md#source-register) provides routes for establishing the exact match.
+
+**Aura and personal systems**
+
+- Aura_Teacher_Training_60_Days.pdf
+- Aura_Genesis_Protocol_Game_Design_Document.pdf
+- Blend Aura to Unity.pdf
+- Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf
+
+**Music and lyrics**
+
+- 4th i C. infinity album (24) A Protopian Gambit (24 lyrics).pdf
+- Straddie Fun 5th Album.pdf
+
+**Policy and inquiry submissions (2026)**
+
+- Local Government 2Funding Inquiry Submission.pdf
+- Ocean_of_Peace_Alliance_Veitacini_Treaty_Submission_Luke_Nathan_Hayes_2026.docx
+- AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026 2.docx
+- A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx
+- Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx
+
+**Local and regional plans**
+
+- 82-Claytons-Road-Anglican-Partnership-Proposal.pdf
+- C-Hour-Joyful-Responsible-Abundance-Plan.pdf
+- Oceania Health and AI Surge Plan.pdf
+- When_Redlands_Discovers_Luke_Hayes_v4.0.pdf
+- queens-venture-capital-planning-document.pdf
+
+**Technical specifications**
+
+- Sovereign Space Builder part 2 Full System Specification.pdf
+- Web3 Sensorium for Science Debate.pdf
+
+### Descriptions retained from the earlier record
 
 **Aura and personal systems**
 - Aura Teacher Training 60 Days: progression on life maps, selves, seven shells, memory palaces.

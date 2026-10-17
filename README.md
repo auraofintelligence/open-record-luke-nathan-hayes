@@ -84,7 +84,7 @@ For reporting, start with the **[reporting guide and source register](docs/repor
 
 Useful first documents are the local government funding submission, the separate AUKUS and Senate AI papers, and the separate Veitacini Treaty and Vuvale Union papers. The [public reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html) provides routes to these originals and records selected versions. A longer AI discussion draft and a shorter Senate submission should not be treated as the same document.
 
-The [earlier document inventory](docs/extended-record.md#6-inventory-of-uploaded-reference-documents) also names materials previously supplied in conversation. **An inventory entry is not a download link:** some originals still need a public location or a request to Luke.
+The [earlier document inventory](docs/extended-record.md#6-inventory-of-uploaded-reference-documents) also names materials previously supplied in conversation and preserves their [exact uploaded filenames](docs/extended-record.md#complete-list-of-uploaded-document-filenames). **An inventory entry is not a download link:** some originals still need a public location or a request to Luke.
 
 When citing a changing page, record its title, URL and access date. For a repository file, use its dated history or a permanent link to the version you examined. Cross-links between Luke's own pages help navigation but do not provide independent corroboration.
 
