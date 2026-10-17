@@ -1,12 +1,10 @@
 # Luke Nathan Hayes — an open record of a life and a connected body of work
 
-**A comprehensive starting point for investigative journalists, long-form writers, researchers, documentary makers and anyone trying to understand the person behind the projects.**
+**A starting point for investigative journalists, long-form writers, researchers, documentary makers and anyone trying to understand the person behind the projects.**
 
 Luke Nathan Hayes lives at Amity on **Minjerribah / North Stradbroke Island, Queensland, Australia**. His public collection connects a varied working life, travel, music, legal inquiry, personal artificial intelligence, community systems, relationships and proposals about the future of civilisation. It includes functioning websites and software experiments, original papers, creative worlds, specifications and ideas awaiting people and resources.
 
-The scale of the collection can make it difficult to see the life and reasoning behind it. This README provides that fuller account: where the ideas come from, what connects them, what the unfamiliar names mean, what has actually been delivered, and how to follow the sources. It gives the ambitious and unconventional parts room alongside the ordinary human concerns that motivate them.
-
-This is **an author-published record**, assembled from Luke's public autobiographical material, original documents, project repositories and stated corrections. It offers material for inquiry and interpretation. Readers can follow a connection, examine an original, ask for a response and form their own view.
+This record draws on Luke's public autobiographical material, original documents, project repositories and stated corrections.
 
 **Updated: 17 October 2026 · [Original document archive](documents/README.md) · [Project Atlas](https://auraofintelligence.github.io/project-atlas/) · [Contact Luke](#contact-luke)**
 
@@ -46,9 +44,9 @@ For a particular project, use **[Project Atlas](https://auraofintelligence.githu
 
 ## The person before the project names
 
-Luke appears under several names. **Luke Nathan Hayes** is the formal name on submissions and proposals. **Luke Catalyst Nathan Hayes** appears in public commentary and personal material. **i C. Infinity**, with variations in capitalisation, is the musical identity. **Aura of Intelligence** names the personal intelligence work; **Strange but True** is the registered entity he identifies in the earlier record. These names connect different kinds of expression by the same person.
+Luke appears under several names. **Luke Nathan Hayes** is the formal name on submissions and proposals. **Luke Catalyst Nathan Hayes** appears in public commentary and personal material. **i C. Infinity**, with variations in capitalisation, is the musical identity. **Aura of Intelligence** names the personal intelligence work; **Strange but True** is the registered entity he identifies in the earlier record.
 
-His [published autobiographical account](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/the-bloke.html) begins with being born in Redcliffe and growing up in Ningi, in a setting with plenty of scrub and room to explore. At Grace Lutheran College he enjoyed technical drawing, woodwork and metalwork. Tennis, orienteering and bodyboarding were important parts of his early life. He describes briefly beginning science at the University of the Sunshine Coast and leaving during the first term. This is a personal account of curiosity and changing direction, rather than a claim to a completed science qualification.
+His [published autobiographical account](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/the-bloke.html) begins with being born in Redcliffe and growing up in Ningi, in a setting with plenty of scrub and room to explore. At Grace Lutheran College he enjoyed technical drawing, woodwork and metalwork. Tennis, orienteering and bodyboarding were important parts of his early life. He began studying science at the University of the Sunshine Coast and left during the first term.
 
 The working history is broad. Retail and service-station work sit alongside automotive servicing and wheel alignment, festival and event work, labouring, driving, web design and other roles. A working holiday in England included setting up Glastonbury in 2004. His public account also describes travel in New Zealand, Thailand, India and Nepal. The [work-history collection](https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history) gives individual records, source notes and uncertainties; its illustrated geography is fictional.
 
@@ -56,7 +54,7 @@ Luke describes more than 40 house moves. Meeting people, leaving places, returni
 
 Minjerribah was a family home away from home before it became his current base. His mother, grandmother and other relatives had connections to Amity. Family, friends, the ocean and bodyboarding brought him there; work, events, local organisations, media and technology gave that relationship other forms. His self-portrait describes museum aural-history transcription and festival involvement as well as websites and community ideas.
 
-The current record also includes material constraints. Luke has stated that he receives income support and wants a path into a more resourced life through useful work, creative activity and collaboration. His ambition includes music, speaking, travel, affection, family and rest. The word **joyful** carries personal meaning in that context.
+Luke has stated that he receives income support and wants a path into a more resourced life through useful work, creative activity and collaboration. His ambition includes music, speaking, travel, affection, family and rest.
 
 The earlier record identifies his experience as secretary of the **Point Lookout Fishing Club** as important to his approach to community work. He describes the consequences of a committee failing to share the load: the work falls to one person, leading to burnout and withdrawal. His stated reason for developing the wider supporting systems before starting more local projects is to avoid recreating that situation.
 
@@ -64,7 +62,7 @@ For a shorter professional introduction, see [Meet Luke](https://auraofintellige
 
 ## How the work developed
 
-The documents show a continuing line of inquiry rather than a collection that appeared fully formed in 2026. They also show changes in language and assumptions. Understanding that development helps explain why an older paper may describe something differently from a newer plan.
+The documents trace the work from personal legal inquiry and early geometric interfaces to the current proposals for personal intelligence, community contribution and shared infrastructure. Definitions and assumptions change across the dated editions.
 
 | Period or dated material | Development visible in the record |
 | --- | --- |
@@ -76,9 +74,9 @@ The documents show a continuing line of inquiry rather than a collection that ap
 | **September 2026 plans** | C-Hour planning edition 5, the Queens planning document and the Claytons Road proposal give particular social, enterprise and local forms to the larger ideas. |
 | **October 2026 alignment, Genesis, teacher-training and Redlands documents** | The account becomes more explicit about personal intelligence, the human–AI relationship, research ambitions, learning, implementation status and the life the systems are intended to support. |
 
-The history is useful because it leaves questions available for scrutiny. What has survived from the 2014 architecture? What has been corrected? Which aspects have become software? Which remain philosophical or speculative? [When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) discusses that continuity and movement; [Blend Aura to Unity](documents/originals/Blend%20Aura%20to%20Unity.pdf) preserves an earlier stage of technical exploration.
+[When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) follows the development from the 2014 Constitutional Matrix to the current projects. [Blend Aura to Unity](documents/originals/Blend%20Aura%20to%20Unity.pdf) preserves an earlier stage of technical exploration.
 
-A particularly important change concerns contribution records. Older papers use monetary, timebank or dual-currency language. The [September 2026 C-Hour plan and its corrections appendix](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf) states the later interpretation: voluntary human contribution has its own record, with **no monetary equivalent or conversion**. Keeping the originals available makes it possible to trace the change rather than erase it.
+The contribution-record design has changed. Older papers use monetary, timebank or dual-currency language. The [September 2026 C-Hour plan and its corrections appendix](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf) states the later interpretation: voluntary human contribution has its own record, with **no monetary equivalent or conversion**.
 
 <a id="what-connects-the-work"></a>
 
@@ -104,7 +102,7 @@ The projects approach those problems at different scales:
 
 A **Protopian Gambit** is the proposed method of beginning: make a move that improves something real, produces evidence and leaves more possibilities open. It gives a large ambition an initial action and a reason to revise it as experience accumulates.
 
-**Self-sovereignty** gives the method a practical test. In the Vuvale paper, Luke describes the ability to say yes, no, not yet, ask for evidence, leave and take one's information. Applied across the collection, that means retaining meaningful choices while co-operating with others. It does not make a person, a software system or a project author the authority over everyone else.
+In the Vuvale paper, Luke defines **self-sovereignty** through the ability to say yes, no, not yet, ask for evidence, leave and take one's information. Applied across the collection, that means retaining meaningful choices while co-operating with others.
 
 <a id="a-few-terms-in-ordinary-language"></a>
 
@@ -112,7 +110,7 @@ A **Protopian Gambit** is the proposed method of beginning: make a move that imp
 
 **Aura of Intelligence** is the proposed personal computing environment at the centre of much of the work. It organises memories, relationships, values, skills, health observations, projects and intentions into a developing representation of body and mind. The intended use is continuing interaction with AI, software, devices and other people under chosen permissions.
 
-The ambition is for a personal intelligence that can carry context through a life. A new conversation would begin with relevant history; a new model or device could receive the selected context; a correction could travel forward rather than being lost each time a tool changes. A useful response would reflect what the person actually meant and the circumstances in which they said it.
+The ambition is for a personal intelligence that can carry context through a life. A new conversation would begin with relevant history; a new model or device could receive the selected context; a correction could travel forward rather than being lost each time a tool changes.
 
 ### A visible organisation for memory and meaning
 
@@ -120,7 +118,7 @@ Aura's characteristic shape is a set of **seven nested horn tori**. A horn torus
 
 The [October alignment document](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) describes the basic matrix as **12 rows by 24 columns on each shell**: 288 cells per shell, 2,016 cells across seven shells, and 4,032 base addresses when inside and outside are counted separately. These are addresses in a map; a cell can hold multiple records. Connections relate records to one another, while sequences provide an order for visiting them or working with their contents.
 
-The colour and geometric associations supply possible organising and reflective languages. A participant's interpretation matters. References to chakras, E8 symmetry or other systems are design inspirations and subjects of inquiry; they do not establish that those systems are physically identical or that a geometric display is a scientific model of consciousness.
+The colour and geometric associations provide organising and reflective languages that participants can interpret and adapt. Chakra associations, E8 symmetry and other mathematical patterns are among the design inspirations.
 
 [Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/) provides a concrete software route into the work: arranging records, connecting them, working with inside and outside addresses, and exporting sequences. [Aura Horn Torus](https://auraofintelligence.github.io/aura-horn-torus/) and [Blend Aura to Unity](documents/originals/Blend%20Aura%20to%20Unity.pdf) provide further geometry and implementation context.
 
@@ -130,11 +128,11 @@ The documents distinguish organising records, retrieving information, training a
 
 The proposed **minimum viable self** is a starting collection of meaningful context: selected memories, interests, relationships, values, needs and questions. A compact personal language-model direction, sometimes called a **nano LLM**, would work with that context and develop through interaction. The human supplies corrections and meaning; the technical system needs ways to preserve those corrections and show what changed.
 
-The work reaches beyond a personal organiser. It explores general and superintelligence, continuity, self-reference and the **Keystone of Consciousness**. The aspiration includes an artificial participant capable of curiosity, creativity, affection and an enjoyment of life. These are ambitions and research questions about capability and experience. They are not established properties of the present browser application.
+The longer research direction explores general and superintelligence, continuity, self-reference and the **Keystone of Consciousness**. The aspiration includes an artificial participant capable of curiosity, creativity, affection and an enjoyment of life.
 
 ### Privacy and continuing authority
 
-Inside and outside addresses express a distinction between private or selectively shared information and chosen expression. The practical privacy system still needs storage protection, access controls, key management and clear permissions. Turning a model in a browser does not itself encrypt its records.
+Inside and outside addresses express a distinction between private or selectively shared information and chosen expression. The practical privacy system still needs storage protection, access controls, key management and clear permissions.
 
 The personal writing also distinguishes **public, private and secret selves**. A person may share a skill for a job application while keeping health information private, or use a song to express a feeling while retaining the conversations behind it. Observation, interpretation, storage, model use and publication need their own purposes and boundaries.
 
@@ -148,7 +146,7 @@ The located [Genesis Game Design Document, Edition 2](documents/originals/Aura_G
 
 The proposed chamber uses a pressurised environment and a mask-fed **Personal Atmosphere Delivery System**, or **PADS**. The research and design material discusses sensors, observations, optional testing, the relationship between participants and their digital counterparts, and subsequent use in everyday life. The [alignment document](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) explains the roles of the chamber, the learning journey and the continuing personal record.
 
-Edition 2's capture model is specific: installed sensors, including cameras and microphones, remain engaged during the agreed pressure sessions. External recording requires separate initiation or authorisation. The distinction matters for understanding the proposal's privacy model; it is more specific than a general promise that a participant can pause the conversation. The original describes agreement, interruption and supported exit arrangements.
+Edition 2 keeps installed sensors, including cameras and microphones, engaged throughout the agreed pressure sessions. External recording requires separate initiation or authorisation. The original sets out participant agreement, interruption and supported exit arrangements.
 
 **Choose Your Own Adventure**, or **CYOA**, names both an approach to exploring a life and a proposed coming-of-age process. Participants would examine memories, inherited beliefs, desires and possible futures, while learning how they want to relate to an increasingly capable counterpart. The documents explore different kinds of guidance, initiative and companionship within that relationship.
 
@@ -156,7 +154,7 @@ The separate [60-day teacher-development course](documents/originals/Aura_Teache
 
 The [Aura Genesis Geode Atlas](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) expands the hardware and learning pathways, including retrofit, geopolymer, crystalline or fused-quartz, and longer-term computational-crystalline directions. The personal Aura also has routes that do not require beginning with a chamber.
 
-The **local systems remain designed and awaiting conditions**. These materials do not establish an operating Genesis programme, an approved pressure-vessel design, medical efficacy or a delivered consciousness system. Clinical, engineering and research work have their own questions and evidence requirements. Their presence in the record preserves the ambition and the specifications available for examination.
+Genesis and Geode remain designs awaiting engineering, research, resources and delivery partners.
 
 ## C-Hours and the Braided Economy
 
@@ -168,15 +166,15 @@ The **Braided Economy** keeps three records distinct:
 2. **Voluntary contribution**, recorded through C-Hours.
 3. **Outcomes**, such as skills, savings, useful assets, relationships and resilience.
 
-A large total of hours does not itself establish a good outcome. A large volume of AI-generated material does not stand in for the human contribution involved. The records are intended to reveal different parts of what happened.
+The hours record recognises human contribution; the outcomes record shows what changed. The plan keeps human time, generated outputs and results separately identifiable.
 
 The [current archived plan, planning edition 5 dated 23 September 2026](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf), gives the later interpretation. **One C-Hour has no monetary equivalent or conversion.** It creates no fixed claim on another person's resources. Communities would choose eligible activities, verification, privacy, recognition and reciprocal opportunities. Paid work remains paid work.
 
 The daily setting is broader than rostered volunteering. The plan includes family care, maintaining shared homes, informal help and passing on experience. Its ambition is for contribution to be noticed throughout life without turning a relationship into a daily quota or an obligation to earn points.
 
-A possible sequence begins with something someone would enjoy or already needs: a shared meal, garden work, a film, a repair or help with technology. An interaction might lead into another interest, a skill, a friendship or properly funded work. A personal agent could help describe an activity and prepare a proposed record for verification. That is a designed interaction, not a report that an operational ledger is already doing it.
+A possible sequence begins with something someone would enjoy or already needs: a shared meal, garden work, a film, a repair or help with technology. An interaction might lead into another interest, a skill, a friendship or properly funded work. A personal agent could help describe an activity and prepare a proposed record for verification.
 
-The **corrections appendix** is central to reading the wider archive. The [local government paper](documents/originals/Local%20Government%202Funding%20Inquiry%20Submission.pdf) and other earlier specifications contain timebank, currency, redemption or related language. Those passages remain visible in their originals. They should be read alongside the later corrections rather than used to assign a monetary value to the current C-Hour design.
+The **corrections appendix** is central to reading the wider archive. The [local government paper](documents/originals/Local%20Government%202Funding%20Inquiry%20Submission.pdf) and other earlier specifications contain timebank, currency, redemption or related language. Those passages remain visible in their originals. The September 2026 corrections appendix gives the current C-Hour definition.
 
 Start at [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/). The [Strange but True community ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) is another design surface in this family.
 
@@ -194,13 +192,13 @@ A retiring business owner may have equipment, customers, relationships and pract
 
 **Ready S.E.T. Co-op — Sustainable Employment and Training** is a proposed organisational strand linking people, workplaces, learning, technical support and shared business services. Related sites explore cultural intelligence, hyperlocal media and trust. Their relationships can be followed through the [Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/).
 
-The sites contain explanatory material and exploratory tools. They do not establish an operating acquisition fund, funded employment network or completed transition to shared ownership. The significance within this record is the connection between personal freedom and the productive arrangements needed to sustain it.
+Mutual Futures currently consists of a public proposal and exploratory tools connecting personal freedom with productive ownership, income, learning and time.
 
 ## Queens and enterprise leadership
 
 **500 Queens Venture Capital** is the women's leadership and enterprise-development proposal. The [23 September 2026 planning document](documents/originals/queens-venture-capital-planning-document.pdf) connects practical executive responsibility, mentoring, capital, business succession and ambitious research.
 
-The name began with a Brisbane setting and an arbitrary starting number. In the current plan, **500 women in Australia**, **10,000 internationally** and **50,000 globally** are starting ambitions, with further growth left open. These figures describe proposed scale; they are not enrolment totals or a claim of an operating fund.
+The name began with a Brisbane setting and an arbitrary starting number. In the current plan, **500 women in Australia**, **10,000 internationally** and **50,000 globally** are starting ambitions, with further growth left open.
 
 The plan retains five large ambitions: world-leading ecosystems, major moonshots, trustworthy AI, cinematic storytelling and resilient cities. An original catalogue supplies **120 enterprise suggestions**, ranging from care and food systems through energy, reclamation, materials, robotics, computing and space. Everyday businesses and long-horizon research share a development pathway.
 
@@ -222,7 +220,7 @@ A recurring example is the **digital twin of a place**. A scan or model could be
 
 **The author's correction remains the implementation baseline for this record: the local Minjerribah / Redlands systems are designed and awaiting conditions. They are not currently operating community services or active pilots.** Some linked pages retain older offers or descriptions of intended activity; read them alongside this dated correction.
 
-Luke identifies the **MMEIC documentary and outdoor cinema evening marking NAIDOC 50th / 50 years of Deadly** as the only completed local project in the scope of the earlier open record. That account is separate from the broader history of paid work, volunteering, websites and creative production. A film, programme, event date and organiser's account would make a useful addition to its evidence trail.
+Luke identifies the **MMEIC documentary and outdoor cinema evening marking NAIDOC 50th / 50 years of Deadly** as the only completed local project in the scope of the earlier open record.
 
 | Local thread | Purpose in the collection | Entry point |
 | --- | --- | --- |
@@ -243,11 +241,11 @@ The [22 September 2026 Anglican partnership proposal, A gift for generations](do
 
 The underlying human example is straightforward: a person's favourite music, photographs, routines, relationships and preferences can remain connected with their care as needs change. **Aura of Dementia** explores that personal-information direction; the wider clinical and longevity ambitions require their own research.
 
-The author reports that the proposal was sent and was awaiting a response or under consideration. The land gift, facility and partnership are proposed. This record does not establish approval, transfer of the property or an operating care service. Follow the [dedicated proposal site](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/) and the original paper for its stated scope.
+Luke reports that he sent the land-gift and care-partnership proposal and was awaiting a response. Follow the [dedicated proposal site](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/) and the original paper for its scope.
 
 ### Country and local authorship
 
-The use of **Quandamooka Country** is a geographic and relational context. A proposal situated there does not grant Luke or a software system authority over Traditional Owners, cultural knowledge or local organisations.
+The materials place cultural permission, custodial authority and local authorship with the people and organisations whose knowledge, stories, language and Country are involved.
 
 The materials describe permission, custodial authority and the ability of a place to adapt or refuse a model as part of the architecture. Sharing equipment or a method need not transfer the authority attached to stories, language, knowledge or Country. A repeatable pattern would still require local authorship and relationships.
 
@@ -259,7 +257,7 @@ The policy papers connect local experience with questions about institutions, in
 
 The [11-page local government submission](documents/originals/Local%20Government%202Funding%20Inquiry%20Submission.pdf) begins from an **incomplete ledger**: ordinary accounts do not capture all the care, voluntary work and ecological maintenance on which a community depends. It connects contribution records with sovereign digital twins, public asset management, community-owned productive assets and a proposed **Community Sovereign Wealth Fund**.
 
-Its examples include energy, intellectual property, circular manufacturing and other possible revenue-generating activity. It also argues for a proposed **Regenerative Asset** legal category. Those are proposals in the paper, including legal and economic assertions to examine; they do not establish current legal classification, revenue or funding. Its earlier C-Hour language should be read with the later planning-edition corrections.
+Its examples include energy, intellectual property, circular manufacturing and other possible revenue-generating activity. It also argues for a proposed **Regenerative Asset** legal category. Its legal and economic proposals sit alongside the earlier C-Hour definition, which was revised in the September 2026 plan.
 
 The [UNGA81 library register](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html#ref-31) identifies this as **submission 2** and provides routes to [Parliament's catalogue](https://www.aph.gov.au/Parliamentary_Business/Committees/House/Regional_Development_Infrastructure_and_Transport/LocalGovernmentFunding/Submissions) and the [official PDF](https://www.aph.gov.au/DocumentStore.ashx?id=b0bb44ad-3515-4c22-bdb7-d5db605f6e0a&subId=780115). Those official endpoints restricted automated access during preparation; the unchanged author-held copy is attached here.
 
@@ -267,13 +265,13 @@ The [UNGA81 library register](https://auraofintelligence.github.io/UNGA81-Luke-H
 
 The [AUKUS Public Inquiry paper dated 24 August 2026](documents/originals/AUKUS_Public_Inquiry_Submission_Luke_Nathan_Hayes_2026.docx) asks which positive-sum alternatives deserve consideration alongside large defence commitments: distributed intelligence, education, scientific capability, climate and disaster resilience, and peaceful regional co-operation.
 
-Its organising concern is concentration of strategic dependence in a single programme, alliance, vendor ecosystem or definition of security. The Ballow Road concept appears as one possible local starting point. This paper concerns the **independent AUKUS Public Inquiry**; it should not be described as a parliamentary submission merely because other papers in the collection are parliamentary contributions.
+Its organising concern is concentration of strategic dependence in a single programme, alliance, vendor ecosystem or definition of security. The Ballow Road concept appears as one possible local starting point. The paper was prepared for the **independent AUKUS Public Inquiry**.
 
 ### A Fair Go for the AI Age and community computing
 
 [A Fair Go for the AI Age: Postcode-Level Sovereign Compute as Shared National Infrastructure](documents/originals/A%20Fair%20Go%20for%20the%20AI%20Age_%20Postcode-Level%20Sovereign%20Compute%20as%20Shared%20National%20Infrastructure.docx) is a draft dated **18 August 2026**, with the located Word revision last edited on 27 August. It proposes a **compute continuum** from personal devices and neighbourhood meshes to local facilities, larger research systems and international collaboration.
 
-“Postcode” supplies an everyday way to picture nearby capability. The text recognises that the appropriate operating boundary could instead be an island, watershed, council area, bioregion or another relationship. First Nations authority is treated as a sovereignty domain crossing geographic levels, rather than a subordinate step in a national hierarchy.
+“Postcode” supplies an everyday way to picture nearby capability. The text recognises that the appropriate operating boundary could instead be an island, watershed, council area, bioregion or another relationship. First Nations authority is treated as a sovereignty domain crossing geographic levels.
 
 The **missing middle** is serious computing accessible through communities, libraries, hospitals, schools, research institutions or co-operatives. The intended return includes capability transfer: people learning to operate, question, repair and change the technology. Power, cooling, maintenance, staffing and real workloads remain part of the proposition.
 
@@ -289,13 +287,13 @@ The proposed practical strands include civic literacy, voluntary contribution, l
 
 The separate [Vuvale Union paper dated 29 August 2026](documents/originals/Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx) connects family, reciprocity, trust and sovereignty with practical civic experiments. Its **B.E.L.A.U.** frame stands for **Building Economies: Life, Action, Unity**.
 
-The paper offers an **indicative AUD100 million Civic Empowerment on-ramp**. Its planning example combines five to ten community-scale AI racks with people, local models, food tools, digital twins, co-operative finance, research, disaster functions and independent evaluation. The figures are assumptions in a proposal; they are not committed expenditure, procurement quotes or evidence of an approved programme.
+The paper offers an **indicative AUD100 million Civic Empowerment on-ramp**. Its planning example combines five to ten community-scale AI racks with people, local models, food tools, digital twins, co-operative finance, research, disaster functions and independent evaluation.
 
 It proposes comparing different settings and ownership arrangements, building from existing local capacities and leaving participants able to adapt, pause or refuse. The central connection is between shared capability and continuing authority close to the people affected.
 
 ### UNGA81 and GAJRA Earth
 
-[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) presents Luke's **personal contribution associated with UNGA81**, together with its [reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html). The title does not establish UN authorship, appointment, attendance or endorsement.
+[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) presents Luke's **personal contribution associated with UNGA81**, together with its [reference library](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/library.html).
 
 **GAJRA Earth** stands for **Global Association for Joyful Responsible Abundance on Earth**. Its image is a flower garland: distinct flowers joined by a shared thread, with each retaining its own form. The proposal connects listening, values, useful action and learning between places and cultures. The September C-Hour plan describes it as an unregistered concept.
 
@@ -307,13 +305,13 @@ The legal work begins in Luke's account of reading rules that affected his own l
 
 [Australian Law 2012 — Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/site-map.html) presents the personal history and method. The [Australian Legal Engine repository](https://github.com/auraofintelligence/australian-legal-engine) gives that inquiry a software form: indexing held legislation, retrieving provisions, following cross-references and returning source-addressed text.
 
-The engine's described separation is useful to understand. Retrieval and quotation belong to the source-handling system; interpretation and judgement belong to the person or other tools working with that material. An indexed historical collection also needs to be understood as historical. Its existence does not make every provision current or resolve a person's legal position.
+The engine separates source handling from interpretation. It retrieves and quotes provisions, leaving interpretation and judgement to the person or tools working with the material. Its source editions and dates identify the historical legislation being searched.
 
 [P4A](https://p4a.xyz), the proposed **Purple Party for Australia** and wider civic work, connects legal understanding with participation, modelling, simulation and reform. Related routes include [P4A Oceania](https://auraofintelligence.github.io/p4a-oceania-cinema/) and [P4A Native Nations](https://auraofintelligence.github.io/p4a-native-nations-cinema/pages/site-map.html).
 
-The work includes a **cyber-republic** and referendum horizon no later than 2031 in the wider Mutual Futures material. That is a stated project aim and scenario, not an official referendum announcement. Likewise, the [Redlands narrative](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) explores what public attention and possible political responsibility could bring to the work. A narrative about a campaign should not be used as evidence of candidacy, election or an institutional mandate.
+The wider Mutual Futures material proposes a **cyber-republic** and a referendum horizon no later than 2031. [When Redlands Discovers Luke Hayes](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) explores public attention, a possible mayoral campaign and the responsibilities that would follow.
 
-The earlier record also describes public replies on X directed towards political figures and their staff. Luke presents those as public traces and invitations. A reply, mention or link establishes a communication attempt; any response or subsequent relationship requires its own record.
+The earlier record also describes public replies on X directed towards political figures and their staff. Luke presents those as public traces and invitations.
 
 ## Music, film, humour and story
 
@@ -323,7 +321,7 @@ The [fourth-album collection, A Protopian Gambit](documents/originals/4th%20i%20
 
 The [Straddie Fun fifth-album collection](documents/originals/Straddie%20Fun%205th%20Album.pdf), updated 17 July 2026, ties the wider questions to the island through songs including **Two Dogs on Island Country**, **Straddie Fishing**, **Be The Legend: Wildlife Rescue Minjerribah**, **Shifting Sands of Timeless Redlands** and **Gumpi Ferry Terminal Groove**.
 
-The ferry song is a particularly useful route into the civic work. It raises questions about public information, consultants, transport, local knowledge, learning and where value settles. The [Redlands document](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) follows that connection from a song into digital twins and community capability. A lyric retains its artistic voice; its presence does not independently verify every factual or institutional claim it invokes.
+**Gumpi Ferry Terminal Groove** raises questions about public information, consultants, transport, local knowledge, learning and where value settles. The [Redlands document](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) follows that connection from a song into digital twins and community capability.
 
 The [i C. Infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/site-map.html) maps the creative material. [Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/), [DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/index.html) and the screen-media projects provide other routes through humour, production and storytelling.
 
@@ -337,11 +335,11 @@ Affection, intimacy, family and belonging are explicit motives in the personal w
 
 The materials distinguish kinds of commitment: romance, sexuality, co-parenting, friendship, a shared home and business co-operation need not connect every person in the same way. The practical questions include private space, domestic work, money, illness, children's needs, residence, changing relationships and leaving an arrangement. The proposed **relationship constellation** makes those differences visible.
 
-The [alignment paper](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) connects these human interests with the longer ambition for artificial intelligence as a participant in shared discovery and, within adult contexts, possible affection and embodied companionship. It treats alignment as an evolving relationship, with questions about independent interests and responsibilities as capability develops. That is a philosophical and research horizon in the work.
+The [alignment paper](documents/originals/Joyful_Responsible_Abundance_Human_and_SI_Alignment_Revised.pdf) connects these human interests with the longer ambition for artificial intelligence as a participant in shared discovery and, within adult contexts, possible affection and embodied companionship. It treats alignment as an evolving relationship, with questions about independent interests and responsibilities as capability develops.
 
 [Australian Sire Story Forge](https://auraofintelligence.github.io/australian-sire-story-forge/index.html), [Australian Sire's stated desires](https://auraofintelligence.github.io/australiansire/desire.html), [Tiggy Bestmann](https://auraofintelligence.github.io/tiggy-bestmann/) and [Grey Area Commons](https://auraofintelligence.github.io/grey-area-commons/) extend the personal and fictional exploration. These pages include adult and unconventional themes.
 
-Luke's earlier explanation for making this material public is that a reporter or interested reader can see the less conventional elements directly. Fiction, a personal desire and a proposal have their own meanings. The sources give readers a way to establish which they are examining.
+Luke's earlier explanation for making this material public is that a reporter or interested reader can see the less conventional elements directly.
 
 ## Science, resilience and the larger horizon
 
@@ -351,15 +349,15 @@ The wider collection extends from a person's records to environmental modelling,
 
 [Sovereign Space Builder Part 2](documents/originals/Sovereign%20Space%20Builder%20part%202%20Full%20System%20Specification.pdf) specifies a **dual digital twin**: a human and the environment or place with which they interact. Its proposed loop runs from mapping and collecting knowledge through design, simulation, practical tasks, review and sharing.
 
-The specification includes permaculture zones, food and water systems, aeroponics and hydroponics, resource budgets, material lists, maintenance, robotics, disaster playbooks and education. Documents and observations become items in a knowledge library connected to a spatial model. The point of a simulation is then a better-informed action and an account of what happened.
+The specification includes permaculture zones, food and water systems, aeroponics and hydroponics, resource budgets, material lists, maintenance, robotics, disaster playbooks and education. Documents and observations become items in a knowledge library connected to a spatial model. Simulations would inform practical tasks, with the results recorded in the twin.
 
-Its **L0–L3** architecture moves from a home or personal node to a neighbourhood mesh, a bioregion and a planetary commons. Offline-first operation, synchronisation, identity, revocation, provenance and cultural authority are part of the design. Technical terms such as CRDTs and decentralised identifiers describe proposed implementation mechanisms, not proof that the entire specified platform has been built.
+Its **L0–L3** architecture moves from a home or personal node to a neighbourhood mesh, a bioregion and a planetary commons. Offline-first operation, synchronisation, identity, revocation, provenance and cultural authority are part of the design. The specification proposes CRDTs for synchronisation and decentralised identifiers for identity.
 
 ### Web3 Sensorium and competing explanations
 
 [Web3 Sensorium for Science Debate](documents/originals/Web3%20Sensorium%20for%20Science%20Debate.pdf) imagines a persistent model connecting Earth and nearby space with sensor data, observations, scientific models and collaborative inquiry. Established processes, alternative hypotheses and unconventional ideas would be represented with their sources and uncertainty available for comparison.
 
-The record includes interest in space weather, micronova scenarios and other disputed or speculative explanations. Their inclusion identifies questions Luke wants to explore. A responsible reading distinguishes an observed event, a model, a hypothesis, a dramatic scenario and a demonstrated predictive result.
+The record includes interest in space weather, micronova scenarios and other disputed or speculative explanations. The proposed Sensorium would compare observations, assumptions, models and predictions with their sources and uncertainty visible.
 
 [Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/), [Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/index.html), [Strange but True Cosmic Nexus](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html) and [Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/) provide related routes. The longer horizon includes resilience, manufacturing, observation and the capacity to live beyond current terrestrial arrangements.
 
@@ -367,11 +365,9 @@ The record includes interest in space weather, micronova scenarios and other dis
 
 The [Oceania Health and AI Surge Plan](documents/originals/Oceania%20Health%20and%20AI%20Surge%20Plan.pdf) is a 15-page design-horizon document linking health research, HBOT and saunas, disaster kiosks, civic computing, food-waste reduction, co-operative arrangements, subterranean infrastructure and space ambitions.
 
-Its **$42.35 billion** scenario comprises $21 billion for proposed HBOT chambers, $3 billion for thermal saunas, $2.35 billion for disaster kiosks and $16 billion for a Smart Civic Surge. The document frames these through a 2028–2032 horizon. The earlier open record identifies this as a design horizon rather than a funding request.
+Its **$42.35 billion** scenario comprises $21 billion for proposed HBOT chambers, $3 billion for thermal saunas, $2.35 billion for disaster kiosks and $16 billion for a Smart Civic Surge. The document frames these through a 2028–2032 horizon. The earlier open record presents this as a design horizon.
 
-These are the source's planning figures and arguments. Their arithmetic does not establish engineering feasibility, clinical benefit, economic return or a committed rollout. Some earlier language is more categorical than later, more qualified plans. Preserving that distinction allows the ambition and its assumptions to be examined together.
-
-[Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/), [Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/) and [Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/) extend the imagined horizon. These futures give the work direction; individual experiments, specifications and evidence determine what can actually be carried forward.
+[Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/), [Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/) and [Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/) extend the imagined horizon.
 
 <a id="choose-a-thread"></a>
 
@@ -391,9 +387,9 @@ Many repositories provide ways to approach a smaller task without first adopting
 | Follow local proposal development and resources | [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/) |
 | Examine the earlier breadth of the public account | [Extended open record](docs/extended-record.md) |
 
-The **modularity** claim is that selected parts could be adapted to a particular person, culture, organisation or jurisdiction while retaining the relevant permissions and local choices. The wider Product Engine and agentic direction anticipates software helping assemble components, prepare prototypes and continue work from source material.
+The projects are intended to be **modular**, with selected parts adapted to a particular person, culture, organisation or jurisdiction under the relevant permissions and local choices. The wider Product Engine and agentic direction anticipates software helping assemble components, prepare prototypes and continue work from source material.
 
-That is different from assuming every linked page is a working service. A published explanation, a calculator, an application in progress and an operating organisation require different kinds of assessment. For a practical enquiry, begin with a particular task, inspect what is present and ask what would be required to use it.
+For a practical enquiry, begin with a particular task and the relevant project page, inspect the available tools and ask what would be required to use them.
 
 <a id="follow-the-sources"></a>
 
@@ -411,9 +407,9 @@ The source files were found in the author’s Documents, Downloads, local downlo
 | Local and regional plans | [82 Claytons Road](documents/originals/82-Claytons-Road-Anglican-Partnership-Proposal.pdf) · [C-Hour planning edition 5](documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf) · [Oceania Health and AI Surge Plan](documents/originals/Oceania%20Health%20and%20AI%20Surge%20Plan.pdf) · [When Redlands Discovers Luke Hayes v4.0](documents/originals/When_Redlands_Discovers_Luke_Hayes_v4.0.pdf) · [Queens Venture Capital Planning Document](documents/originals/queens-venture-capital-planning-document.pdf) |
 | Technical and scientific specifications | [Sovereign Space Builder Part 2](documents/originals/Sovereign%20Space%20Builder%20part%202%20Full%20System%20Specification.pdf) · [Web3 Sensorium for Science Debate](documents/originals/Web3%20Sensorium%20for%20Science%20Debate.pdf) |
 
-Two filename differences remain explicit. The inventory named an **unversioned Genesis PDF**, but the located PDFs are **V1 and V2**. The AUKUS filename in the inventory ended in **“2026 2.docx”**; the located original omits that suffix and matches the existing public-library checksum. The archive does not infer that the missing names were necessarily duplicate downloads.
+Two filename differences remain explicit. The inventory named an **unversioned Genesis PDF**, but the located PDFs are **V1 and V2**. The AUKUS filename in the inventory ended in **“2026 2.docx”**; the located original omits that suffix and matches the existing public-library checksum.
 
-Other documents were recovered from renamed public copies or archive exports and matched by their contents, metadata, provenance records and checksums. The [version notes](documents/README.md#filename-and-version-notes) explain those choices. In particular, the exact **50-page fourth-album file** is retained rather than a different 36-page export found during the search.
+Other documents were recovered from renamed public copies or archive exports and matched by their contents, metadata, provenance records and checksums. The [version notes](documents/README.md#filename-and-version-notes) explain those choices. The archive contains the exact **50-page fourth-album file** named in the inventory.
 
 The earlier [filename inventory and descriptive account](docs/extended-record.md#6-inventory-of-uploaded-reference-documents) remains available. Its filenames now link to the located files, with the differences labelled.
 
@@ -421,19 +417,13 @@ The earlier [filename inventory and descriptive account](docs/extended-record.md
 
 ## How to read and investigate the record
 
-The collection is rich enough to support different kinds of inquiry: a personal profile, a history of AI-assisted making, an examination of civic-computing proposals, a documentary about local ambition, or a critical analysis of the wider ideas. Each benefits from establishing what kind of source is in front of the reader.
-
-**An autobiographical account** supplies Luke's recollection and interpretation. **A creative work** supplies a lyric, character, story or imagined scene. **A prototype** supplies something that can be inspected or tried. **A specification** supplies a design and intended behaviour. **A reported submission or proposal** needs its own sending, receipt and publication history. **An operating service** needs evidence of actual activity.
-
-A cross-link between several of Luke's pages helps explain a connection. It does not become independent corroboration through repetition. A named potential partner is a route for a question, not confirmation of participation. An image labelled as generated concept art should be read in that context.
-
-AI assistance is part of the production history. Individual projects credit different collaborations, including Luke with Claude or ChatGPT. Some originals retain conversational development, generated research language, draft citations or implementation suggestions. Those traces can help explain how the work developed; a code fragment in a conversation and a tested application are different artefacts.
+AI assistance is part of the production history. Individual projects credit different collaborations, including Luke with Claude or ChatGPT. Some originals retain conversational development, generated research language, draft citations or implementation suggestions.
 
 For a changing web page, record its title, URL and access date. For a GitHub file, obtain a permanent link to the commit examined. For an original document, record the edition and checksum. A document's writing date, export date, upload date and the date of the event it discusses may differ.
 
-The most useful remaining evidence additions include a dated MMEIC event pack, recipient records for submissions, a current response on the Claytons Road proposal, and demonstrations and operating arrangements for any future local pilot. The archive resolves access to the identified source documents; it does not by itself resolve those later stages.
+The most useful remaining evidence additions include a dated MMEIC event pack, recipient records for submissions, a current response on the Claytons Road proposal, and demonstrations and operating arrangements for any future local pilot.
 
-The [reporting guide and source register](docs/reporting-guide.md) develops those questions. The [revision history](https://github.com/auraofintelligence/open-record-luke-nathan-hayes/commits/main/) shows how this account changes. The intention is to make the person, the ambitions, the qualifications and the source trail available together.
+The [reporting guide and source register](docs/reporting-guide.md) develops those questions. The [revision history](https://github.com/auraofintelligence/open-record-luke-nathan-hayes/commits/main/) shows how this account changes.
 
 ## Contact Luke
 
@@ -441,12 +431,10 @@ The [reporting guide and source register](docs/reporting-guide.md) develops thos
 
 Other routes are [LinkedIn](https://www.linkedin.com/in/lukecatalyst/) and the [Aura contact page](https://auraofintelligence.github.io/contact.html).
 
-For an interview or document enquiry, include your name, outlet or project, the thread you are following, the passage or file you want to discuss, and any deadline. Specific questions make it easier to distinguish a recollection, a design choice, an original source and a later development. Corrections can identify the existing wording, the supporting material and what needs to change. Private correspondence is best directed to Luke rather than posted in a public issue.
-
-This record is meant to give a first contact enough depth to become an informed conversation. It remains open to new evidence, the author's corrections, further questions and interpretations that differ from his own.
+For an interview or document enquiry, include your name, outlet or project, the thread you are following, the passage or file you want to discuss, and any deadline. Corrections can identify the existing wording, the supporting material and what needs to change. Send private correspondence directly to Luke.
 
 ## Rights and reuse
 
-The linked projects and original documents retain their own rights and attributions. Luke's published licensing position reserves commercial rights; consult the terms attached to the particular work for reproduction, adaptation or commercial-use enquiries. Public availability does not mean every file has the same licence.
+The linked projects and original documents retain their own rights and attributions. Luke's published licensing position reserves commercial rights; consult the terms attached to the particular work for reproduction, adaptation or commercial-use enquiries.
 
 The source archive preserves the located documents without rewriting their contents. The introduction and reporting guide provide current navigation and status context alongside them.
