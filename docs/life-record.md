@@ -58,7 +58,7 @@ The [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) thoug
 
 <a id="ai-research-volume-correction-19-october-2026"></a>
 
-Luke dates his sustained generative-AI research from **9 December 2022**. His correction of **19 October 2026** places the **two-million-word milestone in late 2024 or early 2025**, with the current total at **well over 100 million words of conversation and code exchange** across documents, presentations, websites, writing, research, images, video, music and software. [`prompt-research`](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1454) records this as self-directed work.
+Luke dates his sustained generative-AI research from **9 December 2022**. His correction of **19 October 2026** places the **two-million-word milestone in late 2024 or early 2025**, with the current total at **well over 100 million words of conversation and code exchange** across documents, presentations, websites, writing, research, images, video, music and software. The total was counted from data exports from OpenAI, Google, Anthropic and X. [`prompt-research`](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1454) records this as self-directed work.
 
 ## Countries travelled, stays and returns
 
