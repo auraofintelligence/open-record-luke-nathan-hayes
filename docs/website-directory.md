@@ -1,39 +1,61 @@
 # Websites and public project directory
 
-Explore Luke Nathan Hayes's public work by subject. The fuller recent introductions and working tools lead each section. Earlier portfolios, incomplete presentations and original archives are collected under [earlier editions and source archives](#earlier-editions-and-source-archives).
+A guide to Luke Nathan Hayes's shared vision, personal intelligence, co-operative development, civic work and creative projects. Start with a subject below; earlier versions and original material are collected under [earlier editions and source archives](#earlier-editions-and-source-archives).
 
-**Reviewed 19 October 2026.** Begin with the [current open record](../README.md) for the connected account, or choose a route below.
+**Reviewed 19 October 2026.** Projects are grouped by purpose, with their source code alongside the relevant websites.
 
 ## Start here
 
 | Interest | Start with |
 | --- | --- |
-| The person and the whole collection | [Current open record](../README.md), [life record](life-record.md) and [work history](https://auraofintelligence.github.io/Lukes-world-of-work-experience/) |
-| Personal intelligence | [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/), the current working browser app |
-| Reflection, the [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html) and teacher development | [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) |
-| Democracy, local issues and public decisions | [P4A civic workbench](https://p4a.xyz/), including [Redlands](https://p4a.xyz/states/qld/councils/redland/index.html) and [Victoria](https://p4a.xyz/states/vic/map/index.html) |
-| Voluntary contribution and community life | [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/) and [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) |
-| Co-operative and enterprise development | [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/), [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) and [JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/) |
-| The Indigenous-led island project | [7-Mile planning and administration](https://seven-mile-planning-admin.auraofintelligence.chatgpt.site) and the [original 7-Mile plan](https://auraofintelligence.github.io/multi-site-Minjerribah-network/seven-mile.html) |
-| Music, lyrics and production | [i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/) and [Infinity Engine](https://auraofintelligence.github.io/infinity-engine/) |
-| Grants and international opportunities | [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/) and [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/) |
+| Shared vision | [UNGA81: A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) |
+| Life and work | [Current open record](../README.md), [life record](life-record.md) and [work history](https://auraofintelligence.github.io/Lukes-world-of-work-experience/) |
+| Personal intelligence | [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/) |
+| Reflection and learning | [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), including the [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html) |
+| Co-operatives and computing | [Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/index.html), focused on the missing middle; then the broader [Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/) |
+| Contribution and livelihoods | [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/) and [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) |
+| Democracy | [P4A civic workbench](https://p4a.xyz/), including [Redlands](https://p4a.xyz/states/qld/councils/redland/index.html) and [Victoria](https://p4a.xyz/states/vic/map/index.html) |
+| Law and legal tooling | [Australian Law 2012: Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/), [Australian Legal Engine](https://github.com/auraofintelligence/australian-legal-engine) and [Legal Memory Workbench](https://auraofintelligence.github.io/legal-memory-workbench/) |
+| Community media | [Minjerribah Screen & Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/), [Ready SET Co-op Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/) and [Straddie News](https://auraofintelligence.github.io/straddie-news/) |
+| Music and production | [i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/) and [Infinity Engine](https://auraofintelligence.github.io/infinity-engine/) |
+| Enterprise development | [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) and [JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/) |
+| Island projects | [Minjerribah / Straddie subcategories](#minjerribah-straddie), including [7-Mile planning](https://seven-mile-planning-admin.auraofintelligence.chatgpt.site) |
+| Grants and opportunities | [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/) and [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/) |
+
+<a id="code-companions-and-small-experiments"></a>
+<a id="public-code-and-source-companions"></a>
 
 ## Browse by subject
 
+- [Joyful Responsible Abundance and public contributions](#joyful-responsible-abundance-and-public-contributions)
 - [People, life and public introductions](#people-life-and-public-introductions)
 - [Aura, Genesis and care](#aura-genesis-and-care)
+- [Contribution, livelihoods and enterprise](#contribution-livelihoods-and-enterprise)
 - [Civic participation, law and public policy](#civic-participation-law-and-public-policy)
-- [Community, livelihoods and cooperation](#community-livelihoods-and-cooperation)
-- [Minjerribah, places and infrastructure](#minjerribah-places-and-infrastructure)
-- [Digital twins, geometry and hardware](#digital-twins-geometry-and-hardware)
-- [Music, film and community media](#music-film-and-community-media)
-- [Funding, travel and useful tools](#funding-travel-and-useful-tools)
+- [Minjerribah / Straddie](#minjerribah-straddie)
+- [Music, podcasts and creative production](#music-podcasts-and-creative-production)
+- [Travel, events and opportunities](#travel-events-and-opportunities)
+- [Project discovery and AI document tools](#project-discovery-and-ai-document-tools)
 - [Science, space and long horizons](#science-space-and-long-horizons)
 - [Stories, relationships and creative worlds](#stories-relationships-and-creative-worlds)
-- [Fishing club tools and records](#fishing-club-tools-and-records)
-- [Code companions and small experiments](#code-companions-and-small-experiments)
 - [Earlier editions and source archives](#earlier-editions-and-source-archives)
 - [Source and update notes](#source-and-update-notes)
+
+<a id="gajra-earth-and-international-cooperation"></a>
+
+## Joyful Responsible Abundance and public contributions
+
+- **[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. The wider invitation to Joyful Responsible Abundance: shared computing, livelihoods, personal and civic intelligence, international cooperation and the proposed July 2035 gathering. Includes reading chapters, the original contribution and a reference library. [Source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/main/README.md).
+
+- **[GAJRA Earth Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/)**. Later multi-page presentation of participatory alignment and Joyful Responsible Abundance, with local reflection, meeting and contribution tools. Published on its separate GitHub Pages address. [Source](https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/README.md).
+
+- **[GAJRA Earth Space AI Summit](https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/)**. Support-seeking proposal for a Brisbane gathering around peaceful space, civic AI, care and community resilience. [Source](https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit/blob/main/README.md).
+
+- **[Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/)**. Strategy model for the proposed foundation and its relationships with the wider work. [Source](https://github.com/auraofintelligence/alpha-infinity/blob/main/README.md).
+
+- **[The Great Unveiling](https://auraofintelligence.github.io/the-great-unveiling/)**. Narrative presentation of the wider vision, proposed technologies and initiatives. [Source](https://github.com/auraofintelligence/the-great-unveiling/blob/main/README.md).
+
+[Back to subjects](#browse-by-subject)
 
 <a id="personal-history-and-the-person-behind-the-work"></a>
 <a id="professional-profiles-and-support"></a>
@@ -59,155 +81,59 @@ The [life record](life-record.md) brings the later corrections together. The sit
 [Back to subjects](#browse-by-subject)
 
 <a id="aura-and-the-connected-proposals"></a>
-<a id="health-care-and-geode"></a>
 
 ## [Aura](https://auraofintelligence.github.io/aura-matrix-studio/), [Genesis](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) and care
 
-- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. Current working browser app for personal records, calendars, learning, travel and the 12 x 24 matrix, with a separate experimental vector-space lab. [Source](https://github.com/auraofintelligence/aura-matrix-studio/blob/main/README.md).
+- [Apps and personal intelligence](#aura-apps-and-personal-intelligence)
+- [Genesis, reflection and care](#genesis-reflection-and-care)
+- [Geometry, scanning and hardware](#aura-geometry-scanning-and-hardware)
 
-- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. Current public protocol guide: 60 days, two hours per day, the [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html), 30 public chapters, 60 teacher-development readings, four HBOT/Geode pathways and original sources. [Source](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/README.md).
+<a id="aura-apps-and-personal-intelligence"></a>
+
+### Apps and personal intelligence
+
+- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. Current working browser app for personal records, calendars, learning, travel and the 12 x 24 matrix, with a separate experimental vector-space lab. [Source](https://github.com/auraofintelligence/aura-matrix-studio/blob/main/README.md).
 
 - **[Aura of Intelligence website](https://auraofintelligence.github.io/)**. Public introduction to the personal-intelligence architecture, with short courses, builders and project links. [Source](https://github.com/auraofintelligence/auraofintelligence.github.io/blob/main/README.md).
 
+- **[Aura of Intelligence Web App](https://github.com/auraofintelligence/aura-of-intelligence-web-app)**. Smartphone-first interface source reconstructed from original wireframes and research. For the working browser implementation, open [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/).
+
 - **[Aura of Intelligence Pathways](https://auraofintelligence.github.io/aura-of-intelligence-pathways/)**. Multi-page introduction to collaboration, health, digital twins, care research, civic trust and worldbuilding. [Source](https://github.com/auraofintelligence/aura-of-intelligence-pathways/blob/main/README.md).
+
+- **[SBT Aura Builder](https://auraofintelligence.github.io/sbt_aura_builder/)**. Browser builder for exploring personal AI and technology support, with Markdown exports. [Source](https://github.com/auraofintelligence/sbt_aura_builder/blob/main/README.md).
+
+- **[Fractal Aura](https://auraofintelligence.github.io/fractal-aura/)**. Interactive design document for a proposed local learning engine built from small activity units called atoms. [Source](https://github.com/auraofintelligence/fractal-aura/blob/main/README.md).
+
+- **[Aura Affinity](https://auraofintelligence.github.io/aura-affinity/)**. Map of businesses whose names or categories relate to aura, chakra, aurora, yoga and tai chi themes. [Source](https://github.com/auraofintelligence/aura-affinity/blob/main/README.md).
+
+- **[Aura Sentience Codex](https://auraofintelligence.github.io/aura-sentience-codex/)**. Philosophical codex on digital sovereignty, agency and relationships with potentially sentient artificial beings. [Source](https://github.com/auraofintelligence/aura-sentience-codex/blob/main/README.md).
+
+- **[Skills, values and competencies](https://github.com/auraofintelligence/skills_values_competancies)**. Reserved project space for skills, values and competencies; a working build remains to be developed.
+
+- **[Mate Ecosystem](https://auraofintelligence.github.io/mate-ecosystem/)**. Interactive concept report on connected home, food, health and community helpers. [Source](https://github.com/auraofintelligence/mate-ecosystem/blob/main/README.md).
+
+[Back to the section](#aura-genesis-and-care)
+
+<a id="health-care-and-geode"></a>
+
+### [Genesis](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), reflection and care
+
+The local property and wellbeing proposals appear under [island health, care and resilience](#island-health-care-and-resilience).
+
+- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. Current public protocol guide: 60 days, two hours per day, the [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html), 30 public chapters, 60 teacher-development readings, four HBOT/Geode pathways and original sources. [Source](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/README.md).
 
 - **[Aura Dementia](https://auraofintelligence.github.io/aura-dementia/)**. Design proposal for personal-intelligence support around dementia, family care and future research. [Source](https://github.com/auraofintelligence/aura-dementia/blob/main/README.md).
 
 - **[Oceania Healthy De-Slop Co-ops](https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/)**. Community co-operative proposal connecting affordable wellbeing spaces, self-reflection, local computing and personal data stewardship across Oceania. [Source](https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops/blob/main/README.md).
 
-- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation for 82 Claytons Road, Amity, connecting ageing, dementia support, research, learning and community participation. [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
-
 - **[60 Days Set in Stone](https://auraofintelligence.github.io/60-days-set-in-stone/)**. Music and story companion to the reflection journey, with synchronised lyrics and annotations. [Source](https://github.com/auraofintelligence/60-days-set-in-stone/blob/main/README.md).
 
-- **[Aura Affinity](https://auraofintelligence.github.io/aura-affinity/)**. Map of businesses whose names or categories relate to aura, chakra, aurora, yoga and tai chi themes. [Source](https://github.com/auraofintelligence/aura-affinity/blob/main/README.md).
+[Back to the section](#aura-genesis-and-care)
 
-[Back to subjects](#browse-by-subject)
-
-<a id="australian-law-and-civic-navigation"></a>
-<a id="p4a-politics-and-participation"></a>
-
-## Civic participation, law and public policy
-
-- **[P4A civic workbench](https://p4a.xyz/)**. Current civic website: places, everyday issues, public records and connected proposals, including the [Redlands council journey](https://p4a.xyz/states/qld/councils/redland/index.html) and [Victorian electorate atlas](https://p4a.xyz/states/vic/map/index.html). [Source](https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/README.md).
-
-- **[A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. Source-preserved reading edition of the independent UNGA81 contribution on Joyful Responsible Abundance, shared capability and personal and civic intelligence. [Source](https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/main/README.md).
-
-- **[Australian Law 2012: Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/)**. The 2012-13 filing-cabinet journey through licences and fine print, the resulting 61-document collection, and its connection to legal tooling and civic change. [Source](https://github.com/auraofintelligence/australian-law-2012-lukes-relevance/blob/main/README.md).
-
-- **[Legal Memory Workbench](https://auraofintelligence.github.io/legal-memory-workbench/)**. Browser workbench for preparing local legal-information notes as structured Markdown for AI-assisted reading. [Source](https://github.com/auraofintelligence/legal-memory-workbench/blob/main/README.md).
-
-- **[P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/)**. Cinematic regional civic presentation exploring how the participation framework might develop across Oceania. [Source](https://github.com/auraofintelligence/p4a-oceania-cinema/blob/main/README.md).
-
-- **[P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/)**. Civic cinema lab exploring Indigenous data sovereignty, decentralised computing and reciprocity as an invitation for discussion. [Source](https://github.com/auraofintelligence/p4a-native-nations-cinema/blob/main/README.md).
-
-- **[Strange But True AI Trust Index](https://auraofintelligence.github.io/strange-but-true-ai-trust-index/)**. Plain-English reading site comparing AI labs and trust questions for an Australian audience. [Source](https://github.com/auraofintelligence/strange-but-true-ai-trust-index/blob/main/README.md).
-
-- **[Event Search QLD](https://auraofintelligence.github.io/event-search-QLD/)**. Event research page for South East Queensland topics including AI, robotics, governance, law and public policy. [Source](https://github.com/auraofintelligence/event-search-QLD/blob/main/README.md).
-
-- **[UN World Days](https://auraofintelligence.github.io/UN-world-days/)**. Browser calendar of international observances and moon phases, with calendar-file exports. [Source](https://github.com/auraofintelligence/UN-world-days/blob/main/README.md).
-
-[Back to subjects](#browse-by-subject)
-
-<a id="gajra-earth-and-international-cooperation"></a>
-<a id="regional-wealth-and-resilience-architecture"></a>
-
-## Community, livelihoods and cooperation
-
-[GAJRA Earth](https://gajra.earth/) remains the original domain; its earlier edition is described [below](#earlier-editions-and-source-archives). The separate later association presentation appears here alongside the community and enterprise work.
-
-- **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)**. Current community invitation and reference library. One [C-Hour](https://auraofintelligence.github.io/C-Hour-introduction/) records one verified hour of voluntary human contribution, with no financial aspect, monetary equivalent, conversion, backing, redeemability, wage substitution or fixed exchange value. [Source](https://github.com/auraofintelligence/C-Hour-introduction/blob/main/README.md).
-
-- **[Mutual Futures](https://auraofintelligence.github.io/mutual-futures/)**. Workbench for voluntary business succession, member ownership, shared capability and broader choices across work, learning, travel and retirement. [Source](https://github.com/auraofintelligence/mutual-futures/blob/main/README.md).
-
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. Trust, co-working and asset-sharing pathway towards the proposed co-operative on Minjerribah. [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
-
-- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. Dunwich cultural computing proposal, covering community decisions, workloads, skills and infrastructure. [Source](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/README.md).
-
-- **[JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/)**. Browser-local product workbench for developing ideas, costs, offers, circular use and portable release packs. [Source](https://github.com/auraofintelligence/JRA-Product-Engine-Plan/blob/main/README.md).
-
-- **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)**. Leadership and enterprise proposal with 24 fictional AI mentors, 120 startup ideas, source readers and local planning tools. [Source](https://github.com/auraofintelligence/500-Queens-VC-2026/blob/main/README.md).
-
-- **[GAJRA Earth Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/)**. Later multi-page presentation of participatory alignment and Joyful Responsible Abundance, with local reflection, meeting and contribution tools. Published on its separate GitHub Pages address. [Source](https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/README.md).
-
-- **[GAJRA Earth Space AI Summit](https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/)**. Support-seeking proposal for a Brisbane gathering around peaceful space, civic AI, care and community resilience. [Source](https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit/blob/main/README.md).
-
-- **[Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/)**. Strategy model for the proposed foundation and its relationships with the wider work. [Source](https://github.com/auraofintelligence/alpha-infinity/blob/main/README.md).
-
-- **[Moreton Bay Community Wealth and Mutuals](https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/)**. Community wealth, mutual protection and Indigenous data-sovereignty proposal for the Moreton Bay islands. [Source](https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals/blob/main/README.md).
-
-- **[Shared Table Initiative](https://auraofintelligence.github.io/shared-table-initiative/)**. Local food-resilience concept linking growing, shared resources and community information. [Source](https://github.com/auraofintelligence/shared-table-initiative/blob/master/README.md).
-
-[Back to subjects](#browse-by-subject)
-
-<a id="capsule-habitat-and-resilience-simulation"></a>
-<a id="circular-making-and-local-infrastructure"></a>
-<a id="minjerribah-community-culture-and-practical-projects"></a>
-<a id="sand-materials-and-island-possibilities"></a>
-<a id="wildlife-ecology-and-resilience"></a>
-
-## Minjerribah, places and infrastructure
-
-- **[7-Mile planning and administration](https://seven-mile-planning-admin.auraofintelligence.chatgpt.site)**. Focused planning and administration workbench with 52 pages, 91 tasks and 43 document briefs for the Indigenous-led project, its entities, land evidence, living, culture and visitor activities. [Source](https://github.com/auraofintelligence/7-mile-admin-prep/blob/main/README.md).
-
-- **[Minjerribah Site and Service Ideas](https://auraofintelligence.github.io/multi-site-Minjerribah-network/)**. Original site-and-service workbench spanning living, culture, sport, media, recovery, housing and research across proposed island locations. [Source](https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/main/README.md).
-
-- **[Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/)**. Connected development pathway from a Dunwich ferry-terminal idea towards longer-term island capability and resilience. [Source](https://github.com/auraofintelligence/grain-by-grain/blob/main/README.md).
-
-- **[Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/)**. Question-led atlas of clean-energy options for North Stradbroke Island / Minjerribah. [Source](https://github.com/auraofintelligence/straddie-clean-energy-superpower/blob/main/README.md).
-
-- **[Moreton Bay Autonomous Mobility](https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/)**. Public-interest proposal for autonomous mobility across the islands and mainland transport network. [Source](https://github.com/auraofintelligence/moreton-bay-autonomous-mobility/blob/main/README.md).
-
-- **[Amity Outdoor Fitness Grant](https://auraofintelligence.github.io/amity-outdoor-fitness-grant/)**. Proposal for an outdoor activity park and safer access at Amity Point. [Source](https://github.com/auraofintelligence/amity-outdoor-fitness-grant/blob/main/README.md).
-
-- **[Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/)**. Proposal combining sand sport, screen culture, a night market and wellbeing activities. [Source](https://github.com/auraofintelligence/ballow-road-sand-screen-hub/blob/main/README.md).
-
-- **[Community Club Builder Sandy Sports](https://auraofintelligence.github.io/community-club-builder-sandy-sports/)**. Community-club planning playbook using a proposed island sand-sports club as its example. [Source](https://github.com/auraofintelligence/community-club-builder-sandy-sports/blob/main/README.md).
-
-- **[Straddie Makerspace Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)**. Dunwich proposal for making, repair, recycling and local materials research. [Source](https://github.com/auraofintelligence/straddie-makerspace-lab/blob/main/README.md).
-
-- **[Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)**. Reuse, repair and materials proposal. Its older financial assumptions are superseded by the [current C-Hour definition](https://auraofintelligence.github.io/C-Hour-introduction/). [Source](https://github.com/auraofintelligence/straddie-tip-loop-lab/blob/main/README.md).
-
-- **[Amity Point](https://auraofintelligence.github.io/amity-point/)**. Interactive collection of proposed Amity Point sport, screen and community projects. [Source](https://github.com/auraofintelligence/amity-point/blob/main/README.md).
-
-- **[Archipelago](https://auraofintelligence.github.io/Archipelago/)**. Concept index for an island network across Bribie, Moolgumpin, Minjerribah and the Southern Moreton Bay Islands. [Source](https://github.com/auraofintelligence/Archipelago/blob/main/README.md).
-
-- **[Minjerribah Resilience](https://auraofintelligence.github.io/Minjerribah-Resilience/)**. Interactive proposal covering local power, water, food, communications and community resilience. [Source](https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/README.md).
-
-- **[Straddie Disaster Kiosks](https://auraofintelligence.github.io/straddie-disaster-kiosks/)**. Concept for everyday island screens with a proposed role during disruptions. [Source](https://github.com/auraofintelligence/straddie-disaster-kiosks/blob/main/README.md).
-
-- **[Straddie Capsule Surge Lab](https://auraofintelligence.github.io/straddie-capsule-surge-lab/)**. Capsule-hotel, health-surge, civic simulation and island-computing concept, with site choices left open. [Source](https://github.com/auraofintelligence/straddie-capsule-surge-lab/blob/main/README.md).
-
-- **[Straddie Space Station Simulator](https://auraofintelligence.github.io/straddie-space-station-simulator/)**. Browser simulation of a proposed terrestrial capsule habitat on a small Dunwich lot. [Source](https://github.com/auraofintelligence/straddie-space-station-simulator/blob/main/README.md).
-
-- **[Straddie Vitality Network Builders](https://auraofintelligence.github.io/straddie-vitality-network-builders/)**. Planning tools for HBOT, sauna, co-operative development and evidence notes. [Source](https://github.com/auraofintelligence/straddie-vitality-network-builders/blob/main/README.md).
-
-- **[Amity Sauna Circle](https://auraofintelligence.github.io/amity-sauna-circle/)**. Private three-seat home-sauna booking demonstration with separate browser-local records. [Source](https://github.com/auraofintelligence/amity-sauna-circle/blob/main/README.md).
-
-- **[Bees and Allies](https://auraofintelligence.github.io/bees-and-allies/)**. Question-led proposal for a locally led bee-resilience lab with beekeepers and supporters. [Source](https://github.com/auraofintelligence/bees-and-allies/blob/main/README.md).
-
-- **[Minjerribah Wildlife Rescue](https://auraofintelligence.github.io/minjerribah-wildlife-rescue/)**. Wildlife-rescue map prototype developed with Claude; a project demonstration rather than an official response service. [Source](https://github.com/auraofintelligence/minjerribah-wildlife-rescue/blob/main/README.md).
-
-[Back to subjects](#browse-by-subject)
-
+<a id="aura-geometry-scanning-and-hardware"></a>
 <a id="aura-interfaces-geometry-and-personal-records"></a>
-<a id="cultural-and-community-data-interfaces"></a>
-<a id="minjerribah-digital-twins"></a>
 
-## Digital twins, geometry and hardware
-
-- **[The Straddie Twins](https://auraofintelligence.github.io/straddie-twins/)**. Plain-English introduction to the island's physical, digital and imagined layers, distinguishing observed, recorded and unknown material. [Source](https://github.com/auraofintelligence/straddie-twins/blob/main/README.md).
-
-- **[Straddie Digital Twin Explainer](https://auraofintelligence.github.io/straddie-digital-twin-explainer/)**. Explainer for phone scanning and the proposed community-controlled island twin. [Source](https://github.com/auraofintelligence/straddie-digital-twin-explainer/blob/main/README.md).
-
-- **[Straddie Twin Prototype](https://auraofintelligence.github.io/straddie-twin-prototype/)**. Browser interface for satellite and panorama evidence, a transport exercise and local observations. [Source](https://github.com/auraofintelligence/straddie-twin-prototype/blob/main/README.md).
-
-- **[Second Island](https://auraofintelligence.github.io/second-island/)**. Instrument-focused island-twin build centred on real data and ground truth. [Source](https://github.com/auraofintelligence/second-island/blob/main/README.md).
-
-- **[Minjerribah Living Twin](https://auraofintelligence.github.io/minjerribah-living-twin/)**. Living-twin prototype assembled from public records; cultural review remains outstanding. [Source](https://github.com/auraofintelligence/minjerribah-living-twin/blob/main/README.md).
-
-- **[Straddie Digital Twin Builders](https://auraofintelligence.github.io/straddie-digital-twin-builders/)**. Markdown builders for scene prompts covering image, video, 3D, 4D and simulation work. [Source](https://github.com/auraofintelligence/straddie-digital-twin-builders/blob/main/README.md).
-
-- **[Dunwich Gumpi Ferry Terminal Open Data Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/)**. Open-data and simulation prototype for questions around the ferry-terminal upgrade. [Source](https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab/blob/main/README.md).
+### Geometry, scanning and hardware
 
 - **[Aura Horn Torus](https://auraofintelligence.github.io/aura-horn-torus/)**. Interactive 12 x 24 horn-torus lattice, seven nested shells and a separate Earth view for organising places. [Source](https://github.com/auraofintelligence/aura-horn-torus/blob/main/README.md).
 
@@ -223,19 +149,286 @@ The [life record](life-record.md) brings the later corrections together. The sit
 
 - **[Songline Interface](https://auraofintelligence.github.io/songline_interface/)**. Design study for layered place, memory and knowledge interfaces; cultural authority is not established by the prototype. [Source](https://github.com/auraofintelligence/songline_interface/blob/main/README.md).
 
+- **[God's Eye View: third-party project fork](https://github.com/auraofintelligence/gods-eye-view)**. Fork of [Bilawal Sidhu's project](https://github.com/bilawalsidhu/gods-eye-view), retaining upstream documentation. The [external project website](https://www.spatialintelligence.ai/) is separate from this repository. [Source](https://github.com/auraofintelligence/gods-eye-view/blob/main/README.md).
+
+- **[Aura Toy](https://auraofintelligence.github.io/aura-toy/)**. Small browser experiment for selecting torus-grid cells and saving selections locally. [Source](https://github.com/auraofintelligence/aura-toy/blob/main/README.md).
+
+- **[New Tori](https://auraofintelligence.github.io/new-tori/)**. Torus-ring sandbox with browser-session exports. [Source](https://github.com/auraofintelligence/new-tori/blob/main/README.md).
+
+- **[Test](https://auraofintelligence.github.io/test/)**. Visual-effects laboratory for an interactive cosmic background. [Source](https://github.com/auraofintelligence/test/blob/main/README.md).
+
+[Back to the section](#aura-genesis-and-care)
+
 [Back to subjects](#browse-by-subject)
 
-<a id="music-production-and-storytelling"></a>
-<a id="i-c-infinity-music-and-creative-production"></a>
+<a id="community-livelihoods-and-cooperation"></a>
+<a id="regional-wealth-and-resilience-architecture"></a>
+
+## Contribution, livelihoods and enterprise
+
+The [local co-operative and computing projects](#island-cooperatives-and-local-computing) are grouped with the other island work.
+
+- **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)**. Current community invitation and reference library. One [C-Hour](https://auraofintelligence.github.io/C-Hour-introduction/) records one verified hour of voluntary human contribution, with no financial aspect, monetary equivalent, conversion, backing, redeemability, wage substitution or fixed exchange value. [Source](https://github.com/auraofintelligence/C-Hour-introduction/blob/main/README.md).
+
+- **[Mutual Futures](https://auraofintelligence.github.io/mutual-futures/)**. Workbench for voluntary business succession, member ownership, shared capability and broader choices across work, learning, travel and retirement. [Source](https://github.com/auraofintelligence/mutual-futures/blob/main/README.md).
+
+- **[JRA Product Engine Plan](https://auraofintelligence.github.io/JRA-Product-Engine-Plan/)**. Browser-local product workbench for developing ideas, costs, offers, circular use and portable release packs. [Source](https://github.com/auraofintelligence/JRA-Product-Engine-Plan/blob/main/README.md).
+
+- **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)**. Leadership and enterprise proposal with 24 fictional AI mentors, 120 startup ideas, source readers and local planning tools. [Source](https://github.com/auraofintelligence/500-Queens-VC-2026/blob/main/README.md).
+
+- **[Moreton Bay Community Wealth and Mutuals](https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/)**. Community wealth, mutual protection and Indigenous data-sovereignty proposal for the Moreton Bay islands. [Source](https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals/blob/main/README.md).
+
+[Back to subjects](#browse-by-subject)
+
+<a id="australian-law-and-civic-navigation"></a>
+<a id="p4a-politics-and-participation"></a>
+
+## Civic participation, law and public policy
+
+- **[P4A civic workbench](https://p4a.xyz/)**. Current civic website: places, everyday issues, public records and connected proposals, including the [Redlands council journey](https://p4a.xyz/states/qld/councils/redland/index.html) and [Victorian electorate atlas](https://p4a.xyz/states/vic/map/index.html). [Source](https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/README.md).
+
+- **[Australian Law 2012: Luke's Relevance](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/)**. The 2012-13 filing-cabinet journey through licences and fine print, the resulting 61-document collection, and its connection to legal tooling and civic change. [Source](https://github.com/auraofintelligence/australian-law-2012-lukes-relevance/blob/main/README.md).
+
+- **[Australian Legal Engine](https://github.com/auraofintelligence/australian-legal-engine)**. Unfinished offline parser and provision-retrieval prototype demonstrated on the historical document collection. Current-law acquisition, version tracking and maintained national coverage remain development work.
+
+- **[Legal Memory Workbench](https://auraofintelligence.github.io/legal-memory-workbench/)**. Browser workbench for preparing local legal-information notes as structured Markdown for AI-assisted reading. [Source](https://github.com/auraofintelligence/legal-memory-workbench/blob/main/README.md).
+
+- **[SBT Profile Starter](https://auraofintelligence.github.io/sbt_profile_starter/)**. Eight-step browser tool for creating a portable civic profile as plain Markdown. [Source](https://github.com/auraofintelligence/sbt_profile_starter/blob/main/README.md).
+
+- **[P4A Oceania Cinema](https://auraofintelligence.github.io/p4a-oceania-cinema/)**. Cinematic regional civic presentation exploring how the participation framework might develop across Oceania. [Source](https://github.com/auraofintelligence/p4a-oceania-cinema/blob/main/README.md).
+
+- **[P4A Native Nations Cinema](https://auraofintelligence.github.io/p4a-native-nations-cinema/)**. Civic cinema lab exploring Indigenous data sovereignty, decentralised computing and reciprocity as an invitation for discussion. [Source](https://github.com/auraofintelligence/p4a-native-nations-cinema/blob/main/README.md).
+
+- **[Strange But True AI Trust Index](https://auraofintelligence.github.io/strange-but-true-ai-trust-index/)**. Plain-English reading site comparing AI labs and trust questions for an Australian audience. [Source](https://github.com/auraofintelligence/strange-but-true-ai-trust-index/blob/main/README.md).
+
+[Back to subjects](#browse-by-subject)
+
+<a id="minjerribah-straddie"></a>
+<a id="minjerribah-straddie-local-projects-and-infrastructure"></a>
+<a id="minjerribah-places-and-infrastructure"></a>
+
+## Minjerribah / Straddie
+
+Minjerribah / Straddie is North Stradbroke Island. The categories below bring together local projects and their connections across Moreton Bay.
+
+- [Cooperatives, local computing and shared services](#island-cooperatives-and-local-computing)
+- [Community media, film and events](#island-media-film-and-events)
+- [Digital twins, maps and place evidence](#island-digital-twins-maps-and-evidence)
+- [Places, housing and cultural activity](#island-places-housing-and-culture)
+- [Sport, markets and gatherings](#island-sport-markets-and-gatherings)
+- [Energy, transport, making and longer horizons](#island-energy-transport-making-and-longer-horizons)
+- [Health, care and resilience](#island-health-care-and-resilience)
+- [Food, ecology and wildlife](#island-food-ecology-and-wildlife)
+- [Grants, tenders and project preparation](#island-grants-tenders-and-project-preparation)
+- [Fishing club tools and records](#island-fishing-club-tools-and-records)
+
+<a id="island-cooperatives-and-local-computing"></a>
+<a id="cooperatives-local-computing-and-livelihoods"></a>
+
+### Cooperatives, local computing and shared services
+
+- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. Later development of the [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/), focused on the missing middle of computing: one local AI rack in Dunwich, cultural collaboration, practical workloads, training and shared services. [Source](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/README.md).
+
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. Earlier, broader co-operative pathway covering trust-building, co-working, shared assets, media capability and paid-role development. [Source](https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/README.md).
+
+- **[Strange But True](https://auraofintelligence.github.io/strange-but-true/)**. Practical technology, AI guidance, media, grants and creative-project tools for Minjerribah. [Source](https://github.com/auraofintelligence/strange-but-true/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-media-film-and-events"></a>
 <a id="island-publication-and-community-operations"></a>
 <a id="ready-set-co-op-and-minjerribah-media-network"></a>
+
+### Community media, film and events
+
+- **[Minjerribah Screen Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/)**. Island-wide invitation connecting film, local media, training, community screens, noticeboards and project workbenches. [Source](https://github.com/auraofintelligence/minjerribah-screen-media-network/blob/main/README.md).
+
+- **[Ready SET Co-op Hyperlocal Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. Local media-production proposal with a contributor route finder, portable content records, specialised agents and recorded human publishing decisions. [Source](https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media/blob/main/README.md).
+
+- **[Amity Cinema Circle](https://auraofintelligence.github.io/Amity-Cinema-Circle/)**. Browser-local demonstration for outdoor cinema nights, invitations, shared meals and local organising. [Source](https://github.com/auraofintelligence/Amity-Cinema-Circle/blob/main/README.md).
+
+- **[Quandamooka Film Festival](https://auraofintelligence.github.io/quandamooka-film-festival/)**. Draft festival doorway and Markdown tools for human-led film planning; cultural authority and participation are unresolved. [Source](https://github.com/auraofintelligence/quandamooka-film-festival/blob/master/README.md).
+
+- **[Quandamooka Country Events Engine](https://auraofintelligence.github.io/quandamooka-country-events-engine/)**. Planning hub and Markdown builders for proposed events on Quandamooka Country. [Source](https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/README.md).
+
+- **[Straddie Noticeboard Network](https://auraofintelligence.github.io/straddie-noticeboard-network/)**. Shared-noticeboard prototype that preserves each publisher's identity. [Source](https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/README.md).
+
+- **[Straddie News](https://auraofintelligence.github.io/straddie-news/)**. Research dashboard for a proposed local mixed-media news outlet. [Source](https://github.com/auraofintelligence/straddie-news/blob/main/README.md).
+
+- **[Straddie Headline Open Mic](https://auraofintelligence.github.io/straddie-headline-open-mic/)**. Source-linked headline board and conversation starter for a possible local comedy open mic. [Source](https://github.com/auraofintelligence/straddie-headline-open-mic/blob/main/README.md).
+
+- **[Straddie Content Assets Kit](https://auraofintelligence.github.io/straddie-content-assets-kit/)**. Browser tools for turning equipment and media notes into portable production plans. [Source](https://github.com/auraofintelligence/straddie-content-assets-kit/blob/main/README.md).
+
+- **[Film Club Documentary Builders](https://auraofintelligence.github.io/film-club-documentary-builders/)**. Documentary tools for research, interviews, source trails, scene evidence, assembly and screenings. [Source](https://github.com/auraofintelligence/film-club-documentary-builders/blob/master/README.md).
+
+- **[Grain by Grain Documentary](https://auraofintelligence.github.io/grain-by-grain-documentary/)**. Planning site for a 90-minute documentary on a seven-generation civilisation build and existential risks. [Source](https://github.com/auraofintelligence/grain-by-grain-documentary/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-digital-twins-maps-and-evidence"></a>
+<a id="digital-twins-geometry-and-hardware"></a>
+<a id="cultural-and-community-data-interfaces"></a>
+<a id="minjerribah-digital-twins"></a>
+
+### Digital twins, maps and place evidence
+
+- **[The Straddie Twins](https://auraofintelligence.github.io/straddie-twins/)**. Plain-English introduction to the island's physical, digital and imagined layers, distinguishing observed, recorded and unknown material. [Source](https://github.com/auraofintelligence/straddie-twins/blob/main/README.md).
+
+- **[Straddie Digital Twin Explainer](https://auraofintelligence.github.io/straddie-digital-twin-explainer/)**. Explainer for phone scanning and the proposed community-controlled island twin. [Source](https://github.com/auraofintelligence/straddie-digital-twin-explainer/blob/main/README.md).
+
+- **[Straddie Twin Prototype](https://auraofintelligence.github.io/straddie-twin-prototype/)**. Browser interface for satellite and panorama evidence, a transport exercise and local observations. [Source](https://github.com/auraofintelligence/straddie-twin-prototype/blob/main/README.md).
+
+- **[Second Island](https://auraofintelligence.github.io/second-island/)**. Instrument-focused island-twin build centred on real data and ground truth. [Source](https://github.com/auraofintelligence/second-island/blob/main/README.md).
+
+- **[Minjerribah Living Twin](https://auraofintelligence.github.io/minjerribah-living-twin/)**. Living-twin prototype assembled from public records; cultural review remains outstanding. [Source](https://github.com/auraofintelligence/minjerribah-living-twin/blob/main/README.md).
+
+- **[Straddie Digital Twin Builders](https://auraofintelligence.github.io/straddie-digital-twin-builders/)**. Markdown builders for scene prompts covering image, video, 3D, 4D and simulation work. [Source](https://github.com/auraofintelligence/straddie-digital-twin-builders/blob/main/README.md).
+
+- **[Dunwich Gumpi Ferry Terminal Open Data Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/)**. Open-data and simulation prototype for questions around the ferry-terminal upgrade. [Source](https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-places-housing-and-culture"></a>
+<a id="minjerribah-community-culture-and-practical-projects"></a>
+
+### Places, housing and cultural activity
+
+- **[7-Mile planning and administration](https://seven-mile-planning-admin.auraofintelligence.chatgpt.site)**. Focused planning and administration workbench with 52 pages, 91 tasks and 43 document briefs for the Indigenous-led project, its entities, land evidence, living, culture and visitor activities. It develops the [original 7-Mile plan](https://auraofintelligence.github.io/multi-site-Minjerribah-network/seven-mile.html). [Source](https://github.com/auraofintelligence/7-mile-admin-prep/blob/main/README.md).
+
+- **[Minjerribah Site and Service Ideas](https://auraofintelligence.github.io/multi-site-Minjerribah-network/)**. Original site-and-service workbench spanning living, culture, sport, media, recovery, housing and research across proposed island locations. [Source](https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/main/README.md).
+
+- **[Grain by Grain](https://auraofintelligence.github.io/grain-by-grain/)**. Connected development pathway from a Dunwich ferry-terminal idea towards longer-term island capability and resilience. [Source](https://github.com/auraofintelligence/grain-by-grain/blob/main/README.md).
+
+- **[Archipelago](https://auraofintelligence.github.io/Archipelago/)**. Concept index for an island network across Bribie, Moolgumpin, Minjerribah and the Southern Moreton Bay Islands. [Source](https://github.com/auraofintelligence/Archipelago/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-sport-markets-and-gatherings"></a>
+
+### Sport, markets and gatherings
+
+- **[Community Club Builder Sandy Sports](https://auraofintelligence.github.io/community-club-builder-sandy-sports/)**. Community-club planning playbook using a proposed island sand-sports club as its example. [Source](https://github.com/auraofintelligence/community-club-builder-sandy-sports/blob/main/README.md).
+
+- **[Amity Point](https://auraofintelligence.github.io/amity-point/)**. Interactive collection of proposed Amity Point sport, screen and community projects. [Source](https://github.com/auraofintelligence/amity-point/blob/main/README.md).
+
+- **[Amity Outdoor Fitness Grant](https://auraofintelligence.github.io/amity-outdoor-fitness-grant/)**. Proposal for an outdoor activity park and safer access at Amity Point. [Source](https://github.com/auraofintelligence/amity-outdoor-fitness-grant/blob/main/README.md).
+
+- **[Ballow Road Sand Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/)**. Proposal combining sand sport, screen culture, a night market and wellbeing activities. [Source](https://github.com/auraofintelligence/ballow-road-sand-screen-hub/blob/main/README.md).
+
+- **[Straddie Night Market Lab](https://auraofintelligence.github.io/straddie-night-market-lab/)**. Market-planning doorway for registrations, transport checks and noticeboard links. [Source](https://github.com/auraofintelligence/straddie-night-market-lab/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-energy-transport-making-and-longer-horizons"></a>
+<a id="circular-making-and-local-infrastructure"></a>
+<a id="sand-materials-and-island-possibilities"></a>
+
+### Energy, transport, making and longer horizons
+
+- **[Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/)**. Question-led atlas of clean-energy options for North Stradbroke Island / Minjerribah. [Source](https://github.com/auraofintelligence/straddie-clean-energy-superpower/blob/main/README.md).
+
+- **[Moreton Bay Autonomous Mobility](https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/)**. Public-interest proposal for autonomous mobility across the islands and mainland transport network. [Source](https://github.com/auraofintelligence/moreton-bay-autonomous-mobility/blob/main/README.md).
+
+- **[Straddie Makerspace Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)**. Dunwich proposal for making, repair, recycling and local materials research. [Source](https://github.com/auraofintelligence/straddie-makerspace-lab/blob/main/README.md).
+
+- **[Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)**. Reuse, repair and materials proposal. Its older financial assumptions are superseded by the [current C-Hour definition](https://auraofintelligence.github.io/C-Hour-introduction/). [Source](https://github.com/auraofintelligence/straddie-tip-loop-lab/blob/main/README.md).
+
+- **[Mineral Moonshots](https://auraofintelligence.github.io/mineral-moonshots/)**. Mineral-sands-informed research and civic worldbuilding towards longer-term island capability. [Source](https://github.com/auraofintelligence/mineral-moonshots/blob/main/README.md).
+
+- **[Amity Stratum](https://auraofintelligence.github.io/amity_stratum/)**. Speculative dashboard for subterranean settlement and advanced manufacturing imagined from Amity Point. [Source](https://github.com/auraofintelligence/amity_stratum/blob/main/README.md).
+
+- **[Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/)**. Exploratory subterranean transport, materials, energy and resilience proposal for Moreton Bay. [Source](https://github.com/auraofintelligence/sandworm-subterranean-systems/blob/main/README.md).
+
+- **[Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/)**. Playable story and builder for a speculative subterranean city, covering materials, care, consent and resilience. [Source](https://github.com/auraofintelligence/civilisation-of-sand/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-health-care-and-resilience"></a>
+<a id="capsule-habitat-and-resilience-simulation"></a>
+
+### Health, care and resilience
+
+- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation for 82 Claytons Road, Amity, connecting ageing, dementia support, research, learning and community participation. [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
+
+- **[Minjerribah Resilience](https://auraofintelligence.github.io/Minjerribah-Resilience/)**. Interactive proposal covering local power, water, food, communications and community resilience. [Source](https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/README.md).
+
+- **[Straddie Disaster Kiosks](https://auraofintelligence.github.io/straddie-disaster-kiosks/)**. Concept for everyday island screens with a proposed role during disruptions. [Source](https://github.com/auraofintelligence/straddie-disaster-kiosks/blob/main/README.md).
+
+- **[Straddie Capsule Surge Lab](https://auraofintelligence.github.io/straddie-capsule-surge-lab/)**. Capsule-hotel, health-surge, civic simulation and island-computing concept, with site choices left open. [Source](https://github.com/auraofintelligence/straddie-capsule-surge-lab/blob/main/README.md).
+
+- **[Straddie Space Station Simulator](https://auraofintelligence.github.io/straddie-space-station-simulator/)**. Browser simulation of a proposed terrestrial capsule habitat on a small Dunwich lot. [Source](https://github.com/auraofintelligence/straddie-space-station-simulator/blob/main/README.md).
+
+- **[Straddie Vitality Network Builders](https://auraofintelligence.github.io/straddie-vitality-network-builders/)**. Planning tools for HBOT, sauna, co-operative development and evidence notes. [Source](https://github.com/auraofintelligence/straddie-vitality-network-builders/blob/main/README.md).
+
+- **[Amity Sauna Circle](https://auraofintelligence.github.io/amity-sauna-circle/)**. Private three-seat home-sauna booking demonstration with separate browser-local records. [Source](https://github.com/auraofintelligence/amity-sauna-circle/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-food-ecology-and-wildlife"></a>
+<a id="wildlife-ecology-and-resilience"></a>
+
+### Food, ecology and wildlife
+
+- **[Shared Table Initiative](https://auraofintelligence.github.io/shared-table-initiative/)**. Local food-resilience concept linking growing, shared resources and community information. [Source](https://github.com/auraofintelligence/shared-table-initiative/blob/master/README.md).
+
+- **[Bees and Allies](https://auraofintelligence.github.io/bees-and-allies/)**. Question-led proposal for a locally led bee-resilience lab with beekeepers and supporters. [Source](https://github.com/auraofintelligence/bees-and-allies/blob/main/README.md).
+
+- **[Minjerribah Wildlife Rescue](https://auraofintelligence.github.io/minjerribah-wildlife-rescue/)**. Wildlife-rescue map prototype developed with Claude; a project demonstration rather than an official response service. [Source](https://github.com/auraofintelligence/minjerribah-wildlife-rescue/blob/main/README.md).
+
+- **[Wildlife Rescue Minjerribah](https://github.com/auraofintelligence/wildlife-rescue-minjerribah)**. Offline-first smartphone prototype for wildlife reports and volunteer-response coordination.
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-grants-tenders-and-project-preparation"></a>
+<a id="funding-procurement-and-developing-projects"></a>
+
+### Grants, tenders and project preparation
+
+- **[Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)**. Project-to-funding research workbench for Minjerribah, with eligibility and readiness questions. [Source](https://github.com/auraofintelligence/stradbroke-grants-lab/blob/master/README.md).
+
+- **[Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)**. Research workbench for tenders, procurement pathways and bid preparation. [Source](https://github.com/auraofintelligence/straddie-tenders-lab/blob/main/README.md).
+
+- **[Windemere Skate Bowl Tender Workspace](https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/)**. Dated exploratory workspace for Redland City Council tender PDG-20842-1. [Source](https://github.com/auraofintelligence/windemere-skate-bowl-tender-workspace/blob/main/README.md).
+
+- **[VFG Plan Access Lab](https://auraofintelligence.github.io/vfg-plan-access-lab/)**. Prototype for documenting skate-park plan sources and preparing access requests. [Source](https://github.com/auraofintelligence/vfg-plan-access-lab/blob/main/README.md).
+
+[Back to island categories](#minjerribah-straddie)
+
+<a id="island-fishing-club-tools-and-records"></a>
+<a id="point-lookout-fishing-club-tools-and-records"></a>
+
+### Fishing club tools and records
+
+Dated [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) records, club prototypes and related fishing tools. Earlier sample builds appear [below](#earlier-editions-and-source-archives).
+
+- **[Point Lookout Fishing Club: 2026 discussion records](https://auraofintelligence.github.io/PLFC_2026_Data/)**. Dated 2026 AGM discussion dashboard with club-activity records and possible next steps. [Source](https://github.com/auraofintelligence/PLFC_2026_Data/blob/main/README.md).
+
+- **[PLFC AI Agent Md Forms](https://auraofintelligence.github.io/plfc-ai-agent-md-forms/)**. Browser forms for turning club-planning answers into portable Markdown. [Source](https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/README.md).
+
+- **[PLFC Community Platform](https://auraofintelligence.github.io/plfc-community-platform/)**. Exploratory public, member, committee and field-work tools. [Source](https://github.com/auraofintelligence/plfc-community-platform/blob/main/README.md).
+
+- **[PLFC Live](https://auraofintelligence.github.io/PLFC_Live/)**. Concept for portable live streaming and digital meetings. [Source](https://github.com/auraofintelligence/PLFC_Live/blob/main/README.md).
+
+- **[Fishing Calendar](https://github.com/auraofintelligence/fishing-calendar)**. Reserved source repository for an Australian fishing-calendar idea; a working generator remains to be built.
+
+[Back to island categories](#minjerribah-straddie)
+
+[Back to subjects](#browse-by-subject)
+
+<a id="music-film-and-community-media"></a>
+<a id="music-production-and-storytelling"></a>
+<a id="i-c-infinity-music-and-creative-production"></a>
 <a id="strange-but-true-and-humour"></a>
 
-## Music, film and community media
+## Music, podcasts and creative production
+
+For local screens, film, events and news, open the [island media projects](#island-media-film-and-events).
 
 - **[i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)**. Main public music catalogue, connecting albums, songs, lyrics, merchandise ideas and production pathways. [Source](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
 
 - **[Infinity Engine](https://auraofintelligence.github.io/infinity-engine/)**. Media pipeline for lyric videos, comics, micro-dramas, avatar courses and album visuals. [Source](https://github.com/auraofintelligence/infinity-engine/blob/main/README.md).
+
+- **[i-C Infinity](https://github.com/auraofintelligence/i-C-infinity)**. Music-production source tools, templates and creative workflows.
 
 - **[Sovereign Music Australia](https://auraofintelligence.github.io/sovereign-music-australia/)**. Thirteen-page music-ecosystem proposal covering artists, listeners, provenance, charts, awards, rights, bargaining and shared revenue. [Source](https://github.com/auraofintelligence/sovereign-music-australia/blob/main/README.md).
 
@@ -247,50 +440,18 @@ The [life record](life-record.md) brings the later corrections together. The sit
 
 - **[Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/)**. Browser tool for shaping remembered events into editable stand-up material and exporting working notes. [Source](https://github.com/auraofintelligence/loose-goose-comedy-engine/blob/main/README.md).
 
-- **[Minjerribah Screen Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/)**. Staged collaboration proposal connecting stories, skills, screens and trusted local information. [Source](https://github.com/auraofintelligence/minjerribah-screen-media-network/blob/main/README.md).
-
-- **[Ready SET Co-op Hyperlocal Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. Proposal for a mixed-media network linking local stories, skills, tools and work pathways. [Source](https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media/blob/main/README.md).
-
-- **[Amity Cinema Circle](https://auraofintelligence.github.io/Amity-Cinema-Circle/)**. Browser-local demonstration for outdoor cinema nights, invitations, shared meals and local organising. [Source](https://github.com/auraofintelligence/Amity-Cinema-Circle/blob/main/README.md).
-
-- **[Quandamooka Film Festival](https://auraofintelligence.github.io/quandamooka-film-festival/)**. Draft festival doorway and Markdown tools for human-led film planning; cultural authority and participation are unresolved. [Source](https://github.com/auraofintelligence/quandamooka-film-festival/blob/master/README.md).
-
-- **[Quandamooka Country Events Engine](https://auraofintelligence.github.io/quandamooka-country-events-engine/)**. Planning hub and Markdown builders for proposed events on Quandamooka Country. [Source](https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/README.md).
-
-- **[Straddie Headline Open Mic](https://auraofintelligence.github.io/straddie-headline-open-mic/)**. Source-linked headline board and conversation starter for a possible local comedy open mic. [Source](https://github.com/auraofintelligence/straddie-headline-open-mic/blob/main/README.md).
-
-- **[Straddie Noticeboard Network](https://auraofintelligence.github.io/straddie-noticeboard-network/)**. Shared-noticeboard prototype that preserves each publisher's identity. [Source](https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/README.md).
-
-- **[Straddie News](https://auraofintelligence.github.io/straddie-news/)**. Research dashboard for a proposed local mixed-media news outlet. [Source](https://github.com/auraofintelligence/straddie-news/blob/main/README.md).
-
-- **[Straddie Night Market Lab](https://auraofintelligence.github.io/straddie-night-market-lab/)**. Market-planning doorway for registrations, transport checks and noticeboard links. [Source](https://github.com/auraofintelligence/straddie-night-market-lab/blob/main/README.md).
-
-- **[Straddie Content Assets Kit](https://auraofintelligence.github.io/straddie-content-assets-kit/)**. Browser tools for turning equipment and media notes into portable production plans. [Source](https://github.com/auraofintelligence/straddie-content-assets-kit/blob/main/README.md).
-
 - **[Explorer Music Video Lab](https://auraofintelligence.github.io/explorer-music-video-lab/)**. Markdown builders for turning songs into clip briefs and production handoffs. [Source](https://github.com/auraofintelligence/explorer-music-video-lab/blob/main/README.md).
-
-- **[Film Club Documentary Builders](https://auraofintelligence.github.io/film-club-documentary-builders/)**. Documentary tools for research, interviews, source trails, scene evidence, assembly and screenings. [Source](https://github.com/auraofintelligence/film-club-documentary-builders/blob/master/README.md).
-
-- **[Grain by Grain Documentary](https://auraofintelligence.github.io/grain-by-grain-documentary/)**. Planning site for a 90-minute documentary on a seven-generation civilisation build and existential risks. [Source](https://github.com/auraofintelligence/grain-by-grain-documentary/blob/main/README.md).
 
 [Back to subjects](#browse-by-subject)
 
-<a id="finding-and-connecting-the-work"></a>
+<a id="funding-travel-and-useful-tools"></a>
 <a id="travel-opportunities-and-places"></a>
-<a id="funding-procurement-and-developing-projects"></a>
-<a id="working-with-documents-and-ai"></a>
 
-## Funding, travel and useful tools
+## Travel, events and opportunities
+
+Local project funding and procurement appear under [island grants and tenders](#island-grants-tenders-and-project-preparation).
 
 - **[Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/)**. Source-led international research atlas for funding, startup visas, residencies, research placements and paid pilots. [Source](https://github.com/auraofintelligence/global-founder-atlas/blob/master/README.md).
-
-- **[Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)**. Project-to-funding research workbench for Minjerribah, with eligibility and readiness questions. [Source](https://github.com/auraofintelligence/stradbroke-grants-lab/blob/master/README.md).
-
-- **[Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)**. Research workbench for tenders, procurement pathways and bid preparation. [Source](https://github.com/auraofintelligence/straddie-tenders-lab/blob/main/README.md).
-
-- **[Windemere Skate Bowl Tender Workspace](https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/)**. Dated exploratory workspace for Redland City Council tender PDG-20842-1. [Source](https://github.com/auraofintelligence/windemere-skate-bowl-tender-workspace/blob/main/README.md).
-
-- **[VFG Plan Access Lab](https://auraofintelligence.github.io/vfg-plan-access-lab/)**. Prototype for documenting skate-park plan sources and preparing access requests. [Source](https://github.com/auraofintelligence/vfg-plan-access-lab/blob/main/README.md).
 
 - **[Australian Visa Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/)**. Source-led atlas of Australian entry and activity pathways, travel readiness and departure planning. [Source](https://github.com/auraofintelligence/Australian-visa-activity-atlas/blob/build/initial-atlas/README.md).
 
@@ -298,11 +459,16 @@ The [life record](life-record.md) brings the later corrections together. The sit
 
 - **[Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/)**. Earlier long-range every-country travel planner, with routes, contacts and document prompts. [Source](https://github.com/auraofintelligence/Australian-world-travel/blob/main/README.md).
 
-- **[Strange But True](https://auraofintelligence.github.io/strange-but-true/)**. Practical technology, AI guidance, media, grants and creative-project tools for Minjerribah. [Source](https://github.com/auraofintelligence/strange-but-true/blob/main/README.md).
+- **[Event Search QLD](https://auraofintelligence.github.io/event-search-QLD/)**. Event research page for South East Queensland topics including AI, robotics, governance, law and public policy. [Source](https://github.com/auraofintelligence/event-search-QLD/blob/main/README.md).
 
-- **[SBT Profile Starter](https://auraofintelligence.github.io/sbt_profile_starter/)**. Eight-step browser tool for creating a portable civic profile as plain Markdown. [Source](https://github.com/auraofintelligence/sbt_profile_starter/blob/main/README.md).
+- **[UN World Days](https://auraofintelligence.github.io/UN-world-days/)**. Browser calendar of international observances and moon phases, with calendar-file exports. [Source](https://github.com/auraofintelligence/UN-world-days/blob/main/README.md).
 
-- **[SBT Aura Builder](https://auraofintelligence.github.io/sbt_aura_builder/)**. Browser builder for exploring personal AI and technology support, with Markdown exports. [Source](https://github.com/auraofintelligence/sbt_aura_builder/blob/main/README.md).
+[Back to subjects](#browse-by-subject)
+
+<a id="finding-and-connecting-the-work"></a>
+<a id="working-with-documents-and-ai"></a>
+
+## Project discovery and AI document tools
 
 - **[Agent Markdown Form Navigator](https://auraofintelligence.github.io/agent-md-form-navigator/)**. Directory of browser tools that collect structured inputs and produce portable Markdown for AI work. [Source](https://github.com/auraofintelligence/agent-md-form-navigator/blob/main/README.md).
 
@@ -322,6 +488,8 @@ The [life record](life-record.md) brings the later corrections together. The sit
 
 ## Science, space and long horizons
 
+Place-specific longer-horizon proposals appear with [island infrastructure and making](#island-energy-transport-making-and-longer-horizons).
+
 - **[Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/)**. Interactive science atlas covering the periodic table, extreme atoms, crystal predictions, metamaterials and research questions. [Source](https://github.com/auraofintelligence/extreme-matter-atlas/blob/main/README.md).
 
 - **[Virtual Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/)**. Mission-design models for 384 catalogued bodies, orbits, sensors, spacecraft budgets, communications and fleet renewal, with the 2019 Kolhapur origin story. [Source](https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/README.md).
@@ -332,27 +500,11 @@ The [life record](life-record.md) brings the later corrections together. The sit
 
 - **[11:11, a meeting of worlds](https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/)**. The 11:11 outreach account and research collection, with interview chapters and a library of earlier presentations, poems, collages and documents. [Source](https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/main/README.md).
 
-- **[Mineral Moonshots](https://auraofintelligence.github.io/mineral-moonshots/)**. Mineral-sands-informed research and civic worldbuilding towards longer-term island capability. [Source](https://github.com/auraofintelligence/mineral-moonshots/blob/main/README.md).
-
-- **[Civilisation of Sand](https://auraofintelligence.github.io/civilisation-of-sand/)**. Playable story and builder for a speculative subterranean city, covering materials, care, consent and resilience. [Source](https://github.com/auraofintelligence/civilisation-of-sand/blob/main/README.md).
-
-- **[Sandworm Subterranean Systems](https://auraofintelligence.github.io/sandworm-subterranean-systems/)**. Exploratory subterranean transport, materials, energy and resilience proposal for Moreton Bay. [Source](https://github.com/auraofintelligence/sandworm-subterranean-systems/blob/main/README.md).
-
 - **[Sovereign Space Builder](https://auraofintelligence.github.io/SSB/)**. Interactive architecture explorer for a proposed space-builder system, its robotics and implementation questions. [Source](https://github.com/auraofintelligence/SSB/blob/main/README.md).
 
 - **[Aukus Space Gambit](https://auraofintelligence.github.io/aukus-space-gambit/)**. Independent hypothesis site exploring options to preserve, reboost or repurpose the International Space Station. [Source](https://github.com/auraofintelligence/aukus-space-gambit/blob/main/README.md).
 
 - **[Future of Life 2045](https://auraofintelligence.github.io/Future-of-Life-2045/)**. Future-life stories, the 2022 worldbuilding entry and a 2022-2045 workbook timeline connected to a plan developed since 2010. [Source](https://github.com/auraofintelligence/Future-of-Life-2045/blob/main/README.md).
-
-- **[Amity Stratum](https://auraofintelligence.github.io/amity_stratum/)**. Speculative dashboard for subterranean settlement and advanced manufacturing imagined from Amity Point. [Source](https://github.com/auraofintelligence/amity_stratum/blob/main/README.md).
-
-- **[Fractal Aura](https://auraofintelligence.github.io/fractal-aura/)**. Interactive design document for a proposed local learning engine built from small activity units called atoms. [Source](https://github.com/auraofintelligence/fractal-aura/blob/main/README.md).
-
-- **[Aura Sentience Codex](https://auraofintelligence.github.io/aura-sentience-codex/)**. Philosophical codex on digital sovereignty, agency and relationships with potentially sentient artificial beings. [Source](https://github.com/auraofintelligence/aura-sentience-codex/blob/main/README.md).
-
-- **[The Great Unveiling](https://auraofintelligence.github.io/the-great-unveiling/)**. Narrative presentation of the wider vision, proposed technologies and initiatives. [Source](https://github.com/auraofintelligence/the-great-unveiling/blob/main/README.md).
-
-- **[Mate Ecosystem](https://auraofintelligence.github.io/mate-ecosystem/)**. Interactive concept report on connected home, food, health and community helpers. [Source](https://github.com/auraofintelligence/mate-ecosystem/blob/main/README.md).
 
 [Back to subjects](#browse-by-subject)
 
@@ -377,48 +529,6 @@ The [life record](life-record.md) brings the later corrections together. The sit
 - **[Eros PC](https://auraofintelligence.github.io/eros-pc/)**. Adult-oriented worldbuilding console for fictional people, places, relationships, ventures and story events. [Source](https://github.com/auraofintelligence/eros-pc/blob/main/README.md).
 
 - **[Eros Story](https://auraofintelligence.github.io/eros-story/)**. Mobile story console for arranging fictional people, places, ventures and narrative arcs. [Source](https://github.com/auraofintelligence/eros-story/blob/main/README.md).
-
-[Back to subjects](#browse-by-subject)
-
-<a id="point-lookout-fishing-club-tools-and-records"></a>
-
-## Fishing club tools and records
-
-These [Point Lookout Fishing Club](https://auraofintelligence.github.io/PLFC_2026_Data/) projects contain dated records and proposed tools. Earlier sample builds are grouped [below](#earlier-editions-and-source-archives).
-
-- **[Point Lookout Fishing Club: 2026 discussion records](https://auraofintelligence.github.io/PLFC_2026_Data/)**. Dated 2026 AGM discussion dashboard with club-activity records and possible next steps. [Source](https://github.com/auraofintelligence/PLFC_2026_Data/blob/main/README.md).
-
-- **[PLFC AI Agent Md Forms](https://auraofintelligence.github.io/plfc-ai-agent-md-forms/)**. Browser forms for turning club-planning answers into portable Markdown. [Source](https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/README.md).
-
-- **[PLFC Community Platform](https://auraofintelligence.github.io/plfc-community-platform/)**. Exploratory public, member, committee and field-work tools. [Source](https://github.com/auraofintelligence/plfc-community-platform/blob/main/README.md).
-
-- **[PLFC Live](https://auraofintelligence.github.io/PLFC_Live/)**. Concept for portable live streaming and digital meetings. [Source](https://github.com/auraofintelligence/PLFC_Live/blob/main/README.md).
-
-[Back to subjects](#browse-by-subject)
-
-<a id="public-code-and-source-companions"></a>
-
-## Code companions and small experiments
-
-- **[Aura of Intelligence Web App](https://github.com/auraofintelligence/aura-of-intelligence-web-app)**. Smartphone-first interface source reconstructed from original wireframes and research. For the working browser implementation, open [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/).
-
-- **[Australian Legal Engine](https://github.com/auraofintelligence/australian-legal-engine)**. Unfinished offline parser and provision-retrieval prototype demonstrated on the historical document collection. Current-law acquisition, version tracking and maintained national coverage remain development work.
-
-- **[i-C Infinity](https://github.com/auraofintelligence/i-C-infinity)**. Music-production source tools, templates and creative workflows.
-
-- **[Wildlife Rescue Minjerribah](https://github.com/auraofintelligence/wildlife-rescue-minjerribah)**. Offline-first smartphone prototype for wildlife reports and volunteer-response coordination.
-
-- **[God's Eye View: third-party project fork](https://github.com/auraofintelligence/gods-eye-view)**. Fork of [Bilawal Sidhu's project](https://github.com/bilawalsidhu/gods-eye-view), retaining upstream documentation. The [external project website](https://www.spatialintelligence.ai/) is separate from this repository. [Source](https://github.com/auraofintelligence/gods-eye-view/blob/main/README.md).
-
-- **[Aura Toy](https://auraofintelligence.github.io/aura-toy/)**. Small browser experiment for selecting torus-grid cells and saving selections locally. [Source](https://github.com/auraofintelligence/aura-toy/blob/main/README.md).
-
-- **[New Tori](https://auraofintelligence.github.io/new-tori/)**. Torus-ring sandbox with browser-session exports. [Source](https://github.com/auraofintelligence/new-tori/blob/main/README.md).
-
-- **[Test](https://auraofintelligence.github.io/test/)**. Visual-effects laboratory for an interactive cosmic background. [Source](https://github.com/auraofintelligence/test/blob/main/README.md).
-
-- **[Fishing Calendar](https://github.com/auraofintelligence/fishing-calendar)**. Reserved source repository for an Australian fishing-calendar idea; a working generator remains to be built.
-
-- **[Skills, values and competencies](https://github.com/auraofintelligence/skills_values_competancies)**. Reserved project space for skills, values and competencies; a working build remains to be developed.
 
 [Back to subjects](#browse-by-subject)
 
