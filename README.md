@@ -102,7 +102,7 @@ Travel belongs to the personal history as well as the proposed future. The publi
 | **New Zealand** | Two weeks in Rotorua in 2006, including a Tamaki Māori ceremony. |
 | **Singapore** | Two journey entries around 2009 and 2010; the map leaves the length of each stay unspecified. |
 | **Malaysia** | Sabah and Sipadan, recorded around 2009. |
-| **Thailand** | Three trips: the first over New Year 2009/10 with a girlfriend, followed by two alone. Memories include Golden Mount and Bangkok's Songkran celebrations. |
+| **Thailand** | Visits over New Year 2009/10 and in 2019. The first trip was with a girlfriend; later travel included solo trips. Memories include Golden Mount and Bangkok's Songkran celebrations. |
 | **India** | Repeated longer stays and returns, including residence entries for Harike and Delhi, friendships, travel, a business-visa return and [SDNx](https://spacedevelopmentnexus.com/) involvement. |
 | **Nepal** | Repeat visits, including Boudhanath and Lumbini, with a later Lumbini visa-run entry. |
 | **United Arab Emirates** | An Abu Dhabi visit recorded around 2018. |
