@@ -512,7 +512,7 @@ The [funding section](#funding-grants-and-project-development) contains the full
 
 ### Health, care and resilience
 
-- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation for 82 Claytons Road, Amity, connecting ageing, dementia support, research, learning and community participation. [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
+- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation for [82 Claytons Road, Amity](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/), connecting ageing, dementia support, research, learning and community participation. Its development plan also includes the newer [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html) and [Geode hardware pathways](https://auraofintelligence.github.io/aura-genesis-geode-atlas/pathways.html). [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
 
 - **[Minjerribah Resilience](https://auraofintelligence.github.io/Minjerribah-Resilience/)**. Interactive proposal covering local power, water, food, communications and community resilience. [Source](https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/README.md).
 
