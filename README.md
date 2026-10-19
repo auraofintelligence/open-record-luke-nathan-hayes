@@ -304,7 +304,9 @@ The [Hyperlocal Media proposal](https://auraofintelligence.github.io/ready-set-c
 
 **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)** is the women's leadership and enterprise-development proposal. The [23 September 2026 planning document](documents/originals/queens-venture-capital-planning-document.pdf) connects practical executive responsibility, mentoring, capital, business succession and ambitious research.
 
-The name began with a Brisbane setting and an arbitrary starting number. In the current plan, **500 women in Australia**, **10,000 internationally** and **50,000 globally** are starting ambitions, with further growth left open.
+The [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) thought experiment began in **2021**, while Luke was living in **Festival Towers, Brisbane**, and receiving **workers' compensation for tennis elbow in both arms**. The injury came from his **three-month trial at Americold**, picking and packing food for Woolworths in a freezer warehouse. The [life record](docs/life-record.md#500-queens-origins-2021) connects this period with the proposal's beginnings.
+
+The number 500 was an arbitrary starting point. In the current plan, **500 women in Australia**, **10,000 internationally** and **50,000 globally** are starting ambitions, with further growth left open.
 
 The plan retains five large ambitions: world-leading ecosystems, major moonshots, trustworthy AI, cinematic storytelling and resilient cities. An original catalogue supplies **120 enterprise suggestions**, ranging from care and food systems through energy, reclamation, materials, robotics, computing and space. Everyday businesses and long-horizon research share a development pathway.
 
