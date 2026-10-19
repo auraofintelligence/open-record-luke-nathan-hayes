@@ -52,6 +52,10 @@ Luke taught himself web design in **2008**, studied small-business management th
 
 Later paid work included frozen-food distribution at **Americold**, telephone political and market-research interviews at **Q & A Market Research Services**, and construction labouring and forklift driving through **Yorke Consulting**. The directly corrected dates are January–March 2020, February–May 2022 and September–December 2022 respectively. [The corrected records](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1381) supply the roles and dates.
 
+<a id="500-queens-origins-2021"></a>
+
+The [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) thought experiment began in **2021**, while Luke was living in **Festival Towers, Brisbane**, and receiving **workers' compensation for tennis elbow in both arms**. The injury came from his **three-month trial at Americold**, picking and packing food for Woolworths in a freezer warehouse. This origin account was supplied by Luke on **19 October 2026**. The [main account](../README.md#queens-and-enterprise-leadership) follows the later development of the proposal.
+
 Luke dates his sustained generative-AI research from **9 December 2022**. In his September 2026 account he reports more than two million words of conversation and code exchange with OpenAI models, across documents, presentations, websites, writing, research, images, video, music and software. [`prompt-research`](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1454) records this as self-directed work.
 
 ## Countries travelled, stays and returns
@@ -91,7 +95,7 @@ Luke says he makes friends easily but has sometimes left relationships untended 
 
 His financial aim is direct. He describes being tired of poverty, having worked for hourly wages and having lacked a business mentor. He connects lack of money with difficulty cultivating the relationships and experiences he wants. In a later answer he says he plans never again to need to ask for money or exchange his time for wages. These intentions help explain [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/), shared ownership, [intermittent retirement](https://auraofintelligence.github.io/mutual-futures/workforce.html) and a system intended to support his own chosen life as well as other people's. Sources: [You blocks 12–14](https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/f040f5c259cd77f6377db2b7aaca840e36cae7c5/assets/archive/intake-20260906/f45.md#L259).
 
-The public map also retains breakups, family changes, illness and injuries. Entries include an elbow injury associated with Americold, a knee injury and a separate undated list of illnesses, operations and accidents. Their presence does not tell the whole story of any job ending or move; the map leaves many of those connections unwritten. Sources: [`memory-249`](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L3412); [`memory-260`](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L3547); [illness and injury fragments](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L4511).
+The public map also retains breakups, family changes, illness and injuries. Entries include [the Americold elbow injury](#500-queens-origins-2021), a knee injury and a separate undated list of illnesses, operations and accidents. Sources: [`memory-249`](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L3412); [`memory-260`](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L3547); [illness and injury fragments](https://github.com/auraofintelligence/lifetime-memory-map/blob/472251c87230b31b7f83fec73202a5a38caa0a46/data/memories.json#L4511).
 
 ## IVF donations and anonymous live-birth confirmations
 
@@ -165,7 +169,7 @@ The strongest source route is often a combination: a short memory-map entry iden
 | --- | --- | --- |
 | NEIS and web design | Around 2009 | Luke's corrected work record gives **2008**. |
 | Australia Post | Around 2009 | Corrected contract dates: **1 October 2008–31 January 2009**. |
-| Americold | Elbow-injury memory placed around 2021 | Corrected employment dates: **January–March 2020**. The injury entry has not independently established its date. |
+| Americold | Elbow-injury memory placed around 2021 | Corrected employment dates: **January-March 2020**. In **2021**, Luke was living in Festival Towers and receiving workers' compensation for tennis elbow in both arms when the [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) thought experiment began. [Origin account supplied on 19 October 2026](#500-queens-origins-2021). |
 | Cybersecurity study and telephone interviewing | Around 2021 in the map | Corrected work and education entries give **2022**. |
 | First [SDNx](https://spacedevelopmentnexus.com/) meeting and volunteering | First meeting around 2017 | Recurring volunteer strategy work **from 2019**, including the **2023-2024 India visit**. [Luke confirmed the later visit on 19 October 2026](#sdnx-india-visit-2023-2024). |
 | House moves and residence entries | Repeat residences with dates unfilled | Luke separately recalls **more than forty moves**; the published residence list is incomplete. |
