@@ -1,0 +1,543 @@
+{
+  "collection": "i C. Infinity album lyric archive",
+  "collected_on": "2026-10-19",
+  "source": {
+    "repository": "auraofintelligence/i-C-infinity-music-universe",
+    "commit": "14baf99ddbc1fad52eaebaabc4e78f896b979293",
+    "path": "data/catalogue.json",
+    "url": "https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/14baf99ddbc1fad52eaebaabc4e78f896b979293/data/catalogue.json",
+    "git_blob_sha": "d7c2adfe74bebcd288f04761c557d40fad78bbf3",
+    "preserved_path": "sources/music-universe-catalogue-2026-10-19.json",
+    "sha256": "9db0ee5f7a2d51320fe65d182b3f82c0995b57fee4ac9d20a880f5a1428b3aec",
+    "size_bytes": 566768
+  },
+  "albums": [
+    {
+      "album_number": 1,
+      "title": "Songs of Straddie",
+      "catalogue_year": "2024",
+      "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/songs-of-straddie/",
+      "track_positions": 22,
+      "pdf": {
+        "path": "Songs-of-Straddie-Album-1-Lyrics.pdf",
+        "pages": 25,
+        "sha256": "6eb5b996a780312bf40a4778e4347c014662840af99cccdbc9b6c488714a29e8",
+        "size_bytes": 155361
+      },
+      "readable_text": {
+        "path": "album-1-songs-of-straddie-lyrics.md",
+        "sha256": "07b940f330dce5da74cba9a950d5a8b94dfb60a8c5b0c469b97b216619834bac"
+      },
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Meet Me on Straddie",
+          "slug": "songs-of-straddie-01-meet-me-on-straddie",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-01-meet-me-on-straddie/",
+          "lyric_source_note": "Imported from lyric archive: Meet Me on Straddie.md. Song date: 2024-10-10-1815.",
+          "lyric_utf8_sha256": "13bcef8301f29544624bf1e8538244f1a8d4f0e445a302841a9f03800b7242ef",
+          "pdf_start_page": 3,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 2,
+          "title": "Our Island Home!",
+          "slug": "songs-of-straddie-02-our-island-home",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-02-our-island-home/",
+          "lyric_source_note": "Imported from lyric archive: Our Island Home.md. Song date: 2024-10-10-1240.",
+          "lyric_utf8_sha256": "3ea56a9d9e49b071c49d23db38fe0b74cca38a78ad52ece8e824c0dc0449b25e",
+          "pdf_start_page": 4,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 3,
+          "title": "Welcome to the Island",
+          "slug": "songs-of-straddie-03-welcome-to-the-island",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-03-welcome-to-the-island/",
+          "lyric_source_note": "Imported from lyric archive: Welcome to the Island.md. Song date: 2024-10-10-1217.",
+          "lyric_utf8_sha256": "298c8f56c624b74033afdbf246a624b002482f172d82885379e20eb75e8f550d",
+          "pdf_start_page": 5,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 4,
+          "title": "Beachside Rhythm",
+          "slug": "songs-of-straddie-04-beachside-rhythm",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-04-beachside-rhythm/",
+          "lyric_source_note": "Imported from lyric archive: Beachside Rhythm.md. Song date: 2024-10-10-1333.",
+          "lyric_utf8_sha256": "f59892c2003dc1fba3af058ff8fbf6b58b043e52c0009714e89918ec9b4b6fea",
+          "pdf_start_page": 6,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 5,
+          "title": "Waves of Reflection (By He)",
+          "slug": "songs-of-straddie-05-waves-of-reflection-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-05-waves-of-reflection-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Waves of Reflection (By He).md. Song date: 2024-10-10-1327.",
+          "lyric_utf8_sha256": "d9ff3e5d6655823f607d7cecaac0ac5df9719695712ce3be95f6290aab3b60b9",
+          "pdf_start_page": 7,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 6,
+          "title": "Waves of Reflection (By She)",
+          "slug": "songs-of-straddie-06-waves-of-reflection-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-06-waves-of-reflection-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Waves of Reflection (By She).md. Song date: 2024-10-10-1325.",
+          "lyric_utf8_sha256": "c0632fecec6138ca5f068ac181944d32520f0ea0cae07e9d58a3cd84492a112f",
+          "pdf_start_page": 8,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 7,
+          "title": "Straddie Summer Love (By He)",
+          "slug": "songs-of-straddie-07-straddie-summer-love-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-07-straddie-summer-love-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Straddie Summer Love (By He).md. Song date: 2024-10-10-1707.",
+          "lyric_utf8_sha256": "380730199f0b37e70d7b4e33415095cbdede3916848c000c49da38e55ef1f6d1",
+          "pdf_start_page": 9,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 8,
+          "title": "Straddie Summer Love (By She)",
+          "slug": "songs-of-straddie-08-straddie-summer-love-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-08-straddie-summer-love-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Summer Lovin on Straddie (by She).md. Song date: 2024-10-10-1035.",
+          "lyric_utf8_sha256": "ec97dc62ce06152462521c6ef969c6f1db9c855ab8be8ac96c1b80a618236c48",
+          "pdf_start_page": 10,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 9,
+          "title": "Island Hearts",
+          "slug": "songs-of-straddie-09-island-hearts",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-09-island-hearts/",
+          "lyric_source_note": "Imported from lyric archive: Island Hearts.md. Song date: 2024-10-10-1548.",
+          "lyric_utf8_sha256": "c1f45f75fb2233c53ff7429ffccd970cf67bbc15375716e2ab5139273ca82f9d",
+          "pdf_start_page": 11,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 10,
+          "title": "Ocean's Kiss",
+          "slug": "songs-of-straddie-10-ocean-s-kiss",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-10-ocean-s-kiss/",
+          "lyric_source_note": "Imported from lyric archive: Ocean's Kiss.md. Song date: 2024-10-10-1754.",
+          "lyric_utf8_sha256": "5d79d64bbca1bf94b1a9d8b7c6527443127e283b17402a2bccdd77d6347f9b45",
+          "pdf_start_page": 12,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 11,
+          "title": "Sandy Shores, Open Hearts",
+          "slug": "songs-of-straddie-11-sandy-shores-open-hearts",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-11-sandy-shores-open-hearts/",
+          "lyric_source_note": "Imported from lyric archive: Sandy Shores Open Hearts.md. Song date: 2024-10-10-1207.",
+          "lyric_utf8_sha256": "b2b1932994a5f36c916122b2f98b854ea0bc9d529c75ec17291166691d5c1330",
+          "pdf_start_page": 13,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 12,
+          "title": "Heatwave",
+          "slug": "songs-of-straddie-12-heatwave",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-12-heatwave/",
+          "lyric_source_note": "Imported from lyric archive: Heatwave.md. Song date: 2024-10-11-1017.",
+          "lyric_utf8_sha256": "293cb3aaf36213795297e3e72985aefe1374502265b85d4f03744980dde55410",
+          "pdf_start_page": 14,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 13,
+          "title": "Union of Souls (By She)",
+          "slug": "songs-of-straddie-13-union-of-souls-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-13-union-of-souls-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Union of Souls (By She).md. Song date: 2024-10-11-1054.",
+          "lyric_utf8_sha256": "e0bf8ed26ce3cad596efa5dfc00e43c8a5ae082b876a644e98e1f9e51fb0fe8f",
+          "pdf_start_page": 15,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 14,
+          "title": "Union of Souls (By He)",
+          "slug": "songs-of-straddie-14-union-of-souls-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-14-union-of-souls-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Union of Souls (By He).md. Song date: 2024-10-11-1054.",
+          "lyric_utf8_sha256": "0b115dae38acd420aa8a04f4e43ea62f638e6bf346b5bd115d13966f6c7897d7",
+          "pdf_start_page": 16,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 15,
+          "title": "Born of the Goddess",
+          "slug": "songs-of-straddie-15-born-of-the-goddess",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-15-born-of-the-goddess/",
+          "lyric_source_note": "Imported from lyric archive: Born of the Goddess.md. Song date: 2024-10-11-1044.",
+          "lyric_utf8_sha256": "8dd5bf8e5f3c506f1af95e7b21880b4c1824aeba22563f757912b6ebd91b26bf",
+          "pdf_start_page": 17,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 16,
+          "title": "Goddess Awakens",
+          "slug": "songs-of-straddie-16-goddess-awakens",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-16-goddess-awakens/",
+          "lyric_source_note": "Imported from lyric archive: Goddess Awakens.md. Song date: 2024-10-11-1041.",
+          "lyric_utf8_sha256": "5b08aaba7b7062ec8ce26f2693e30523d2d44c43539d500d59497fd09ca19af2",
+          "pdf_start_page": 18,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 17,
+          "title": "Minjerribah My Heart",
+          "slug": "songs-of-straddie-17-minjerribah-my-heart",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-17-minjerribah-my-heart/",
+          "lyric_source_note": "Imported from lyric archive: Minjerribah My Heart.md. Song date: 2024-10-10-1330.",
+          "lyric_utf8_sha256": "727e0e555e3e88653cc4efda6c9bd6fdfd5e98438e75a96cd73b1390df0605b4",
+          "pdf_start_page": 19,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 18,
+          "title": "Global Tide",
+          "slug": "songs-of-straddie-18-global-tide",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-18-global-tide/",
+          "lyric_source_note": "Imported from lyric archive: Global Tide.md. Song date: 2024-10-10-1325.",
+          "lyric_utf8_sha256": "6712e909e8917a7406f08b9d38bc2e311347802e350adaf43f3c1ebcb0b62996",
+          "pdf_start_page": 20,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 19,
+          "title": "Tides of Time",
+          "slug": "songs-of-straddie-19-tides-of-time",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-19-tides-of-time/",
+          "lyric_source_note": "Imported from lyric archive: Tides of Time.md. Song date: 2024-10-10-1458.",
+          "lyric_utf8_sha256": "771a5448dd4c2056bbbcb50d541852fc456a2aadae82e338a4116dc7124d6ab5",
+          "pdf_start_page": 21,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 20,
+          "title": "Heart of the Island",
+          "slug": "songs-of-straddie-20-heart-of-the-island",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-20-heart-of-the-island/",
+          "lyric_source_note": "Imported from lyric archive: Heart of the Island.md. Song date: 2024-10-10-1536.",
+          "lyric_utf8_sha256": "57bec0994227b4f5f3d880521ff89af14fc39fc9c7b6306d5f4d5868277391ef",
+          "pdf_start_page": 22,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 21,
+          "title": "Gather by the Fire",
+          "slug": "songs-of-straddie-21-gather-by-the-fire",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-21-gather-by-the-fire/",
+          "lyric_source_note": "Imported from lyric archive: Gather by the Fire.md. Song date: 2024-10-10-1506.",
+          "lyric_utf8_sha256": "b95543adb2016ff1150ef8379d6fdf194a3483192ba84dde18507b7ba791f480",
+          "pdf_start_page": 23,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 22,
+          "title": "Symphony of Tomorrow",
+          "slug": "songs-of-straddie-22-symphony-of-tomorrow",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/songs-of-straddie-22-symphony-of-tomorrow/",
+          "lyric_source_note": "Imported from lyric archive: Symphony of Tomorrow (Final).md. Song date: 2024-05-01-1629.",
+          "lyric_utf8_sha256": "972ccde6d1e80da8c1c460ee83b084f7f1f543896bb7542f52e9694802925741",
+          "pdf_start_page": 24,
+          "pdf_page_count": 1
+        }
+      ]
+    },
+    {
+      "album_number": 2,
+      "title": "Chronicles of the Forgotten",
+      "catalogue_year": "2025",
+      "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/chronicles-of-the-forgotten/",
+      "track_positions": 26,
+      "pdf": {
+        "path": "Chronicles-of-the-Forgotten-Album-2-Lyrics.pdf",
+        "pages": 29,
+        "sha256": "ac31e08e09b016a071c2b13a7a4dc35d82ef414b43de19ac235dace530601b3f",
+        "size_bytes": 168847
+      },
+      "readable_text": {
+        "path": "album-2-chronicles-of-the-forgotten-lyrics.md",
+        "sha256": "d04ded282909445dfa81e3f8a88aeb4a00043a8fa8be6ebe960384e37721fc4a"
+      },
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Chronicles of the Forgotten",
+          "slug": "chronicles-of-the-forgotten-01-chronicles-of-the-forgotten",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-01-chronicles-of-the-forgotten/",
+          "lyric_source_note": "Imported from lyric archive: Chronicles of the Forgotten.md. Song date: 2024-11-9-1146.",
+          "lyric_utf8_sha256": "2765a064754d7ccc7e85930eff6f32884fcd6f538d3d3426868328e7971aa88f",
+          "pdf_start_page": 3,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 2,
+          "title": "Echos of the Ancients",
+          "slug": "chronicles-of-the-forgotten-02-echos-of-the-ancients",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-02-echos-of-the-ancients/",
+          "lyric_source_note": "Imported from lyric archive: Echo's of the Ancients.md. Song date: 2024-10-14-2027.",
+          "lyric_utf8_sha256": "f4f2921050498ffb31aa7ac7d9b4d94ae66777cf09b1bb056c56c2c3975c73b0",
+          "pdf_start_page": 4,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 3,
+          "title": "Shadows Over the Earth",
+          "slug": "chronicles-of-the-forgotten-03-shadows-over-the-earth",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-03-shadows-over-the-earth/",
+          "lyric_source_note": "Imported from lyric archive: Shadows Over the Earth.md. Song date: 2024-10-14-1542.",
+          "lyric_utf8_sha256": "78a0ccc63c21ee8c3e960fad6cb9f24aed8fa586a3bae82c29ad90b47a60d8f3",
+          "pdf_start_page": 5,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 4,
+          "title": "Dreams of Abundance (by she)",
+          "slug": "chronicles-of-the-forgotten-04-dreams-of-abundance-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-04-dreams-of-abundance-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Dreams of Abundance (By She).md. Song date: 2024-10-14-1542.",
+          "lyric_utf8_sha256": "6ae898850ec34766614d8163ddf1dc4bce1209d85f4af063f19c8abfae7fad52",
+          "pdf_start_page": 6,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 5,
+          "title": "Dreams of Abundance (by he)",
+          "slug": "chronicles-of-the-forgotten-05-dreams-of-abundance-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-05-dreams-of-abundance-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Dreams of Abundance (By He).md. Song date: 2024-10-14-1542.",
+          "lyric_utf8_sha256": "6ae898850ec34766614d8163ddf1dc4bce1209d85f4af063f19c8abfae7fad52",
+          "pdf_start_page": 7,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 6,
+          "title": "Signal From the Stars",
+          "slug": "chronicles-of-the-forgotten-06-signal-from-the-stars",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-06-signal-from-the-stars/",
+          "lyric_source_note": "Imported from lyric archive: Signal From the Stars.md. Song date: 2024-10-14-1543.",
+          "lyric_utf8_sha256": "9adf075267a17e7dd10bc0d7e7966f1c5eb1ab5b1e081627a5b1de805f3849fe",
+          "pdf_start_page": 8,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 7,
+          "title": "Algorithm: Hope",
+          "slug": "chronicles-of-the-forgotten-07-algorithm-hope",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-07-algorithm-hope/",
+          "lyric_source_note": "Imported from lyric archive: Algorithm Hope.md. Song date: 2024-10-14-2111.",
+          "lyric_utf8_sha256": "e84d78a6c458f1072d6ca5991ffe2a37bbfb6a5b890d678c39626dab5176f7b7",
+          "pdf_start_page": 9,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 8,
+          "title": "Hearts and Circuits (by she)",
+          "slug": "chronicles-of-the-forgotten-08-hearts-and-circuits-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-08-hearts-and-circuits-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Hearts and Circuits (By She).md. Song date: 2024-10-14-1545.",
+          "lyric_utf8_sha256": "f29cff01e3bee6226659e3c6fdf09193b383800f98d91e8ea85c9c66f9a9b6fa",
+          "pdf_start_page": 10,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 9,
+          "title": "Hearts and Circuits (by he)",
+          "slug": "chronicles-of-the-forgotten-09-hearts-and-circuits-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-09-hearts-and-circuits-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Hearts and Circuits (By He).md. Song date: 2024-10-14-1545.",
+          "lyric_utf8_sha256": "019b8f5df25a049bed627480975ac09f27c320cd1d966e0c2354e2b8762f5650",
+          "pdf_start_page": 11,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 10,
+          "title": "Walls of Deception (by she)",
+          "slug": "chronicles-of-the-forgotten-10-walls-of-deception-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-10-walls-of-deception-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Walls of Deception (By She).md. Song date: 2024-10-14-1545.",
+          "lyric_utf8_sha256": "a49f4bbeea46b6496803397b2547fd32a6af42fa73cf338ab6434d4016cae2a4",
+          "pdf_start_page": 12,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 11,
+          "title": "Walls of Deception (by he)",
+          "slug": "chronicles-of-the-forgotten-11-walls-of-deception-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-11-walls-of-deception-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Walls of Deception (By He).md. Song date: 2024-10-14-1545.",
+          "lyric_utf8_sha256": "37770bd9df4aeb7b80531493ac282e22070de24a5b2b1bc515b6c16c3906e96c",
+          "pdf_start_page": 13,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 12,
+          "title": "Breaking Chains",
+          "slug": "chronicles-of-the-forgotten-12-breaking-chains",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-12-breaking-chains/",
+          "lyric_source_note": "Imported from lyric archive: Breaking Chains.md. Song date: 2024-10-14-1546.",
+          "lyric_utf8_sha256": "d29c63770a4baf1437302b501e3a7c777631861d4b076dba7ad9d8f585372edd",
+          "pdf_start_page": 14,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 13,
+          "title": "Voices Unheard",
+          "slug": "chronicles-of-the-forgotten-13-voices-unheard",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-13-voices-unheard/",
+          "lyric_source_note": "Imported from lyric archive: Voices Unheard.md. Song date: 2024-10-14-2150.",
+          "lyric_utf8_sha256": "3b3cf93a9e17a8dd25d5112269c1182f8886aad8a0d8374fb720e82b9f76147d",
+          "pdf_start_page": 15,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 14,
+          "title": "Cycle of Suns (by he)",
+          "slug": "chronicles-of-the-forgotten-14-cycle-of-suns-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-14-cycle-of-suns-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Cycle of Suns (By He).md. Song date: 2024-10-14-1547.",
+          "lyric_utf8_sha256": "28e60782b8bf487506f99a575463971f289bc7e7b6eca57dd0fab86cfe4b7560",
+          "pdf_start_page": 16,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 15,
+          "title": "Cycle of Suns (by she)",
+          "slug": "chronicles-of-the-forgotten-15-cycle-of-suns-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-15-cycle-of-suns-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Cycle of Suns (By She).md. Song date: 2024-10-14-2205.",
+          "lyric_utf8_sha256": "f4778f08d15b0bce7dc8c188bc8644e52528ca4af4f75fca929af708277e5e90",
+          "pdf_start_page": 17,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 16,
+          "title": "Chronicles of the Forgotten",
+          "slug": "chronicles-of-the-forgotten-16-chronicles-of-the-forgotten",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-16-chronicles-of-the-forgotten/",
+          "lyric_source_note": "Imported from lyric archive: Chronicles of the Forgotten.md. Song date: 2024-11-9-1146.",
+          "lyric_utf8_sha256": "2765a064754d7ccc7e85930eff6f32884fcd6f538d3d3426868328e7971aa88f",
+          "pdf_start_page": 18,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 17,
+          "title": "Celestial Navigators",
+          "slug": "chronicles-of-the-forgotten-17-celestial-navigators",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-17-celestial-navigators/",
+          "lyric_source_note": "Imported from lyric archive: Celestial Navigators.md. Song date: 2024-10-14-1548.",
+          "lyric_utf8_sha256": "5a9f4c2f8050db70a29e553a1dd6d2e85d31b366cefb0587e9d1cd1d0ab8ccd5",
+          "pdf_start_page": 19,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 18,
+          "title": "Symphony of Souls",
+          "slug": "chronicles-of-the-forgotten-18-symphony-of-souls",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-18-symphony-of-souls/",
+          "lyric_source_note": "Imported from lyric archive: Symphony of Souls.md. Song date: 2024-10-28-2143.",
+          "lyric_utf8_sha256": "7644fbb6f0d2e93849e06ab9cf9838d86dd8de8a0932e02ccaddf925b84ec427",
+          "pdf_start_page": 20,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 19,
+          "title": "Digital Dawn",
+          "slug": "chronicles-of-the-forgotten-19-digital-dawn",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-19-digital-dawn/",
+          "lyric_source_note": "Imported from lyric archive: Digital Dawn.md. Song date: 2024-11-09-1258.",
+          "lyric_utf8_sha256": "40e8d602cf6abce96e62d0e354f2ceb2e66298a2e11e30d2ac7dd2318eebef4d",
+          "pdf_start_page": 21,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 20,
+          "title": "Whispers of Gaia (by she)",
+          "slug": "chronicles-of-the-forgotten-20-whispers-of-gaia-by-she",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-20-whispers-of-gaia-by-she/",
+          "lyric_source_note": "Imported from lyric archive: Whispers of Gaia (By She).md. Song date: 2024-10-28-2221.",
+          "lyric_utf8_sha256": "526f71d7465e5a7a10772ff17790173b5d59a4eb53461eaac21e7603405daa20",
+          "pdf_start_page": 22,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 21,
+          "title": "Whispers of Gaia (by he)",
+          "slug": "chronicles-of-the-forgotten-21-whispers-of-gaia-by-he",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-21-whispers-of-gaia-by-he/",
+          "lyric_source_note": "Imported from lyric archive: Whispers of Gaia (By He).md. Song date: 2024-10-28-2216.",
+          "lyric_utf8_sha256": "b67c9a6febc191c72766c9037f3f7d8e58759e3a5ff6e92a9687374fde8e9499",
+          "pdf_start_page": 23,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 22,
+          "title": "Bridging the Divide",
+          "slug": "chronicles-of-the-forgotten-22-bridging-the-divide",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-22-bridging-the-divide/",
+          "lyric_source_note": "Imported from lyric archive: Bridging the Divide.md. Song date: 2024-09-14-1551.",
+          "lyric_utf8_sha256": "828c41a922285bac063fd43763016bb677a9b27055ae0a1b313f177e6c8b3353",
+          "pdf_start_page": 24,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 23,
+          "title": "Pulse of the Universe",
+          "slug": "chronicles-of-the-forgotten-23-pulse-of-the-universe",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-23-pulse-of-the-universe/",
+          "lyric_source_note": "Imported from lyric archive: Pulse of the Universe.md. Song date: 2024-09-14-1552.",
+          "lyric_utf8_sha256": "fd682a31fb344d25aff5462dce9953e48e1283617163ada978fcd66ebf092bec",
+          "pdf_start_page": 25,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 24,
+          "title": "Resonance",
+          "slug": "chronicles-of-the-forgotten-24-resonance",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-24-resonance/",
+          "lyric_source_note": "Imported from lyric archive: Resonance.md. Song date: 2024-09-14-1552.",
+          "lyric_utf8_sha256": "eaae6c5cc84a905e652aa08515eaf60608404c38974ed763ad7ee8d0f5d497bd",
+          "pdf_start_page": 26,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 25,
+          "title": "Tempest of Trials",
+          "slug": "chronicles-of-the-forgotten-25-tempest-of-trials",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-25-tempest-of-trials/",
+          "lyric_source_note": "Imported from lyric archive: Tempest of Trials.md. Song date: 2024-11-09-1355.",
+          "lyric_utf8_sha256": "50f1140a770dfe14a09e1f4464fb07c1e611a95fccfa6e687d3cd26373ee509f",
+          "pdf_start_page": 27,
+          "pdf_page_count": 1
+        },
+        {
+          "position": 26,
+          "title": "Illusions Shattered",
+          "slug": "chronicles-of-the-forgotten-26-illusions-shattered",
+          "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/songs/chronicles-of-the-forgotten-26-illusions-shattered/",
+          "lyric_source_note": "Imported from lyric archive: Illusions Shattered.md. Song date: 2024-11-09-1554.",
+          "lyric_utf8_sha256": "e353b98939508eec0d882cc68370e836a739024c40d7a4794c5aadbdb37e21ef",
+          "pdf_start_page": 28,
+          "pdf_page_count": 1
+        }
+      ]
+    }
+  ],
+  "supplied_third_album": {
+    "album_number": 3,
+    "title": "Starseed Code: From Aura to Infinity",
+    "original_filename": "3rd Album Starseed Code(8).txt",
+    "path": "3rd Album Starseed Code(8).txt",
+    "size_bytes": 45705,
+    "sha256": "c0793fc254384cc7486cd908886affbc749c40c6940d5109ba49a006565052e7",
+    "source": "File supplied by Luke Nathan Hayes on 19 October 2026; preserved byte for byte."
+  }
+}

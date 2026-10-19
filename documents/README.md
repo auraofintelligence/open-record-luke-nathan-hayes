@@ -2,12 +2,13 @@
 
 [Start here](../README.md) · [Extended open record](../docs/extended-record.md) · [Reporting guide](../docs/reporting-guide.md)
 
-**Updated 17 October 2026.** This collection holds **38 original PDF and Word files** across two source sets, plus the recovered historical website collection.
+**Updated 19 October 2026.** This collection holds **38 original PDF and Word files** across two source sets, plus [two collected lyric PDFs and the supplied third-album text](music/README.md), and the recovered historical website collection.
 
 | Collection | Contents | Explanation and source records |
 | --- | --- | --- |
 | **Earlier uploaded-document inventory** | 20 unchanged files covering 18 entries: 18 primary documents, an earlier [Genesis](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) edition and the located Edition 2 Word source. | The catalogue below, [manifest](manifest.json) and [checksums](SHA256SUMS). |
 | **Further major-project supporting documents** | 18 unchanged originals: personal foundations from 2014–2023, Geode development, care research, employment, governance, public submissions and space research. | [Read the explanations](supplementary.md), [supplementary manifest](supplementary/manifest.json) and [checksums](supplementary/SHA256SUMS). |
+| **[Album lyrics](music/README.md)** | The first five albums in one index: new collected PDF editions for albums one and two, Luke's supplied third-album text, and the existing fourth- and fifth-album PDFs. | [Read or download the albums](music/README.md), with [source and edition records](music/manifest.json) and [checksums](music/SHA256SUMS). |
 | **[I Choose Infinity](../docs/ichooseinfinity-history.md) historical website** | Recovered pages, readable text, capture metadata and the June 2014 site-index spreadsheet. | [Historical archive](historical/ichooseinfinity/README.md) and [dated history guide](../docs/ichooseinfinity-history.md). |
 | **[SDNx](https://spacedevelopmentnexus.com/), Kolhapur — June 2019** | Two unchanged public screenshots: the contemporary [SDNx](https://spacedevelopmentnexus.com/) event post and *[Lokmat](historical/sdnx-kolhapur-2019/sdnx-kolhapur-news-2019.jpeg)* clipping, with dates, source links and provenance. | [Event and source collection](historical/sdnx-kolhapur-2019/README.md). |
 
@@ -62,3 +63,4 @@ Every copied file was checked against its located source after copying. [SHA256S
 The [Luke Catalyst work-history page](https://lukecatalyst.com/work-history/) embeds [Luke's Certs and Licences](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf), a 31-page evidence collection. It remains available at its original public address. Useful starting pages are the [1999 Senior Certificate](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=3), [2003 automotive Certificate II](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=5), [2004 Glastonbury crew pass](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=8) and [2009 small-business Certificate IV](https://lukecatalyst.com/wp-content/uploads/2022/05/Lukes-Certs-and-Licences.pdf#page=22). Employment references and later training appear between them and toward the end. The [main account](../README.md#education-practical-work-and-volunteering) connects these scans with the corrected work history.
 
 These documents preserve the author’s writing, proposals and creative material in their existing form, including historical statements and draft material. For current implementation status, use the [dated introduction](../README.md#what-exists-and-what-is-still-proposed). The source documents retain their existing rights and third-party attributions.
+
