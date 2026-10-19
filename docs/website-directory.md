@@ -9,7 +9,7 @@ A guide to Luke Nathan Hayes's music, culture, personal intelligence, civic work
 | Interest | Start with |
 | --- | --- |
 | Shared vision | [UNGA81: A fair go in the age of intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/) |
-| Music and production | [i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/) and [Infinity Engine](https://auraofintelligence.github.io/infinity-engine/) |
+| Music and production | [i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/), [lyrics and listening](../documents/music/README.md) and [Infinity Engine](https://auraofintelligence.github.io/infinity-engine/) |
 | Podcasts | [The Spirit Animal Podcast](https://auraofintelligence.github.io/spirit-animal-podcast/) and [Two Dogs Podcast](https://auraofintelligence.github.io/two-dogs-podcast-backend/) |
 | Community media | [Minjerribah Screen & Media Network](https://auraofintelligence.github.io/minjerribah-screen-media-network/), [Ready SET Co-op Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/) and [Straddie News](https://auraofintelligence.github.io/straddie-news/) |
 | Funding and development | [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/), [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/) and [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) |
@@ -71,7 +71,7 @@ A guide to Luke Nathan Hayes's music, culture, personal intelligence, civic work
 
 ## Music, podcasts and culture
 
-Albums, podcasts, comedy, film, community screens and cultural gatherings. [Creative worlds and storytelling](#stories-relationships-and-creative-worlds) have their own section.
+Albums, podcasts, comedy, film, community screens and cultural gatherings. The [lyrics and listening guide](../documents/music/README.md) connects all five albums, singles, early India recordings and new work, with the preserved lyric documents and public listening routes. [Creative worlds and storytelling](#stories-relationships-and-creative-worlds) have their own section.
 
 - [Music, podcasts and production](#music-podcasts-and-production)
 - [Culture, film and community media](#culture-film-and-community-media)
@@ -79,7 +79,7 @@ Albums, podcasts, comedy, film, community screens and cultural gatherings. [Crea
 
 ### Music, podcasts and production
 
-- **[i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)**. Main public music catalogue, connecting albums, songs, lyrics, merchandise ideas and production pathways. [Source](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
+- **[i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)**. Main public music catalogue, connecting [all song pages](https://auraofintelligence.github.io/i-C-infinity-music-universe/songs.html), [albums and other collections](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums.html), lyrics, recordings and production pathways. [Source](https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/README.md).
 
 - **[The Spirit Animal Podcast](https://auraofintelligence.github.io/spirit-animal-podcast/)**. Podcast premise, Animal Compass, episode builders and recording cockpit, with guests exploring an animal's values. [Source](https://github.com/auraofintelligence/spirit-animal-podcast/blob/main/README.md).
 
