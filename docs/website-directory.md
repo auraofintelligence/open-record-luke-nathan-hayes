@@ -51,6 +51,8 @@ A guide to Luke Nathan Hayes's music, culture, personal intelligence, civic work
 
 - **[GAJRA Earth Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/)**. Later multi-page presentation of participatory alignment and Joyful Responsible Abundance, with local reflection, meeting and contribution tools. Published on its separate GitHub Pages address. [Source](https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/README.md).
 
+- **[GAJRA Earth Claude Build](https://auraofintelligence.github.io/gajra-earth-claude-build/)**. Public invitation to define AI alignment around Joyful Responsible Abundance, with past, present and future perspectives, open questions and a sign-on pathway. [Source](https://github.com/auraofintelligence/gajra-earth-claude-build/blob/main/README.md).
+
 - **[GAJRA Earth Space AI Summit](https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/)**. Support-seeking proposal for a Brisbane gathering around peaceful space, civic AI, care and community resilience. [Source](https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit/blob/main/README.md).
 
 - **[Alpha Infinity](https://auraofintelligence.github.io/alpha-infinity/)**. Strategy model for the proposed foundation and its relationships with the wider work. [Source](https://github.com/auraofintelligence/alpha-infinity/blob/main/README.md).
@@ -647,8 +649,6 @@ Expand a group to inspect its earlier builds. These are editorial history groups
 - **[Original gajra.earth website](https://gajra.earth/)**. Original 2024 [GAJRA Earth](https://gajra.earth/) website and [About page](https://gajra.earth/about/), still displaying the earlier ICO, token, DAO and July 2025 event plans. The later [Infinity presentation](https://auraofintelligence.github.io/GAJRA-earth-infinity/) records that those launches did not occur. The domain has not been replaced by the separate GitHub presentations.
 
 - **[GAJRA Earth: earlier single-page concept](https://auraofintelligence.github.io/GAJRA-earth/)**. Earlier single-page vision, retained as a public record of that edition. [Source](https://github.com/auraofintelligence/GAJRA-earth/blob/main/README.md).
-
-- **[GAJRA Earth Claude Build](https://auraofintelligence.github.io/gajra-earth-claude-build/)**. Separate Claude-built presentation of alignment, public questions and a sign-on process, with its own history and ICO-era archive. [Source](https://github.com/auraofintelligence/gajra-earth-claude-build/blob/main/README.md).
 
 - **[GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)**. Separate earlier public-hub build, with contribution, event, travel and research pages. Its older contribution-policy material is read alongside the [current C-Hour definition](https://auraofintelligence.github.io/C-Hour-introduction/). [Source](https://github.com/auraofintelligence/gajra-earth-public-hub/blob/main/README.md).
 
