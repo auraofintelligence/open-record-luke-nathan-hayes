@@ -56,7 +56,9 @@ Later paid work included frozen-food distribution at **Americold**, telephone po
 
 The [500 Queens](https://auraofintelligence.github.io/500-Queens-VC-2026/) thought experiment began in **2021**, while Luke was living in **Festival Towers, Brisbane**, and receiving **workers' compensation for tennis elbow in both arms**. The injury came from his **three-month trial at Americold**, picking and packing food for Woolworths in a freezer warehouse. This origin account was supplied by Luke on **19 October 2026**. The [main account](../README.md#queens-and-enterprise-leadership) follows the later development of the proposal.
 
-Luke dates his sustained generative-AI research from **9 December 2022**. In his September 2026 account he reports more than two million words of conversation and code exchange with OpenAI models, across documents, presentations, websites, writing, research, images, video, music and software. [`prompt-research`](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1454) records this as self-directed work.
+<a id="ai-research-volume-correction-19-october-2026"></a>
+
+Luke dates his sustained generative-AI research from **9 December 2022**. His correction of **19 October 2026** places the **two-million-word milestone in late 2024 or early 2025**, with the current total at **well over 100 million words of conversation and code exchange** across documents, presentations, websites, writing, research, images, video, music and software. [`prompt-research`](https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/2a672fdd2c78fb220647b0a25876838d121280a3/public/content/resume.json#L1454) records this as self-directed work.
 
 ## Countries travelled, stays and returns
 
