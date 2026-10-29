@@ -2,7 +2,7 @@
 
 A guide to Luke Nathan Hayes's music, culture, personal intelligence, civic work and wider systems. The opening routes reflect current priorities; the subject directory and cross-links provide other ways through the collection. Earlier versions and original material are collected under [earlier editions and source archives](#earlier-editions-and-source-archives).
 
-**Reviewed 19 October 2026.** Projects are grouped by purpose, with their source code alongside the relevant websites.
+**Reviewed 29 October 2026.** Projects are grouped by purpose, with their source code alongside the relevant websites and public wikis. Together they form a connected body of work, from personal learning and creative production to community capability and wider systems.
 
 ## Start here
 
@@ -89,6 +89,8 @@ Albums, podcasts, comedy, film, community screens and cultural gatherings. The [
 
 - **[Loose Goose Comedy Engine](https://auraofintelligence.github.io/loose-goose-comedy-engine/)**. Browser tool for shaping remembered events into editable stand-up material and exporting working notes. [Source](https://github.com/auraofintelligence/loose-goose-comedy-engine/blob/main/README.md).
 
+- **[Rough as Guts](https://auraofintelligence.github.io/rough-as-guts/)**. Illustrated-guide prototype using light satire to explore safer, healthier and more considerate habits, with draft editions, an original slide library and an editorial brief builder. Concept and supplied draft artwork by Darryl Gough; wider guide development and website by Luke Nathan Hayes. [Source](https://github.com/auraofintelligence/rough-as-guts/blob/main/README.md).
+
 - **[Sovereign Music Australia](https://auraofintelligence.github.io/sovereign-music-australia/)**. Thirteen-page music-ecosystem proposal covering artists, listeners, provenance, charts, awards, rights, bargaining and shared revenue. [Source](https://github.com/auraofintelligence/sovereign-music-australia/blob/main/README.md).
 
 - **[DaVinci Resolve Automations](https://auraofintelligence.github.io/davinci-resolve-automations/)**. Guide to reusable video-production workflows, visual asset bundles and AI-assisted editing. [Source](https://github.com/auraofintelligence/davinci-resolve-automations/blob/main/README.md).
@@ -166,6 +168,8 @@ International opportunities, island grants and tenders, enterprise development a
 
 - **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. Current working browser app for personal records, calendars, learning, travel and the 12 x 24 matrix, with a separate experimental vector-space lab. [Source](https://github.com/auraofintelligence/aura-matrix-studio/blob/main/README.md).
 
+- **[Verse Box](https://auraofintelligence.github.io/aura-verse-box/)**. Lower-cost portable public demonstration proposal for personal intelligence, learning and community participation on Minjerribah and across Redlands. Hosts, funding and trial arrangements remain to be agreed. [Source](https://github.com/auraofintelligence/aura-verse-box/blob/main/README.md).
+
 - **[Aura of Intelligence website](https://auraofintelligence.github.io/)**. Public introduction to the personal-intelligence architecture, with short courses, builders and project links. [Source](https://github.com/auraofintelligence/auraofintelligence.github.io/blob/main/README.md).
 
 - **[Aura of Intelligence Web App](https://github.com/auraofintelligence/aura-of-intelligence-web-app)**. Smartphone-first interface source reconstructed from original wireframes and research. For the working browser implementation, open [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/).
@@ -193,6 +197,12 @@ International opportunities, island grants and tenders, enterprise development a
 The local property and wellbeing proposals appear under [island health, care and resilience](#island-health-care-and-resilience).
 
 - **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. Current public protocol guide: 60 days, two hours per day, the [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html), 30 public chapters, 60 teacher-development readings, four HBOT/Geode pathways and original sources. [Source](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/README.md).
+
+- **[Aura Teacher Training](https://auraofintelligence.github.io/aura-teacher-training/)**. Sixty-day adult learning progression with daily studio guides, worked examples, reflection, teaching practice and portfolio tools. The course does not confer a professional or clinical qualification. [Source](https://github.com/auraofintelligence/aura-teacher-training/blob/main/README.md).
+
+- **[Aura Whole of Life Support](https://auraofintelligence.github.io/aura-whole-of-life/)**. Public guide to proposed personal-intelligence support for adults living with dementia or disability, people beginning aged care and their supporters. Everyday support, optional adult research and planned clinical software remain distinct development pathways. [Source](https://github.com/auraofintelligence/aura-whole-of-life/blob/main/README.md).
+
+- **[Aura Children and Young People](https://auraofintelligence.github.io/aura-child-services/)**. Proposal for young people in Australian care, beginning with chosen interests and supported creative learning, then reflection, rights, mentors and adult opportunities. Its learning activities are separate from optional adult research. [Source](https://github.com/auraofintelligence/aura-child-services/blob/main/README.md).
 
 - **[Aura Dementia](https://auraofintelligence.github.io/aura-dementia/)**. Design proposal for personal-intelligence support around dementia, family care and future research. [Source](https://github.com/auraofintelligence/aura-dementia/blob/main/README.md).
 
@@ -243,6 +253,12 @@ The [local co-operative and computing projects](#island-cooperatives-and-local-c
 - **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)**. Current community invitation and reference library. One [C-Hour](https://auraofintelligence.github.io/C-Hour-introduction/) records one verified hour of voluntary human contribution, with no financial aspect, monetary equivalent, conversion, backing, redeemability, wage substitution or fixed exchange value. [Source](https://github.com/auraofintelligence/C-Hour-introduction/blob/main/README.md).
 
 - **[Mutual Futures](https://auraofintelligence.github.io/mutual-futures/)**. Workbench for voluntary business succession, member ownership, shared capability and broader choices across work, learning, travel and retirement. [Source](https://github.com/auraofintelligence/mutual-futures/blob/main/README.md).
+
+- **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. National infrastructure business proposal for community compute racks, backup power and useful heat recovery, connecting installation, maintenance, local ownership and 360/XR learning. Installations, host agreements and financing remain to be developed. [Source](https://github.com/auraofintelligence/installing-the-missing-middle/blob/main/README.md).
+
+- **[Escape Room Team Building](https://auraofintelligence.github.io/escape-room-team-building/)**. Business plan for a proposed Australian escape-room network connecting immersive experiences, tourism, paid local work and whole-of-life learning. It develops room installation, venue operations, network passes and a proposed two-room hosted pilot, with source records and financial assumptions. [Source](https://github.com/auraofintelligence/escape-room-team-building/blob/main/README.md).
+
+- **[RCC / RJC Job Ad Formula](https://auraofintelligence.github.io/RCC-RJC-Job-Ad-Formula/)**. Browser vacancy form that exports a Markdown brief for an employer's chosen AI, with platform-specific drafting fields and selection notes. Employers review and publish the resulting advertisements themselves; real employer trials remain to be carried out. [Source](https://github.com/auraofintelligence/RCC-RJC-Job-Ad-Formula/blob/main/README.md).
 
 - **[Moreton Bay Community Wealth and Mutuals](https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/)**. Community wealth, mutual protection and Indigenous data-sovereignty proposal for the Moreton Bay islands. [Source](https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals/blob/main/README.md).
 
@@ -299,6 +315,8 @@ The [life record](life-record.md) brings the later corrections together. The sit
 ## Travel, events and opportunities
 
 Funding and project development are grouped [near the top](#funding-grants-and-project-development).
+
+- **[Aura Tourism](https://auraofintelligence.github.io/aura-tourism/)**. Personal-intelligence tourism proposal linking music, sport, culture, nature and repeated reflection, beginning on Minjerribah and exploring a wider Australian pathway towards Brisbane 2032. Pilots, partnerships and services remain proposed. [Source](https://github.com/auraofintelligence/aura-tourism/blob/main/README.md).
 
 - **[Australian Visa Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/)**. Source-led atlas of Australian entry and activity pathways, travel readiness and departure planning. [Source](https://github.com/auraofintelligence/Australian-visa-activity-atlas/blob/build/initial-atlas/README.md).
 
@@ -512,7 +530,9 @@ The [funding section](#funding-grants-and-project-development) contains the full
 
 ### Health, care and resilience
 
-- **[A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation for [82 Claytons Road, Amity](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/), connecting ageing, dementia support, research, learning and community participation. Its development plan also includes the newer [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html) and [Geode hardware pathways](https://auraofintelligence.github.io/aura-genesis-geode-atlas/pathways.html). [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
+- **[Aura Disaster Resilience](https://github.com/auraofintelligence/aura-disaster-resilience/wiki)**. Planning wiki for a community network connecting everyday services, weather-ready kiosks, power, communications, practical learning and disaster support. Questions and research support human decisions; community discussion, prototypes and measured field trials remain next steps. [Source](https://github.com/auraofintelligence/aura-disaster-resilience/blob/main/README.md).
+
+- **[82 Claytons Road, Amity: A gift for generations](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/)**. Land-gift and partnership invitation connecting ageing, dementia support, research, learning and community participation. For later process and hardware development, read the [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), [Truth Engine](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html) and [Geode hardware pathways](https://auraofintelligence.github.io/aura-genesis-geode-atlas/pathways.html). [Source](https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/README.md).
 
 - **[Minjerribah Resilience](https://auraofintelligence.github.io/Minjerribah-Resilience/)**. Interactive proposal covering local power, water, food, communications and community resilience. [Source](https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/README.md).
 
@@ -702,9 +722,9 @@ Expand a group to inspect its earlier builds. These are editorial history groups
 
 ## Source and update notes
 
-The organisation and leading descriptions were reviewed on 19 October 2026 against current public READMEs, the [open record](../README.md) and the [public repository collection](https://github.com/auraofintelligence?tab=repositories). The [Project Atlas dataset](https://github.com/auraofintelligence/project-atlas/blob/main/data/projects.json), refreshed 9 October 2026, supplies the underlying catalogue and original-build history; the directory also includes later public work.
+The organisation and leading descriptions were reviewed on 19 October 2026 against current public READMEs and the [open record](../README.md). Public repository coverage was reviewed on 29 October 2026 against the complete paginated [public repository collection](https://github.com/auraofintelligence?tab=repositories), with additions checked against their READMEs and published reading routes. The review covered 183 public repositories; 182 are represented through the entries and sources above or the [open record](../README.md) itself. One public repository is intentionally omitted at the author's request. The [Project Atlas dataset](https://github.com/auraofintelligence/project-atlas/blob/main/data/projects.json), refreshed 9 October 2026, supplies the underlying catalogue and original-build history; the directory also includes later public work.
 
-Website addresses were checked during this review. Content editions and substantive development determine the reading order; a later licence or repository-housekeeping commit does not make an old presentation current. Working apps, planning tools, research, fiction and proposals are described individually. Earlier-version claims remain attached to their sources.
+Website and public-wiki addresses were checked on 29 October 2026. Content editions and substantive development determine the reading order; a later licence or repository-housekeeping commit does not make an old presentation current. Working apps, planning tools, research, fiction and proposals are described individually. Earlier-version claims remain attached to their sources.
 
 The [original GAJRA Earth domain](https://gajra.earth/) and separate [Infinity](https://auraofintelligence.github.io/GAJRA-earth-infinity/), [Claude](https://auraofintelligence.github.io/gajra-earth-claude-build/) and [Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/) builds retain their own histories and addresses. The original domain still displays the earlier edition.
 
